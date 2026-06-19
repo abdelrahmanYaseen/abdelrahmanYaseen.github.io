@@ -1,0 +1,57 @@
+---
+import Base from "../../layouts/Base.astro";
+import Nav from "../../components/Nav.astro";
+import Footer from "../../components/Footer.astro";
+import ArtifactCard from "../../components/ArtifactCard.astro";
+import { getAllArtifacts } from "../../lib/artifacts";
+import { t } from "../../lib/i18n";
+
+const locale = "ar";
+const artifacts = getAllArtifacts();
+---
+
+<Base
+  title={t(locale, "explore.title")}
+  description="تصفح مجموعة التصورات البصرية."
+  locale={locale}
+>
+  <Nav locale={locale} currentPath="/ar/explore" />
+
+  <main id="main">
+    <div class="explore">
+      <h1 class="explore__title">{t(locale, "explore.title")}</h1>
+      <div class="grid">
+        {artifacts.map((a) => (
+          <ArtifactCard manifest={a.manifest} locale={locale} />
+        ))}
+      </div>
+    </div>
+  </main>
+
+  <Footer locale={locale} />
+</Base>
+
+<style>
+  .explore {
+    max-inline-size: 1200px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+    padding-block: var(--space-12);
+  }
+
+  .explore__title {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--text-primary);
+    margin-block-end: var(--space-8);
+    padding-block-end: var(--space-6);
+    border-block-end: 1px solid var(--border-hairline);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+</style>

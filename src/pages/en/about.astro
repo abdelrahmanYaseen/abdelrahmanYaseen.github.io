@@ -1,0 +1,123 @@
+---
+import Base from "../../layouts/Base.astro";
+import Nav from "../../components/Nav.astro";
+import Footer from "../../components/Footer.astro";
+
+const locale = "en";
+---
+
+<Base
+  title="About"
+  description="How Does It Look Like is a curated gallery of live, data-driven visual essays."
+  locale={locale}
+>
+  <Nav locale={locale} currentPath="/en/about" />
+
+  <main id="main" class="about">
+    <div class="about__inner">
+      <h1 class="about__title">About this project</h1>
+
+      <div class="about__body">
+        <p>
+          <em>How Does It Look Like</em> is a curated gallery of live, data-driven visual essays —
+          each one a small window into a global dataset. We work in the tradition of
+          The Pudding, Our World in Data, and Nadieh Bremer: rigorous data, considered
+          design, and prose that earns its space.
+        </p>
+
+        <h2 id="methodology">Methodology</h2>
+        <p>
+          Each visualization is a self-contained artifact with its own data source,
+          transformation pipeline, and render code. Data for <em>live</em> artifacts
+          is fetched automatically on a cron schedule and committed to the repository;
+          the site rebuilds and deploys from that commit. <em>Synced</em> artifacts
+          check for new data daily or weekly. <em>Static</em> artifacts are hand-curated
+          and updated manually when the underlying data changes.
+        </p>
+        <p>
+          All chart code is written in D3.js + TypeScript. Animation choreography uses
+          GSAP. The site is built with Astro and deployed to Cloudflare Pages as a
+          fully static site — no server, no runtime database, no per-visitor computation.
+        </p>
+
+        <h2>Adding a visualization</h2>
+        <p>
+          Every artifact lives in <code>src/artifacts/&lt;slug&gt;/</code> with a
+          <code>manifest.json</code> describing its metadata, a <code>render.ts</code>
+          containing the D3 chart code, a <code>data.json</code> file updated by the
+          cron pipeline (or hand-authored for static artifacts), and an
+          <code>essay.en.md</code> file containing the prose. See the
+          <a href="https://github.com/ayaseen/howdoesitlooklike" target="_blank" rel="noopener">
+            repository README
+          </a>
+          for the full artifact contract.
+        </p>
+
+        <h2>Data sources</h2>
+        <p>
+          We use only publicly available data from authoritative sources: USGS, the
+          World Bank, the UN, SIPRI, and similar institutions. Every artifact page
+          links back to its source and carries a Schema.org <code>Dataset</code>
+          structured data block.
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <Footer locale={locale} />
+</Base>
+
+<style>
+  .about {
+    max-inline-size: 720px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+    padding-block: var(--space-16);
+  }
+
+  .about__title {
+    font-family: var(--font-display);
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 300;
+    color: var(--text-primary);
+    margin-block-end: var(--space-8);
+    padding-block-end: var(--space-6);
+    border-block-end: 1px solid var(--border-hairline);
+  }
+
+  .about__body h2 {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--text-muted);
+    margin-block: var(--space-8) var(--space-4);
+  }
+
+  .about__body p {
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--text-muted);
+    margin-block-end: var(--space-4);
+  }
+
+  .about__body em {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--text-primary);
+  }
+
+  .about__body code {
+    font-family: var(--font-mono);
+    font-size: 0.875em;
+    color: var(--text-primary);
+    background: var(--bg-surface);
+    border: 1px solid var(--border-hairline);
+    border-radius: 3px;
+    padding-block: 0.1em;
+    padding-inline: 0.4em;
+  }
+
+  .about__body a {
+    color: var(--accent);
+  }
+</style>

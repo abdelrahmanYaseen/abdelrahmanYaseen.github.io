@@ -1,0 +1,35 @@
+name: Fetch earthquakes data
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch and transform USGS data
+        run: npx tsx scripts/fetch-artifact.ts earthquakes-live
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data(earthquakes-live): cron update [skip ci]"
+          file_pattern: |
+            src/artifacts/earthquakes-live/data.json
+            src/artifacts/earthquakes-live/manifest.json

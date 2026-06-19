@@ -1,0 +1,85 @@
+---
+import type { SuggestedLens } from "../types/manifest";
+import type { Locale } from "../lib/i18n";
+import { t } from "../lib/i18n";
+
+interface Props {
+  lenses: SuggestedLens[];
+  artifactId: string;
+  locale: Locale;
+}
+
+const { lenses, artifactId, locale } = Astro.props;
+---
+
+{
+  lenses.length > 0 && (
+    <div class="lenses">
+      <span class="lenses__label">{t(locale, "artifact.lenses")}</span>
+      <div class="lenses__pills" role="group" aria-label={t(locale, "artifact.lenses")}>
+        {lenses.map((lens, i) => (
+          <button
+            class="lens-pill"
+            type="button"
+            aria-pressed="false"
+            data-lens={JSON.stringify(lens.chartParam)}
+            data-artifact={artifactId}
+            data-index={i}
+          >
+            {lens.label}
+          </button>
+        ))}
+      </div>
+    </div>
+  )
+}
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>(".lens-pill").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const artifactId = btn.dataset.artifact!;
+      const param = JSON.parse(btn.dataset.lens!);
+      const container = document.getElementById(`chart-${artifactId}`);
+
+      // Toggle active state
+      const isActive = btn.getAttribute("aria-pressed") === "true";
+      document
+        .querySelectorAll<HTMLButtonElement>(`[data-artifact="${artifactId}"].lens-pill`)
+        .forEach((b) => b.setAttribute("aria-pressed", "false"));
+
+      if (!isActive) {
+        btn.setAttribute("aria-pressed", "true");
+        // @ts-expect-error — updateLens exposed by render module
+        container?.updateLens?.(param);
+      } else {
+        // @ts-expect-error
+        container?.updateLens?.({});
+      }
+    });
+  });
+</script>
+
+<style>
+  .lenses {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-block-start: var(--space-4);
+  }
+
+  .lenses__label {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--text-faint);
+    flex-shrink: 0;
+  }
+
+  .lenses__pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+</style>

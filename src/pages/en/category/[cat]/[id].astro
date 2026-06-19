@@ -1,0 +1,299 @@
+---
+import Base from "../../../../layouts/Base.astro";
+import Nav from "../../../../components/Nav.astro";
+import Footer from "../../../../components/Footer.astro";
+import MetadataStrip from "../../../../components/MetadataStrip.astro";
+import LensPills from "../../../../components/LensPills.astro";
+import RelatedArtifacts from "../../../../components/RelatedArtifacts.astro";
+import ChartIsland from "../../../../components/ChartIsland.astro";
+import { getAllArtifacts } from "../../../../lib/artifacts";
+import { scoreRelated } from "../../../../lib/related";
+import { buildDatasetJsonLd } from "../../../../lib/schema-org";
+import { t } from "../../../../lib/i18n";
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
+
+export async function getStaticPaths() {
+  const artifacts = getAllArtifacts();
+  return artifacts.map(({ manifest }) => ({
+    params: { cat: manifest.category, id: manifest.id },
+  }));
+}
+
+const { cat, id } = Astro.params;
+const locale = "en";
+
+const all = getAllArtifacts();
+const artifact = all.find((a) => a.manifest.id === id);
+if (!artifact) return Astro.redirect("/en/", 302);
+
+const { manifest, data } = artifact;
+const related = scoreRelated(manifest, all.map((a) => a.manifest));
+
+const pageUrl = `https://howdoesitlooklike.com/en/category/${cat}/${id}/`;
+const jsonLd = buildDatasetJsonLd(manifest, pageUrl);
+const ogImageUrl = `https://howdoesitlooklike.com/og/${id}.png`;
+
+// Load prose essay
+let essayHtml = "";
+try {
+  const essayPath = join(process.cwd(), "src/artifacts", id, "essay.en.md");
+  const raw = await readFile(essayPath, "utf-8");
+  // Simple markdown → HTML for paragraphs (no deps needed for this subset)
+  essayHtml = raw
+    .split(/\n\n+/)
+    .map((block) => {
+      const trimmed = block.trim();
+      if (!trimmed) return "";
+      if (trimmed.startsWith("**")) {
+        const text = trimmed.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+        return `<p>${text}</p>`;
+      }
+      const withStrong = trimmed.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+      const withLinks = withStrong.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+      const withEm = withLinks.replace(/\*([^*]+)\*/g, "<em>$1</em>");
+      return `<p>${withEm}</p>`;
+    })
+    .join("\n");
+} catch {
+  essayHtml = "<p>Essay coming soon.</p>";
+}
+
+const dataJson = JSON.stringify(data ?? {});
+const thumbnailSrc = `/artifacts/${id}/thumbnail.svg`;
+---
+
+<Base
+  title={manifest.title}
+  description={manifest.dek}
+  canonicalUrl={pageUrl}
+  ogImage={ogImageUrl}
+  locale={locale}
+  jsonLd={jsonLd}
+>
+  <Nav locale={locale} currentPath={pageUrl} />
+
+  <main id="main" class="artifact-page">
+    <div class="artifact-page__inner">
+
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/en/">Home</a>
+        <span aria-hidden="true">/</span>
+        <a href={`/en/category/${cat}/`}>{cat.replace(/-/g, " ")}</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">{manifest.title}</span>
+      </nav>
+
+      <!-- Metadata strip -->
+      <MetadataStrip manifest={manifest} locale={locale} />
+
+      <!-- Headline -->
+      <div class="artifact-page__headline">
+        <h1 class="artifact-page__title">{manifest.title}</h1>
+        <p class="artifact-page__dek">{manifest.dek}</p>
+      </div>
+
+      <!-- Chart -->
+      <div class="artifact-page__chart-wrapper">
+        <ChartIsland
+          artifactId={id}
+          renderEngine={manifest.renderEngine}
+          dataJson={dataJson}
+          thumbnailSrc={thumbnailSrc}
+        />
+
+        <!-- Lens pills -->
+        <LensPills lenses={manifest.suggestedLenses} artifactId={id} locale={locale} />
+      </div>
+
+      <!-- Essay -->
+      <article class="artifact-page__essay" aria-labelledby="essay-heading">
+        <h2 id="essay-heading">{t(locale, "artifact.essay")}</h2>
+        <div class="prose" set:html={essayHtml} />
+      </article>
+
+      <!-- Share row -->
+      <div class="artifact-page__share">
+        <button class="share-btn" id="copy-link-btn" type="button">
+          {t(locale, "artifact.copyLink")}
+        </button>
+        <button class="share-btn" id="download-png-btn" type="button">
+          {t(locale, "artifact.download")}
+        </button>
+      </div>
+
+      <!-- Related -->
+      <RelatedArtifacts related={related} locale={locale} />
+    </div>
+  </main>
+
+  <Footer locale={locale} />
+</Base>
+
+<script define:vars={{ pageUrl, id }}>
+  // Copy link
+  document.getElementById("copy-link-btn")?.addEventListener("click", async () => {
+    try {
+      await navigator.clipboard.writeText(pageUrl);
+      const btn = document.getElementById("copy-link-btn");
+      if (btn) {
+        const original = btn.textContent;
+        btn.textContent = "Copied!";
+        setTimeout(() => { btn.textContent = original; }, 2000);
+      }
+    } catch {}
+  });
+
+  // Download chart as PNG via canvas
+  document.getElementById("download-png-btn")?.addEventListener("click", () => {
+    const svgEl = document.querySelector(`#chart-${id} svg`);
+    if (!svgEl) return;
+
+    const svgData = new XMLSerializer().serializeToString(svgEl);
+    const canvas = document.createElement("canvas");
+    const bbox = svgEl.getBoundingClientRect();
+    canvas.width = bbox.width * 2;
+    canvas.height = bbox.height * 2;
+    const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+
+    const img = new Image();
+    const svgBlob = new Blob([svgData], { type: "image/svg+xml;charset=utf-8" });
+    const url = URL.createObjectURL(svgBlob);
+    img.onload = () => {
+      ctx.scale(2, 2);
+      ctx.drawImage(img, 0, 0);
+      URL.revokeObjectURL(url);
+      const a = document.createElement("a");
+      a.download = `${id}.png`;
+      a.href = canvas.toDataURL("image/png");
+      a.click();
+    };
+    img.src = url;
+  });
+</script>
+
+<style>
+  .artifact-page {
+    padding-block: var(--space-8);
+  }
+
+  .artifact-page__inner {
+    max-inline-size: 1100px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-8);
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--text-faint);
+  }
+
+  .breadcrumb a {
+    color: var(--text-faint);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--accent);
+  }
+
+  .artifact-page__headline {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .artifact-page__title {
+    font-family: var(--font-display);
+    font-size: clamp(1.75rem, 4vw, 3rem);
+    font-weight: 300;
+    line-height: 1.15;
+    color: var(--text-primary);
+  }
+
+  .artifact-page__dek {
+    font-size: 1.125rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    max-inline-size: 60ch;
+  }
+
+  .artifact-page__chart-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+
+  .artifact-page__chart-wrapper :global(.chart-panel) {
+    min-block-size: 520px;
+  }
+
+  .artifact-page__essay {
+    max-inline-size: 65ch;
+  }
+
+  .artifact-page__essay h2 {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-faint);
+    margin-block-end: var(--space-6);
+    padding-block-end: var(--space-3);
+    border-block-end: 1px solid var(--border-hairline);
+  }
+
+  .prose :global(p) {
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--text-muted);
+    margin-block-end: var(--space-4);
+  }
+
+  .prose :global(a) {
+    color: var(--accent);
+  }
+
+  .prose :global(strong) {
+    color: var(--text-primary);
+    font-weight: 500;
+  }
+
+  .prose :global(em) {
+    font-family: var(--font-display);
+    font-style: italic;
+  }
+
+  .artifact-page__share {
+    display: flex;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+
+  .share-btn {
+    padding-block: var(--space-2);
+    padding-inline: var(--space-4);
+    border: 1px solid var(--border-hairline);
+    border-radius: var(--radius-sm);
+    background: transparent;
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: border-color var(--duration-fast), color var(--duration-fast);
+  }
+
+  .share-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+</style>

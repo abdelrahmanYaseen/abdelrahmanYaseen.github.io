@@ -1,0 +1,75 @@
+---
+import "../lib/styles/global.css";
+import type { Locale } from "../lib/i18n";
+import { t, getDir } from "../lib/i18n";
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  ogImage?: string;
+  locale?: Locale;
+  jsonLd?: string;
+}
+
+const {
+  title,
+  description,
+  canonicalUrl,
+  ogImage,
+  locale = "en",
+  jsonLd,
+} = Astro.props;
+
+const dir = getDir(locale);
+const siteUrl = "https://howdoesitlooklike.com";
+const canonical = canonicalUrl ?? `${siteUrl}${Astro.url.pathname}`;
+const ogImageUrl = ogImage ?? `${siteUrl}/og/default.png`;
+---
+
+<!doctype html>
+<html lang={locale} dir={dir} data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{title} — {t(locale, "meta.siteName")}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content={t(locale, "meta.siteName")} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..800;1,6..72,300..800&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    />
+
+    <!-- Structured data -->
+    {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+  </head>
+  <body>
+    <a href="#main" class="skip-link">{locale === "ar" ? "انتقل إلى المحتوى" : "Skip to content"}</a>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,119 @@
+---
+import type { ArtifactManifest } from "../types/manifest";
+import type { Locale } from "../lib/i18n";
+import { t } from "../lib/i18n";
+
+interface Props {
+  manifest: ArtifactManifest;
+  locale: Locale;
+  featured?: boolean;
+}
+
+const { manifest, locale, featured = false } = Astro.props;
+const href = `/${locale}/category/${manifest.category}/${manifest.id}/`;
+const badgeKey = `badge.${manifest.dataMode}` as const;
+---
+
+<article class:list={["card", { "card--featured": featured }]}>
+  <a href={href} class="card__link" aria-label={manifest.title}>
+    <div class="card__thumb">
+      <img
+        src={`/artifacts/${manifest.id}/thumbnail.svg`}
+        alt=""
+        aria-hidden="true"
+        loading="lazy"
+        width="400"
+        height="300"
+      />
+    </div>
+    <div class="card__body">
+      <div class="card__meta">
+        <span class:list={["badge", `badge--${manifest.dataMode}`]}>
+          {t(locale, badgeKey)}
+        </span>
+        <span class="card__category mono">{manifest.category.replace(/-/g, " ")}</span>
+      </div>
+      <h3 class="card__title">{manifest.title}</h3>
+      <p class="card__dek">{manifest.dek}</p>
+    </div>
+  </a>
+</article>
+
+<style>
+  .card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-hairline);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    transition: border-color var(--duration-fast) var(--easing-out);
+  }
+
+  .card:hover {
+    border-color: var(--accent);
+  }
+
+  .card--featured {
+    grid-column: span 2;
+  }
+
+  .card__link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .card__thumb {
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    background: var(--bg-page);
+  }
+
+  .card__thumb img {
+    inline-size: 100%;
+    block-size: 100%;
+    object-fit: cover;
+    transition: transform var(--duration-base) var(--easing-out);
+  }
+
+  .card:hover .card__thumb img {
+    transform: scale(1.02);
+  }
+
+  .card__body {
+    padding: var(--space-6);
+  }
+
+  .card__meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin-block-end: var(--space-3);
+  }
+
+  .card__category {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--text-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .card__title {
+    font-family: var(--font-display);
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.3;
+    color: var(--text-primary);
+    margin-block-end: var(--space-2);
+  }
+
+  .card__dek {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

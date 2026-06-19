@@ -1,0 +1,32 @@
+{
+  "totalTests": 2056,
+  "dateRange": { "start": "1945-07-16", "end": "2017-09-03" },
+  "tests": [
+    { "id": 1, "name": "Trinity", "country": "USA", "date": "1945-07-16", "yield_kt": 21, "medium": "atmospheric", "lat": 33.677, "lon": -106.475, "site": "New Mexico, USA" },
+    { "id": 2, "name": "Little Boy (Hiroshima)", "country": "USA", "date": "1945-08-06", "yield_kt": 15, "medium": "air burst", "lat": 34.393, "lon": 132.452, "site": "Hiroshima, Japan" },
+    { "id": 3, "name": "Fat Man (Nagasaki)", "country": "USA", "date": "1945-08-09", "yield_kt": 21, "medium": "air burst", "lat": 32.773, "lon": 129.862, "site": "Nagasaki, Japan" },
+    { "id": 4, "name": "Able (Crossroads)", "country": "USA", "date": "1946-07-01", "yield_kt": 23, "medium": "atmospheric", "lat": 11.7, "lon": 165.4, "site": "Bikini Atoll" },
+    { "id": 5, "name": "Baker (Crossroads)", "country": "USA", "date": "1946-07-25", "yield_kt": 23, "medium": "underwater", "lat": 11.7, "lon": 165.4, "site": "Bikini Atoll" },
+    { "id": 6, "name": "Joe 1 (RDS-1)", "country": "USSR", "date": "1949-08-29", "yield_kt": 22, "medium": "atmospheric", "lat": 50.4, "lon": 78.9, "site": "Semipalatinsk, Kazakhstan" },
+    { "id": 7, "name": "Hurricane", "country": "UK", "date": "1952-10-03", "yield_kt": 25, "medium": "underwater", "lat": -21.8, "lon": 114.0, "site": "Monte Bello Islands, Australia" },
+    { "id": 8, "name": "Ivy Mike", "country": "USA", "date": "1952-11-01", "yield_kt": 10400, "medium": "atmospheric", "lat": 11.65, "lon": 162.2, "site": "Enewetak Atoll" },
+    { "id": 9, "name": "Joe 4 (RDS-6s)", "country": "USSR", "date": "1953-08-12", "yield_kt": 400, "medium": "atmospheric", "lat": 50.4, "lon": 78.9, "site": "Semipalatinsk" },
+    { "id": 10, "name": "Castle Bravo", "country": "USA", "date": "1954-03-01", "yield_kt": 15000, "medium": "atmospheric", "lat": 11.7, "lon": 165.4, "site": "Bikini Atoll" },
+    { "id": 11, "name": "Castle Romeo", "country": "USA", "date": "1954-03-27", "yield_kt": 11000, "medium": "atmospheric", "lat": 11.7, "lon": 165.4, "site": "Bikini Atoll" },
+    { "id": 12, "name": "Gerboise Bleue", "country": "France", "date": "1960-02-13", "yield_kt": 70, "medium": "atmospheric", "lat": 26.0, "lon": 3.0, "site": "Algeria" },
+    { "id": 13, "name": "Tsar Bomba (AN602)", "country": "USSR", "date": "1961-10-30", "yield_kt": 50000, "medium": "atmospheric", "lat": 73.5, "lon": 54.9, "site": "Novaya Zemlya, Russia" },
+    { "id": 14, "name": "Storax Sedan", "country": "USA", "date": "1962-07-06", "yield_kt": 104, "medium": "underground", "lat": 37.18, "lon": -116.05, "site": "Nevada Test Site" },
+    { "id": 15, "name": "596 (First Chinese test)", "country": "China", "date": "1964-10-16", "yield_kt": 22, "medium": "atmospheric", "lat": 41.7, "lon": 88.7, "site": "Lop Nur, China" },
+    { "id": 16, "name": "Cannikin", "country": "USA", "date": "1971-11-06", "yield_kt": 5000, "medium": "underground", "lat": 51.4, "lon": -179.2, "site": "Amchitka Island, Alaska" },
+    { "id": 17, "name": "Smiling Buddha", "country": "India", "date": "1974-05-18", "yield_kt": 12, "medium": "underground", "lat": 27.1, "lon": 71.7, "site": "Pokhran, India" },
+    { "id": 18, "name": "Muroroa 1975a", "country": "France", "date": "1975-06-05", "yield_kt": 8, "medium": "underground", "lat": -21.9, "lon": -138.9, "site": "Muroroa Atoll" },
+    { "id": 19, "name": "Chagai-I (Shakti)", "country": "Pakistan", "date": "1998-05-28", "yield_kt": 35, "medium": "underground", "lat": 28.9, "lon": 64.9, "site": "Chagai, Pakistan" },
+    { "id": 20, "name": "Pokhran-II (Shakti)", "country": "India", "date": "1998-05-11", "yield_kt": 45, "medium": "underground", "lat": 27.1, "lon": 71.7, "site": "Pokhran, India" },
+    { "id": 21, "name": "DPRK Test 1", "country": "North Korea", "date": "2006-10-09", "yield_kt": 1, "medium": "underground", "lat": 41.3, "lon": 129.1, "site": "Punggye-ri, North Korea" },
+    { "id": 22, "name": "DPRK Test 2", "country": "North Korea", "date": "2009-05-25", "yield_kt": 2, "medium": "underground", "lat": 41.3, "lon": 129.1, "site": "Punggye-ri, North Korea" },
+    { "id": 23, "name": "DPRK Test 3", "country": "North Korea", "date": "2013-02-12", "yield_kt": 10, "medium": "underground", "lat": 41.3, "lon": 129.1, "site": "Punggye-ri, North Korea" },
+    { "id": 24, "name": "DPRK Test 4", "country": "North Korea", "date": "2016-01-06", "yield_kt": 7, "medium": "underground", "lat": 41.3, "lon": 129.1, "site": "Punggye-ri, North Korea" },
+    { "id": 25, "name": "DPRK Test 5", "country": "North Korea", "date": "2016-09-09", "yield_kt": 10, "medium": "underground", "lat": 41.3, "lon": 129.1, "site": "Punggye-ri, North Korea" },
+    { "id": 26, "name": "DPRK Test 6 (thermonuclear)", "country": "North Korea", "date": "2017-09-03", "yield_kt": 250, "medium": "underground", "lat": 41.3, "lon": 129.1, "site": "Punggye-ri, North Korea" }
+  ]
+}

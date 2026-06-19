@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" style="background:#0E0F12">
+  <!-- Timeline axis -->
+  <line x1="40" y1="220" x2="360" y2="220" stroke="#2A2B30" stroke-width="1"/>
+  <!-- Year markers -->
+  <text x="40" y="240" font-family="monospace" font-size="10" fill="#6F6D63">1945</text>
+  <text x="155" y="240" font-family="monospace" font-size="10" fill="#6F6D63">1970</text>
+  <text x="270" y="240" font-family="monospace" font-size="10" fill="#6F6D63">1995</text>
+  <text x="340" y="240" font-family="monospace" font-size="10" fill="#6F6D63">2017</text>
+  <!-- Simulated test dots by country over time -->
+  <!-- USA - amber -->
+  <circle cx="50" cy="200" r="3" fill="#D89A4E" opacity="0.9"/>
+  <circle cx="80" cy="180" r="8" fill="#D89A4E" opacity="0.8"/>
+  <circle cx="110" cy="160" r="12" fill="#D89A4E" opacity="0.7"/>
+  <circle cx="140" cy="175" r="9" fill="#D89A4E" opacity="0.6"/>
+  <circle cx="170" cy="190" r="5" fill="#D89A4E" opacity="0.5"/>
+  <circle cx="210" cy="200" r="4" fill="#D89A4E" opacity="0.5"/>
+  <!-- USSR - blue -->
+  <circle cx="90" cy="155" r="7" fill="#60a5fa" opacity="0.8"/>
+  <circle cx="120" cy="135" r="18" fill="#60a5fa" opacity="0.6"/>
+  <circle cx="155" cy="155" r="10" fill="#60a5fa" opacity="0.7"/>
+  <circle cx="190" cy="170" r="6" fill="#60a5fa" opacity="0.5"/>
+  <!-- Tsar Bomba spike -->
+  <circle cx="140" cy="60" r="22" fill="#60a5fa" opacity="0.4"/>
+  <line x1="140" y1="60" x2="140" y2="175" stroke="#60a5fa" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.3"/>
+  <!-- Castle Bravo spike -->
+  <circle cx="100" cy="80" r="16" fill="#D89A4E" opacity="0.35"/>
+  <!-- Recent DPRK -->
+  <circle cx="340" cy="210" r="3" fill="#c084fc" opacity="0.9"/>
+  <circle cx="345" cy="205" r="4" fill="#c084fc" opacity="0.8"/>
+  <circle cx="350" cy="195" r="6" fill="#c084fc" opacity="0.9"/>
+</svg>

@@ -1,0 +1,104 @@
+---
+interface Props {
+  artifactId: string;
+  renderEngine: string;
+  dataJson: string;
+  thumbnailSrc: string;
+}
+
+const { artifactId, renderEngine, dataJson, thumbnailSrc } = Astro.props;
+---
+
+<div class="chart-panel" id={`chart-${artifactId}`} style="min-height:480px">
+  <!-- Skeleton: static SVG shown until JS hydrates -->
+  <div class="chart-skeleton" aria-hidden="true" id={`skeleton-${artifactId}`}>
+    <img src={thumbnailSrc} alt="" style="width:100%;height:100%;object-fit:cover;opacity:0.4" />
+  </div>
+</div>
+
+<!-- Data blob, parsed by render module -->
+<script
+  type="application/json"
+  id={`data-${artifactId}`}
+  set:html={dataJson}
+/>
+
+<script define:vars={{ artifactId, renderEngine }}>
+  async function hydrate() {
+    const container = document.getElementById(`chart-${artifactId}`);
+    const skeleton = document.getElementById(`skeleton-${artifactId}`);
+    if (!container) return;
+
+    const dataEl = document.getElementById(`data-${artifactId}`);
+    const data = dataEl ? JSON.parse(dataEl.textContent ?? "{}") : {};
+
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const colorScheme = document.documentElement.dataset.theme === "light" ? "light" : "dark";
+    const locale = document.documentElement.lang ?? "en";
+
+    let renderModule;
+    try {
+      if (artifactId === "earthquakes-live") {
+        renderModule = await import("/src/artifacts/earthquakes-live/render.ts");
+      } else if (artifactId === "births-by-country") {
+        renderModule = await import("/src/artifacts/births-by-country/render.ts");
+      } else if (artifactId === "nuclear-tests") {
+        renderModule = await import("/src/artifacts/nuclear-tests/render.ts");
+      }
+    } catch (e) {
+      console.error("Failed to load render module:", e);
+      return;
+    }
+
+    if (!renderModule?.default?.mount) return;
+
+    // Remove skeleton
+    if (skeleton) skeleton.remove();
+
+    const cleanup = renderModule.default.mount({
+      container,
+      data,
+      locale,
+      colorScheme,
+      reducedMotion,
+    });
+
+    // Cleanup on page unload (Astro view transitions)
+    document.addEventListener("astro:before-swap", cleanup, { once: true });
+  }
+
+  if ("IntersectionObserver" in window) {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          observer.disconnect();
+          hydrate();
+        }
+      },
+      { rootMargin: "200px" }
+    );
+    const target = document.getElementById(`chart-${artifactId}`);
+    if (target) observer.observe(target);
+  } else {
+    hydrate();
+  }
+</script>
+
+<style>
+  .chart-panel {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-hairline);
+    border-radius: var(--radius-md);
+    padding: var(--space-6);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .chart-skeleton {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>

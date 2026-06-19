@@ -1,0 +1,133 @@
+---
+import Base from "../../layouts/Base.astro";
+import Nav from "../../components/Nav.astro";
+import Footer from "../../components/Footer.astro";
+import ArtifactCard from "../../components/ArtifactCard.astro";
+import { getAllArtifacts, getAllCategories } from "../../lib/artifacts";
+import { t } from "../../lib/i18n";
+
+const locale = "en";
+const artifacts = getAllArtifacts();
+const categories = getAllCategories();
+---
+
+<Base
+  title={t(locale, "explore.title")}
+  description="Browse the full collection of data visualizations, filtered by category, data mode, or topic."
+  locale={locale}
+>
+  <Nav locale={locale} currentPath="/en/explore" />
+
+  <main id="main">
+    <div class="explore">
+      <header class="explore__header">
+        <h1 class="explore__title">{t(locale, "explore.title")}</h1>
+        <p class="explore__count mono">{artifacts.length} visualizations</p>
+      </header>
+
+      <div class="explore__filters" role="group" aria-label="Filter by category">
+        <button class="filter-btn filter-btn--active" data-filter="all" type="button">
+          All
+        </button>
+        {categories.map((cat) => (
+          <button class="filter-btn" data-filter={cat} type="button">
+            {cat.replace(/-/g, " ")}
+          </button>
+        ))}
+      </div>
+
+      <div class="explore__grid" id="artifacts-grid">
+        {artifacts.map((a) => (
+          <div data-category={a.manifest.category} data-mode={a.manifest.dataMode}>
+            <ArtifactCard manifest={a.manifest} locale={locale} />
+          </div>
+        ))}
+      </div>
+    </div>
+  </main>
+
+  <Footer locale={locale} />
+</Base>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>(".filter-btn");
+  const items = document.querySelectorAll<HTMLDivElement>("#artifacts-grid > div");
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const filter = btn.dataset.filter ?? "all";
+      buttons.forEach((b) => b.classList.remove("filter-btn--active"));
+      btn.classList.add("filter-btn--active");
+
+      items.forEach((item) => {
+        const visible = filter === "all" || item.dataset.category === filter;
+        item.style.display = visible ? "" : "none";
+      });
+    });
+  });
+</script>
+
+<style>
+  .explore {
+    max-inline-size: 1200px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+    padding-block: var(--space-12);
+  }
+
+  .explore__header {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-4);
+    margin-block-end: var(--space-8);
+    border-block-end: 1px solid var(--border-hairline);
+    padding-block-end: var(--space-6);
+  }
+
+  .explore__title {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--text-primary);
+    flex: 1;
+  }
+
+  .explore__count {
+    color: var(--text-faint);
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+  }
+
+  .explore__filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-block-end: var(--space-8);
+  }
+
+  .filter-btn {
+    padding-block: var(--space-2);
+    padding-inline: var(--space-4);
+    border: 1px solid var(--border-hairline);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--text-muted);
+    font-family: var(--font-body);
+    font-size: 0.8125rem;
+    cursor: pointer;
+    text-transform: capitalize;
+    transition: border-color var(--duration-fast), color var(--duration-fast);
+  }
+
+  .filter-btn:hover,
+  .filter-btn--active {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .explore__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+</style>

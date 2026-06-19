@@ -1,0 +1,121 @@
+---
+import Base from "../../layouts/Base.astro";
+import Nav from "../../components/Nav.astro";
+import Footer from "../../components/Footer.astro";
+import ArtifactCard from "../../components/ArtifactCard.astro";
+import { getAllArtifacts } from "../../lib/artifacts";
+import { t } from "../../lib/i18n";
+
+const locale = "ar";
+const artifacts = getAllArtifacts();
+const featured = artifacts.filter((a) =>
+  ["earthquakes-live", "births-by-country"].includes(a.manifest.id)
+);
+---
+
+<Base
+  title={t(locale, "meta.siteName")}
+  description={t(locale, "meta.siteDescription")}
+  locale={locale}
+>
+  <Nav locale={locale} currentPath="/ar/" />
+
+  <main id="main">
+    <section class="hero">
+      <div class="hero__inner">
+        <svg class="hero__mark" viewBox="0 0 18 18" aria-hidden="true">
+          <polygon points="9,1 17,9 9,17 1,9" fill="none" stroke="currentColor" stroke-width="0.75"/>
+          <circle cx="9" cy="9" r="2" fill="currentColor"/>
+        </svg>
+        <h1 class="hero__title">كيف يبدو؟</h1>
+        <p class="hero__sub">
+          {t(locale, "meta.siteDescription")}
+        </p>
+        <p class="placeholder-note">
+          ملاحظة: المحتوى العربي قيد الإعداد. هذه الصفحة تثبت دعم RTL والبنية التحتية للترجمة.
+        </p>
+      </div>
+    </section>
+
+    <div class="content">
+      <section aria-labelledby="featured-heading">
+        <h2 id="featured-heading" class="section-heading">{t(locale, "home.featured")}</h2>
+        <div class="grid">
+          {featured.map((a) => (
+            <ArtifactCard manifest={a.manifest} locale={locale} />
+          ))}
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <Footer locale={locale} />
+</Base>
+
+<style>
+  .hero {
+    border-block-end: 1px solid var(--border-hairline);
+    padding-block: var(--space-16);
+  }
+
+  .hero__inner {
+    max-inline-size: 1200px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+  }
+
+  .hero__mark {
+    inline-size: 2.5rem;
+    block-size: 2.5rem;
+    color: var(--accent);
+    margin-block-end: var(--space-6);
+  }
+
+  .hero__title {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 300;
+    color: var(--text-primary);
+    margin-block-end: var(--space-4);
+  }
+
+  .hero__sub {
+    font-size: 1.125rem;
+    color: var(--text-muted);
+    max-inline-size: 48ch;
+    line-height: 1.6;
+    margin-block-end: var(--space-6);
+  }
+
+  .placeholder-note {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--text-faint);
+    border: 1px solid var(--border-hairline);
+    border-radius: var(--radius-sm);
+    padding: var(--space-3) var(--space-4);
+    max-inline-size: max-content;
+  }
+
+  .content {
+    max-inline-size: 1200px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+    padding-block: var(--space-12);
+  }
+
+  .section-heading {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-faint);
+    margin-block-end: var(--space-6);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+</style>

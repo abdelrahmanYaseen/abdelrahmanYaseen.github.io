@@ -1,0 +1,120 @@
+@import './reset.css';
+@import './tokens.css';
+
+html {
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 16px;
+}
+
+body {
+  min-block-size: 100dvh;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  line-height: 1.2;
+  color: var(--text-primary);
+}
+
+code, pre, time, .mono {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+}
+
+/* Signature mark */
+.mark-diamond {
+  display: inline-block;
+  block-size: 1.25em;
+  inline-size: 1.25em;
+  vertical-align: middle;
+}
+
+/* Data mode badges */
+.badge {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding-block: 0.2em;
+  padding-inline: 0.6em;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-hairline);
+  color: var(--text-muted);
+}
+
+.badge--live {
+  border-color: #4ade80;
+  color: #4ade80;
+}
+
+.badge--synced {
+  border-color: #60a5fa;
+  color: #60a5fa;
+}
+
+.badge--static {
+  border-color: var(--text-faint);
+  color: var(--text-faint);
+}
+
+.badge--simulated {
+  border-color: #c084fc;
+  color: #c084fc;
+}
+
+/* Chart surface */
+.chart-panel {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-hairline);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+}
+
+/* Lens pills */
+.lens-pill {
+  display: inline-flex;
+  align-items: center;
+  padding-block: var(--space-2);
+  padding-inline: var(--space-4);
+  border: 1px solid var(--border-hairline);
+  border-radius: 999px;
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  background: transparent;
+  cursor: pointer;
+  transition: border-color var(--duration-fast) var(--easing-out),
+              color var(--duration-fast) var(--easing-out);
+}
+
+.lens-pill:hover,
+.lens-pill[aria-pressed="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Skip link */
+.skip-link {
+  position: absolute;
+  inset-block-start: -999px;
+  inset-inline-start: var(--space-4);
+  background: var(--accent);
+  color: var(--bg-page);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  z-index: 9999;
+}
+.skip-link:focus {
+  inset-block-start: var(--space-4);
+}

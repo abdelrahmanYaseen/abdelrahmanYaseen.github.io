@@ -1,0 +1,98 @@
+---
+import Base from "../../../../layouts/Base.astro";
+import Nav from "../../../../components/Nav.astro";
+import Footer from "../../../../components/Footer.astro";
+import ArtifactCard from "../../../../components/ArtifactCard.astro";
+import { getAllArtifacts, getAllCategories } from "../../../../lib/artifacts";
+import { t } from "../../../../lib/i18n";
+
+export function getStaticPaths() {
+  const categories = getAllCategories();
+  return categories.map((cat) => ({ params: { cat } }));
+}
+
+const { cat } = Astro.params;
+const locale = "en";
+const artifacts = getAllArtifacts().filter((a) => a.manifest.category === cat);
+const title = cat.replace(/-/g, " ");
+---
+
+<Base
+  title={title}
+  description={`Data visualizations in the ${title} category.`}
+  locale={locale}
+>
+  <Nav locale={locale} currentPath={`/en/category/${cat}/`} />
+
+  <main id="main">
+    <div class="cat-page">
+      <header class="cat-page__header">
+        <p class="cat-page__breadcrumb mono">
+          <a href="/en/">Home</a> / <a href="/en/explore">Explore</a>
+        </p>
+        <h1 class="cat-page__title">{title}</h1>
+        <p class="cat-page__count mono">{artifacts.length} visualization{artifacts.length !== 1 ? "s" : ""}</p>
+      </header>
+
+      <div class="cat-page__grid">
+        {artifacts.map((a) => (
+          <ArtifactCard manifest={a.manifest} locale={locale} />
+        ))}
+      </div>
+    </div>
+  </main>
+
+  <Footer locale={locale} />
+</Base>
+
+<style>
+  .cat-page {
+    max-inline-size: 1200px;
+    margin-inline: auto;
+    padding-inline: var(--space-6);
+    padding-block: var(--space-12);
+  }
+
+  .cat-page__header {
+    margin-block-end: var(--space-10);
+    padding-block-end: var(--space-8);
+    border-block-end: 1px solid var(--border-hairline);
+  }
+
+  .cat-page__breadcrumb {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--text-faint);
+    margin-block-end: var(--space-4);
+  }
+
+  .cat-page__breadcrumb a {
+    color: var(--text-faint);
+  }
+
+  .cat-page__breadcrumb a:hover {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .cat-page__title {
+    font-family: var(--font-display);
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 300;
+    color: var(--text-primary);
+    text-transform: capitalize;
+    margin-block-end: var(--space-2);
+  }
+
+  .cat-page__count {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--text-faint);
+  }
+
+  .cat-page__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: var(--space-6);
+  }
+</style>

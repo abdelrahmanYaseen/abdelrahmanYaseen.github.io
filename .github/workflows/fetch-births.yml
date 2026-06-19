@@ -1,0 +1,35 @@
+name: Fetch births by country data
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch and transform World Bank data
+        run: npx tsx scripts/fetch-artifact.ts births-by-country
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data(births-by-country): cron update [skip ci]"
+          file_pattern: |
+            src/artifacts/births-by-country/data.json
+            src/artifacts/births-by-country/manifest.json

@@ -1,0 +1,75 @@
+---
+import type { ArtifactManifest } from "../types/manifest";
+import type { Locale } from "../lib/i18n";
+import { t, formatTimeAgo } from "../lib/i18n";
+
+interface Props {
+  manifest: ArtifactManifest;
+  locale: Locale;
+}
+
+const { manifest, locale } = Astro.props;
+const timeAgo = manifest.lastFetched ? formatTimeAgo(manifest.lastFetched, locale) : null;
+const badgeKey = `badge.${manifest.dataMode}` as const;
+---
+
+<div class="meta-strip">
+  <span class:list={["badge", `badge--${manifest.dataMode}`]}>
+    {t(locale, badgeKey)}
+  </span>
+
+  {
+    timeAgo && (
+      <span class="meta-strip__item">
+        <time datetime={manifest.lastFetched} class="mono">
+          {t(locale, "artifact.updated")} {timeAgo}
+        </time>
+      </span>
+    )
+  }
+
+  <span class="meta-strip__sep" aria-hidden="true">·</span>
+
+  <span class="meta-strip__item">
+    <span class="mono">{t(locale, "artifact.source")}:</span>{" "}
+    <a
+      href={manifest.source.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="meta-strip__source-link"
+    >
+      {manifest.source.name}
+    </a>
+  </span>
+</div>
+
+<style>
+  .meta-strip {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+
+  .meta-strip__item {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  .meta-strip__sep {
+    color: var(--border-hairline);
+  }
+
+  .meta-strip__source-link {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .meta-strip__source-link:hover {
+    text-decoration: underline;
+  }
+</style>

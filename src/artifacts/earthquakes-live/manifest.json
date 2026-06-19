@@ -1,0 +1,43 @@
+{
+  "id": "earthquakes-live",
+  "title": "Every earthquake on Earth, right now",
+  "dek": "All seismic activity from the past 24 hours — 100 to 500 events — mapped by magnitude, depth, and time elapsed.",
+  "category": "earth-and-climate",
+  "tags": ["earthquake", "seismic", "live", "global", "geophysics", "USGS"],
+  "dataMode": "live",
+  "renderEngine": "d3",
+  "refreshCron": "*/15 * * * *",
+  "source": {
+    "name": "USGS Earthquake Hazards Program",
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/",
+    "type": "rest",
+    "endpoint": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+    "transform": "transform.ts",
+    "license": "Public Domain"
+  },
+  "annotate": {
+    "enabled": false,
+    "promptTemplate": "prompts/annotate.txt",
+    "tone": "curious",
+    "generatedBy": "human"
+  },
+  "suggestedLenses": [
+    {
+      "label": "Only significant quakes (M4+)",
+      "chartParam": { "minMagnitude": 4 }
+    },
+    {
+      "label": "Deepest events first",
+      "chartParam": { "sortBy": "depth", "sortDir": "desc" }
+    },
+    {
+      "label": "Most recent activity",
+      "chartParam": { "sortBy": "time", "sortDir": "desc", "maxAge": 3600 }
+    }
+  ],
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": { "en": { "source": "human" } }
+  },
+  "lastFetched": "2026-06-19T06:00:00Z"
+}

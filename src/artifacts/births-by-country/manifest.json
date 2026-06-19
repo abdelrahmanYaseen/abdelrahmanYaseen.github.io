@@ -1,0 +1,43 @@
+{
+  "id": "births-by-country",
+  "title": "Where every baby was born last year",
+  "dek": "132 million births across 195 countries — mapped by share of the global total, sized by contribution, colored by region.",
+  "category": "demographics",
+  "tags": ["population", "births", "countries", "demographics", "global", "UN"],
+  "dataMode": "synced",
+  "renderEngine": "d3",
+  "refreshCron": "0 6 * * *",
+  "source": {
+    "name": "World Bank Open Data",
+    "url": "https://data.worldbank.org/indicator/SP.DYN.CBRT.IN",
+    "type": "rest",
+    "endpoint": "https://api.worldbank.org/v2/country/all/indicator/SP.DYN.CBRT.IN?format=json&mrv=1&per_page=300",
+    "transform": "transform.ts",
+    "license": "CC BY 4.0"
+  },
+  "annotate": {
+    "enabled": false,
+    "promptTemplate": "prompts/annotate.txt",
+    "tone": "curious",
+    "generatedBy": "human"
+  },
+  "suggestedLenses": [
+    {
+      "label": "Which countries are growing fastest?",
+      "chartParam": { "sortBy": "growthRate", "highlightTop": 10 }
+    },
+    {
+      "label": "Where is most of humanity being born?",
+      "chartParam": { "highlightRegion": "asia" }
+    },
+    {
+      "label": "Compare rich vs. poor countries",
+      "chartParam": { "colorBy": "incomeGroup" }
+    }
+  ],
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": { "en": { "source": "human" } }
+  },
+  "lastFetched": "2026-06-19T06:00:00Z"
+}

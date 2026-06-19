@@ -1,0 +1,39 @@
+{
+  "id": "nuclear-tests",
+  "title": "Every nuclear test ever detonated",
+  "dek": "2,056 nuclear explosions across 60 years — a scroll through the atomic age, from Trinity to the last North Korean test.",
+  "category": "history",
+  "tags": ["nuclear", "history", "cold war", "weapons", "geopolitics", "timeline"],
+  "dataMode": "static",
+  "renderEngine": "d3",
+  "source": {
+    "name": "Johnston's Archive / SIPRI",
+    "url": "https://www.johnstonsarchive.net/nuclear/tests/",
+    "license": "Public Domain"
+  },
+  "annotate": {
+    "enabled": false,
+    "promptTemplate": "prompts/annotate.txt",
+    "tone": "solemn",
+    "generatedBy": "human"
+  },
+  "suggestedLenses": [
+    {
+      "label": "The Cold War arms race",
+      "chartParam": { "highlightCountries": ["USA", "USSR"], "yearRange": [1945, 1991] }
+    },
+    {
+      "label": "Underground vs. atmospheric tests",
+      "chartParam": { "colorBy": "medium" }
+    },
+    {
+      "label": "Test sites on a map",
+      "chartParam": { "view": "geographic" }
+    }
+  ],
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": { "en": { "source": "human" } }
+  },
+  "lastFetched": "2026-06-19T00:00:00Z"
+}
