@@ -1,7 +1,466 @@
 {
-  "generated": "2026-06-22T23:50:43.883Z",
-  "count": 252,
+  "generated": "2026-06-23T02:02:11.470Z",
+  "count": 294,
   "events": [
+    {
+      "id": "tx2026mfsirt",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 32.1,
+      "lon": -101.932,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": "2026-06-23T01:51:52.655Z"
+    },
+    {
+      "id": "aka2026mhrjwj",
+      "magnitude": 1.7,
+      "depth": 160,
+      "lat": 60.097,
+      "lon": -153.359,
+      "place": "54 km NE of Pedro Bay, Alaska",
+      "time": "2026-06-23T01:47:51.921Z"
+    },
+    {
+      "id": "ci41493024",
+      "magnitude": 2,
+      "depth": 15,
+      "lat": 35.676,
+      "lon": -117.598,
+      "place": "9 km NE of Ridgecrest, CA",
+      "time": "2026-06-23T01:45:53.730Z"
+    },
+    {
+      "id": "ci41493016",
+      "magnitude": 1.9,
+      "depth": 7,
+      "lat": 35.674,
+      "lon": -117.477,
+      "place": "12 km SSW of Searles Valley, CA",
+      "time": "2026-06-23T01:45:52.750Z"
+    },
+    {
+      "id": "nc75381796",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.855,
+      "lon": -122.845,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:41:57.690Z"
+    },
+    {
+      "id": "nc75381791",
+      "magnitude": 0.4,
+      "depth": 1,
+      "lat": 38.845,
+      "lon": -122.848,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:39:35.820Z"
+    },
+    {
+      "id": "nc75381786",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.829,
+      "lon": -122.804,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-06-23T01:35:01.440Z"
+    },
+    {
+      "id": "ci41493000",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 35.948,
+      "lon": -117.391,
+      "place": "20 km N of Searles Valley, CA",
+      "time": "2026-06-23T01:30:38.090Z"
+    },
+    {
+      "id": "nc75381776",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.85,
+      "lon": -122.848,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:30:17.140Z"
+    },
+    {
+      "id": "nc75381766",
+      "magnitude": 1.4,
+      "depth": 1,
+      "lat": 38.85,
+      "lon": -122.846,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:17:13.670Z"
+    },
+    {
+      "id": "nc75381761",
+      "magnitude": 1.3,
+      "depth": 1,
+      "lat": 38.85,
+      "lon": -122.843,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:16:55.280Z"
+    },
+    {
+      "id": "nc75381756",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.851,
+      "lon": -122.843,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:16:20.080Z"
+    },
+    {
+      "id": "nc75381746",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.845,
+      "lon": -122.848,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:12:21.000Z"
+    },
+    {
+      "id": "nc75381741",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 38.854,
+      "lon": -122.847,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:11:13.470Z"
+    },
+    {
+      "id": "nc75381736",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.854,
+      "lon": -122.847,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:10:45.320Z"
+    },
+    {
+      "id": "ci41492992",
+      "magnitude": 1.8,
+      "depth": 7,
+      "lat": 35.742,
+      "lon": -117.54,
+      "place": "13 km WSW of Searles Valley, CA",
+      "time": "2026-06-23T01:08:14.460Z"
+    },
+    {
+      "id": "nc75381721",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.845,
+      "lon": -122.849,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:07:25.190Z"
+    },
+    {
+      "id": "nc75381716",
+      "magnitude": 1.1,
+      "depth": 1,
+      "lat": 38.847,
+      "lon": -122.848,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:07:03.940Z"
+    },
+    {
+      "id": "nc75381711",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.847,
+      "lon": -122.847,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:06:20.700Z"
+    },
+    {
+      "id": "nc75381706",
+      "magnitude": 0.4,
+      "depth": 1,
+      "lat": 38.852,
+      "lon": -122.84,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T01:04:44.320Z"
+    },
+    {
+      "id": "nc75381701",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 38.848,
+      "lon": -122.847,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:04:21.980Z"
+    },
+    {
+      "id": "nc75381696",
+      "magnitude": 0.9,
+      "depth": 1,
+      "lat": 38.846,
+      "lon": -122.849,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:03:03.190Z"
+    },
+    {
+      "id": "nc75381681",
+      "magnitude": 0.5,
+      "depth": 2,
+      "lat": 38.847,
+      "lon": -122.848,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T01:00:06.290Z"
+    },
+    {
+      "id": "nc75381676",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.847,
+      "lon": -122.846,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T00:58:54.220Z"
+    },
+    {
+      "id": "nc75381666",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.853,
+      "lon": -122.843,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:57:16.580Z"
+    },
+    {
+      "id": "nc75381661",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.846,
+      "lon": -122.847,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T00:55:28.280Z"
+    },
+    {
+      "id": "nc75381651",
+      "magnitude": 1.3,
+      "depth": 1,
+      "lat": 38.847,
+      "lon": -122.848,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T00:54:21.490Z"
+    },
+    {
+      "id": "nc75381641",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 38.851,
+      "lon": -122.842,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:53:50.630Z"
+    },
+    {
+      "id": "nc75381631",
+      "magnitude": 0.5,
+      "depth": 1,
+      "lat": 38.848,
+      "lon": -122.849,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T00:53:25.810Z"
+    },
+    {
+      "id": "nc75381626",
+      "magnitude": 1.2,
+      "depth": 1,
+      "lat": 38.85,
+      "lon": -122.85,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:52:43.670Z"
+    },
+    {
+      "id": "nc75381621",
+      "magnitude": 0.9,
+      "depth": 1,
+      "lat": 38.847,
+      "lon": -122.847,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T00:52:33.540Z"
+    },
+    {
+      "id": "nc75381616",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.851,
+      "lon": -122.844,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:52:28.090Z"
+    },
+    {
+      "id": "nc75381611",
+      "magnitude": 0.3,
+      "depth": 2,
+      "lat": 38.847,
+      "lon": -122.846,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-06-23T00:52:18.800Z"
+    },
+    {
+      "id": "nc75381606",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.849,
+      "lon": -122.848,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:51:27.180Z"
+    },
+    {
+      "id": "nc75381601",
+      "magnitude": 2.2,
+      "depth": 1,
+      "lat": 38.853,
+      "lon": -122.85,
+      "place": "12 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:50:54.160Z"
+    },
+    {
+      "id": "nc75381596",
+      "magnitude": 2.6,
+      "depth": 1,
+      "lat": 38.849,
+      "lon": -122.845,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:50:30.190Z"
+    },
+    {
+      "id": "ci41492984",
+      "magnitude": 1.2,
+      "depth": 3,
+      "lat": 35.955,
+      "lon": -117.39,
+      "place": "21 km N of Searles Valley, CA",
+      "time": "2026-06-23T00:47:07.810Z"
+    },
+    {
+      "id": "aka2026mhpfvr",
+      "magnitude": 1.4,
+      "depth": 29,
+      "lat": 60.855,
+      "lon": -146.914,
+      "place": "12 km W of Tatitlek, Alaska",
+      "time": "2026-06-23T00:43:16.082Z"
+    },
+    {
+      "id": "nc75381591",
+      "magnitude": 0.5,
+      "depth": 2,
+      "lat": 38.836,
+      "lon": -122.791,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:40:31.810Z"
+    },
+    {
+      "id": "hv74988887",
+      "magnitude": 2.2,
+      "depth": 32,
+      "lat": 19.17,
+      "lon": -155.488,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": "2026-06-23T00:38:04.730Z"
+    },
+    {
+      "id": "ci41492968",
+      "magnitude": 0.7,
+      "depth": 14,
+      "lat": 33.918,
+      "lon": -116.706,
+      "place": "7 km E of Cabazon, CA",
+      "time": "2026-06-23T00:36:40.260Z"
+    },
+    {
+      "id": "us6000t7id",
+      "magnitude": 3.9,
+      "depth": 36,
+      "lat": 54.936,
+      "lon": -160.383,
+      "place": "45 km S of Sand Point, Alaska",
+      "time": "2026-06-23T00:34:33.050Z"
+    },
+    {
+      "id": "aka2026mhosaj",
+      "magnitude": 1.5,
+      "depth": 13,
+      "lat": 55.915,
+      "lon": -159.726,
+      "place": "15 km W of Ivanof Bay, Alaska",
+      "time": "2026-06-23T00:27:21.162Z"
+    },
+    {
+      "id": "ci41492960",
+      "magnitude": 1,
+      "depth": 13,
+      "lat": 33.917,
+      "lon": -116.708,
+      "place": "7 km E of Cabazon, CA",
+      "time": "2026-06-23T00:24:16.150Z"
+    },
+    {
+      "id": "nc75381576",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.794,
+      "lon": -122.762,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": "2026-06-23T00:22:25.830Z"
+    },
+    {
+      "id": "nn00920621",
+      "magnitude": 1.8,
+      "depth": 8,
+      "lat": 35.993,
+      "lon": -116.075,
+      "place": "17 km E of Shoshone, California",
+      "time": "2026-06-23T00:14:59.985Z"
+    },
+    {
+      "id": "hv74988877",
+      "magnitude": 3.1,
+      "depth": 32,
+      "lat": 19.17,
+      "lon": -155.492,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": "2026-06-23T00:11:25.390Z"
+    },
+    {
+      "id": "nc75381571",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.835,
+      "lon": -122.784,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-06-23T00:07:48.890Z"
+    },
+    {
+      "id": "ci41492936",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 33.793,
+      "lon": -116.085,
+      "place": "14 km ENE of Indio, CA",
+      "time": "2026-06-23T00:03:34.030Z"
+    },
+    {
+      "id": "tx2026mfokmg",
+      "magnitude": 2.5,
+      "depth": 0,
+      "lat": 31.457,
+      "lon": -103.321,
+      "place": "6 km E of Barstow, Texas",
+      "time": "2026-06-22T23:53:14.479Z"
+    },
+    {
+      "id": "tx2026mfohyh",
+      "magnitude": 3.2,
+      "depth": 9,
+      "lat": 32.108,
+      "lon": -101.925,
+      "place": "13 km W of Stanton, Texas",
+      "time": "2026-06-22T23:52:56.345Z"
+    },
     {
       "id": "ci41492928",
       "magnitude": 0.9,
@@ -111,6 +570,15 @@
       "time": "2026-06-22T22:29:11.520Z"
     },
     {
+      "id": "us6000t7hp",
+      "magnitude": 4.6,
+      "depth": 35,
+      "lat": 24.782,
+      "lon": 125.416,
+      "place": "10 km E of Miyakojima, Japan",
+      "time": "2026-06-22T22:20:45.131Z"
+    },
+    {
       "id": "nc75381491",
       "magnitude": 1,
       "depth": 1,
@@ -154,6 +622,15 @@
       "lon": -122.754,
       "place": "1 km NNE of The Geysers, CA",
       "time": "2026-06-22T21:24:18.820Z"
+    },
+    {
+      "id": "us6000t7hd",
+      "magnitude": 3.9,
+      "depth": 427,
+      "lat": 46.741,
+      "lon": 146.337,
+      "place": "206 km NW of Kuril’sk, Russia",
+      "time": "2026-06-22T21:20:09.908Z"
     },
     {
       "id": "ci41492768",
@@ -354,6 +831,15 @@
       "time": "2026-06-22T18:24:24.616Z"
     },
     {
+      "id": "uw714029831",
+      "magnitude": 0.8,
+      "depth": 14,
+      "lat": 46.462,
+      "lon": -122.252,
+      "place": "10 km S of Morton, Washington",
+      "time": "2026-06-22T18:20:57.810Z"
+    },
+    {
       "id": "ci41492584",
       "magnitude": 1.4,
       "depth": 10,
@@ -397,6 +883,15 @@
       "lon": -88.895,
       "place": "103 km SSW of Puerto El Triunfo, El Salvador",
       "time": "2026-06-22T17:51:34.202Z"
+    },
+    {
+      "id": "av94262493",
+      "magnitude": -1.3,
+      "depth": 6,
+      "lat": 60.536,
+      "lon": -152.76,
+      "place": "79 km W of Salamatof, Alaska",
+      "time": "2026-06-22T17:46:04.220Z"
     },
     {
       "id": "nc75381351",
@@ -462,6 +957,24 @@
       "time": "2026-06-22T17:09:26.763Z"
     },
     {
+      "id": "av94262418",
+      "magnitude": 0.8,
+      "depth": 9,
+      "lat": 53.899,
+      "lon": -166.624,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": "2026-06-22T17:07:39.670Z"
+    },
+    {
+      "id": "av94262413",
+      "magnitude": 0.7,
+      "depth": 4,
+      "lat": 52.805,
+      "lon": -169.93,
+      "place": "73 km WSW of Nikolski, Alaska",
+      "time": "2026-06-22T17:05:54.800Z"
+    },
+    {
       "id": "ci41492480",
       "magnitude": 1,
       "depth": 12,
@@ -478,6 +991,15 @@
       "lon": -155.077,
       "place": "5 km NW of Kea‘au, Hawaii",
       "time": "2026-06-22T16:58:44.280Z"
+    },
+    {
+      "id": "av94262393",
+      "magnitude": 0.5,
+      "depth": 9,
+      "lat": 53.898,
+      "lon": -166.621,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": "2026-06-22T16:58:31.630Z"
     },
     {
       "id": "aka2026mgzpii",
@@ -1093,12 +1615,12 @@
     },
     {
       "id": "hv74988517",
-      "magnitude": 2,
+      "magnitude": 1.9,
       "depth": 30,
-      "lat": 19.137,
-      "lon": -155.373,
-      "place": "13 km ESE of Pāhala, Hawaii",
-      "time": "2026-06-22T10:48:09.200Z"
+      "lat": 19.131,
+      "lon": -155.367,
+      "place": "14 km SE of Pāhala, Hawaii",
+      "time": "2026-06-22T10:48:09.160Z"
     },
     {
       "id": "nc75381191",
@@ -1174,12 +1696,12 @@
     },
     {
       "id": "ci41492176",
-      "magnitude": 0.6,
+      "magnitude": 0.5,
       "depth": 6,
       "lat": 36.103,
-      "lon": -117.897,
+      "lon": -117.899,
       "place": "8 km NE of Coso Junction, CA",
-      "time": "2026-06-22T10:22:04.080Z"
+      "time": "2026-06-22T10:22:04.070Z"
     },
     {
       "id": "us7000sv6w",
@@ -1432,6 +1954,15 @@
       "lon": -65.292,
       "place": "64 km N of Culebra, Puerto Rico",
       "time": "2026-06-22T07:25:27.360Z"
+    },
+    {
+      "id": "hv74988442",
+      "magnitude": 2.5,
+      "depth": 17,
+      "lat": 19.451,
+      "lon": -155.682,
+      "place": "19 km E of Honaunau-Napoopoo, Hawaii",
+      "time": "2026-06-22T07:16:57.650Z"
     },
     {
       "id": "ci41492112",
@@ -2116,159 +2647,6 @@
       "lon": -173.926,
       "place": "21 km ENE of Atka, Alaska",
       "time": "2026-06-22T02:01:59.930Z"
-    },
-    {
-      "id": "aka2026mfvpro",
-      "magnitude": 2,
-      "depth": 28,
-      "lat": 57.007,
-      "lon": -153.835,
-      "place": "21 km ENE of Akhiok, Alaska",
-      "time": "2026-06-22T01:55:15.122Z"
-    },
-    {
-      "id": "nc75381026",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 38.771,
-      "lon": -122.733,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": "2026-06-22T01:45:03.420Z"
-    },
-    {
-      "id": "ci41491928",
-      "magnitude": 1.3,
-      "depth": 6,
-      "lat": 34.001,
-      "lon": -117.214,
-      "place": "7 km SSW of Redlands, CA",
-      "time": "2026-06-22T01:38:11.300Z"
-    },
-    {
-      "id": "us7000sv1z",
-      "magnitude": 4.6,
-      "depth": 180,
-      "lat": 2.141,
-      "lon": 128.254,
-      "place": "53 km NNE of Tobelo, Indonesia",
-      "time": "2026-06-22T01:36:03.319Z"
-    },
-    {
-      "id": "mb90145843",
-      "magnitude": 2,
-      "depth": 3,
-      "lat": 44.415,
-      "lon": -115.214,
-      "place": "31 km NW of Stanley, Idaho",
-      "time": "2026-06-22T01:08:31.700Z"
-    },
-    {
-      "id": "ci41491920",
-      "magnitude": 0.6,
-      "depth": 11,
-      "lat": 33.516,
-      "lon": -116.741,
-      "place": "8 km SW of Anza, CA",
-      "time": "2026-06-22T01:02:19.020Z"
-    },
-    {
-      "id": "tx2026mdurjx",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 31.672,
-      "lon": -104.321,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": "2026-06-22T00:56:53.882Z"
-    },
-    {
-      "id": "nc75381001",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 38.798,
-      "lon": -122.738,
-      "place": "3 km NE of The Geysers, CA",
-      "time": "2026-06-22T00:47:14.060Z"
-    },
-    {
-      "id": "av94260883",
-      "magnitude": 0.5,
-      "depth": 6,
-      "lat": 52.821,
-      "lon": -169.907,
-      "place": "71 km W of Nikolski, Alaska",
-      "time": "2026-06-22T00:43:52.860Z"
-    },
-    {
-      "id": "nc75380996",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.833,
-      "lon": -122.818,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-06-22T00:39:23.260Z"
-    },
-    {
-      "id": "nc75380991",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.811,
-      "lon": -122.741,
-      "place": "2 km SW of Cobb, CA",
-      "time": "2026-06-22T00:31:07.740Z"
-    },
-    {
-      "id": "nc75380986",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 38.811,
-      "lon": -122.74,
-      "place": "2 km SW of Cobb, CA",
-      "time": "2026-06-22T00:30:52.040Z"
-    },
-    {
-      "id": "tx2026mdtxvl",
-      "magnitude": 1.7,
-      "depth": 2,
-      "lat": 32.728,
-      "lon": -101.386,
-      "place": "7 km SE of Gail, Texas",
-      "time": "2026-06-22T00:30:41.418Z"
-    },
-    {
-      "id": "nc75380981",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.802,
-      "lon": -122.738,
-      "place": "3 km SSW of Cobb, CA",
-      "time": "2026-06-22T00:30:02.690Z"
-    },
-    {
-      "id": "nc75380976",
-      "magnitude": 2.8,
-      "depth": 2,
-      "lat": 38.795,
-      "lon": -122.737,
-      "place": "3 km NE of The Geysers, CA",
-      "time": "2026-06-22T00:27:23.220Z"
-    },
-    {
-      "id": "ci41491896",
-      "magnitude": 1,
-      "depth": 15,
-      "lat": 33.663,
-      "lon": -116.776,
-      "place": "10 km SSW of Idyllwild, CA",
-      "time": "2026-06-22T00:00:29.000Z"
-    },
-    {
-      "id": "tx2026mdsqif",
-      "magnitude": 2.6,
-      "depth": 8,
-      "lat": 31.616,
-      "lon": -103.992,
-      "place": "38 km NNW of Toyah, Texas",
-      "time": "2026-06-21T23:51:56.703Z"
     }
   ]
 }
