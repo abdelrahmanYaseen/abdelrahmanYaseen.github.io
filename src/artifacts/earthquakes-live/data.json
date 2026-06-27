@@ -1,7 +1,43 @@
 {
-  "generated": "2026-06-27T11:50:20.535Z",
-  "count": 201,
+  "generated": "2026-06-27T13:05:06.393Z",
+  "count": 197,
   "events": [
+    {
+      "id": "hv74992177",
+      "magnitude": 2.3,
+      "depth": 6,
+      "lat": 19.317,
+      "lon": -155.215,
+      "place": "14 km S of Volcano, Hawaii",
+      "time": "2026-06-27T12:57:55.960Z"
+    },
+    {
+      "id": "aka2026mpxpcf",
+      "magnitude": 1.5,
+      "depth": 110,
+      "lat": 62.144,
+      "lon": -152.065,
+      "place": "38 km WNW of Skwentna, Alaska",
+      "time": "2026-06-27T12:50:59.672Z"
+    },
+    {
+      "id": "us6000t8p3",
+      "magnitude": 4.5,
+      "depth": 531,
+      "lat": -17.653,
+      "lon": -178.839,
+      "place": "200 km ENE of Levuka, Fiji",
+      "time": "2026-06-27T12:35:16.218Z"
+    },
+    {
+      "id": "hv74992162",
+      "magnitude": 2.6,
+      "depth": 30,
+      "lat": 19.132,
+      "lon": -155.362,
+      "place": "14 km ESE of Pāhala, Hawaii",
+      "time": "2026-06-27T12:29:58.430Z"
+    },
     {
       "id": "tx2026mnuxex",
       "magnitude": 1.6,
@@ -10,6 +46,15 @@
       "lon": -103.56,
       "place": "5 km NNW of Lindsay, Texas",
       "time": "2026-06-27T11:44:54.425Z"
+    },
+    {
+      "id": "us6000t8p0",
+      "magnitude": 4.3,
+      "depth": 125,
+      "lat": -21.405,
+      "lon": -68.699,
+      "place": "50 km WSW of Ollagüe, Chile",
+      "time": "2026-06-27T11:39:44.765Z"
     },
     {
       "id": "aka2026mpuwpk",
@@ -109,6 +154,15 @@
       "lon": -116.879,
       "place": "2 km N of Banning, CA",
       "time": "2026-06-27T10:32:48.760Z"
+    },
+    {
+      "id": "us6000t8na",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 39.426,
+      "lon": 26.305,
+      "place": "7 km SSW of Behram, Turkey",
+      "time": "2026-06-27T10:27:38.795Z"
     },
     {
       "id": "ci41496536",
@@ -1720,96 +1774,6 @@
       "lon": -115.834,
       "place": "16 km ENE of Ocotillo, CA",
       "time": "2026-06-26T13:07:28.520Z"
-    },
-    {
-      "id": "tx2026mmbspp",
-      "magnitude": 1,
-      "depth": 9,
-      "lat": 32.46,
-      "lon": -102.014,
-      "place": "28 km WSW of Ackerly, Texas",
-      "time": "2026-06-26T13:01:49.608Z"
-    },
-    {
-      "id": "ci41495840",
-      "magnitude": 2.1,
-      "depth": 7,
-      "lat": 35.315,
-      "lon": -117.807,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-06-26T12:53:03.390Z"
-    },
-    {
-      "id": "ci41495832",
-      "magnitude": 2.4,
-      "depth": 15,
-      "lat": 32.789,
-      "lon": -115.646,
-      "place": "8 km W of El Centro, CA",
-      "time": "2026-06-26T12:42:08.030Z"
-    },
-    {
-      "id": "tx2026mmbakf",
-      "magnitude": 1.2,
-      "depth": 6,
-      "lat": 32.015,
-      "lon": -103.24,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": "2026-06-26T12:40:39.941Z"
-    },
-    {
-      "id": "nc75384636",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.79,
-      "lon": -122.807,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": "2026-06-26T12:31:49.620Z"
-    },
-    {
-      "id": "tx2026mmaiiv",
-      "magnitude": 1.3,
-      "depth": 9,
-      "lat": 32.092,
-      "lon": -102.091,
-      "place": "10 km N of Midland, Texas",
-      "time": "2026-06-26T12:20:08.754Z"
-    },
-    {
-      "id": "nc75384626",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.835,
-      "lon": -122.81,
-      "place": "8 km W of Cobb, CA",
-      "time": "2026-06-26T12:07:41.100Z"
-    },
-    {
-      "id": "hv74991617",
-      "magnitude": 2,
-      "depth": 0,
-      "lat": 19.295,
-      "lon": -155.214,
-      "place": "16 km S of Volcano, Hawaii",
-      "time": "2026-06-26T12:00:10.280Z"
-    },
-    {
-      "id": "hv74991612",
-      "magnitude": 2.1,
-      "depth": 30,
-      "lat": 19.283,
-      "lon": -155.376,
-      "place": "13 km NE of Pāhala, Hawaii",
-      "time": "2026-06-26T11:58:39.370Z"
-    },
-    {
-      "id": "us6000t8ey",
-      "magnitude": 5.2,
-      "depth": 120,
-      "lat": 12.031,
-      "lon": -86.456,
-      "place": "7 km NE of Villa El Carmen, Nicaragua",
-      "time": "2026-06-26T11:57:25.458Z"
     }
   ]
 }
