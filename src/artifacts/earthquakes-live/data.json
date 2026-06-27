@@ -1,7 +1,61 @@
 {
-  "generated": "2026-06-27T21:52:02.092Z",
-  "count": 184,
+  "generated": "2026-06-27T22:52:28.615Z",
+  "count": 187,
   "events": [
+    {
+      "id": "uw714035561",
+      "magnitude": 1.5,
+      "depth": 1,
+      "lat": 46.578,
+      "lon": -121.796,
+      "place": "10 km WSW of Packwood, Washington",
+      "time": "2026-06-27T22:37:49.000Z"
+    },
+    {
+      "id": "nc75385446",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.791,
+      "lon": -122.761,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": "2026-06-27T22:26:14.410Z"
+    },
+    {
+      "id": "nc75385441",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 39.377,
+      "lon": -123.233,
+      "place": "11 km ESE of Willits, CA",
+      "time": "2026-06-27T22:20:59.230Z"
+    },
+    {
+      "id": "hv74992362",
+      "magnitude": 2,
+      "depth": 7,
+      "lat": 19.286,
+      "lon": -155.205,
+      "place": "17 km S of Volcano, Hawaii",
+      "time": "2026-06-27T22:19:22.820Z"
+    },
+    {
+      "id": "aka2026mqqkvy",
+      "magnitude": 2,
+      "depth": 10,
+      "lat": 58.058,
+      "lon": -151.071,
+      "place": "84 km ENE of Kodiak, Alaska",
+      "time": "2026-06-27T22:15:50.270Z"
+    },
+    {
+      "id": "tx2026mopbew",
+      "magnitude": 1.8,
+      "depth": 7,
+      "lat": 32.078,
+      "lon": -103.738,
+      "place": "35 km ESE of Malaga, New Mexico",
+      "time": "2026-06-27T21:53:06.332Z"
+    },
     {
       "id": "nc75385416",
       "magnitude": 0.9,
@@ -93,6 +147,15 @@
       "time": "2026-06-27T20:26:18.670Z"
     },
     {
+      "id": "hv74992347",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 19.407,
+      "lon": -155.304,
+      "place": "8 km WSW of Volcano, Hawaii",
+      "time": "2026-06-27T20:26:17.730Z"
+    },
+    {
       "id": "us6000t8qd",
       "magnitude": 5.8,
       "depth": 34,
@@ -100,6 +163,15 @@
       "lon": 142.414,
       "place": "51 km ENE of Noda, Japan",
       "time": "2026-06-27T20:21:50.769Z"
+    },
+    {
+      "id": "hv74992342",
+      "magnitude": 0.9,
+      "depth": 0,
+      "lat": 19.406,
+      "lon": -155.289,
+      "place": "7 km SW of Volcano, Hawaii",
+      "time": "2026-06-27T20:19:09.580Z"
     },
     {
       "id": "nc75385386",
@@ -127,6 +199,24 @@
       "lon": -122.88,
       "place": "13 km ENE of Cloverdale, CA",
       "time": "2026-06-27T19:51:43.470Z"
+    },
+    {
+      "id": "hv74992327",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 19.411,
+      "lon": -155.301,
+      "place": "7 km WSW of Volcano, Hawaii",
+      "time": "2026-06-27T19:44:19.100Z"
+    },
+    {
+      "id": "hv74992322",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 19.406,
+      "lon": -155.307,
+      "place": "8 km WSW of Volcano, Hawaii",
+      "time": "2026-06-27T19:43:17.510Z"
     },
     {
       "id": "aka2026mqksud",
@@ -1594,69 +1684,6 @@
       "lon": -116.71,
       "place": "4 km WSW of Anza, CA",
       "time": "2026-06-26T23:08:01.580Z"
-    },
-    {
-      "id": "tx2026mmveja",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 30.896,
-      "lon": -103.589,
-      "place": "17 km ESE of Balmorhea, Texas",
-      "time": "2026-06-26T22:48:47.302Z"
-    },
-    {
-      "id": "av94272098",
-      "magnitude": -0.4,
-      "depth": 0,
-      "lat": 60.031,
-      "lon": -153.026,
-      "place": "66 km ENE of Pedro Bay, Alaska",
-      "time": "2026-06-26T22:43:49.130Z"
-    },
-    {
-      "id": "nc75384946",
-      "magnitude": 1.4,
-      "depth": 4,
-      "lat": 39.326,
-      "lon": -123.243,
-      "place": "8 km NNW of Redwood Valley, CA",
-      "time": "2026-06-26T22:40:13.320Z"
-    },
-    {
-      "id": "av94272068",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 61.546,
-      "lon": -152.031,
-      "place": "59 km SW of Skwentna, Alaska",
-      "time": "2026-06-26T22:30:29.910Z"
-    },
-    {
-      "id": "nc75384941",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 39.368,
-      "lon": -123.227,
-      "place": "12 km N of Redwood Valley, CA",
-      "time": "2026-06-26T22:29:10.290Z"
-    },
-    {
-      "id": "us6000t8k6",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": 10.8,
-      "lon": -67.599,
-      "place": "54 km N of El Limón, Venezuela",
-      "time": "2026-06-26T22:16:11.931Z"
-    },
-    {
-      "id": "nc75384936",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 38.786,
-      "lon": -122.755,
-      "place": "1 km N of The Geysers, CA",
-      "time": "2026-06-26T22:04:08.160Z"
     }
   ]
 }
