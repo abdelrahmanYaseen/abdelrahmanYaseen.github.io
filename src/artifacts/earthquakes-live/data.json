@@ -1,7 +1,88 @@
 {
-  "generated": "2026-06-28T11:39:41.989Z",
-  "count": 208,
+  "generated": "2026-06-28T13:03:56.898Z",
+  "count": 213,
   "events": [
+    {
+      "id": "ci41497104",
+      "magnitude": 0.9,
+      "depth": 4,
+      "lat": 33.517,
+      "lon": -116.745,
+      "place": "8 km WSW of Anza, CA",
+      "time": "2026-06-28T12:56:43.930Z"
+    },
+    {
+      "id": "nn00920870",
+      "magnitude": 1.8,
+      "depth": 15,
+      "lat": 39.428,
+      "lon": -117.578,
+      "place": "44 km W of Austin, Nevada",
+      "time": "2026-06-28T12:46:42.520Z"
+    },
+    {
+      "id": "ci41497096",
+      "magnitude": 0.6,
+      "depth": 14,
+      "lat": 33.514,
+      "lon": -116.553,
+      "place": "12 km ESE of Anza, CA",
+      "time": "2026-06-28T12:38:53.670Z"
+    },
+    {
+      "id": "aka2026mrserw",
+      "magnitude": 1.5,
+      "depth": 45,
+      "lat": 62.101,
+      "lon": -149.567,
+      "place": "16 km ESE of Susitna North, Alaska",
+      "time": "2026-06-28T12:08:22.146Z"
+    },
+    {
+      "id": "tx2026mpridy",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 32.033,
+      "lon": -103.28,
+      "place": "12 km SW of Jal, New Mexico",
+      "time": "2026-06-28T12:06:03.883Z"
+    },
+    {
+      "id": "aka2026mrrzew",
+      "magnitude": 1.3,
+      "depth": 13,
+      "lat": 61.147,
+      "lon": -146.542,
+      "place": "10 km W of Valdez, Alaska",
+      "time": "2026-06-28T12:02:00.688Z"
+    },
+    {
+      "id": "ci41497088",
+      "magnitude": 0.7,
+      "depth": 9,
+      "lat": 35.861,
+      "lon": -117.7,
+      "place": "20 km ESE of Little Lake, CA",
+      "time": "2026-06-28T11:50:11.100Z"
+    },
+    {
+      "id": "ci41497080",
+      "magnitude": 1.5,
+      "depth": 10,
+      "lat": 34.934,
+      "lon": -119.442,
+      "place": "14 km SSW of Maricopa, CA",
+      "time": "2026-06-28T11:47:26.360Z"
+    },
+    {
+      "id": "us6000t8ta",
+      "magnitude": 4.5,
+      "depth": 166,
+      "lat": -7.38,
+      "lon": 128.695,
+      "place": "225 km NE of Lospalos, Timor Leste",
+      "time": "2026-06-28T11:35:31.479Z"
+    },
     {
       "id": "aka2026mrqxyc",
       "magnitude": 1.9,
@@ -426,6 +507,15 @@
       "time": "2026-06-28T05:58:58.080Z"
     },
     {
+      "id": "pr2026179001",
+      "magnitude": 3.8,
+      "depth": 15,
+      "lat": 19.635,
+      "lon": -63.769,
+      "place": "173 km NNW of The Valley, Anguilla",
+      "time": "2026-06-28T05:58:40.640Z"
+    },
+    {
       "id": "us6000t8si",
       "magnitude": 4.5,
       "depth": 52,
@@ -694,6 +784,15 @@
       "lon": -158.06,
       "place": "38 km SSE of Chignik, Alaska",
       "time": "2026-06-28T02:20:55.970Z"
+    },
+    {
+      "id": "pr2026179000",
+      "magnitude": 4.1,
+      "depth": 59,
+      "lat": 19.663,
+      "lon": -63.504,
+      "place": "166 km NNW of The Valley, Anguilla",
+      "time": "2026-06-28T02:06:20.980Z"
     },
     {
       "id": "tx2026moxliy",
@@ -1153,6 +1252,15 @@
       "lon": -159.905,
       "place": "27 km WSW of Ivanof Bay, Alaska",
       "time": "2026-06-27T21:05:14.032Z"
+    },
+    {
+      "id": "us6000t8qt",
+      "magnitude": 4.1,
+      "depth": 404,
+      "lat": -17.065,
+      "lon": -177.288,
+      "place": "Fiji region",
+      "time": "2026-06-27T20:59:34.190Z"
     },
     {
       "id": "nc75385401",
@@ -1810,69 +1918,6 @@
       "lon": -165.965,
       "place": "12 km W of Akutan, Alaska",
       "time": "2026-06-27T13:09:09.230Z"
-    },
-    {
-      "id": "hv74992177",
-      "magnitude": 2.3,
-      "depth": 6,
-      "lat": 19.317,
-      "lon": -155.215,
-      "place": "14 km S of Volcano, Hawaii",
-      "time": "2026-06-27T12:57:55.960Z"
-    },
-    {
-      "id": "aka2026mpxpcf",
-      "magnitude": 1.5,
-      "depth": 110,
-      "lat": 62.144,
-      "lon": -152.065,
-      "place": "38 km WNW of Skwentna, Alaska",
-      "time": "2026-06-27T12:50:59.672Z"
-    },
-    {
-      "id": "us6000t8p4",
-      "magnitude": 4.2,
-      "depth": 115,
-      "lat": -22.77,
-      "lon": -69.15,
-      "place": "41 km SW of Calama, Chile",
-      "time": "2026-06-27T12:50:52.230Z"
-    },
-    {
-      "id": "us6000t8p3",
-      "magnitude": 4.5,
-      "depth": 531,
-      "lat": -17.653,
-      "lon": -178.839,
-      "place": "200 km ENE of Levuka, Fiji",
-      "time": "2026-06-27T12:35:16.218Z"
-    },
-    {
-      "id": "hv74992162",
-      "magnitude": 2.6,
-      "depth": 30,
-      "lat": 19.132,
-      "lon": -155.362,
-      "place": "14 km ESE of Pāhala, Hawaii",
-      "time": "2026-06-27T12:29:58.430Z"
-    },
-    {
-      "id": "tx2026mnuxex",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 31.414,
-      "lon": -103.56,
-      "place": "5 km NNW of Lindsay, Texas",
-      "time": "2026-06-27T11:44:54.425Z"
-    },
-    {
-      "id": "us6000t8p0",
-      "magnitude": 4.3,
-      "depth": 125,
-      "lat": -21.405,
-      "lon": -68.699,
-      "place": "50 km WSW of Ollagüe, Chile",
-      "time": "2026-06-27T11:39:44.765Z"
     }
   ]
 }
