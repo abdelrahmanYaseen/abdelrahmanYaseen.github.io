@@ -1,7 +1,34 @@
 {
-  "generated": "2026-06-30T21:51:53.599Z",
-  "count": 219,
+  "generated": "2026-06-30T23:02:11.467Z",
+  "count": 220,
   "events": [
+    {
+      "id": "hv74994167",
+      "magnitude": 1.7,
+      "depth": 13,
+      "lat": 19.64,
+      "lon": -155.976,
+      "place": "2 km E of Kailua-Kona, Hawaii",
+      "time": "2026-06-30T22:55:13.580Z"
+    },
+    {
+      "id": "aka2026mwfcfb",
+      "magnitude": 1.6,
+      "depth": 13,
+      "lat": 58.655,
+      "lon": -154.397,
+      "place": "90 km SSE of Kokhanok, Alaska",
+      "time": "2026-06-30T22:34:03.123Z"
+    },
+    {
+      "id": "ci41284415",
+      "magnitude": 0.6,
+      "depth": 10,
+      "lat": 35.782,
+      "lon": -117.599,
+      "place": "18 km W of Searles Valley, CA",
+      "time": "2026-06-30T22:30:46.420Z"
+    },
     {
       "id": "nn00920970",
       "magnitude": 1.8,
@@ -12,6 +39,15 @@
       "time": "2026-06-30T21:38:00.356Z"
     },
     {
+      "id": "us6000t9ad",
+      "magnitude": 4.9,
+      "depth": 76,
+      "lat": 5.653,
+      "lon": 125.337,
+      "place": "8 km SE of Pangyan, Philippines",
+      "time": "2026-06-30T21:34:53.425Z"
+    },
+    {
       "id": "nn00920969",
       "magnitude": 1.7,
       "depth": 16,
@@ -19,6 +55,15 @@
       "lon": -115.238,
       "place": "1 km SSE of Enterprise, Nevada",
       "time": "2026-06-30T21:31:04.468Z"
+    },
+    {
+      "id": "pr71522138",
+      "magnitude": 3.4,
+      "depth": 59,
+      "lat": 17.9,
+      "lon": -68.547,
+      "place": "53 km S of Boca de Yuma, Dominican Republic",
+      "time": "2026-06-30T21:27:11.440Z"
     },
     {
       "id": "aka2026mwcoko",
@@ -40,12 +85,12 @@
     },
     {
       "id": "tx2026mualut",
-      "magnitude": 1.6,
+      "magnitude": 1.8,
       "depth": 5,
-      "lat": 31.991,
-      "lon": -102.247,
-      "place": "12 km ESE of Gardendale, Texas",
-      "time": "2026-06-30T20:59:32.724Z"
+      "lat": 31.986,
+      "lon": -102.229,
+      "place": "14 km W of Midland, Texas",
+      "time": "2026-06-30T20:59:32.540Z"
     },
     {
       "id": "aka2026mwbjwv",
@@ -264,15 +309,6 @@
       "time": "2026-06-30T18:31:08.230Z"
     },
     {
-      "id": "aka2026mvwsws",
-      "magnitude": 0.6,
-      "depth": 5,
-      "lat": 58.171,
-      "lon": -155.332,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": "2026-06-30T18:23:14.683Z"
-    },
-    {
       "id": "ci41284287",
       "magnitude": 1.2,
       "depth": -2,
@@ -334,15 +370,6 @@
       "lon": -150.997,
       "place": "15 km ESE of Kasilof, Alaska",
       "time": "2026-06-30T17:42:35.365Z"
-    },
-    {
-      "id": "aka2026mvvcuh",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 60.402,
-      "lon": -152.972,
-      "place": "77 km ENE of Port Alsworth, Alaska",
-      "time": "2026-06-30T17:34:41.738Z"
     },
     {
       "id": "tx2026mttktz",
@@ -1030,12 +1057,12 @@
     },
     {
       "id": "aka2026mvgffp",
-      "magnitude": 1.5,
-      "depth": 30,
-      "lat": 61.806,
-      "lon": -149.647,
-      "place": "20 km N of Meadow Lakes, Alaska",
-      "time": "2026-06-30T10:07:43.189Z"
+      "magnitude": 1.8,
+      "depth": 33,
+      "lat": 61.819,
+      "lon": -149.621,
+      "place": "21 km N of Meadow Lakes, Alaska",
+      "time": "2026-06-30T10:07:43.577Z"
     },
     {
       "id": "nc75386766",
@@ -1083,6 +1110,24 @@
       "time": "2026-06-30T09:21:10.540Z"
     },
     {
+      "id": "aka2026mvehaf",
+      "magnitude": 1.5,
+      "depth": 142,
+      "lat": 60.33,
+      "lon": -153.058,
+      "place": "71 km E of Port Alsworth, Alaska",
+      "time": "2026-06-30T09:09:49.385Z"
+    },
+    {
+      "id": "aka2026mvefxl",
+      "magnitude": 2.5,
+      "depth": 5,
+      "lat": 52.058,
+      "lon": -174.754,
+      "place": "40 km WSW of Atka, Alaska",
+      "time": "2026-06-30T09:08:32.200Z"
+    },
+    {
       "id": "aka2026mvdkas",
       "magnitude": 2.8,
       "depth": 5,
@@ -1093,12 +1138,12 @@
     },
     {
       "id": "aka2026mvdicx",
-      "magnitude": 1.9,
-      "depth": 119,
-      "lat": 59.834,
-      "lon": -153.034,
+      "magnitude": 2,
+      "depth": 122,
+      "lat": 59.838,
+      "lon": -153.037,
       "place": "60 km E of Pedro Bay, Alaska",
-      "time": "2026-06-30T08:41:04.943Z"
+      "time": "2026-06-30T08:41:04.623Z"
     },
     {
       "id": "us6000t961",
@@ -1443,6 +1488,24 @@
       "time": "2026-06-30T04:41:41.040Z"
     },
     {
+      "id": "av94279193",
+      "magnitude": -0.7,
+      "depth": 4,
+      "lat": 60.012,
+      "lon": -153.063,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": "2026-06-30T04:37:00.350Z"
+    },
+    {
+      "id": "av94279183",
+      "magnitude": -0.9,
+      "depth": 1,
+      "lat": 60.052,
+      "lon": -153.072,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": "2026-06-30T04:33:10.190Z"
+    },
+    {
       "id": "nm60505823",
       "magnitude": 2,
       "depth": 2,
@@ -1585,6 +1648,51 @@
       "lon": -159.915,
       "place": "121 km SSE of Sand Point, Alaska",
       "time": "2026-06-30T02:25:12.752Z"
+    },
+    {
+      "id": "av93062929",
+      "magnitude": -0.7,
+      "depth": 13,
+      "lat": 54.124,
+      "lon": -165.975,
+      "place": "13 km W of Akutan, Alaska",
+      "time": "2026-06-30T02:21:36.610Z"
+    },
+    {
+      "id": "av93062919",
+      "magnitude": -0.5,
+      "depth": 14,
+      "lat": 54.084,
+      "lon": -165.982,
+      "place": "14 km WSW of Akutan, Alaska",
+      "time": "2026-06-30T02:15:23.270Z"
+    },
+    {
+      "id": "av93062904",
+      "magnitude": 0,
+      "depth": 15,
+      "lat": 54.087,
+      "lon": -166.027,
+      "place": "17 km WSW of Akutan, Alaska",
+      "time": "2026-06-30T02:11:13.660Z"
+    },
+    {
+      "id": "av93062899",
+      "magnitude": -0.2,
+      "depth": 10,
+      "lat": 54.126,
+      "lon": -165.974,
+      "place": "13 km W of Akutan, Alaska",
+      "time": "2026-06-30T02:03:34.160Z"
+    },
+    {
+      "id": "av93062894",
+      "magnitude": -0.8,
+      "depth": 10,
+      "lat": 54.126,
+      "lon": -165.972,
+      "place": "12 km W of Akutan, Alaska",
+      "time": "2026-06-30T02:00:12.480Z"
     },
     {
       "id": "ci41284007",
@@ -1873,105 +1981,6 @@
       "lon": -117.718,
       "place": "18 km ESE of Little Lake, CA",
       "time": "2026-06-29T23:06:02.710Z"
-    },
-    {
-      "id": "aka2026mujztb",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 64.969,
-      "lon": -147.504,
-      "place": "5 km ENE of Fox, Alaska",
-      "time": "2026-06-29T23:01:40.696Z"
-    },
-    {
-      "id": "tx2026msigqw",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 31.668,
-      "lon": -104.376,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": "2026-06-29T22:47:00.888Z"
-    },
-    {
-      "id": "aka2026mujguq",
-      "magnitude": 3.1,
-      "depth": 8,
-      "lat": 61.672,
-      "lon": -148.254,
-      "place": "17 km SE of Chickaloon, Alaska",
-      "time": "2026-06-29T22:39:50.483Z"
-    },
-    {
-      "id": "pr71522023",
-      "magnitude": 2.1,
-      "depth": 9,
-      "lat": 17.982,
-      "lon": -66.995,
-      "place": "5 km E of La Parguera, Puerto Rico",
-      "time": "2026-06-29T22:27:38.220Z"
-    },
-    {
-      "id": "aka2026muiulm",
-      "magnitude": 1.2,
-      "depth": 113,
-      "lat": 59.701,
-      "lon": -153.295,
-      "place": "46 km ESE of Pedro Bay, Alaska",
-      "time": "2026-06-29T22:25:35.968Z"
-    },
-    {
-      "id": "ci41283895",
-      "magnitude": 0.9,
-      "depth": 4,
-      "lat": 34.212,
-      "lon": -117.08,
-      "place": "3 km E of Running Springs, CA",
-      "time": "2026-06-29T22:24:46.080Z"
-    },
-    {
-      "id": "nc75386556",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.791,
-      "lon": -122.768,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": "2026-06-29T22:11:02.940Z"
-    },
-    {
-      "id": "us6000t939",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 44.882,
-      "lon": 151.808,
-      "place": "east of the Kuril Islands",
-      "time": "2026-06-29T22:06:46.596Z"
-    },
-    {
-      "id": "nc75386536",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.773,
-      "lon": -122.725,
-      "place": "3 km E of The Geysers, CA",
-      "time": "2026-06-29T21:58:19.430Z"
-    },
-    {
-      "id": "av94278638",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 52.815,
-      "lon": -169.891,
-      "place": "70 km WSW of Nikolski, Alaska",
-      "time": "2026-06-29T21:56:40.030Z"
-    },
-    {
-      "id": "nc75386531",
-      "magnitude": 0.4,
-      "depth": 9,
-      "lat": 38.869,
-      "lon": -122.813,
-      "place": "9 km NW of Cobb, CA",
-      "time": "2026-06-29T21:52:41.220Z"
     }
   ]
 }
