@@ -1,7 +1,115 @@
 {
-  "generated": "2026-07-03T14:36:35.715Z",
+  "generated": "2026-07-03T16:11:09.466Z",
   "count": 190,
   "events": [
+    {
+      "id": "ci41286039",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 33.077,
+      "lon": -115.881,
+      "place": "25 km ESE of Ocotillo Wells, CA",
+      "time": "2026-07-03T16:06:11.560Z"
+    },
+    {
+      "id": "uw714040272",
+      "magnitude": 2.3,
+      "depth": 28,
+      "lat": 47.765,
+      "lon": -122.453,
+      "place": "5 km SE of Kingston, Washington",
+      "time": "2026-07-03T15:55:19.640Z"
+    },
+    {
+      "id": "ci41286031",
+      "magnitude": 1,
+      "depth": 12,
+      "lat": 33.484,
+      "lon": -116.502,
+      "place": "18 km ESE of Anza, CA",
+      "time": "2026-07-03T15:51:08.410Z"
+    },
+    {
+      "id": "ci41286023",
+      "magnitude": 1.3,
+      "depth": 12,
+      "lat": 33.482,
+      "lon": -116.509,
+      "place": "17 km ESE of Anza, CA",
+      "time": "2026-07-03T15:50:49.480Z"
+    },
+    {
+      "id": "aka2026nbfekj",
+      "magnitude": 1.4,
+      "depth": 76,
+      "lat": 61.025,
+      "lon": -151.673,
+      "place": "29 km W of Tyonek, Alaska",
+      "time": "2026-07-03T15:34:39.372Z"
+    },
+    {
+      "id": "nc75388656",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.811,
+      "lon": -122.791,
+      "place": "5 km NW of The Geysers, CA",
+      "time": "2026-07-03T15:33:59.580Z"
+    },
+    {
+      "id": "ci41286015",
+      "magnitude": 1.5,
+      "depth": 4,
+      "lat": 34.215,
+      "lon": -117.077,
+      "place": "3 km ENE of Running Springs, CA",
+      "time": "2026-07-03T15:07:24.660Z"
+    },
+    {
+      "id": "nc75388641",
+      "magnitude": 1.9,
+      "depth": 24,
+      "lat": 40.3,
+      "lon": -124.557,
+      "place": "23 km W of Petrolia, CA",
+      "time": "2026-07-03T14:58:25.140Z"
+    },
+    {
+      "id": "nc75388631",
+      "magnitude": 1.2,
+      "depth": 4,
+      "lat": 37.13,
+      "lon": -121.44,
+      "place": "16 km ENE of San Martin, CA",
+      "time": "2026-07-03T14:43:51.870Z"
+    },
+    {
+      "id": "nc75388626",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 39.312,
+      "lon": -123.232,
+      "place": "6 km NNW of Redwood Valley, CA",
+      "time": "2026-07-03T14:42:35.260Z"
+    },
+    {
+      "id": "ci41286007",
+      "magnitude": 0.8,
+      "depth": 12,
+      "lat": 34.031,
+      "lon": -117.204,
+      "place": "3 km SW of Redlands, CA",
+      "time": "2026-07-03T14:35:55.740Z"
+    },
+    {
+      "id": "tx2026mzawxq",
+      "magnitude": 0.6,
+      "depth": 6,
+      "lat": 31.876,
+      "lon": -101.911,
+      "place": "20 km SE of Midland, Texas",
+      "time": "2026-07-03T14:34:50.294Z"
+    },
     {
       "id": "ci41285999",
       "magnitude": 1.4,
@@ -114,10 +222,10 @@
       "id": "ci41285967",
       "magnitude": 1.4,
       "depth": 2,
-      "lat": 34.584,
-      "lon": -118.885,
-      "place": "21 km NNW of Piru, CA",
-      "time": "2026-07-03T13:38:39.350Z"
+      "lat": 34.583,
+      "lon": -118.887,
+      "place": "20 km NNW of Piru, CA",
+      "time": "2026-07-03T13:38:39.300Z"
     },
     {
       "id": "ci41285959",
@@ -154,15 +262,6 @@
       "lon": -117.46,
       "place": "15 km SSW of Searles Valley, CA",
       "time": "2026-07-03T13:16:03.470Z"
-    },
-    {
-      "id": "tx2026myxxme",
-      "magnitude": 1.5,
-      "depth": 0,
-      "lat": 30.894,
-      "lon": -103.713,
-      "place": "10 km SSE of Balmorhea, Texas",
-      "time": "2026-07-03T13:04:55.916Z"
     },
     {
       "id": "aka2026nbaaik",
@@ -352,6 +451,15 @@
       "lon": -120.821,
       "place": "11 km WSW of Templeton, CA",
       "time": "2026-07-03T09:44:32.440Z"
+    },
+    {
+      "id": "us6000t9tt",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 39.751,
+      "lon": 72.921,
+      "place": "59 km ENE of Kyzyl-Eshme, Kyrgyzstan",
+      "time": "2026-07-03T09:35:53.629Z"
     },
     {
       "id": "nc75388506",
@@ -896,11 +1004,11 @@
     {
       "id": "ci41285823",
       "magnitude": 1.4,
-      "depth": 4,
-      "lat": 34.586,
-      "lon": -118.886,
-      "place": "21 km NNW of Piru, CA",
-      "time": "2026-07-03T03:02:11.700Z"
+      "depth": 2,
+      "lat": 34.583,
+      "lon": -118.885,
+      "place": "20 km NNW of Piru, CA",
+      "time": "2026-07-03T03:02:11.520Z"
     },
     {
       "id": "ci41285815",
@@ -1603,114 +1711,6 @@
       "lon": -67.043,
       "place": "1 km N of San Germán, Puerto Rico",
       "time": "2026-07-02T16:13:02.280Z"
-    },
-    {
-      "id": "ci41285551",
-      "magnitude": 0.7,
-      "depth": 5,
-      "lat": 33.265,
-      "lon": -116.129,
-      "place": "14 km N of Ocotillo Wells, CA",
-      "time": "2026-07-02T15:56:39.470Z"
-    },
-    {
-      "id": "aka2026mzjshm",
-      "magnitude": 2.6,
-      "depth": 120,
-      "lat": 63.667,
-      "lon": -149.269,
-      "place": "19 km WSW of Denali Park, Alaska",
-      "time": "2026-07-02T15:51:19.530Z"
-    },
-    {
-      "id": "uw714040531",
-      "magnitude": 0.7,
-      "depth": 16,
-      "lat": 47.411,
-      "lon": -122.827,
-      "place": "2 km N of Allyn, Washington",
-      "time": "2026-07-02T15:45:41.960Z"
-    },
-    {
-      "id": "nc75388051",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.807,
-      "lon": -122.818,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": "2026-07-02T15:41:46.860Z"
-    },
-    {
-      "id": "ci41285535",
-      "magnitude": 1.3,
-      "depth": 7,
-      "lat": 32.933,
-      "lon": -115.54,
-      "place": "5 km S of Brawley, CA",
-      "time": "2026-07-02T15:17:13.280Z"
-    },
-    {
-      "id": "aka2026mzindd",
-      "magnitude": 1,
-      "depth": 72,
-      "lat": 62.502,
-      "lon": -150.805,
-      "place": "2 km WNW of Petersville, Alaska",
-      "time": "2026-07-02T15:15:22.735Z"
-    },
-    {
-      "id": "nc75388046",
-      "magnitude": 1.3,
-      "depth": 8,
-      "lat": 39.423,
-      "lon": -123.301,
-      "place": "5 km ENE of Willits, CA",
-      "time": "2026-07-02T15:04:27.240Z"
-    },
-    {
-      "id": "hv74995941",
-      "magnitude": 1.3,
-      "depth": 26,
-      "lat": 19.386,
-      "lon": -155.241,
-      "place": "6 km S of Volcano, Hawaii",
-      "time": "2026-07-02T14:48:50.720Z"
-    },
-    {
-      "id": "ci41285511",
-      "magnitude": 1.2,
-      "depth": 7,
-      "lat": 33.267,
-      "lon": -116.134,
-      "place": "14 km N of Ocotillo Wells, CA",
-      "time": "2026-07-02T14:48:23.190Z"
-    },
-    {
-      "id": "ci41285503",
-      "magnitude": 2.3,
-      "depth": 7,
-      "lat": 35.302,
-      "lon": -117.804,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-02T14:44:57.010Z"
-    },
-    {
-      "id": "us6000t9mw",
-      "magnitude": 4.7,
-      "depth": 110,
-      "lat": 24.749,
-      "lon": 122.616,
-      "place": "49 km NW of Yonakuni, Japan",
-      "time": "2026-07-02T14:44:30.231Z"
-    },
-    {
-      "id": "nc75388026",
-      "magnitude": 0.2,
-      "depth": 3,
-      "lat": 38.803,
-      "lon": -122.782,
-      "place": "4 km NW of The Geysers, CA",
-      "time": "2026-07-02T14:36:36.530Z"
     }
   ]
 }
