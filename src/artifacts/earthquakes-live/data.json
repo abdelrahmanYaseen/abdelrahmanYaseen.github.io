@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-03T22:39:45.370Z",
+  "generated": "2026-07-03T23:40:14.340Z",
   "count": 203,
   "events": [
+    {
+      "id": "hv74996561",
+      "magnitude": 1.8,
+      "depth": 28,
+      "lat": 19.127,
+      "lon": -155.5,
+      "place": "8 km SSW of Pāhala, Hawaii",
+      "time": "2026-07-03T23:17:59.940Z"
+    },
+    {
+      "id": "aka2026nbtpaw",
+      "magnitude": 1.6,
+      "depth": 66,
+      "lat": 60.675,
+      "lon": -151.216,
+      "place": "4 km ESE of Nikiski, Alaska",
+      "time": "2026-07-03T22:46:42.837Z"
+    },
+    {
+      "id": "ci41286199",
+      "magnitude": 0.8,
+      "depth": 9,
+      "lat": 33.378,
+      "lon": -116.406,
+      "place": "14 km NNW of Borrego Springs, CA",
+      "time": "2026-07-03T22:44:19.260Z"
+    },
+    {
+      "id": "aka2026nbtjwa",
+      "magnitude": 2,
+      "depth": 5,
+      "lat": 58.785,
+      "lon": -150.16,
+      "place": "108 km SSE of Halibut Cove, Alaska",
+      "time": "2026-07-03T22:40:47.812Z"
+    },
     {
       "id": "aka2026nbtbsw",
       "magnitude": 1.6,
@@ -139,12 +175,12 @@
     },
     {
       "id": "tx2026mzmscy",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 32.123,
-      "lon": -102.184,
-      "place": "17 km NW of Midland, Texas",
-      "time": "2026-07-03T20:31:23.711Z"
+      "magnitude": 0.9,
+      "depth": 5,
+      "lat": 32.115,
+      "lon": -102.17,
+      "place": "15 km NNW of Midland, Texas",
+      "time": "2026-07-03T20:31:23.599Z"
     },
     {
       "id": "us6000t9zw",
@@ -334,6 +370,15 @@
       "lon": -122.193,
       "place": "13 km NE of Napa, CA",
       "time": "2026-07-03T18:34:54.480Z"
+    },
+    {
+      "id": "tx2026mzitgp",
+      "magnitude": 1.1,
+      "depth": 6,
+      "lat": 32.428,
+      "lon": -102.155,
+      "place": "37 km ENE of McKinney Acres, Texas",
+      "time": "2026-07-03T18:32:12.049Z"
     },
     {
       "id": "aka2026nbkwiu",
@@ -1783,51 +1828,6 @@
       "lon": -122.846,
       "place": "9 km WNW of The Geysers, CA",
       "time": "2026-07-02T23:40:55.650Z"
-    },
-    {
-      "id": "nc75388281",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 39.295,
-      "lon": -123.24,
-      "place": "4 km NW of Redwood Valley, CA",
-      "time": "2026-07-02T23:34:42.440Z"
-    },
-    {
-      "id": "tx2026mxwnqk",
-      "magnitude": 0.6,
-      "depth": 8,
-      "lat": 32.255,
-      "lon": -101.916,
-      "place": "18 km NW of Stanton, Texas",
-      "time": "2026-07-02T23:18:53.271Z"
-    },
-    {
-      "id": "nc75388271",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.825,
-      "lon": -122.803,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-02T23:06:33.490Z"
-    },
-    {
-      "id": "ci41285751",
-      "magnitude": 0.8,
-      "depth": 8,
-      "lat": 33.428,
-      "lon": -116.626,
-      "place": "15 km SSE of Anza, CA",
-      "time": "2026-07-02T22:58:06.510Z"
-    },
-    {
-      "id": "nc75388266",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.831,
-      "lon": -122.794,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-07-02T22:41:44.140Z"
     }
   ]
 }
