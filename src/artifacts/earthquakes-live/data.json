@@ -1,7 +1,196 @@
 {
-  "generated": "2026-07-04T16:29:38.520Z",
-  "count": 220,
+  "generated": "2026-07-04T17:34:18.119Z",
+  "count": 232,
   "events": [
+    {
+      "id": "ci41286631",
+      "magnitude": 2.4,
+      "depth": 17,
+      "lat": 35.386,
+      "lon": -117.94,
+      "place": "28 km W of Johannesburg, CA",
+      "time": "2026-07-04T17:26:51.140Z"
+    },
+    {
+      "id": "ci41286623",
+      "magnitude": 2.4,
+      "depth": 4,
+      "lat": 35.298,
+      "lon": -117.808,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-07-04T17:26:50.310Z"
+    },
+    {
+      "id": "nc75389381",
+      "magnitude": 1.5,
+      "depth": 8,
+      "lat": 37.861,
+      "lon": -121.829,
+      "place": "8 km ENE of Blackhawk, CA",
+      "time": "2026-07-04T17:24:49.220Z"
+    },
+    {
+      "id": "hv74996976",
+      "magnitude": 2,
+      "depth": 28,
+      "lat": 19.286,
+      "lon": -155.419,
+      "place": "11 km NE of Pāhala, Hawaii",
+      "time": "2026-07-04T17:22:04.480Z"
+    },
+    {
+      "id": "aka2026ndestx",
+      "magnitude": 2.1,
+      "depth": 62,
+      "lat": 55.657,
+      "lon": -159.206,
+      "place": "28 km S of Perryville, Alaska",
+      "time": "2026-07-04T17:20:31.478Z"
+    },
+    {
+      "id": "ci41286615",
+      "magnitude": 1.4,
+      "depth": 2,
+      "lat": 36.176,
+      "lon": -118.024,
+      "place": "12 km S of Olancha, CA",
+      "time": "2026-07-04T17:18:18.780Z"
+    },
+    {
+      "id": "ci41286607",
+      "magnitude": 1.2,
+      "depth": 7,
+      "lat": 35.296,
+      "lon": -117.803,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-07-04T17:16:22.480Z"
+    },
+    {
+      "id": "nc75389371",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.835,
+      "lon": -122.787,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-07-04T17:07:08.020Z"
+    },
+    {
+      "id": "us6000ta53",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": 29.701,
+      "lon": 142.059,
+      "place": "Izu Islands, Japan region",
+      "time": "2026-07-04T17:03:59.362Z"
+    },
+    {
+      "id": "ci41286591",
+      "magnitude": 0.4,
+      "depth": 6,
+      "lat": 35.811,
+      "lon": -117.651,
+      "place": "21 km N of Ridgecrest, CA",
+      "time": "2026-07-04T16:56:43.940Z"
+    },
+    {
+      "id": "ci41286599",
+      "magnitude": 0.4,
+      "depth": 6,
+      "lat": 33.445,
+      "lon": -116.64,
+      "place": "13 km SSE of Anza, CA",
+      "time": "2026-07-04T16:56:42.430Z"
+    },
+    {
+      "id": "ci41286583",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 35.299,
+      "lon": -117.806,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-07-04T16:55:17.800Z"
+    },
+    {
+      "id": "nc75389356",
+      "magnitude": 2,
+      "depth": 6,
+      "lat": 37.491,
+      "lon": -118.841,
+      "place": "16 km WSW of Toms Place, CA",
+      "time": "2026-07-04T16:53:04.590Z"
+    },
+    {
+      "id": "aka2026nddsnw",
+      "magnitude": 2.3,
+      "depth": 44,
+      "lat": 60.979,
+      "lon": -150.175,
+      "place": "28 km ENE of Point Possession, Alaska",
+      "time": "2026-07-04T16:50:29.076Z"
+    },
+    {
+      "id": "nc75389351",
+      "magnitude": 1.4,
+      "depth": 0,
+      "lat": 36.479,
+      "lon": -121.089,
+      "place": "8 km SE of Pinnacles, CA",
+      "time": "2026-07-04T16:49:51.810Z"
+    },
+    {
+      "id": "ci41286575",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 33.163,
+      "lon": -116.025,
+      "place": "10 km ENE of Ocotillo Wells, CA",
+      "time": "2026-07-04T16:44:25.020Z"
+    },
+    {
+      "id": "nc75389346",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.821,
+      "lon": -122.813,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-07-04T16:36:18.150Z"
+    },
+    {
+      "id": "nc75389341",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.821,
+      "lon": -122.812,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-07-04T16:35:33.130Z"
+    },
+    {
+      "id": "nc75389326",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.849,
+      "lon": -122.817,
+      "place": "9 km WNW of Cobb, CA",
+      "time": "2026-07-04T16:32:04.660Z"
+    },
+    {
+      "id": "aka2026nddcax",
+      "magnitude": 0.6,
+      "depth": 4,
+      "lat": 58.272,
+      "lon": -154.948,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": "2026-07-04T16:31:15.281Z"
+    },
+    {
+      "id": "ci41286567",
+      "magnitude": 0.7,
+      "depth": 13,
+      "lat": 33.645,
+      "lon": -116.714,
+      "place": "11 km S of Idyllwild, CA",
+      "time": "2026-07-04T16:30:46.290Z"
+    },
     {
       "id": "nc75389321",
       "magnitude": 0.7,
@@ -10,6 +199,15 @@
       "lon": -122.814,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-07-04T16:19:44.970Z"
+    },
+    {
+      "id": "us6000ta4u",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": 3.21,
+      "lon": -84.216,
+      "place": "off the coast of Central America",
+      "time": "2026-07-04T16:07:07.817Z"
     },
     {
       "id": "ci41286559",
@@ -76,12 +274,12 @@
     },
     {
       "id": "tx2026naxwcl",
-      "magnitude": 1.5,
-      "depth": 4,
-      "lat": 31.959,
-      "lon": -103.859,
-      "place": "35 km SE of Malaga, New Mexico",
-      "time": "2026-07-04T15:12:17.533Z"
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 31.946,
+      "lon": -103.838,
+      "place": "34 km NW of Mentone, Texas",
+      "time": "2026-07-04T15:12:17.432Z"
     },
     {
       "id": "ci41286535",
@@ -1891,96 +2089,6 @@
       "lon": -117.075,
       "place": "3 km ENE of Running Springs, CA",
       "time": "2026-07-03T17:34:45.610Z"
-    },
-    {
-      "id": "ci41286103",
-      "magnitude": 2,
-      "depth": 4,
-      "lat": 34.215,
-      "lon": -117.076,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": "2026-07-03T17:31:02.800Z"
-    },
-    {
-      "id": "ci41286095",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 34.216,
-      "lon": -117.074,
-      "place": "3 km ENE of Running Springs, CA",
-      "time": "2026-07-03T17:30:21.610Z"
-    },
-    {
-      "id": "ci41286087",
-      "magnitude": 0.4,
-      "depth": 9,
-      "lat": 33.541,
-      "lon": -116.729,
-      "place": "5 km WSW of Anza, CA",
-      "time": "2026-07-03T17:23:50.500Z"
-    },
-    {
-      "id": "aka2026nbinie",
-      "magnitude": 1,
-      "depth": 5,
-      "lat": 58.421,
-      "lon": -154.256,
-      "place": "88 km WNW of Aleneva, Alaska",
-      "time": "2026-07-03T17:14:53.473Z"
-    },
-    {
-      "id": "us6000t9yy",
-      "magnitude": 4.8,
-      "depth": 42,
-      "lat": -9.555,
-      "lon": 119.422,
-      "place": "24 km SE of Tambolaka, Indonesia",
-      "time": "2026-07-03T17:14:52.701Z"
-    },
-    {
-      "id": "aka2026nbiino",
-      "magnitude": 1.9,
-      "depth": 93,
-      "lat": 59.344,
-      "lon": -152.871,
-      "place": "54 km W of Nanwalek, Alaska",
-      "time": "2026-07-03T17:09:23.327Z"
-    },
-    {
-      "id": "ci41286079",
-      "magnitude": 0.5,
-      "depth": 15,
-      "lat": 33.681,
-      "lon": -116.792,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": "2026-07-03T17:07:22.850Z"
-    },
-    {
-      "id": "nc75388696",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.795,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-07-03T17:04:11.200Z"
-    },
-    {
-      "id": "ci41286063",
-      "magnitude": 1.2,
-      "depth": -1,
-      "lat": 34.639,
-      "lon": -117.306,
-      "place": "11 km ENE of Adelanto, CA",
-      "time": "2026-07-03T16:54:20.050Z"
-    },
-    {
-      "id": "tx2026mzfkzi",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 32.097,
-      "lon": -101.933,
-      "place": "14 km WSW of Stanton, Texas",
-      "time": "2026-07-03T16:51:58.135Z"
     }
   ]
 }
