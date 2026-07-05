@@ -1,7 +1,106 @@
 {
-  "generated": "2026-07-05T15:34:53.516Z",
-  "count": 241,
+  "generated": "2026-07-05T16:40:47.223Z",
+  "count": 242,
   "events": [
+    {
+      "id": "ci41287439",
+      "magnitude": 1.9,
+      "depth": 11,
+      "lat": 32.979,
+      "lon": -115.536,
+      "place": "1 km W of Brawley, CA",
+      "time": "2026-07-05T16:31:18.110Z"
+    },
+    {
+      "id": "tx2026ncwczj",
+      "magnitude": 1.4,
+      "depth": 4,
+      "lat": 31.647,
+      "lon": -104.334,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": "2026-07-05T16:28:52.886Z"
+    },
+    {
+      "id": "nc75390111",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 38.823,
+      "lon": -122.812,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-07-05T16:27:59.610Z"
+    },
+    {
+      "id": "ci41287431",
+      "magnitude": 2.8,
+      "depth": 9,
+      "lat": 32.954,
+      "lon": -115.783,
+      "place": "18 km WSW of Westmorland, CA",
+      "time": "2026-07-05T16:24:05.480Z"
+    },
+    {
+      "id": "nc75390106",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.803,
+      "lon": -122.779,
+      "place": "3 km NW of The Geysers, CA",
+      "time": "2026-07-05T16:22:13.880Z"
+    },
+    {
+      "id": "hv74997541",
+      "magnitude": 1.7,
+      "depth": 38,
+      "lat": 19.02,
+      "lon": -155.488,
+      "place": "11 km ESE of Naalehu, Hawaii",
+      "time": "2026-07-05T16:14:04.090Z"
+    },
+    {
+      "id": "nc75390101",
+      "magnitude": 2,
+      "depth": 4,
+      "lat": 36.966,
+      "lon": -121.448,
+      "place": "12 km ESE of Gilroy, CA",
+      "time": "2026-07-05T16:02:06.360Z"
+    },
+    {
+      "id": "ci41287407",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 35.728,
+      "lon": -117.544,
+      "place": "13 km WSW of Searles Valley, CA",
+      "time": "2026-07-05T15:55:30.930Z"
+    },
+    {
+      "id": "us6000taab",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -29.196,
+      "lon": -72.011,
+      "place": "106 km NW of Coquimbo, Chile",
+      "time": "2026-07-05T15:53:33.718Z"
+    },
+    {
+      "id": "nc75390081",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 38.811,
+      "lon": -122.802,
+      "place": "5 km NW of The Geysers, CA",
+      "time": "2026-07-05T15:39:01.630Z"
+    },
+    {
+      "id": "us6000taaa",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": 31.565,
+      "lon": 104.126,
+      "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
+      "time": "2026-07-05T15:30:13.631Z"
+    },
     {
       "id": "ci41287399",
       "magnitude": 1.8,
@@ -58,12 +157,12 @@
     },
     {
       "id": "us6000taa2",
-      "magnitude": 4.9,
-      "depth": 46,
-      "lat": 31.546,
-      "lon": 104.088,
-      "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
-      "time": "2026-07-05T15:03:31.898Z"
+      "magnitude": 5,
+      "depth": 10,
+      "lat": 31.522,
+      "lon": 104.098,
+      "place": "23 km NNW of Mianzhu, Deyang, Sichuan, China",
+      "time": "2026-07-05T15:03:27.206Z"
     },
     {
       "id": "nc75390051",
@@ -680,11 +779,11 @@
     {
       "id": "tx2026ncewlh",
       "magnitude": 0.9,
-      "depth": 4,
-      "lat": 32.356,
-      "lon": -102.093,
-      "place": "38 km NW of Stanton, Texas",
-      "time": "2026-07-05T07:48:36.831Z"
+      "depth": 8,
+      "lat": 32.346,
+      "lon": -102.094,
+      "place": "37 km NW of Stanton, Texas",
+      "time": "2026-07-05T07:48:37.040Z"
     },
     {
       "id": "pr71522713",
@@ -973,6 +1072,15 @@
       "lon": -141.125,
       "place": "105 km NW of Yakutat, Alaska",
       "time": "2026-07-05T03:57:31.654Z"
+    },
+    {
+      "id": "tx2026nbwzmx",
+      "magnitude": 1.6,
+      "depth": 7,
+      "lat": 31.525,
+      "lon": -104.007,
+      "place": "30 km NW of Toyah, Texas",
+      "time": "2026-07-05T03:51:59.427Z"
     },
     {
       "id": "aka2026ndzpzd",
@@ -1497,6 +1605,15 @@
       "time": "2026-07-04T21:31:21.470Z"
     },
     {
+      "id": "tx2026nbkfjt",
+      "magnitude": 1,
+      "depth": 9,
+      "lat": 32.438,
+      "lon": -102.119,
+      "place": "36 km SSW of Los Ybanez, Texas",
+      "time": "2026-07-04T21:25:07.663Z"
+    },
+    {
       "id": "nc75389551",
       "magnitude": 0.7,
       "depth": 1,
@@ -1508,11 +1625,11 @@
     {
       "id": "tx2026nbjhuj",
       "magnitude": 1,
-      "depth": 4,
-      "lat": 31.745,
-      "lon": -101.864,
-      "place": "34 km SE of Midland, Texas",
-      "time": "2026-07-04T20:58:12.589Z"
+      "depth": 7,
+      "lat": 31.746,
+      "lon": -101.875,
+      "place": "33 km SE of Midland, Texas",
+      "time": "2026-07-04T20:58:12.973Z"
     },
     {
       "id": "nc75389541",
@@ -1526,11 +1643,11 @@
     {
       "id": "tx2026nbjccw",
       "magnitude": 1.6,
-      "depth": 4,
-      "lat": 32.29,
-      "lon": -101.256,
+      "depth": 6,
+      "lat": 32.289,
+      "lon": -101.254,
       "place": "4 km E of Coahoma, Texas",
-      "time": "2026-07-04T20:51:12.850Z"
+      "time": "2026-07-04T20:51:13.328Z"
     },
     {
       "id": "ci41286775",
@@ -2062,114 +2179,6 @@
       "lon": -116.025,
       "place": "10 km ENE of Ocotillo Wells, CA",
       "time": "2026-07-04T16:44:25.020Z"
-    },
-    {
-      "id": "nc75389346",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.821,
-      "lon": -122.813,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-04T16:36:18.150Z"
-    },
-    {
-      "id": "nc75389341",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.821,
-      "lon": -122.812,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-04T16:35:33.130Z"
-    },
-    {
-      "id": "nc75389326",
-      "magnitude": 0.7,
-      "depth": 1,
-      "lat": 38.849,
-      "lon": -122.817,
-      "place": "9 km WNW of Cobb, CA",
-      "time": "2026-07-04T16:32:04.660Z"
-    },
-    {
-      "id": "aka2026nddcax",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 58.272,
-      "lon": -154.948,
-      "place": "83 km NNW of Karluk, Alaska",
-      "time": "2026-07-04T16:31:15.281Z"
-    },
-    {
-      "id": "ci41286567",
-      "magnitude": 0.7,
-      "depth": 13,
-      "lat": 33.645,
-      "lon": -116.714,
-      "place": "11 km S of Idyllwild, CA",
-      "time": "2026-07-04T16:30:46.290Z"
-    },
-    {
-      "id": "nc75389321",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.822,
-      "lon": -122.814,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-04T16:19:44.970Z"
-    },
-    {
-      "id": "us6000ta4u",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 3.21,
-      "lon": -84.216,
-      "place": "off the coast of Central America",
-      "time": "2026-07-04T16:07:07.817Z"
-    },
-    {
-      "id": "ci41286559",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 34.587,
-      "lon": -118.881,
-      "place": "21 km NNW of Piru, CA",
-      "time": "2026-07-04T16:03:42.040Z"
-    },
-    {
-      "id": "nc75389311",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.79,
-      "lon": -122.761,
-      "place": "1 km NNW of The Geysers, CA",
-      "time": "2026-07-04T15:58:45.220Z"
-    },
-    {
-      "id": "nn00921176",
-      "magnitude": 1.9,
-      "depth": 9,
-      "lat": 39.599,
-      "lon": -119.095,
-      "place": "13 km E of Fernley, Nevada",
-      "time": "2026-07-04T15:58:38.762Z"
-    },
-    {
-      "id": "nc75389306",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 39.326,
-      "lon": -123.265,
-      "place": "8 km NW of Redwood Valley, CA",
-      "time": "2026-07-04T15:57:23.770Z"
-    },
-    {
-      "id": "uw714040872",
-      "magnitude": 2.3,
-      "depth": 26,
-      "lat": 48.286,
-      "lon": -122.601,
-      "place": "3 km ESE of Oak Harbor, Washington",
-      "time": "2026-07-04T15:39:16.220Z"
     }
   ]
 }
