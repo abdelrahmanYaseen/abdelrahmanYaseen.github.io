@@ -1,7 +1,115 @@
 {
-  "generated": "2026-07-06T21:00:43.925Z",
-  "count": 204,
+  "generated": "2026-07-06T22:34:31.106Z",
+  "count": 200,
   "events": [
+    {
+      "id": "nc75391026",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 37.6,
+      "lon": -118.822,
+      "place": "13 km WNW of Toms Place, CA",
+      "time": "2026-07-06T22:30:28.140Z"
+    },
+    {
+      "id": "ci41288199",
+      "magnitude": 2.2,
+      "depth": 20,
+      "lat": 33.361,
+      "lon": -118.335,
+      "place": "2 km NNW of Avalon, CA",
+      "time": "2026-07-06T22:23:21.270Z"
+    },
+    {
+      "id": "tx2026nfdmuw",
+      "magnitude": 2.4,
+      "depth": 4,
+      "lat": 32.44,
+      "lon": -102.001,
+      "place": "28 km WSW of Ackerly, Texas",
+      "time": "2026-07-06T22:21:10.272Z"
+    },
+    {
+      "id": "tx2026nfdlqb",
+      "magnitude": 0.9,
+      "depth": 0,
+      "lat": 31.891,
+      "lon": -104.534,
+      "place": "34 km SSW of Whites City, New Mexico",
+      "time": "2026-07-06T22:19:05.708Z"
+    },
+    {
+      "id": "nc75391011",
+      "magnitude": 1.2,
+      "depth": 1,
+      "lat": 38.84,
+      "lon": -122.84,
+      "place": "10 km NW of The Geysers, CA",
+      "time": "2026-07-06T22:04:11.230Z"
+    },
+    {
+      "id": "ci41288191",
+      "magnitude": 1,
+      "depth": 10,
+      "lat": 33.048,
+      "lon": -116.388,
+      "place": "20 km E of Julian, CA",
+      "time": "2026-07-06T22:02:48.930Z"
+    },
+    {
+      "id": "nc75391001",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.825,
+      "lon": -122.843,
+      "place": "9 km NW of The Geysers, CA",
+      "time": "2026-07-06T22:00:31.130Z"
+    },
+    {
+      "id": "ci41288183",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 33.845,
+      "lon": -117.493,
+      "place": "5 km SE of Home Gardens, CA",
+      "time": "2026-07-06T21:59:22.000Z"
+    },
+    {
+      "id": "nc75390976",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 36.19,
+      "lon": -120.15,
+      "place": "4 km WSW of Huron, CA",
+      "time": "2026-07-06T21:34:23.480Z"
+    },
+    {
+      "id": "nc75390956",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.823,
+      "lon": -122.802,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-07-06T21:18:48.500Z"
+    },
+    {
+      "id": "aka2026nherun",
+      "magnitude": 1.7,
+      "depth": 24,
+      "lat": 60.807,
+      "lon": -149.349,
+      "place": "9 km SSE of Sunrise, Alaska",
+      "time": "2026-07-06T21:17:58.590Z"
+    },
+    {
+      "id": "nc75390951",
+      "magnitude": 2.2,
+      "depth": 6,
+      "lat": 36.19,
+      "lon": -120.137,
+      "place": "3 km WSW of Huron, CA",
+      "time": "2026-07-06T21:15:44.090Z"
+    },
     {
       "id": "nc75390936",
       "magnitude": 1.1,
@@ -22,12 +130,12 @@
     },
     {
       "id": "ci41288175",
-      "magnitude": 2,
-      "depth": 10,
-      "lat": 35.071,
-      "lon": -119.095,
-      "place": "21 km NW of Grapevine, CA",
-      "time": "2026-07-06T20:44:26.080Z"
+      "magnitude": 2.1,
+      "depth": 13,
+      "lat": 35.066,
+      "lon": -119.093,
+      "place": "20 km NW of Grapevine, CA",
+      "time": "2026-07-06T20:44:25.970Z"
     },
     {
       "id": "ci41288167",
@@ -904,12 +1012,12 @@
     },
     {
       "id": "us6000tadr",
-      "magnitude": 4,
+      "magnitude": 3.8,
       "depth": 5,
-      "lat": 36.893,
-      "lon": -104.83,
-      "place": "26 km SSW of Segundo, Colorado",
-      "time": "2026-07-06T09:31:40.718Z"
+      "lat": 36.855,
+      "lon": -104.816,
+      "place": "30 km S of Segundo, Colorado",
+      "time": "2026-07-06T09:31:40.350Z"
     },
     {
       "id": "tx2026nedysj",
@@ -931,12 +1039,12 @@
     },
     {
       "id": "us6000tadn",
-      "magnitude": 4.2,
-      "depth": 6,
-      "lat": 36.834,
-      "lon": -104.833,
+      "magnitude": 3.8,
+      "depth": 4,
+      "lat": 36.832,
+      "lon": -104.832,
       "place": "33 km SSW of Segundo, Colorado",
-      "time": "2026-07-06T09:21:54.771Z"
+      "time": "2026-07-06T09:21:54.529Z"
     },
     {
       "id": "ci41287791",
@@ -1135,6 +1243,15 @@
       "lon": -112.879,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-07-06T07:25:59.240Z"
+    },
+    {
+      "id": "uu80144551",
+      "magnitude": 0.6,
+      "depth": 2,
+      "lat": 38.51,
+      "lon": -112.878,
+      "place": "17 km NE of Milford, Utah",
+      "time": "2026-07-06T07:23:39.700Z"
     },
     {
       "id": "nc75390516",
@@ -1684,159 +1801,6 @@
       "lon": -104.423,
       "place": "55 km S of Whites City, New Mexico",
       "time": "2026-07-05T22:35:58.336Z"
-    },
-    {
-      "id": "tx2026ndidxx",
-      "magnitude": 2.4,
-      "depth": 7,
-      "lat": 32.142,
-      "lon": -102.077,
-      "place": "16 km N of Midland, Texas",
-      "time": "2026-07-05T22:32:05.091Z"
-    },
-    {
-      "id": "av94290993",
-      "magnitude": 0.6,
-      "depth": 12,
-      "lat": 51.731,
-      "lon": -178.787,
-      "place": "149 km W of Adak, Alaska",
-      "time": "2026-07-05T22:29:10.020Z"
-    },
-    {
-      "id": "aka2026nfkyqt",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 62.202,
-      "lon": -148.208,
-      "place": "47 km NNE of Chickaloon, Alaska",
-      "time": "2026-07-05T22:26:31.658Z"
-    },
-    {
-      "id": "ci41287583",
-      "magnitude": 0.4,
-      "depth": 16,
-      "lat": 33.69,
-      "lon": -116.794,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": "2026-07-05T22:26:02.210Z"
-    },
-    {
-      "id": "nc75390351",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.836,
-      "lon": -122.793,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-07-05T22:23:48.950Z"
-    },
-    {
-      "id": "nc75390346",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.821,
-      "lon": -122.846,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": "2026-07-05T22:23:14.720Z"
-    },
-    {
-      "id": "nc75390331",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 36.161,
-      "lon": -121.588,
-      "place": "16 km N of Lopez Point, CA",
-      "time": "2026-07-05T22:05:33.540Z"
-    },
-    {
-      "id": "uw714041912",
-      "magnitude": 1.3,
-      "depth": 8,
-      "lat": 47.47,
-      "lon": -123.046,
-      "place": "10 km NE of Hoodsport, Washington",
-      "time": "2026-07-05T22:02:09.950Z"
-    },
-    {
-      "id": "nc75390321",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.821,
-      "lon": -122.841,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": "2026-07-05T21:50:56.300Z"
-    },
-    {
-      "id": "aka2026nfjqxi",
-      "magnitude": 1.1,
-      "depth": 18,
-      "lat": 58.126,
-      "lon": -156.366,
-      "place": "60 km E of Egegik, Alaska",
-      "time": "2026-07-05T21:47:35.755Z"
-    },
-    {
-      "id": "ci41287567",
-      "magnitude": 1.4,
-      "depth": 0,
-      "lat": 34.211,
-      "lon": -116.873,
-      "place": "5 km SE of Big Bear Lake, CA",
-      "time": "2026-07-05T21:45:13.060Z"
-    },
-    {
-      "id": "nc75390311",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.798,
-      "lon": -122.753,
-      "place": "2 km N of The Geysers, CA",
-      "time": "2026-07-05T21:32:42.140Z"
-    },
-    {
-      "id": "nc75390306",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.818,
-      "lon": -122.806,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-07-05T21:24:33.300Z"
-    },
-    {
-      "id": "nc75390296",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.831,
-      "lon": -122.817,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-07-05T21:17:06.750Z"
-    },
-    {
-      "id": "aka2026nfiegl",
-      "magnitude": 1.4,
-      "depth": 5,
-      "lat": 55.888,
-      "lon": -159.835,
-      "place": "22 km W of Ivanof Bay, Alaska",
-      "time": "2026-07-05T21:02:58.804Z"
-    },
-    {
-      "id": "ci41287559",
-      "magnitude": 1.2,
-      "depth": 3,
-      "lat": 35.936,
-      "lon": -117.698,
-      "place": "19 km E of Little Lake, CA",
-      "time": "2026-07-05T21:00:49.220Z"
-    },
-    {
-      "id": "nc75390286",
-      "magnitude": 1.1,
-      "depth": 6,
-      "lat": 38.762,
-      "lon": -122.934,
-      "place": "9 km SE of Cloverdale, CA",
-      "time": "2026-07-05T21:00:09.410Z"
     }
   ]
 }
