@@ -1,7 +1,106 @@
 {
-  "generated": "2026-07-08T20:54:25.230Z",
-  "count": 249,
+  "generated": "2026-07-08T21:57:11.273Z",
+  "count": 257,
   "events": [
+    {
+      "id": "ci41289455",
+      "magnitude": 1.5,
+      "depth": 0,
+      "lat": 33.274,
+      "lon": -117.193,
+      "place": "9 km NNE of Vista, CA",
+      "time": "2026-07-08T21:46:28.000Z"
+    },
+    {
+      "id": "nn00921355",
+      "magnitude": 1.6,
+      "depth": 16,
+      "lat": 36.022,
+      "lon": -114.787,
+      "place": "6 km NE of Boulder City, Nevada",
+      "time": "2026-07-08T21:28:32.340Z"
+    },
+    {
+      "id": "pr71523083",
+      "magnitude": 2.4,
+      "depth": 10,
+      "lat": 17.984,
+      "lon": -66.943,
+      "place": "2 km W of Fuig, Puerto Rico",
+      "time": "2026-07-08T21:28:06.410Z"
+    },
+    {
+      "id": "aka2026nkwxzg",
+      "magnitude": 2.5,
+      "depth": 106,
+      "lat": 59.99,
+      "lon": -152.793,
+      "place": "58 km WNW of Anchor Point, Alaska",
+      "time": "2026-07-08T21:23:43.522Z"
+    },
+    {
+      "id": "pr71523078",
+      "magnitude": 2.1,
+      "depth": 11,
+      "lat": 17.954,
+      "lon": -66.822,
+      "place": "4 km S of Indios, Puerto Rico",
+      "time": "2026-07-08T21:22:05.360Z"
+    },
+    {
+      "id": "pr71523073",
+      "magnitude": 2,
+      "depth": 12,
+      "lat": 17.962,
+      "lon": -66.947,
+      "place": "4 km WSW of Guánica, Puerto Rico",
+      "time": "2026-07-08T21:19:35.770Z"
+    },
+    {
+      "id": "aka2026nkwuhc",
+      "magnitude": 2.1,
+      "depth": 22,
+      "lat": 55.899,
+      "lon": -157.74,
+      "place": "60 km SE of Chignik, Alaska",
+      "time": "2026-07-08T21:19:31.839Z"
+    },
+    {
+      "id": "ci41289423",
+      "magnitude": 1.3,
+      "depth": 4,
+      "lat": 32.815,
+      "lon": -117.069,
+      "place": "7 km NW of La Mesa, CA",
+      "time": "2026-07-08T21:01:13.080Z"
+    },
+    {
+      "id": "nc75392276",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.817,
+      "lon": -122.766,
+      "place": "4 km W of Cobb, CA",
+      "time": "2026-07-08T21:00:59.220Z"
+    },
+    {
+      "id": "nc75392271",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.835,
+      "lon": -122.785,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-07-08T21:00:03.870Z"
+    },
+    {
+      "id": "pr71523068",
+      "magnitude": 1.8,
+      "depth": 3,
+      "lat": 17.964,
+      "lon": -66.988,
+      "place": "6 km E of La Parguera, Puerto Rico",
+      "time": "2026-07-08T20:52:39.290Z"
+    },
     {
       "id": "ci41289415",
       "magnitude": 0.7,
@@ -10,6 +109,15 @@
       "lon": -116.714,
       "place": "4 km WSW of Anza, CA",
       "time": "2026-07-08T20:48:52.250Z"
+    },
+    {
+      "id": "pr71523063",
+      "magnitude": 1.9,
+      "depth": 18,
+      "lat": 17.967,
+      "lon": -66.834,
+      "place": "3 km SSW of Indios, Puerto Rico",
+      "time": "2026-07-08T20:42:11.230Z"
     },
     {
       "id": "us7000sz31",
@@ -30,6 +138,24 @@
       "time": "2026-07-08T20:21:13.270Z"
     },
     {
+      "id": "pr71523058",
+      "magnitude": 1.9,
+      "depth": 17,
+      "lat": 17.984,
+      "lon": -66.846,
+      "place": "3 km WSW of Indios, Puerto Rico",
+      "time": "2026-07-08T20:18:40.290Z"
+    },
+    {
+      "id": "pr71523053",
+      "magnitude": 2.5,
+      "depth": 15,
+      "lat": 17.98,
+      "lon": -66.839,
+      "place": "2 km SW of Indios, Puerto Rico",
+      "time": "2026-07-08T20:10:48.740Z"
+    },
+    {
       "id": "pr71523048",
       "magnitude": 2,
       "depth": 17,
@@ -46,6 +172,15 @@
       "lon": -66.835,
       "place": "2 km SW of Indios, Puerto Rico",
       "time": "2026-07-08T20:07:31.770Z"
+    },
+    {
+      "id": "us7000sz2t",
+      "magnitude": 4.2,
+      "depth": 10,
+      "lat": 19.223,
+      "lon": 76.829,
+      "place": "7 km SE of Parbhani, India",
+      "time": "2026-07-08T20:07:25.081Z"
     },
     {
       "id": "nn00921352",
@@ -82,6 +217,15 @@
       "lon": -151.482,
       "place": "88 km NE of Ouzinkie, Alaska",
       "time": "2026-07-08T19:45:12.561Z"
+    },
+    {
+      "id": "uu80144971",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 38.512,
+      "lon": -112.884,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-07-08T19:44:03.970Z"
     },
     {
       "id": "us7000sz2h",
@@ -1453,12 +1597,12 @@
     },
     {
       "id": "ci41289079",
-      "magnitude": 1,
+      "magnitude": 0.9,
       "depth": 10,
-      "lat": 34.308,
-      "lon": -118.455,
-      "place": "1 km W of Sylmar, CA",
-      "time": "2026-07-08T05:16:40.660Z"
+      "lat": 34.309,
+      "lon": -118.453,
+      "place": "0 km WNW of Sylmar, CA",
+      "time": "2026-07-08T05:16:40.680Z"
     },
     {
       "id": "aka2026njqnwq",
@@ -1498,12 +1642,12 @@
     },
     {
       "id": "ci41289071",
-      "magnitude": 0.7,
-      "depth": 10,
+      "magnitude": 0.6,
+      "depth": 11,
       "lat": 33.251,
       "lon": -116.784,
       "place": "2 km WNW of Lake Henshaw, CA",
-      "time": "2026-07-08T04:36:42.030Z"
+      "time": "2026-07-08T04:36:41.990Z"
     },
     {
       "id": "nc75391816",
@@ -2170,78 +2314,6 @@
       "lon": -147.347,
       "place": "13 km E of Fox, Alaska",
       "time": "2026-07-07T22:04:46.256Z"
-    },
-    {
-      "id": "aka2026njbryd",
-      "magnitude": 2.4,
-      "depth": 0,
-      "lat": 56.893,
-      "lon": -154.642,
-      "place": "29 km WSW of Akhiok, Alaska",
-      "time": "2026-07-07T21:47:27.605Z"
-    },
-    {
-      "id": "ci41288887",
-      "magnitude": 1.6,
-      "depth": 14,
-      "lat": 35.008,
-      "lon": -119.198,
-      "place": "18 km NNW of Pine Mountain Club, CA",
-      "time": "2026-07-07T21:41:24.440Z"
-    },
-    {
-      "id": "nc75391606",
-      "magnitude": 2.6,
-      "depth": 4,
-      "lat": 38.58,
-      "lon": -122.452,
-      "place": "1 km NNW of Angwin, CA",
-      "time": "2026-07-07T21:33:10.270Z"
-    },
-    {
-      "id": "nc75391601",
-      "magnitude": 1.4,
-      "depth": 0,
-      "lat": 38.564,
-      "lon": -122.45,
-      "place": "1 km S of Angwin, CA",
-      "time": "2026-07-07T21:31:38.090Z"
-    },
-    {
-      "id": "nc75391596",
-      "magnitude": 3.6,
-      "depth": 9,
-      "lat": 38.576,
-      "lon": -122.455,
-      "place": "0 km W of Angwin, CA",
-      "time": "2026-07-07T21:30:02.490Z"
-    },
-    {
-      "id": "ci41288871",
-      "magnitude": 1.6,
-      "depth": 18,
-      "lat": 33.71,
-      "lon": -116.734,
-      "place": "4 km SSW of Idyllwild, CA",
-      "time": "2026-07-07T21:29:57.180Z"
-    },
-    {
-      "id": "ci41288863",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 34.122,
-      "lon": -117.462,
-      "place": "3 km N of Fontana, CA",
-      "time": "2026-07-07T21:28:00.060Z"
-    },
-    {
-      "id": "ci41288855",
-      "magnitude": 1,
-      "depth": 12,
-      "lat": 33.03,
-      "lon": -115.604,
-      "place": "2 km ESE of Westmorland, CA",
-      "time": "2026-07-07T21:22:26.900Z"
     }
   ]
 }
