@@ -1,7 +1,88 @@
 {
-  "generated": "2026-07-10T22:29:54.489Z",
-  "count": 219,
+  "generated": "2026-07-10T23:28:57.351Z",
+  "count": 231,
   "events": [
+    {
+      "id": "aka2026nosfqw",
+      "magnitude": 3,
+      "depth": 20,
+      "lat": 60.701,
+      "lon": -147.043,
+      "place": "26 km SW of Tatitlek, Alaska",
+      "time": "2026-07-10T23:01:18.511Z"
+    },
+    {
+      "id": "aka2026nosdfi",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 64.951,
+      "lon": -147.484,
+      "place": "6 km E of Fox, Alaska",
+      "time": "2026-07-10T22:58:29.511Z"
+    },
+    {
+      "id": "ci41290935",
+      "magnitude": 0.8,
+      "depth": 12,
+      "lat": 33.515,
+      "lon": -116.507,
+      "place": "16 km ESE of Anza, CA",
+      "time": "2026-07-10T22:54:45.810Z"
+    },
+    {
+      "id": "nc75393531",
+      "magnitude": 2.5,
+      "depth": 4,
+      "lat": 39.897,
+      "lon": -123.218,
+      "place": "12 km NNE of Covelo, CA",
+      "time": "2026-07-10T22:53:12.940Z"
+    },
+    {
+      "id": "ci41290919",
+      "magnitude": 1,
+      "depth": 4,
+      "lat": 33.942,
+      "lon": -116.889,
+      "place": "2 km NNW of Banning, CA",
+      "time": "2026-07-10T22:51:16.080Z"
+    },
+    {
+      "id": "ci41290911",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 33.943,
+      "lon": -116.891,
+      "place": "2 km NW of Banning, CA",
+      "time": "2026-07-10T22:49:27.350Z"
+    },
+    {
+      "id": "aka2026norkfv",
+      "magnitude": 1.2,
+      "depth": 70,
+      "lat": 58.792,
+      "lon": -152.771,
+      "place": "79 km SW of Nanwalek, Alaska",
+      "time": "2026-07-10T22:36:35.463Z"
+    },
+    {
+      "id": "nc75393526",
+      "magnitude": 2.7,
+      "depth": 7,
+      "lat": 39.889,
+      "lon": -123.221,
+      "place": "11 km NNE of Covelo, CA",
+      "time": "2026-07-10T22:33:18.700Z"
+    },
+    {
+      "id": "aka2026norcyn",
+      "magnitude": 0.8,
+      "depth": 12,
+      "lat": 58.615,
+      "lon": -154.271,
+      "place": "96 km SSE of Kokhanok, Alaska",
+      "time": "2026-07-10T22:28:11.047Z"
+    },
     {
       "id": "nc75393516",
       "magnitude": 1,
@@ -49,7 +130,7 @@
     },
     {
       "id": "nc75393496",
-      "magnitude": 3.9,
+      "magnitude": 3.8,
       "depth": 11,
       "lat": 39.893,
       "lon": -123.215,
@@ -590,11 +671,11 @@
     {
       "id": "ci41290591",
       "magnitude": 1.7,
-      "depth": 10,
-      "lat": 34.854,
-      "lon": -119.233,
-      "place": "8 km W of Pine Mountain Club, CA",
-      "time": "2026-07-10T16:04:33.320Z"
+      "depth": 11,
+      "lat": 34.853,
+      "lon": -119.231,
+      "place": "7 km W of Pine Mountain Club, CA",
+      "time": "2026-07-10T16:04:33.260Z"
     },
     {
       "id": "ci41290583",
@@ -618,28 +699,28 @@
       "id": "ci41290567",
       "magnitude": 0.8,
       "depth": 16,
-      "lat": 33.083,
-      "lon": -116.553,
+      "lat": 33.085,
+      "lon": -116.552,
       "place": "5 km E of Julian, CA",
-      "time": "2026-07-10T15:53:22.440Z"
+      "time": "2026-07-10T15:53:22.370Z"
     },
     {
       "id": "ci41290559",
-      "magnitude": 0.2,
-      "depth": 10,
+      "magnitude": 0.1,
+      "depth": 9,
       "lat": 35.899,
-      "lon": -117.741,
-      "place": "15 km ESE of Little Lake, CA",
-      "time": "2026-07-10T15:52:52.660Z"
+      "lon": -117.74,
+      "place": "16 km ESE of Little Lake, CA",
+      "time": "2026-07-10T15:52:52.670Z"
     },
     {
       "id": "ci41290551",
       "magnitude": 1.2,
-      "depth": 7,
+      "depth": 8,
       "lat": 35.314,
-      "lon": -117.817,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-10T15:49:53.360Z"
+      "lon": -117.812,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-07-10T15:49:53.200Z"
     },
     {
       "id": "ci41290543",
@@ -923,11 +1004,11 @@
     {
       "id": "ci41290407",
       "magnitude": 1.1,
-      "depth": 15,
+      "depth": 16,
       "lat": 33.657,
-      "lon": -116.701,
+      "lon": -116.7,
       "place": "9 km S of Idyllwild, CA",
-      "time": "2026-07-10T11:56:25.770Z"
+      "time": "2026-07-10T11:56:25.700Z"
     },
     {
       "id": "tx2026nlriem",
@@ -1407,6 +1488,33 @@
       "time": "2026-07-10T06:38:07.250Z"
     },
     {
+      "id": "av93063834",
+      "magnitude": 0.2,
+      "depth": 26,
+      "lat": 55.986,
+      "lon": -159.772,
+      "place": "20 km WNW of Ivanof Bay, Alaska",
+      "time": "2026-07-10T06:29:37.160Z"
+    },
+    {
+      "id": "av93063829",
+      "magnitude": 0.3,
+      "depth": 23,
+      "lat": 55.975,
+      "lon": -159.674,
+      "place": "14 km NW of Ivanof Bay, Alaska",
+      "time": "2026-07-10T06:26:26.700Z"
+    },
+    {
+      "id": "av94299923",
+      "magnitude": -0.8,
+      "depth": 3,
+      "lat": 61.278,
+      "lon": -152.238,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": "2026-07-10T06:21:37.920Z"
+    },
+    {
       "id": "hv75000056",
       "magnitude": 4.5,
       "depth": 39,
@@ -1686,6 +1794,15 @@
       "time": "2026-07-10T03:26:14.820Z"
     },
     {
+      "id": "av93063814",
+      "magnitude": -0.2,
+      "depth": 15,
+      "lat": 61.121,
+      "lon": -152.176,
+      "place": "56 km W of Tyonek, Alaska",
+      "time": "2026-07-10T03:05:11.680Z"
+    },
+    {
       "id": "aka2026nneehw",
       "magnitude": 4,
       "depth": 13,
@@ -1702,6 +1819,15 @@
       "lon": -101.65,
       "place": "17 km SSE of Ackerly, Texas",
       "time": "2026-07-10T02:50:04.464Z"
+    },
+    {
+      "id": "av94299608",
+      "magnitude": 0.6,
+      "depth": 5,
+      "lat": 54.513,
+      "lon": -164.64,
+      "place": "85 km ENE of Akutan, Alaska",
+      "time": "2026-07-10T02:48:22.300Z"
     },
     {
       "id": "ci41290247",
@@ -1729,6 +1855,15 @@
       "lon": 170.32,
       "place": "256 km E of Tadine, New Caledonia",
       "time": "2026-07-10T02:41:56.494Z"
+    },
+    {
+      "id": "av94299583",
+      "magnitude": 0.3,
+      "depth": 11,
+      "lat": 51.932,
+      "lon": -177.218,
+      "place": "40 km W of Adak, Alaska",
+      "time": "2026-07-10T02:39:34.220Z"
     },
     {
       "id": "hv74999951",
@@ -1945,33 +2080,6 @@
       "lon": -25.042,
       "place": "South Sandwich Islands region",
       "time": "2026-07-09T23:31:16.860Z"
-    },
-    {
-      "id": "ci41290207",
-      "magnitude": 0.9,
-      "depth": 16,
-      "lat": 33.649,
-      "lon": -116.718,
-      "place": "10 km S of Idyllwild, CA",
-      "time": "2026-07-09T23:27:27.680Z"
-    },
-    {
-      "id": "nc75392861",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 38.835,
-      "lon": -122.793,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-07-09T23:26:44.600Z"
-    },
-    {
-      "id": "aka2026nmwquh",
-      "magnitude": 2.4,
-      "depth": 82,
-      "lat": 60.976,
-      "lon": -151.124,
-      "place": "10 km S of Tyonek, Alaska",
-      "time": "2026-07-09T23:14:47.308Z"
     }
   ]
 }
