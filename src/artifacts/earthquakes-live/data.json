@@ -1,7 +1,97 @@
 {
-  "generated": "2026-07-10T23:28:57.351Z",
-  "count": 231,
+  "generated": "2026-07-11T00:56:39.545Z",
+  "count": 237,
   "events": [
+    {
+      "id": "nc75393556",
+      "magnitude": 1.4,
+      "depth": 3,
+      "lat": 38.822,
+      "lon": -122.853,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": "2026-07-11T00:53:34.290Z"
+    },
+    {
+      "id": "aka2026novwpv",
+      "magnitude": 1.9,
+      "depth": 12,
+      "lat": 62.09,
+      "lon": -149.284,
+      "place": "30 km ESE of Susitna North, Alaska",
+      "time": "2026-07-11T00:50:48.016Z"
+    },
+    {
+      "id": "ci41290991",
+      "magnitude": 2.4,
+      "depth": 14,
+      "lat": 31.966,
+      "lon": -116.236,
+      "place": "38 km ENE of Ensenada, B.C., MX",
+      "time": "2026-07-11T00:43:38.210Z"
+    },
+    {
+      "id": "aka2026novhdp",
+      "magnitude": 2.2,
+      "depth": 88,
+      "lat": 60.783,
+      "lon": -152.047,
+      "place": "42 km WNW of Nikiski, Alaska",
+      "time": "2026-07-11T00:33:02.809Z"
+    },
+    {
+      "id": "tx2026nmqnpu",
+      "magnitude": 2.2,
+      "depth": 5,
+      "lat": 31.533,
+      "lon": -104.154,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-07-11T00:24:58.479Z"
+    },
+    {
+      "id": "nc75393546",
+      "magnitude": 0.3,
+      "depth": 1,
+      "lat": 38.824,
+      "lon": -122.843,
+      "place": "9 km NW of The Geysers, CA",
+      "time": "2026-07-11T00:14:44.570Z"
+    },
+    {
+      "id": "ci41290967",
+      "magnitude": 0.5,
+      "depth": 7,
+      "lat": 33.507,
+      "lon": -116.443,
+      "place": "21 km SW of La Quinta, CA",
+      "time": "2026-07-11T00:03:24.930Z"
+    },
+    {
+      "id": "aka2026notqto",
+      "magnitude": 1.5,
+      "depth": 89,
+      "lat": 60.233,
+      "lon": -152.454,
+      "place": "48 km WNW of Ninilchik, Alaska",
+      "time": "2026-07-10T23:44:04.913Z"
+    },
+    {
+      "id": "tx2026nmpbza",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 31.527,
+      "lon": -104.155,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-07-10T23:41:33.747Z"
+    },
+    {
+      "id": "pr71523348",
+      "magnitude": 2.4,
+      "depth": 10,
+      "lat": 17.885,
+      "lon": -66.855,
+      "place": "10 km SSE of Maria Antonia, Puerto Rico",
+      "time": "2026-07-10T23:26:05.020Z"
+    },
     {
       "id": "aka2026nosfqw",
       "magnitude": 3,
@@ -10,6 +100,15 @@
       "lon": -147.043,
       "place": "26 km SW of Tatitlek, Alaska",
       "time": "2026-07-10T23:01:18.511Z"
+    },
+    {
+      "id": "us7000szla",
+      "magnitude": 4.7,
+      "depth": 31,
+      "lat": -6.8,
+      "lon": 105.043,
+      "place": "98 km WSW of Labuan, Indonesia",
+      "time": "2026-07-10T22:59:34.691Z"
     },
     {
       "id": "aka2026nosdfi",
@@ -318,15 +417,6 @@
       "time": "2026-07-10T19:37:23.762Z"
     },
     {
-      "id": "ci41290815",
-      "magnitude": 1.4,
-      "depth": 2,
-      "lat": 33.862,
-      "lon": -117.503,
-      "place": "2 km SE of Home Gardens, CA",
-      "time": "2026-07-10T19:33:31.350Z"
-    },
-    {
       "id": "hv75000251",
       "magnitude": 3.1,
       "depth": 18,
@@ -534,15 +624,6 @@
       "time": "2026-07-10T17:33:31.400Z"
     },
     {
-      "id": "ci41290695",
-      "magnitude": 1.6,
-      "depth": 2,
-      "lat": 33.051,
-      "lon": -114.993,
-      "place": "45 km NE of Holtville, CA",
-      "time": "2026-07-10T17:27:06.370Z"
-    },
-    {
       "id": "ci41290687",
       "magnitude": 1.6,
       "depth": 10,
@@ -553,12 +634,12 @@
     },
     {
       "id": "ci41290679",
-      "magnitude": 1.4,
+      "magnitude": 1.3,
       "depth": 9,
       "lat": 34.908,
-      "lon": -119.607,
+      "lon": -119.609,
       "place": "25 km SW of Maricopa, CA",
-      "time": "2026-07-10T17:15:51.490Z"
+      "time": "2026-07-10T17:15:51.470Z"
     },
     {
       "id": "nc75393326",
@@ -583,9 +664,9 @@
       "magnitude": 2.6,
       "depth": 104,
       "lat": 60.006,
-      "lon": -152.588,
+      "lon": -152.589,
       "place": "48 km W of Happy Valley, Alaska",
-      "time": "2026-07-10T17:08:10.602Z"
+      "time": "2026-07-10T17:08:10.599Z"
     },
     {
       "id": "uw714046322",
@@ -761,11 +842,11 @@
     {
       "id": "aka2026nodhiw",
       "magnitude": 2.6,
-      "depth": 49,
-      "lat": 58.28,
-      "lon": -152.666,
+      "depth": 53,
+      "lat": 58.282,
+      "lon": -152.676,
       "place": "28 km NNE of Aleneva, Alaska",
-      "time": "2026-07-10T15:33:27.798Z"
+      "time": "2026-07-10T15:33:27.791Z"
     },
     {
       "id": "ci41290511",
@@ -874,6 +955,24 @@
       "lon": -116.796,
       "place": "10 km SW of Idyllwild, CA",
       "time": "2026-07-10T13:42:17.460Z"
+    },
+    {
+      "id": "av94300403",
+      "magnitude": 0.4,
+      "depth": 11,
+      "lat": 51.989,
+      "lon": -176.402,
+      "place": "20 km NE of Adak, Alaska",
+      "time": "2026-07-10T13:39:54.250Z"
+    },
+    {
+      "id": "av94300398",
+      "magnitude": 0.5,
+      "depth": 5,
+      "lat": 52.285,
+      "lon": -174.161,
+      "place": "10 km NNE of Atka, Alaska",
+      "time": "2026-07-10T13:37:22.050Z"
     },
     {
       "id": "nc75393231",
@@ -1101,6 +1200,15 @@
       "time": "2026-07-10T10:48:37.752Z"
     },
     {
+      "id": "av93063849",
+      "magnitude": 0.5,
+      "depth": 1,
+      "lat": 55.911,
+      "lon": -159.733,
+      "place": "15 km W of Ivanof Bay, Alaska",
+      "time": "2026-07-10T10:45:28.760Z"
+    },
+    {
       "id": "us7000szfm",
       "magnitude": 4.2,
       "depth": 554,
@@ -1245,6 +1353,15 @@
       "time": "2026-07-10T09:10:59.819Z"
     },
     {
+      "id": "av93063844",
+      "magnitude": -0.1,
+      "depth": 8,
+      "lat": 56.243,
+      "lon": -159.484,
+      "place": "38 km N of Ivanof Bay, Alaska",
+      "time": "2026-07-10T09:09:11.350Z"
+    },
+    {
       "id": "ci41290359",
       "magnitude": 1.1,
       "depth": 8,
@@ -1378,6 +1495,15 @@
       "lon": -101.557,
       "place": "19 km SE of Ackerly, Texas",
       "time": "2026-07-10T07:35:05.898Z"
+    },
+    {
+      "id": "av94299988",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 61.277,
+      "lon": -152.239,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": "2026-07-10T07:33:38.890Z"
     },
     {
       "id": "us7000sze1",
@@ -2008,78 +2134,6 @@
       "lon": -122.726,
       "place": "5 km SW of Anderson Springs, CA",
       "time": "2026-07-10T00:56:59.800Z"
-    },
-    {
-      "id": "tx2026nkvqtw",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 31.542,
-      "lon": -104.127,
-      "place": "40 km NW of Toyah, Texas",
-      "time": "2026-07-10T00:50:38.993Z"
-    },
-    {
-      "id": "nc75392886",
-      "magnitude": 0.4,
-      "depth": 4,
-      "lat": 38.833,
-      "lon": -122.788,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-07-10T00:28:08.690Z"
-    },
-    {
-      "id": "ci41290223",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 35.896,
-      "lon": -117.721,
-      "place": "17 km ESE of Little Lake, CA",
-      "time": "2026-07-10T00:21:23.460Z"
-    },
-    {
-      "id": "ci41290215",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 34.011,
-      "lon": -117.603,
-      "place": "5 km SSE of Ontario, CA",
-      "time": "2026-07-10T00:11:15.210Z"
-    },
-    {
-      "id": "nc75392876",
-      "magnitude": 1.4,
-      "depth": 11,
-      "lat": 36.781,
-      "lon": -121.428,
-      "place": "7 km WSW of Ridgemark, CA",
-      "time": "2026-07-09T23:57:32.000Z"
-    },
-    {
-      "id": "nm60624441",
-      "magnitude": 1.5,
-      "depth": 6,
-      "lat": 36.237,
-      "lon": -89.437,
-      "place": "5 km ESE of Ridgely, Tennessee",
-      "time": "2026-07-09T23:50:45.830Z"
-    },
-    {
-      "id": "us7000szbp",
-      "magnitude": 4.6,
-      "depth": 40,
-      "lat": -2.748,
-      "lon": -80.847,
-      "place": "52 km WSW of Playas, Ecuador",
-      "time": "2026-07-09T23:42:59.793Z"
-    },
-    {
-      "id": "us7000szbn",
-      "magnitude": 4.9,
-      "depth": 31,
-      "lat": -58.599,
-      "lon": -25.042,
-      "place": "South Sandwich Islands region",
-      "time": "2026-07-09T23:31:16.860Z"
     }
   ]
 }
