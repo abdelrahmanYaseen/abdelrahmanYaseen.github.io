@@ -1,7 +1,52 @@
 {
-  "generated": "2026-07-12T18:35:23.819Z",
-  "count": 230,
+  "generated": "2026-07-12T19:47:39.324Z",
+  "count": 237,
   "events": [
+    {
+      "id": "aka2026nsdgko",
+      "magnitude": 2.2,
+      "depth": 46,
+      "lat": 59.94,
+      "lon": -151.43,
+      "place": "16 km E of Happy Valley, Alaska",
+      "time": "2026-07-12T19:30:58.555Z"
+    },
+    {
+      "id": "us7000szx2",
+      "magnitude": 4.2,
+      "depth": 35,
+      "lat": 44.208,
+      "lon": 148.635,
+      "place": "128 km SSE of Kuril’sk, Russia",
+      "time": "2026-07-12T18:55:28.951Z"
+    },
+    {
+      "id": "aka2026nsbvcx",
+      "magnitude": 1,
+      "depth": 38,
+      "lat": 62.031,
+      "lon": -148.54,
+      "place": "26 km N of Chickaloon, Alaska",
+      "time": "2026-07-12T18:47:57.632Z"
+    },
+    {
+      "id": "ci41292215",
+      "magnitude": 1.8,
+      "depth": 5,
+      "lat": 34.045,
+      "lon": -118.884,
+      "place": "8 km WNW of Malibu, CA",
+      "time": "2026-07-12T18:45:07.990Z"
+    },
+    {
+      "id": "ci41292207",
+      "magnitude": 2,
+      "depth": 15,
+      "lat": 33.699,
+      "lon": -116.825,
+      "place": "8 km SE of Valle Vista, CA",
+      "time": "2026-07-12T18:42:39.610Z"
+    },
     {
       "id": "nc75394531",
       "magnitude": 1.1,
@@ -67,12 +112,12 @@
     },
     {
       "id": "ci41292199",
-      "magnitude": 3.2,
+      "magnitude": 2.9,
       "depth": 12,
-      "lat": 34.812,
-      "lon": -118.938,
-      "place": "1 km SSE of Frazier Park, CA",
-      "time": "2026-07-12T17:53:11.880Z"
+      "lat": 34.809,
+      "lon": -118.936,
+      "place": "2 km SSE of Frazier Park, CA",
+      "time": "2026-07-12T17:53:11.850Z"
     },
     {
       "id": "us7000szwj",
@@ -1021,12 +1066,12 @@
     },
     {
       "id": "tx2026npbpxq",
-      "magnitude": 1.5,
+      "magnitude": 1.6,
       "depth": 4,
-      "lat": 31.746,
-      "lon": -104.195,
-      "place": "50 km SSE of Whites City, New Mexico",
-      "time": "2026-07-12T08:08:27.176Z"
+      "lat": 31.756,
+      "lon": -104.194,
+      "place": "49 km SSE of Whites City, New Mexico",
+      "time": "2026-07-12T08:08:27.141Z"
     },
     {
       "id": "tx2026npblum",
@@ -1632,6 +1677,24 @@
       "time": "2026-07-12T00:27:04.600Z"
     },
     {
+      "id": "av93063914",
+      "magnitude": 0.5,
+      "depth": 10,
+      "lat": 58.257,
+      "lon": -154.898,
+      "place": "80 km NNW of Karluk, Alaska",
+      "time": "2026-07-12T00:18:40.650Z"
+    },
+    {
+      "id": "av94303318",
+      "magnitude": -0.2,
+      "depth": 5,
+      "lat": 58.273,
+      "lon": -155.012,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": "2026-07-12T00:18:26.780Z"
+    },
+    {
       "id": "aka2026nqqoap",
       "magnitude": 1.6,
       "depth": 13,
@@ -1758,6 +1821,15 @@
       "time": "2026-07-11T22:09:41.328Z"
     },
     {
+      "id": "av94303128",
+      "magnitude": -0.6,
+      "depth": 0,
+      "lat": 60.059,
+      "lon": -153.012,
+      "place": "68 km ENE of Pedro Bay, Alaska",
+      "time": "2026-07-11T21:54:42.820Z"
+    },
+    {
       "id": "nc75394141",
       "magnitude": 0.8,
       "depth": 2,
@@ -1830,6 +1902,15 @@
       "time": "2026-07-11T21:28:11.950Z"
     },
     {
+      "id": "av94303083",
+      "magnitude": 0,
+      "depth": 12,
+      "lat": 57.101,
+      "lon": -135.865,
+      "place": "32 km W of Sitka, Alaska",
+      "time": "2026-07-11T21:27:54.700Z"
+    },
+    {
       "id": "aka2026nqlbis",
       "magnitude": 3.3,
       "depth": 143,
@@ -1893,6 +1974,15 @@
       "time": "2026-07-11T20:45:02.900Z"
     },
     {
+      "id": "av94303013",
+      "magnitude": 0.1,
+      "depth": 7,
+      "lat": 53.897,
+      "lon": -166.627,
+      "place": "5 km W of Dutch Harbor, Alaska",
+      "time": "2026-07-11T20:44:15.390Z"
+    },
+    {
       "id": "aka2026nqjjcu",
       "magnitude": 2,
       "depth": 78,
@@ -1909,6 +1999,15 @@
       "lon": -117.807,
       "place": "17 km WSW of Johannesburg, CA",
       "time": "2026-07-11T20:33:31.190Z"
+    },
+    {
+      "id": "av94302993",
+      "magnitude": -0.4,
+      "depth": 2,
+      "lat": 58.303,
+      "lon": -154.999,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": "2026-07-11T20:32:03.160Z"
     },
     {
       "id": "nc75394091",
@@ -1983,6 +2082,15 @@
       "time": "2026-07-11T20:07:44.120Z"
     },
     {
+      "id": "av93063909",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 52.8,
+      "lon": -169.884,
+      "place": "70 km WSW of Nikolski, Alaska",
+      "time": "2026-07-11T19:59:47.750Z"
+    },
+    {
       "id": "aka2026nqidws",
       "magnitude": 1.8,
       "depth": 5,
@@ -2019,58 +2127,13 @@
       "time": "2026-07-11T19:52:11.283Z"
     },
     {
-      "id": "se60505933",
-      "magnitude": 2.4,
-      "depth": 0,
-      "lat": 32.989,
-      "lon": -88.059,
-      "place": "13 km W of Union, Alabama",
-      "time": "2026-07-11T19:37:56.990Z"
-    },
-    {
-      "id": "aka2026nqhjao",
-      "magnitude": 2.2,
-      "depth": 126,
-      "lat": 63.022,
-      "lon": -150.734,
-      "place": "58 km N of Petersville, Alaska",
-      "time": "2026-07-11T19:34:37.040Z"
-    },
-    {
-      "id": "nn00921486",
-      "magnitude": 2.2,
-      "depth": 9,
-      "lat": 38.536,
-      "lon": -118.163,
-      "place": "16 km NNW of Mina, Nevada",
-      "time": "2026-07-11T18:53:11.479Z"
-    },
-    {
-      "id": "aka2026nqfxvq",
-      "magnitude": 2.3,
-      "depth": 67,
-      "lat": 62.884,
-      "lon": -149.081,
-      "place": "56 km S of Cantwell, Alaska",
-      "time": "2026-07-11T18:51:44.463Z"
-    },
-    {
-      "id": "hv75000941",
-      "magnitude": 1.8,
-      "depth": 32,
-      "lat": 19.062,
-      "lon": -155.339,
-      "place": "21 km SE of Pāhala, Hawaii",
-      "time": "2026-07-11T18:50:49.730Z"
-    },
-    {
-      "id": "nc75394036",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 38.82,
-      "lon": -122.812,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-11T18:48:05.010Z"
+      "id": "av94302913",
+      "magnitude": 1.2,
+      "depth": -2,
+      "lat": 52.794,
+      "lon": -169.867,
+      "place": "69 km WSW of Nikolski, Alaska",
+      "time": "2026-07-11T19:50:54.080Z"
     }
   ]
 }
