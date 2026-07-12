@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-11T23:07:24.616Z",
-  "count": 210,
+  "generated": "2026-07-12T00:07:35.898Z",
+  "count": 211,
   "events": [
+    {
+      "id": "nc75394171",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 38.78,
+      "lon": -122.716,
+      "place": "2 km WNW of Anderson Springs, CA",
+      "time": "2026-07-11T23:48:02.090Z"
+    },
+    {
+      "id": "pr71523443",
+      "magnitude": 2.2,
+      "depth": 11,
+      "lat": 17.94,
+      "lon": -66.995,
+      "place": "6 km SE of La Parguera, Puerto Rico",
+      "time": "2026-07-11T23:37:29.560Z"
+    },
+    {
+      "id": "hv75001036",
+      "magnitude": 1.8,
+      "depth": 29,
+      "lat": 19.178,
+      "lon": -155.411,
+      "place": "7 km ESE of Pāhala, Hawaii",
+      "time": "2026-07-11T23:34:24.030Z"
+    },
+    {
+      "id": "pr71523438",
+      "magnitude": 1.9,
+      "depth": 19,
+      "lat": 18.007,
+      "lon": -66.852,
+      "place": "2 km ESE of Palomas, Puerto Rico",
+      "time": "2026-07-11T23:22:17.520Z"
+    },
     {
       "id": "nc75394156",
       "magnitude": 0.8,
@@ -28,6 +64,15 @@
       "lon": -148.671,
       "place": "4 km E of Sutton-Alpine, Alaska",
       "time": "2026-07-11T22:26:14.444Z"
+    },
+    {
+      "id": "us7000szse",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": 32.655,
+      "lon": -39.883,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": "2026-07-11T22:13:42.896Z"
     },
     {
       "id": "pr71523423",
@@ -1855,42 +1900,6 @@
       "lon": -122.843,
       "place": "9 km NW of The Geysers, CA",
       "time": "2026-07-11T00:14:44.570Z"
-    },
-    {
-      "id": "ci41290967",
-      "magnitude": 0.5,
-      "depth": 7,
-      "lat": 33.507,
-      "lon": -116.443,
-      "place": "21 km SW of La Quinta, CA",
-      "time": "2026-07-11T00:03:24.930Z"
-    },
-    {
-      "id": "aka2026notqto",
-      "magnitude": 1.5,
-      "depth": 89,
-      "lat": 60.233,
-      "lon": -152.454,
-      "place": "48 km WNW of Ninilchik, Alaska",
-      "time": "2026-07-10T23:44:04.913Z"
-    },
-    {
-      "id": "tx2026nmpbza",
-      "magnitude": 1.8,
-      "depth": 4,
-      "lat": 31.527,
-      "lon": -104.155,
-      "place": "41 km NW of Toyah, Texas",
-      "time": "2026-07-10T23:41:33.747Z"
-    },
-    {
-      "id": "pr71523348",
-      "magnitude": 2.4,
-      "depth": 10,
-      "lat": 17.885,
-      "lon": -66.855,
-      "place": "10 km SSE of Maria Antonia, Puerto Rico",
-      "time": "2026-07-10T23:26:05.020Z"
     }
   ]
 }
