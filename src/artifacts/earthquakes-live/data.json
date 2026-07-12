@@ -1,15 +1,105 @@
 {
-  "generated": "2026-07-12T17:41:55.177Z",
-  "count": 223,
+  "generated": "2026-07-12T18:35:23.819Z",
+  "count": 230,
   "events": [
+    {
+      "id": "nc75394531",
+      "magnitude": 1.1,
+      "depth": 1,
+      "lat": 38.794,
+      "lon": -122.759,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-07-12T18:30:07.690Z"
+    },
+    {
+      "id": "aka2026nsbdzk",
+      "magnitude": 1.7,
+      "depth": 13,
+      "lat": 59.014,
+      "lon": -153.396,
+      "place": "87 km SE of Pope-Vannoy Landing, Alaska",
+      "time": "2026-07-12T18:28:11.813Z"
+    },
+    {
+      "id": "nc75394526",
+      "magnitude": 1.3,
+      "depth": 1,
+      "lat": 38.793,
+      "lon": -122.759,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-07-12T18:21:49.350Z"
+    },
+    {
+      "id": "nc75394521",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.793,
+      "lon": -122.758,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-07-12T18:18:31.120Z"
+    },
+    {
+      "id": "nn00921547",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 38.173,
+      "lon": -117.868,
+      "place": "32 km SE of Mina, Nevada",
+      "time": "2026-07-12T18:14:10.302Z"
+    },
+    {
+      "id": "pr71523523",
+      "magnitude": 2,
+      "depth": 16,
+      "lat": 18.022,
+      "lon": -66.783,
+      "place": "1 km ENE of Guayanilla, Puerto Rico",
+      "time": "2026-07-12T18:03:26.430Z"
+    },
+    {
+      "id": "aka2026nsaadg",
+      "magnitude": 1.8,
+      "depth": 22,
+      "lat": 61.513,
+      "lon": -147.789,
+      "place": "33 km SSW of Glacier View, Alaska",
+      "time": "2026-07-12T17:53:47.370Z"
+    },
+    {
+      "id": "ci41292199",
+      "magnitude": 3.2,
+      "depth": 12,
+      "lat": 34.812,
+      "lon": -118.938,
+      "place": "1 km SSE of Frazier Park, CA",
+      "time": "2026-07-12T17:53:11.880Z"
+    },
+    {
+      "id": "us7000szwj",
+      "magnitude": 3.8,
+      "depth": 10,
+      "lat": 43.402,
+      "lon": -127.291,
+      "place": "236 km W of Bandon, Oregon",
+      "time": "2026-07-12T17:49:02.867Z"
+    },
+    {
+      "id": "pr71523513",
+      "magnitude": 2.1,
+      "depth": 14,
+      "lat": 17.954,
+      "lon": -66.92,
+      "place": "2 km SW of Guánica, Puerto Rico",
+      "time": "2026-07-12T17:36:04.820Z"
+    },
     {
       "id": "ci41292175",
       "magnitude": 1.4,
       "depth": 13,
-      "lat": 34.808,
+      "lat": 34.806,
       "lon": -118.929,
       "place": "2 km SE of Frazier Park, CA",
-      "time": "2026-07-12T17:20:57.860Z"
+      "time": "2026-07-12T17:20:57.800Z"
     },
     {
       "id": "aka2026nryuia",
@@ -28,6 +118,15 @@
       "lon": -123.645,
       "place": "12 km S of Cowichan Bay, Canada",
       "time": "2026-07-12T17:13:14.140Z"
+    },
+    {
+      "id": "us7000szwe",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": 31.114,
+      "lon": 102.26,
+      "place": "126 km NNE of Kangding, China",
+      "time": "2026-07-12T17:03:28.584Z"
     },
     {
       "id": "aka2026nryexv",
@@ -568,6 +667,15 @@
       "lon": -118.902,
       "place": "4 km WSW of Lebec, CA",
       "time": "2026-07-12T11:02:13.710Z"
+    },
+    {
+      "id": "ci41291903",
+      "magnitude": 0.9,
+      "depth": 11,
+      "lat": 34.84,
+      "lon": -118.915,
+      "place": "3 km NE of Frazier Park, CA",
+      "time": "2026-07-12T11:02:10.880Z"
     },
     {
       "id": "tx2026nphhpl",
@@ -1605,13 +1713,13 @@
       "time": "2026-07-11T22:38:02.850Z"
     },
     {
-      "id": "us7000szsg",
+      "id": "uu80145176",
       "magnitude": 2.6,
-      "depth": 14,
-      "lat": 42.244,
-      "lon": -111.595,
-      "place": "16 km W of Paris, Idaho",
-      "time": "2026-07-11T22:28:48.834Z"
+      "depth": -3,
+      "lat": 42.23,
+      "lon": -111.592,
+      "place": "15 km W of Paris, Idaho",
+      "time": "2026-07-11T22:28:47.800Z"
     },
     {
       "id": "aka2026nqnbuu",
@@ -1963,51 +2071,6 @@
       "lon": -122.812,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-07-11T18:48:05.010Z"
-    },
-    {
-      "id": "aka2026nqengt",
-      "magnitude": 2.3,
-      "depth": 2,
-      "lat": 55.911,
-      "lon": -159.857,
-      "place": "23 km W of Ivanof Bay, Alaska",
-      "time": "2026-07-11T18:09:33.905Z"
-    },
-    {
-      "id": "nc75394026",
-      "magnitude": 0.5,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.801,
-      "place": "7 km WNW of Cobb, CA",
-      "time": "2026-07-11T18:05:20.220Z"
-    },
-    {
-      "id": "aka2026nqeghg",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 62.072,
-      "lon": -150.966,
-      "place": "24 km ENE of Skwentna, Alaska",
-      "time": "2026-07-11T18:01:41.367Z"
-    },
-    {
-      "id": "us7000szri",
-      "magnitude": 5.2,
-      "depth": 62,
-      "lat": 4.941,
-      "lon": 125.245,
-      "place": "56 km SSW of Sarangani, Philippines",
-      "time": "2026-07-11T17:49:31.928Z"
-    },
-    {
-      "id": "aka2026nqdpzp",
-      "magnitude": 1.4,
-      "depth": 65,
-      "lat": 60.789,
-      "lon": -151.08,
-      "place": "15 km NE of Nikiski, Alaska",
-      "time": "2026-07-11T17:42:43.402Z"
     }
   ]
 }
