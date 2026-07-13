@@ -1,7 +1,88 @@
 {
-  "generated": "2026-07-12T23:13:27.625Z",
-  "count": 226,
+  "generated": "2026-07-13T00:10:27.901Z",
+  "count": 231,
   "events": [
+    {
+      "id": "nc75394671",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.755,
+      "lon": -122.714,
+      "place": "3 km SW of Anderson Springs, CA",
+      "time": "2026-07-13T00:06:28.420Z"
+    },
+    {
+      "id": "nc75394666",
+      "magnitude": 1.4,
+      "depth": 6,
+      "lat": 38.759,
+      "lon": -122.932,
+      "place": "9 km SE of Cloverdale, CA",
+      "time": "2026-07-13T00:05:31.360Z"
+    },
+    {
+      "id": "ci41292327",
+      "magnitude": 1.1,
+      "depth": 11,
+      "lat": 34.847,
+      "lon": -119.231,
+      "place": "7 km W of Pine Mountain Club, CA",
+      "time": "2026-07-12T23:54:20.140Z"
+    },
+    {
+      "id": "nc75394651",
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 39.343,
+      "lon": -123.186,
+      "place": "9 km N of Redwood Valley, CA",
+      "time": "2026-07-12T23:47:07.810Z"
+    },
+    {
+      "id": "tx2026nqgnro",
+      "magnitude": 1.5,
+      "depth": 6,
+      "lat": 31.614,
+      "lon": -104.002,
+      "place": "38 km NNW of Toyah, Texas",
+      "time": "2026-07-12T23:41:11.917Z"
+    },
+    {
+      "id": "pr71523558",
+      "magnitude": 2,
+      "depth": 16,
+      "lat": 17.932,
+      "lon": -66.835,
+      "place": "7 km SSW of Indios, Puerto Rico",
+      "time": "2026-07-12T23:34:42.470Z"
+    },
+    {
+      "id": "nc75394641",
+      "magnitude": 0.3,
+      "depth": 4,
+      "lat": 38.817,
+      "lon": -122.795,
+      "place": "5 km NW of The Geysers, CA",
+      "time": "2026-07-12T23:28:22.950Z"
+    },
+    {
+      "id": "ci41292319",
+      "magnitude": 1.7,
+      "depth": -1,
+      "lat": 35.037,
+      "lon": -117.668,
+      "place": "5 km NNW of Boron, CA",
+      "time": "2026-07-12T23:25:11.100Z"
+    },
+    {
+      "id": "tx2026nqfphq",
+      "magnitude": 2.2,
+      "depth": 3,
+      "lat": 32.006,
+      "lon": -101.4,
+      "place": "11 km SSW of Forsan, Texas",
+      "time": "2026-07-12T23:12:56.110Z"
+    },
     {
       "id": "aka2026nskijl",
       "magnitude": 1.2,
@@ -955,6 +1036,15 @@
       "lon": -118.917,
       "place": "3 km ESE of Frazier Park, CA",
       "time": "2026-07-12T11:11:29.630Z"
+    },
+    {
+      "id": "tx2026nphram",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 32.267,
+      "lon": -101.934,
+      "place": "20 km NW of Stanton, Texas",
+      "time": "2026-07-12T11:10:47.980Z"
     },
     {
       "id": "ci41291927",
@@ -1990,51 +2080,6 @@
       "lon": -148.047,
       "place": "2 km WSW of Chenega, Alaska",
       "time": "2026-07-12T00:10:16.379Z"
-    },
-    {
-      "id": "nc75394171",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.78,
-      "lon": -122.716,
-      "place": "2 km WNW of Anderson Springs, CA",
-      "time": "2026-07-11T23:48:02.090Z"
-    },
-    {
-      "id": "pr71523443",
-      "magnitude": 2.2,
-      "depth": 11,
-      "lat": 17.94,
-      "lon": -66.995,
-      "place": "6 km SE of La Parguera, Puerto Rico",
-      "time": "2026-07-11T23:37:29.560Z"
-    },
-    {
-      "id": "us7000szsn",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": 16.5,
-      "lon": 84.523,
-      "place": "184 km SE of Yārāda, India",
-      "time": "2026-07-11T23:35:45.479Z"
-    },
-    {
-      "id": "hv75001036",
-      "magnitude": 1.8,
-      "depth": 29,
-      "lat": 19.178,
-      "lon": -155.411,
-      "place": "7 km ESE of Pāhala, Hawaii",
-      "time": "2026-07-11T23:34:24.030Z"
-    },
-    {
-      "id": "pr71523438",
-      "magnitude": 1.9,
-      "depth": 19,
-      "lat": 18.007,
-      "lon": -66.852,
-      "place": "2 km ESE of Palomas, Puerto Rico",
-      "time": "2026-07-11T23:22:17.520Z"
     }
   ]
 }
