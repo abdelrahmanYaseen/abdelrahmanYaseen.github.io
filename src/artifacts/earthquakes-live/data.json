@@ -1,15 +1,78 @@
 {
-  "generated": "2026-07-14T16:35:54.639Z",
-  "count": 318,
+  "generated": "2026-07-14T17:44:57.370Z",
+  "count": 304,
   "events": [
     {
+      "id": "aka2026nvrhey",
+      "magnitude": 3,
+      "depth": 11,
+      "lat": 55.006,
+      "lon": -156.462,
+      "place": "188 km SE of Chignik, Alaska",
+      "time": "2026-07-14T17:30:31.468Z"
+    },
+    {
+      "id": "nc75395801",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.838,
+      "lon": -122.877,
+      "place": "12 km WNW of The Geysers, CA",
+      "time": "2026-07-14T17:22:54.980Z"
+    },
+    {
+      "id": "nc75395786",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.788,
+      "lon": -122.765,
+      "place": "1 km NNW of The Geysers, CA",
+      "time": "2026-07-14T16:55:25.260Z"
+    },
+    {
+      "id": "nc75395771",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.819,
+      "lon": -122.805,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-07-14T16:48:47.260Z"
+    },
+    {
+      "id": "pr71524178",
+      "magnitude": 3.1,
+      "depth": 48,
+      "lat": 18.914,
+      "lon": -65.105,
+      "place": "65 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-07-14T16:45:30.880Z"
+    },
+    {
+      "id": "nc75395766",
+      "magnitude": 2.3,
+      "depth": 3,
+      "lat": 40.322,
+      "lon": -120.09,
+      "place": "24 km ENE of Honey Lake, CA",
+      "time": "2026-07-14T16:35:44.580Z"
+    },
+    {
+      "id": "us7000t0ej",
+      "magnitude": 4.3,
+      "depth": 44,
+      "lat": 54.157,
+      "lon": -162.582,
+      "place": "94 km SE of False Pass, Alaska",
+      "time": "2026-07-14T16:28:40.689Z"
+    },
+    {
       "id": "ci41294047",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 33.533,
-      "lon": -116.725,
-      "place": "5 km WSW of Anza, CA",
-      "time": "2026-07-14T16:19:22.550Z"
+      "magnitude": 0.1,
+      "depth": 6,
+      "lat": 33.534,
+      "lon": -116.727,
+      "place": "6 km WSW of Anza, CA",
+      "time": "2026-07-14T16:19:22.490Z"
     },
     {
       "id": "ci41294039",
@@ -183,6 +246,15 @@
       "time": "2026-07-14T15:09:13.490Z"
     },
     {
+      "id": "us7000t0ce",
+      "magnitude": 4,
+      "depth": 10,
+      "lat": 43.412,
+      "lon": 87.672,
+      "place": "43 km S of Ürümqi, China",
+      "time": "2026-07-14T15:01:15.502Z"
+    },
+    {
       "id": "us7000t0cb",
       "magnitude": 3.8,
       "depth": 82,
@@ -193,12 +265,12 @@
     },
     {
       "id": "ci41293911",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 32.568,
-      "lon": -116.706,
-      "place": "7 km W of Tecate, B.C., MX",
-      "time": "2026-07-14T14:56:40.030Z"
+      "magnitude": 0.6,
+      "depth": 6,
+      "lat": 32.577,
+      "lon": -116.722,
+      "place": "8 km W of Tecate, B.C., MX",
+      "time": "2026-07-14T14:56:40.090Z"
     },
     {
       "id": "aka2026nvlqrz",
@@ -337,12 +409,12 @@
     },
     {
       "id": "tx2026ntecgh",
-      "magnitude": 0.6,
-      "depth": 9,
-      "lat": 31.55,
-      "lon": -104.108,
-      "place": "39 km NW of Toyah, Texas",
-      "time": "2026-07-14T13:41:06.655Z"
+      "magnitude": -0.2,
+      "depth": 6,
+      "lat": 31.688,
+      "lon": -104.5,
+      "place": "55 km SSW of Whites City, New Mexico",
+      "time": "2026-07-14T13:40:49.598Z"
     },
     {
       "id": "nc75395646",
@@ -507,13 +579,40 @@
       "time": "2026-07-14T11:54:24.590Z"
     },
     {
-      "id": "ci41293783",
-      "magnitude": 0.4,
-      "depth": 9,
+      "id": "ci10245950",
+      "magnitude": 0.3,
+      "depth": 7,
       "lat": 35.832,
-      "lon": -117.658,
-      "place": "24 km N of Ridgecrest, CA",
+      "lon": -117.667,
+      "place": "23 km N of Ridgecrest, CA",
+      "time": "2026-07-14T11:54:06.190Z"
+    },
+    {
+      "id": "ci41293783",
+      "magnitude": 0.3,
+      "depth": 9,
+      "lat": 35.83,
+      "lon": -117.661,
+      "place": "23 km N of Ridgecrest, CA",
       "time": "2026-07-14T11:54:02.410Z"
+    },
+    {
+      "id": "ci10245966",
+      "magnitude": 0.2,
+      "depth": 9,
+      "lat": 35.834,
+      "lon": -117.653,
+      "place": "24 km WNW of Searles Valley, CA",
+      "time": "2026-07-14T11:53:50.180Z"
+    },
+    {
+      "id": "ci10245958",
+      "magnitude": 0.2,
+      "depth": 9,
+      "lat": 35.831,
+      "lon": -117.66,
+      "place": "23 km N of Ridgecrest, CA",
+      "time": "2026-07-14T11:53:46.200Z"
     },
     {
       "id": "ci41293775",
@@ -642,13 +741,22 @@
       "time": "2026-07-14T11:07:15.820Z"
     },
     {
-      "id": "ci41293743",
-      "magnitude": 1.2,
+      "id": "ci10245942",
+      "magnitude": 1.3,
       "depth": 9,
-      "lat": 35.302,
-      "lon": -117.817,
+      "lat": 35.311,
+      "lon": -117.815,
       "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-14T11:04:24.980Z"
+      "time": "2026-07-14T11:04:32.830Z"
+    },
+    {
+      "id": "ci41293743",
+      "magnitude": 1.1,
+      "depth": 10,
+      "lat": 35.304,
+      "lon": -117.818,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-07-14T11:04:24.910Z"
     },
     {
       "id": "us7000t0am",
@@ -903,13 +1011,22 @@
       "time": "2026-07-14T07:51:01.013Z"
     },
     {
+      "id": "ci10245910",
+      "magnitude": 0.1,
+      "depth": 16,
+      "lat": 33.644,
+      "lon": -116.709,
+      "place": "10 km NNW of Anza, CA",
+      "time": "2026-07-14T07:49:07.660Z"
+    },
+    {
       "id": "ci41293663",
-      "magnitude": 0.3,
+      "magnitude": 0.1,
       "depth": 15,
-      "lat": 33.657,
-      "lon": -116.707,
+      "lat": 33.656,
+      "lon": -116.706,
       "place": "9 km S of Idyllwild, CA",
-      "time": "2026-07-14T07:49:01.130Z"
+      "time": "2026-07-14T07:49:01.090Z"
     },
     {
       "id": "aka2026nuxwjd",
@@ -1389,13 +1506,22 @@
       "time": "2026-07-14T04:16:44.010Z"
     },
     {
-      "id": "ci41293471",
-      "magnitude": 0.4,
+      "id": "ci10245934",
+      "magnitude": 0.3,
       "depth": 8,
       "lat": 35.916,
-      "lon": -117.732,
+      "lon": -117.731,
       "place": "16 km E of Little Lake, CA",
-      "time": "2026-07-14T04:15:32.000Z"
+      "time": "2026-07-14T04:15:37.580Z"
+    },
+    {
+      "id": "ci41293471",
+      "magnitude": 0.3,
+      "depth": 8,
+      "lat": 35.918,
+      "lon": -117.729,
+      "place": "16 km E of Little Lake, CA",
+      "time": "2026-07-14T04:15:31.900Z"
     },
     {
       "id": "pr71523893",
@@ -1434,13 +1560,31 @@
       "time": "2026-07-14T03:42:59.420Z"
     },
     {
+      "id": "ci10245926",
+      "magnitude": -0.1,
+      "depth": 6,
+      "lat": 33.541,
+      "lon": -116.712,
+      "place": "4 km WSW of Anza, CA",
+      "time": "2026-07-14T03:32:23.900Z"
+    },
+    {
+      "id": "ci10245918",
+      "magnitude": 0.6,
+      "depth": 1,
+      "lat": 33.172,
+      "lon": -115.616,
+      "place": "11 km WNW of Calipatria, CA",
+      "time": "2026-07-14T03:32:01.730Z"
+    },
+    {
       "id": "ci41293455",
-      "magnitude": 1.1,
-      "depth": 3,
+      "magnitude": 0.7,
+      "depth": 4,
       "lat": 33.216,
-      "lon": -115.628,
+      "lon": -115.639,
       "place": "11 km WSW of Niland, CA",
-      "time": "2026-07-14T03:31:53.780Z"
+      "time": "2026-07-14T03:31:53.660Z"
     },
     {
       "id": "ci41293447",
@@ -1481,11 +1625,11 @@
     {
       "id": "ci41293439",
       "magnitude": 0.8,
-      "depth": 5,
-      "lat": 34.009,
-      "lon": -117.177,
-      "place": "5 km S of Redlands, CA",
-      "time": "2026-07-14T03:00:14.530Z"
+      "depth": 3,
+      "lat": 34.019,
+      "lon": -117.182,
+      "place": "4 km S of Redlands, CA",
+      "time": "2026-07-14T03:00:14.630Z"
     },
     {
       "id": "pr71523888",
@@ -1705,12 +1849,12 @@
     },
     {
       "id": "ci41293359",
-      "magnitude": 1.2,
+      "magnitude": 0.7,
       "depth": 15,
       "lat": 34.048,
-      "lon": -117.256,
-      "place": "0 km E of Loma Linda, CA",
-      "time": "2026-07-14T00:07:03.790Z"
+      "lon": -117.26,
+      "place": "0 km ESE of Loma Linda, CA",
+      "time": "2026-07-14T00:07:03.760Z"
     },
     {
       "id": "tx2026nsczdp",
@@ -1842,10 +1986,10 @@
       "id": "ci41293255",
       "magnitude": 1.1,
       "depth": 9,
-      "lat": 35.315,
-      "lon": -117.818,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T22:53:42.000Z"
+      "lat": 35.314,
+      "lon": -117.813,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-07-13T22:53:41.980Z"
     },
     {
       "id": "ci41293247",
@@ -1894,12 +2038,12 @@
     },
     {
       "id": "ci41293207",
-      "magnitude": 0.7,
+      "magnitude": 0.6,
       "depth": 12,
-      "lat": 33.997,
-      "lon": -116.973,
-      "place": "7 km E of Calimesa, CA",
-      "time": "2026-07-13T22:15:04.740Z"
+      "lat": 34.001,
+      "lon": -116.974,
+      "place": "7 km ESE of Yucaipa, CA",
+      "time": "2026-07-13T22:15:04.640Z"
     },
     {
       "id": "ci41293199",
@@ -2134,6 +2278,15 @@
       "lon": -122.814,
       "place": "6 km WNW of The Geysers, CA",
       "time": "2026-07-13T20:40:10.330Z"
+    },
+    {
+      "id": "ci41293103",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 34.023,
+      "lon": -117.184,
+      "place": "4 km S of Redlands, CA",
+      "time": "2026-07-13T20:39:50.010Z"
     },
     {
       "id": "nc75395246",
@@ -2584,285 +2737,6 @@
       "lon": -25.034,
       "place": "South Sandwich Islands region",
       "time": "2026-07-13T17:45:19.903Z"
-    },
-    {
-      "id": "us7000t048",
-      "magnitude": 5,
-      "depth": 20,
-      "lat": 5.577,
-      "lon": 125.463,
-      "place": "5 km SE of Butulan, Philippines",
-      "time": "2026-07-13T17:44:29.061Z"
-    },
-    {
-      "id": "ci10245838",
-      "magnitude": 0.5,
-      "depth": 6,
-      "lat": 33.892,
-      "lon": -116.166,
-      "place": "20 km NNE of Indio, CA",
-      "time": "2026-07-13T17:38:53.650Z"
-    },
-    {
-      "id": "ci41292807",
-      "magnitude": 0.6,
-      "depth": 5,
-      "lat": 33.886,
-      "lon": -116.167,
-      "place": "19 km NNE of Indio, CA",
-      "time": "2026-07-13T17:38:37.080Z"
-    },
-    {
-      "id": "aka2026ntvkyj",
-      "magnitude": 1.7,
-      "depth": 88,
-      "lat": 59.541,
-      "lon": -152.658,
-      "place": "46 km WNW of Nanwalek, Alaska",
-      "time": "2026-07-13T17:37:18.045Z"
-    },
-    {
-      "id": "ci41292799",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 35.266,
-      "lon": -117.734,
-      "place": "15 km SW of Johannesburg, CA",
-      "time": "2026-07-13T17:32:37.260Z"
-    },
-    {
-      "id": "us7000t044",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -22.806,
-      "lon": 171.597,
-      "place": "southeast of the Loyalty Islands",
-      "time": "2026-07-13T17:24:11.392Z"
-    },
-    {
-      "id": "ci41292791",
-      "magnitude": 1,
-      "depth": 5,
-      "lat": 35.947,
-      "lon": -117.68,
-      "place": "20 km E of Little Lake, CA",
-      "time": "2026-07-13T17:23:52.590Z"
-    },
-    {
-      "id": "ci41292783",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 35.308,
-      "lon": -117.805,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T17:21:48.860Z"
-    },
-    {
-      "id": "us7000t042",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -22.842,
-      "lon": 171.592,
-      "place": "southeast of the Loyalty Islands",
-      "time": "2026-07-13T17:20:59.816Z"
-    },
-    {
-      "id": "tx2026nrpndn",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 31.416,
-      "lon": -103.787,
-      "place": "11 km N of Toyah, Texas",
-      "time": "2026-07-13T17:17:33.884Z"
-    },
-    {
-      "id": "hv75001741",
-      "magnitude": 2.2,
-      "depth": 30,
-      "lat": 19.736,
-      "lon": -155.797,
-      "place": "19 km E of Kalaoa, Hawaii",
-      "time": "2026-07-13T17:15:34.260Z"
-    },
-    {
-      "id": "us7000t046",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -22.84,
-      "lon": 171.526,
-      "place": "southeast of the Loyalty Islands",
-      "time": "2026-07-13T17:15:34.252Z"
-    },
-    {
-      "id": "ci41292767",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 35.314,
-      "lon": -117.806,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T17:07:54.360Z"
-    },
-    {
-      "id": "ci41292759",
-      "magnitude": 1.1,
-      "depth": 8,
-      "lat": 35.313,
-      "lon": -117.815,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T17:07:41.310Z"
-    },
-    {
-      "id": "ci41292751",
-      "magnitude": 1.2,
-      "depth": 8,
-      "lat": 35.304,
-      "lon": -117.807,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T17:06:50.250Z"
-    },
-    {
-      "id": "ci41292743",
-      "magnitude": 2.2,
-      "depth": 7,
-      "lat": 35.304,
-      "lon": -117.806,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T17:01:11.460Z"
-    },
-    {
-      "id": "ci41292735",
-      "magnitude": 1.1,
-      "depth": 16,
-      "lat": 33.989,
-      "lon": -116.992,
-      "place": "6 km E of Calimesa, CA",
-      "time": "2026-07-13T17:00:13.930Z"
-    },
-    {
-      "id": "av94306918",
-      "magnitude": 0.5,
-      "depth": 12,
-      "lat": 55.989,
-      "lon": -159.813,
-      "place": "22 km WNW of Ivanof Bay, Alaska",
-      "time": "2026-07-13T17:00:02.720Z"
-    },
-    {
-      "id": "nc75395061",
-      "magnitude": 2.2,
-      "depth": 6,
-      "lat": 38.76,
-      "lon": -122.928,
-      "place": "9 km ESE of Cloverdale, CA",
-      "time": "2026-07-13T16:57:38.980Z"
-    },
-    {
-      "id": "ci41292727",
-      "magnitude": 1.7,
-      "depth": 8,
-      "lat": 35.313,
-      "lon": -117.82,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:57:08.810Z"
-    },
-    {
-      "id": "aka2026ntuczb",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 55.864,
-      "lon": -159.854,
-      "place": "23 km W of Ivanof Bay, Alaska",
-      "time": "2026-07-13T16:56:25.415Z"
-    },
-    {
-      "id": "ci41292719",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 35.308,
-      "lon": -117.812,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:54:11.900Z"
-    },
-    {
-      "id": "ci41292711",
-      "magnitude": 1.1,
-      "depth": 10,
-      "lat": 35.303,
-      "lon": -117.819,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:53:17.580Z"
-    },
-    {
-      "id": "ci10245790",
-      "magnitude": 0.6,
-      "depth": 1,
-      "lat": 35.288,
-      "lon": -117.802,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:53:05.890Z"
-    },
-    {
-      "id": "nc75395056",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.847,
-      "lon": -122.847,
-      "place": "11 km NW of The Geysers, CA",
-      "time": "2026-07-13T16:52:02.330Z"
-    },
-    {
-      "id": "ci10245862",
-      "magnitude": 0.8,
-      "depth": 10,
-      "lat": 35.3,
-      "lon": -117.814,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:50:35.410Z"
-    },
-    {
-      "id": "ci41292703",
-      "magnitude": 1.3,
-      "depth": 10,
-      "lat": 35.302,
-      "lon": -117.807,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:50:06.060Z"
-    },
-    {
-      "id": "ci10245854",
-      "magnitude": 1.2,
-      "depth": 8,
-      "lat": 35.313,
-      "lon": -117.803,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:49:59.140Z"
-    },
-    {
-      "id": "pr71523783",
-      "magnitude": 2.4,
-      "depth": 14,
-      "lat": 17.968,
-      "lon": -66.912,
-      "place": "0 km SW of Guánica, Puerto Rico",
-      "time": "2026-07-13T16:47:45.720Z"
-    },
-    {
-      "id": "ci41292695",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 35.307,
-      "lon": -117.808,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:45:50.220Z"
-    },
-    {
-      "id": "ci41292687",
-      "magnitude": 4.3,
-      "depth": 8,
-      "lat": 35.312,
-      "lon": -117.815,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-07-13T16:40:55.170Z"
     }
   ]
 }
