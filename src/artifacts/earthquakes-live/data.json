@@ -1,7 +1,88 @@
 {
-  "generated": "2026-07-15T22:40:50.517Z",
-  "count": 279,
+  "generated": "2026-07-15T23:38:58.020Z",
+  "count": 287,
   "events": [
+    {
+      "id": "nc75396726",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.822,
+      "lon": -122.802,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-07-15T23:26:36.280Z"
+    },
+    {
+      "id": "uw714051651",
+      "magnitude": 1.8,
+      "depth": 13,
+      "lat": 48.624,
+      "lon": -123.057,
+      "place": "8 km WNW of Orcas, Washington",
+      "time": "2026-07-15T23:25:26.800Z"
+    },
+    {
+      "id": "aka2026nxzden",
+      "magnitude": 2.5,
+      "depth": 76,
+      "lat": 56.416,
+      "lon": -157.889,
+      "place": "34 km ENE of Chignik, Alaska",
+      "time": "2026-07-15T23:25:08.339Z"
+    },
+    {
+      "id": "ci40656002",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 33.062,
+      "lon": -115.912,
+      "place": "22 km ESE of Ocotillo Wells, CA",
+      "time": "2026-07-15T23:13:35.500Z"
+    },
+    {
+      "id": "us7000t0u6",
+      "magnitude": 5.8,
+      "depth": 340,
+      "lat": -26.366,
+      "lon": -178.694,
+      "place": "south of the Fiji Islands",
+      "time": "2026-07-15T22:57:11.162Z"
+    },
+    {
+      "id": "nc75396716",
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 38.761,
+      "lon": -122.931,
+      "place": "9 km ESE of Cloverdale, CA",
+      "time": "2026-07-15T22:55:09.020Z"
+    },
+    {
+      "id": "nc75396706",
+      "magnitude": 0.8,
+      "depth": 6,
+      "lat": 38.808,
+      "lon": -122.777,
+      "place": "4 km NNW of The Geysers, CA",
+      "time": "2026-07-15T22:51:03.410Z"
+    },
+    {
+      "id": "aka2026nxxuwp",
+      "magnitude": 1.5,
+      "depth": 28,
+      "lat": 62.26,
+      "lon": -148.551,
+      "place": "51 km N of Chickaloon, Alaska",
+      "time": "2026-07-15T22:45:35.223Z"
+    },
+    {
+      "id": "tx2026nvrtdh",
+      "magnitude": 1.8,
+      "depth": 5,
+      "lat": 31.657,
+      "lon": -104.369,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": "2026-07-15T22:41:49.169Z"
+    },
     {
       "id": "nc75396696",
       "magnitude": 1.1,
@@ -23,11 +104,11 @@
     {
       "id": "aka2026nxxdne",
       "magnitude": 1.8,
-      "depth": 20,
-      "lat": 57.051,
-      "lon": -154.683,
-      "place": "33 km WNW of Akhiok, Alaska",
-      "time": "2026-07-15T22:25:33.853Z"
+      "depth": 16,
+      "lat": 57.052,
+      "lon": -154.715,
+      "place": "35 km WNW of Akhiok, Alaska",
+      "time": "2026-07-15T22:25:33.722Z"
     },
     {
       "id": "us7000t0tz",
@@ -55,6 +136,15 @@
       "lon": -117.096,
       "place": "6 km E of Murrieta Hot Springs, CA",
       "time": "2026-07-15T21:56:25.570Z"
+    },
+    {
+      "id": "aka2026nxvsjf",
+      "magnitude": 2.3,
+      "depth": 61,
+      "lat": 51.385,
+      "lon": 179.381,
+      "place": "281 km WSW of Adak, Alaska",
+      "time": "2026-07-15T21:42:43.057Z"
     },
     {
       "id": "us7000t0tx",
@@ -121,12 +211,12 @@
     },
     {
       "id": "aka2026nxtfnx",
-      "magnitude": 1.7,
-      "depth": 11,
-      "lat": 59.886,
-      "lon": -141.505,
-      "place": "106 km WNW of Yakutat, Alaska",
-      "time": "2026-07-15T20:27:58.921Z"
+      "magnitude": 1.9,
+      "depth": 15,
+      "lat": 59.926,
+      "lon": -141.451,
+      "place": "105 km WNW of Yakutat, Alaska",
+      "time": "2026-07-15T20:27:59.466Z"
     },
     {
       "id": "nc75396586",
@@ -139,12 +229,12 @@
     },
     {
       "id": "aka2026nxsuhd",
-      "magnitude": 2.1,
-      "depth": 78,
-      "lat": 61.506,
-      "lon": -151.456,
+      "magnitude": 2.3,
+      "depth": 80,
+      "lat": 61.514,
+      "lon": -151.447,
       "place": "45 km NNW of Beluga, Alaska",
-      "time": "2026-07-15T20:14:58.919Z"
+      "time": "2026-07-15T20:14:58.698Z"
     },
     {
       "id": "us7000t0ss",
@@ -156,13 +246,40 @@
       "time": "2026-07-15T20:13:38.516Z"
     },
     {
+      "id": "uw714050442",
+      "magnitude": 1.2,
+      "depth": 22,
+      "lat": 47.597,
+      "lon": -122.853,
+      "place": "5 km SSW of Seabeck, Washington",
+      "time": "2026-07-15T19:59:41.270Z"
+    },
+    {
+      "id": "aka2026nxseag",
+      "magnitude": 1.6,
+      "depth": 91,
+      "lat": 60.708,
+      "lon": -152.207,
+      "place": "49 km WNW of Salamatof, Alaska",
+      "time": "2026-07-15T19:56:11.887Z"
+    },
+    {
+      "id": "aka2026nxrwvm",
+      "magnitude": 1.8,
+      "depth": 34,
+      "lat": 60.687,
+      "lon": -150.952,
+      "place": "18 km E of Nikiski, Alaska",
+      "time": "2026-07-15T19:48:29.607Z"
+    },
+    {
       "id": "aka2026nxrisg",
       "magnitude": 3.5,
-      "depth": 5,
-      "lat": 63.661,
-      "lon": -150.759,
-      "place": "49 km ENE of Denali National Park, Alaska",
-      "time": "2026-07-15T19:31:38.449Z"
+      "depth": 3,
+      "lat": 63.628,
+      "lon": -150.704,
+      "place": "51 km E of Denali National Park, Alaska",
+      "time": "2026-07-15T19:31:38.048Z"
     },
     {
       "id": "hv75003266",
@@ -559,6 +676,15 @@
       "lon": -117.698,
       "place": "20 km ESE of Little Lake, CA",
       "time": "2026-07-15T15:53:51.820Z"
+    },
+    {
+      "id": "uw714050192",
+      "magnitude": 1.2,
+      "depth": 4,
+      "lat": 46.795,
+      "lon": -121.911,
+      "place": "10 km ENE of Ashford, Washington",
+      "time": "2026-07-15T15:51:50.740Z"
     },
     {
       "id": "pr71524458",
@@ -1065,6 +1191,15 @@
       "time": "2026-07-15T11:18:50.320Z"
     },
     {
+      "id": "uw714050092",
+      "magnitude": 0.4,
+      "depth": 1,
+      "lat": 46.855,
+      "lon": -121.763,
+      "place": "23 km ENE of Ashford, Washington",
+      "time": "2026-07-15T11:16:52.200Z"
+    },
+    {
       "id": "ci40655258",
       "magnitude": 2.2,
       "depth": 11,
@@ -1162,6 +1297,15 @@
       "lon": -117.848,
       "place": "0 km WSW of Charter Oak, CA",
       "time": "2026-07-15T10:29:05.580Z"
+    },
+    {
+      "id": "uw714050072",
+      "magnitude": 0.3,
+      "depth": 13,
+      "lat": 46.937,
+      "lon": -121.952,
+      "place": "17 km SSE of Carbonado, Washington",
+      "time": "2026-07-15T10:17:42.700Z"
     },
     {
       "id": "nc75396216",
@@ -1560,6 +1704,15 @@
       "time": "2026-07-15T07:05:41.260Z"
     },
     {
+      "id": "av93064239",
+      "magnitude": -0.2,
+      "depth": 8,
+      "lat": 58.591,
+      "lon": -154.699,
+      "place": "94 km S of Kokhanok, Alaska",
+      "time": "2026-07-15T06:43:39.400Z"
+    },
+    {
       "id": "ok2026nsuj",
       "magnitude": 1.4,
       "depth": 8,
@@ -1702,6 +1855,15 @@
       "lon": -155.505,
       "place": "3 km SW of Pāhala, Hawaii",
       "time": "2026-07-15T05:45:50.560Z"
+    },
+    {
+      "id": "av94309933",
+      "magnitude": 0,
+      "depth": 8,
+      "lat": 53.896,
+      "lon": -166.636,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": "2026-07-15T05:39:36.760Z"
     },
     {
       "id": "ci40655130",
@@ -2422,96 +2584,6 @@
       "lon": -92.938,
       "place": "57 km WSW of Puerto Madero, Mexico",
       "time": "2026-07-14T23:45:21.315Z"
-    },
-    {
-      "id": "ci40654930",
-      "magnitude": 0.9,
-      "depth": 11,
-      "lat": 33.077,
-      "lon": -116.604,
-      "place": "0 km SW of Julian, CA",
-      "time": "2026-07-14T23:34:45.740Z"
-    },
-    {
-      "id": "aka2026nwdheg",
-      "magnitude": 1.7,
-      "depth": 1,
-      "lat": 64.018,
-      "lon": -148.788,
-      "place": "16 km E of Ferry, Alaska",
-      "time": "2026-07-14T23:30:24.993Z"
-    },
-    {
-      "id": "nc75396046",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 38.823,
-      "lon": -122.804,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-14T23:29:40.000Z"
-    },
-    {
-      "id": "uw714049872",
-      "magnitude": 0.4,
-      "depth": 6,
-      "lat": 46.774,
-      "lon": -121.907,
-      "place": "9 km E of Ashford, Washington",
-      "time": "2026-07-14T23:25:38.600Z"
-    },
-    {
-      "id": "ci40654922",
-      "magnitude": 2.2,
-      "depth": 9,
-      "lat": 35.651,
-      "lon": -117.491,
-      "place": "15 km SSW of Searles Valley, CA",
-      "time": "2026-07-14T23:17:06.650Z"
-    },
-    {
-      "id": "ci40654906",
-      "magnitude": 1.8,
-      "depth": 11,
-      "lat": 32.54,
-      "lon": -115.641,
-      "place": "7 km SW of Progreso, B.C., MX",
-      "time": "2026-07-14T23:10:49.010Z"
-    },
-    {
-      "id": "nc75396026",
-      "magnitude": 0.8,
-      "depth": 1,
-      "lat": 38.856,
-      "lon": -122.838,
-      "place": "11 km WNW of Cobb, CA",
-      "time": "2026-07-14T23:05:04.900Z"
-    },
-    {
-      "id": "ci40654882",
-      "magnitude": 1.4,
-      "depth": 6,
-      "lat": 35.312,
-      "lon": -117.798,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": "2026-07-14T22:54:41.830Z"
-    },
-    {
-      "id": "pr71524338",
-      "magnitude": 3.2,
-      "depth": 20,
-      "lat": 17.998,
-      "lon": -68.198,
-      "place": "60 km SE of Boca de Yuma, Dominican Republic",
-      "time": "2026-07-14T22:51:17.780Z"
-    },
-    {
-      "id": "us7000t0hk",
-      "magnitude": 5.5,
-      "depth": 574,
-      "lat": -20.748,
-      "lon": -178.509,
-      "place": "Fiji region",
-      "time": "2026-07-14T22:50:12.020Z"
     }
   ]
 }
