@@ -1,7 +1,70 @@
 {
-  "generated": "2026-07-14T23:09:34.413Z",
-  "count": 278,
+  "generated": "2026-07-15T00:02:46.629Z",
+  "count": 286,
   "events": [
+    {
+      "id": "ci40654954",
+      "magnitude": 1.4,
+      "depth": -1,
+      "lat": 35.037,
+      "lon": -117.674,
+      "place": "5 km NNW of Boron, CA",
+      "time": "2026-07-14T23:45:48.830Z"
+    },
+    {
+      "id": "ci40654930",
+      "magnitude": 0.9,
+      "depth": 11,
+      "lat": 33.077,
+      "lon": -116.604,
+      "place": "0 km SW of Julian, CA",
+      "time": "2026-07-14T23:34:45.740Z"
+    },
+    {
+      "id": "aka2026nwdheg",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 64.027,
+      "lon": -148.826,
+      "place": "14 km E of Ferry, Alaska",
+      "time": "2026-07-14T23:30:24.726Z"
+    },
+    {
+      "id": "nc75396046",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.823,
+      "lon": -122.804,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-07-14T23:29:40.000Z"
+    },
+    {
+      "id": "ci40654922",
+      "magnitude": 2.1,
+      "depth": 9,
+      "lat": 35.652,
+      "lon": -117.492,
+      "place": "15 km SSW of Searles Valley, CA",
+      "time": "2026-07-14T23:17:06.670Z"
+    },
+    {
+      "id": "tx2026ntxeew",
+      "magnitude": 0.9,
+      "depth": 1,
+      "lat": 31.621,
+      "lon": -104.228,
+      "place": "53 km NW of Toyah, Texas",
+      "time": "2026-07-14T23:16:34.518Z"
+    },
+    {
+      "id": "ci40654906",
+      "magnitude": 2,
+      "depth": 11,
+      "lat": 32.541,
+      "lon": -115.641,
+      "place": "7 km SW of Progreso, B.C., MX",
+      "time": "2026-07-14T23:10:49.060Z"
+    },
     {
       "id": "nc75396026",
       "magnitude": 0.8,
@@ -298,15 +361,6 @@
       "lon": -103.243,
       "place": "11 km SSW of Jal, New Mexico",
       "time": "2026-07-14T19:17:51.064Z"
-    },
-    {
-      "id": "aka2026nvupvj",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 64.712,
-      "lon": -147.6,
-      "place": "10 km SSW of Badger, Alaska",
-      "time": "2026-07-14T19:10:31.622Z"
     },
     {
       "id": "uu80145321",
@@ -822,15 +876,6 @@
       "time": "2026-07-14T13:55:03.639Z"
     },
     {
-      "id": "aka2026nvkbcg",
-      "magnitude": 1,
-      "depth": 24,
-      "lat": 60.598,
-      "lon": -142.823,
-      "place": "93 km S of McCarthy, Alaska",
-      "time": "2026-07-14T13:53:41.146Z"
-    },
-    {
       "id": "ci41293871",
       "magnitude": 2.5,
       "depth": 13,
@@ -984,6 +1029,15 @@
       "time": "2026-07-14T12:03:27.530Z"
     },
     {
+      "id": "av94308248",
+      "magnitude": 0.5,
+      "depth": 5,
+      "lat": 52.4,
+      "lon": -174.124,
+      "place": "23 km NNE of Atka, Alaska",
+      "time": "2026-07-14T12:01:56.830Z"
+    },
+    {
       "id": "aka2026nvgfep",
       "magnitude": 2.3,
       "depth": 5,
@@ -1099,15 +1153,6 @@
       "lon": -122.851,
       "place": "10 km NW of The Geysers, CA",
       "time": "2026-07-14T11:50:14.470Z"
-    },
-    {
-      "id": "aka2026nvfvcs",
-      "magnitude": 1.1,
-      "depth": 16,
-      "lat": 60.666,
-      "lon": -141.5,
-      "place": "114 km SE of McCarthy, Alaska",
-      "time": "2026-07-14T11:46:48.942Z"
     },
     {
       "id": "aka2026nvfugb",
@@ -1317,15 +1362,6 @@
       "time": "2026-07-14T08:59:14.040Z"
     },
     {
-      "id": "aka2026nuzyqb",
-      "magnitude": 1.2,
-      "depth": 0,
-      "lat": 64.672,
-      "lon": -148.298,
-      "place": "23 km SW of Ester, Alaska",
-      "time": "2026-07-14T08:50:56.818Z"
-    },
-    {
       "id": "ci41293711",
       "magnitude": 1.1,
       "depth": 8,
@@ -1398,6 +1434,15 @@
       "time": "2026-07-14T08:21:06.499Z"
     },
     {
+      "id": "av94307908",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 52.112,
+      "lon": -176.152,
+      "place": "42 km NE of Adak, Alaska",
+      "time": "2026-07-14T08:13:06.080Z"
+    },
+    {
       "id": "us7000t09z",
       "magnitude": 4.9,
       "depth": 44,
@@ -1408,12 +1453,12 @@
     },
     {
       "id": "aka2026nuygnk",
-      "magnitude": 2.2,
-      "depth": 0,
-      "lat": 56.978,
-      "lon": -155.436,
-      "place": "76 km W of Akhiok, Alaska",
-      "time": "2026-07-14T08:00:04.534Z"
+      "magnitude": 2.3,
+      "depth": 7,
+      "lat": 56.98,
+      "lon": -155.442,
+      "place": "77 km W of Akhiok, Alaska",
+      "time": "2026-07-14T08:00:04.580Z"
     },
     {
       "id": "ci41293679",
@@ -1481,11 +1526,11 @@
     {
       "id": "aka2026nuxwjd",
       "magnitude": 1.8,
-      "depth": 21,
-      "lat": 61.069,
-      "lon": -149.419,
-      "place": "19 km NW of Girdwood, Alaska",
-      "time": "2026-07-14T07:48:22.024Z"
+      "depth": 27,
+      "lat": 61.063,
+      "lon": -149.41,
+      "place": "18 km NW of Girdwood, Alaska",
+      "time": "2026-07-14T07:48:22.483Z"
     },
     {
       "id": "ci41293655",
@@ -1499,11 +1544,11 @@
     {
       "id": "aka2026nuxtcr",
       "magnitude": 1.6,
-      "depth": 10,
-      "lat": 65.068,
-      "lon": -152.223,
-      "place": "13 km SSW of Tanana, Alaska",
-      "time": "2026-07-14T07:44:34.671Z"
+      "depth": 8,
+      "lat": 65.043,
+      "lon": -152.212,
+      "place": "15 km SSW of Tanana, Alaska",
+      "time": "2026-07-14T07:44:34.331Z"
     },
     {
       "id": "us7000t09u",
@@ -1513,6 +1558,15 @@
       "lon": 143.193,
       "place": "117 km E of Noda, Japan",
       "time": "2026-07-14T07:44:09.565Z"
+    },
+    {
+      "id": "aka2026nuxlkd",
+      "magnitude": 1.9,
+      "depth": 29,
+      "lat": 51.389,
+      "lon": -176.123,
+      "place": "64 km SSE of Adak, Alaska",
+      "time": "2026-07-14T07:35:42.353Z"
     },
     {
       "id": "ci41293647",
@@ -1580,11 +1634,11 @@
     {
       "id": "aka2026nuwois",
       "magnitude": 1.6,
-      "depth": 102,
-      "lat": 63.026,
-      "lon": -150.354,
-      "place": "62 km NNE of Petersville, Alaska",
-      "time": "2026-07-14T07:09:08.003Z"
+      "depth": 100,
+      "lat": 63.05,
+      "lon": -150.355,
+      "place": "65 km NNE of Petersville, Alaska",
+      "time": "2026-07-14T07:09:08.242Z"
     },
     {
       "id": "nn00921644",
@@ -1677,6 +1731,15 @@
       "time": "2026-07-14T06:42:29.650Z"
     },
     {
+      "id": "aka2026nuvoyw",
+      "magnitude": 2.4,
+      "depth": 63,
+      "lat": 51.569,
+      "lon": 178.509,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": "2026-07-14T06:39:53.194Z"
+    },
+    {
       "id": "us7000t09g",
       "magnitude": 4.4,
       "depth": 108,
@@ -1702,6 +1765,15 @@
       "lon": -155.366,
       "place": "0 km SSE of Pa‘auilo, Hawaii",
       "time": "2026-07-14T06:27:27.180Z"
+    },
+    {
+      "id": "aka2026nuvbxp",
+      "magnitude": 2.5,
+      "depth": 28,
+      "lat": 53.533,
+      "lon": -164.983,
+      "place": "84 km SE of Akutan, Alaska",
+      "time": "2026-07-14T06:24:53.216Z"
     },
     {
       "id": "ci41293583",
@@ -1774,6 +1846,15 @@
       "lon": -118.658,
       "place": "7 km SSE of Malibu Beach, CA",
       "time": "2026-07-14T05:56:50.760Z"
+    },
+    {
+      "id": "aka2026nuublc",
+      "magnitude": 1.5,
+      "depth": 18,
+      "lat": 60.605,
+      "lon": -147.592,
+      "place": "57 km WSW of Tatitlek, Alaska",
+      "time": "2026-07-14T05:54:16.528Z"
     },
     {
       "id": "pr71523928",
@@ -1938,6 +2019,15 @@
       "time": "2026-07-14T04:41:24.780Z"
     },
     {
+      "id": "aka2026nurlli",
+      "magnitude": 3.2,
+      "depth": 28,
+      "lat": 53.053,
+      "lon": -166.916,
+      "place": "94 km SSW of Unalaska, Alaska",
+      "time": "2026-07-14T04:35:52.118Z"
+    },
+    {
       "id": "nc75395471",
       "magnitude": 0.4,
       "depth": 3,
@@ -1945,6 +2035,15 @@
       "lon": -122.816,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-07-14T04:28:54.540Z"
+    },
+    {
+      "id": "aka2026nurbgt",
+      "magnitude": 2.7,
+      "depth": 7,
+      "lat": 53.509,
+      "lon": -163.637,
+      "place": "150 km S of False Pass, Alaska",
+      "time": "2026-07-14T04:24:07.263Z"
     },
     {
       "id": "ci41293487",
@@ -2010,6 +2109,24 @@
       "time": "2026-07-14T04:15:12.500Z"
     },
     {
+      "id": "aka2026nuqsbg",
+      "magnitude": 2.3,
+      "depth": 120,
+      "lat": 51.898,
+      "lon": -175.179,
+      "place": "74 km WSW of Atka, Alaska",
+      "time": "2026-07-14T04:13:27.832Z"
+    },
+    {
+      "id": "aka2026nuqmcz",
+      "magnitude": 1.6,
+      "depth": 105,
+      "lat": 51.7,
+      "lon": -177.171,
+      "place": "41 km WSW of Adak, Alaska",
+      "time": "2026-07-14T04:06:34.463Z"
+    },
+    {
       "id": "nc75395456",
       "magnitude": 1.5,
       "depth": 12,
@@ -2017,6 +2134,24 @@
       "lon": -118.405,
       "place": "2 km WSW of Wilkerson, CA",
       "time": "2026-07-14T03:59:11.710Z"
+    },
+    {
+      "id": "aka2026nuqfbr",
+      "magnitude": 2.7,
+      "depth": 93,
+      "lat": 51.777,
+      "lon": 176.781,
+      "place": "272 km ESE of Attu Station, Alaska",
+      "time": "2026-07-14T03:58:48.017Z"
+    },
+    {
+      "id": "aka2026nuqdyu",
+      "magnitude": 2.1,
+      "depth": 26,
+      "lat": 51.36,
+      "lon": -175.963,
+      "place": "73 km SE of Adak, Alaska",
+      "time": "2026-07-14T03:57:13.676Z"
     },
     {
       "id": "ci41293463",
@@ -2146,12 +2281,12 @@
     },
     {
       "id": "aka2026nunqyn",
-      "magnitude": 1.9,
-      "depth": 127,
-      "lat": 63.132,
-      "lon": -150.791,
-      "place": "65 km SE of Denali National Park, Alaska",
-      "time": "2026-07-14T02:42:17.787Z"
+      "magnitude": 2.1,
+      "depth": 128,
+      "lat": 63.131,
+      "lon": -150.757,
+      "place": "66 km SE of Denali National Park, Alaska",
+      "time": "2026-07-14T02:42:17.547Z"
     },
     {
       "id": "ci41293431",
@@ -2388,6 +2523,15 @@
       "time": "2026-07-14T00:38:38.140Z"
     },
     {
+      "id": "aka2026nujgzh",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 55.901,
+      "lon": -159.983,
+      "place": "31 km W of Ivanof Bay, Alaska",
+      "time": "2026-07-14T00:30:48.885Z"
+    },
+    {
       "id": "ci41293375",
       "magnitude": 1.4,
       "depth": 4,
@@ -2406,6 +2550,15 @@
       "time": "2026-07-14T00:21:17.510Z"
     },
     {
+      "id": "aka2026nuitkx",
+      "magnitude": 1.9,
+      "depth": 163,
+      "lat": 51.728,
+      "lon": -175.963,
+      "place": "49 km ESE of Adak, Alaska",
+      "time": "2026-07-14T00:15:10.398Z"
+    },
+    {
       "id": "ci41293359",
       "magnitude": 0.7,
       "depth": 15,
@@ -2422,87 +2575,6 @@
       "lon": -102.115,
       "place": "40 km ENE of McKinney Acres, Texas",
       "time": "2026-07-14T00:02:46.683Z"
-    },
-    {
-      "id": "av93064049",
-      "magnitude": 0.8,
-      "depth": 12,
-      "lat": 53.868,
-      "lon": -166.412,
-      "place": "8 km E of Unalaska, Alaska",
-      "time": "2026-07-13T23:52:15.230Z"
-    },
-    {
-      "id": "pr71523878",
-      "magnitude": 2.2,
-      "depth": 14,
-      "lat": 18.007,
-      "lon": -67.153,
-      "place": "2 km SE of Boquerón, Puerto Rico",
-      "time": "2026-07-13T23:51:57.990Z"
-    },
-    {
-      "id": "tx2026nscgby",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 31.452,
-      "lon": -103.869,
-      "place": "16 km NNW of Toyah, Texas",
-      "time": "2026-07-13T23:43:06.779Z"
-    },
-    {
-      "id": "nc75395346",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.8,
-      "place": "7 km WNW of Cobb, CA",
-      "time": "2026-07-13T23:34:20.310Z"
-    },
-    {
-      "id": "nc75395341",
-      "magnitude": 1.6,
-      "depth": 3,
-      "lat": 38.814,
-      "lon": -122.819,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-13T23:34:15.150Z"
-    },
-    {
-      "id": "nc75395331",
-      "magnitude": 0.5,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.814,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-07-13T23:19:51.840Z"
-    },
-    {
-      "id": "tx2026nsbhxh",
-      "magnitude": 0.8,
-      "depth": 8,
-      "lat": 32.363,
-      "lon": -102.171,
-      "place": "34 km ENE of McKinney Acres, Texas",
-      "time": "2026-07-13T23:12:40.599Z"
-    },
-    {
-      "id": "nc75395326",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.812,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-07-13T23:12:03.110Z"
-    },
-    {
-      "id": "ci41293303",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 34.209,
-      "lon": -117.075,
-      "place": "3 km E of Running Springs, CA",
-      "time": "2026-07-13T23:09:25.480Z"
     }
   ]
 }
