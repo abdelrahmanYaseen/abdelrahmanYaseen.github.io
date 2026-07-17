@@ -1,7 +1,52 @@
 {
-  "generated": "2026-07-17T19:43:54.579Z",
-  "count": 265,
+  "generated": "2026-07-17T20:32:39.120Z",
+  "count": 256,
   "events": [
+    {
+      "id": "nc75397926",
+      "magnitude": 1.7,
+      "depth": 3,
+      "lat": 36.964,
+      "lon": -121.447,
+      "place": "12 km ESE of Gilroy, CA",
+      "time": "2026-07-17T20:15:47.520Z"
+    },
+    {
+      "id": "nc75397921",
+      "magnitude": 0.9,
+      "depth": 1,
+      "lat": 38.822,
+      "lon": -122.842,
+      "place": "9 km NW of The Geysers, CA",
+      "time": "2026-07-17T19:56:13.050Z"
+    },
+    {
+      "id": "nc75397916",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 38.821,
+      "lon": -122.842,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": "2026-07-17T19:55:27.360Z"
+    },
+    {
+      "id": "ci40657234",
+      "magnitude": 0.8,
+      "depth": 13,
+      "lat": 33.633,
+      "lon": -116.689,
+      "place": "9 km N of Anza, CA",
+      "time": "2026-07-17T19:54:29.550Z"
+    },
+    {
+      "id": "nc75397906",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.8,
+      "lon": -122.796,
+      "place": "4 km NW of The Geysers, CA",
+      "time": "2026-07-17T19:52:32.300Z"
+    },
     {
       "id": "nc75397891",
       "magnitude": 1.4,
@@ -219,6 +264,15 @@
       "time": "2026-07-17T16:49:11.260Z"
     },
     {
+      "id": "tx2026nyxlqd",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 32.017,
+      "lon": -103.243,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": "2026-07-17T16:47:41.996Z"
+    },
+    {
       "id": "nc75397746",
       "magnitude": 0.5,
       "depth": 2,
@@ -226,6 +280,15 @@
       "lon": -122.815,
       "place": "8 km W of Cobb, CA",
       "time": "2026-07-17T16:42:59.060Z"
+    },
+    {
+      "id": "us7000t1em",
+      "magnitude": 4.3,
+      "depth": 10,
+      "lat": 14.328,
+      "lon": -93.012,
+      "place": "77 km SW of Puerto Madero, Mexico",
+      "time": "2026-07-17T16:42:27.773Z"
     },
     {
       "id": "hv75003392",
@@ -244,6 +307,24 @@
       "lon": -155.488,
       "place": "1 km WSW of Pāhala, Hawaii",
       "time": "2026-07-17T16:34:54.470Z"
+    },
+    {
+      "id": "tx2026nywvlw",
+      "magnitude": 1.4,
+      "depth": 8,
+      "lat": 31.237,
+      "lon": -103.528,
+      "place": "14 km S of Lindsay, Texas",
+      "time": "2026-07-17T16:28:44.026Z"
+    },
+    {
+      "id": "us7000t1ek",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 14.37,
+      "lon": -93.136,
+      "place": "86 km WSW of Puerto Madero, Mexico",
+      "time": "2026-07-17T16:25:20.183Z"
     },
     {
       "id": "uu80145566",
@@ -553,12 +634,12 @@
     },
     {
       "id": "ci40657162",
-      "magnitude": 2.2,
-      "depth": 11,
-      "lat": 32.404,
-      "lon": -115.442,
-      "place": "20 km SSW of Puebla, B.C., MX",
-      "time": "2026-07-17T13:27:25.210Z"
+      "magnitude": 2.1,
+      "depth": 12,
+      "lat": 32.407,
+      "lon": -115.437,
+      "place": "19 km SSW of Puebla, B.C., MX",
+      "time": "2026-07-17T13:27:25.130Z"
     },
     {
       "id": "nc75397661",
@@ -2224,168 +2305,6 @@
       "lon": -178.815,
       "place": "150 km W of Adak, Alaska",
       "time": "2026-07-16T20:33:24.860Z"
-    },
-    {
-      "id": "us7000t14v",
-      "magnitude": 5.3,
-      "depth": 10,
-      "lat": -12.687,
-      "lon": -14.717,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": "2026-07-16T20:21:52.035Z"
-    },
-    {
-      "id": "nc75397286",
-      "magnitude": 1.3,
-      "depth": 4,
-      "lat": 36.962,
-      "lon": -121.454,
-      "place": "11 km ESE of Gilroy, CA",
-      "time": "2026-07-16T20:18:50.310Z"
-    },
-    {
-      "id": "tx2026nxipvv",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 31.153,
-      "lon": -103.494,
-      "place": "24 km S of Lindsay, Texas",
-      "time": "2026-07-16T20:15:40.788Z"
-    },
-    {
-      "id": "aka2026nzouxd",
-      "magnitude": 2.3,
-      "depth": 73,
-      "lat": 59.764,
-      "lon": -152.201,
-      "place": "20 km W of Anchor Point, Alaska",
-      "time": "2026-07-16T20:15:02.418Z"
-    },
-    {
-      "id": "nc75397271",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 38.824,
-      "lon": -122.804,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-16T20:13:55.730Z"
-    },
-    {
-      "id": "nc75397266",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.84,
-      "lon": -122.876,
-      "place": "12 km NW of The Geysers, CA",
-      "time": "2026-07-16T20:07:37.050Z"
-    },
-    {
-      "id": "aka2026nzomnr",
-      "magnitude": 2,
-      "depth": 90,
-      "lat": 62.483,
-      "lon": -151.184,
-      "place": "21 km W of Petersville, Alaska",
-      "time": "2026-07-16T20:05:23.071Z"
-    },
-    {
-      "id": "ci40656690",
-      "magnitude": 0.6,
-      "depth": 15,
-      "lat": 33.484,
-      "lon": -116.738,
-      "place": "10 km SW of Anza, CA",
-      "time": "2026-07-16T20:03:52.610Z"
-    },
-    {
-      "id": "us7000t14r",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": -12.574,
-      "lon": -14.761,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": "2026-07-16T20:03:00.391Z"
-    },
-    {
-      "id": "uw714053801",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 48.569,
-      "lon": -123.753,
-      "place": "20 km SSW of Cowichan Bay, Canada",
-      "time": "2026-07-16T19:58:57.720Z"
-    },
-    {
-      "id": "aka2026nzoebk",
-      "magnitude": 2.2,
-      "depth": 20,
-      "lat": 50.953,
-      "lon": -178.592,
-      "place": "170 km SW of Adak, Alaska",
-      "time": "2026-07-16T19:55:36.748Z"
-    },
-    {
-      "id": "us7000t14m",
-      "magnitude": 5,
-      "depth": 12,
-      "lat": -12.692,
-      "lon": -14.38,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": "2026-07-16T19:55:32.193Z"
-    },
-    {
-      "id": "nc75397256",
-      "magnitude": 1.9,
-      "depth": 5,
-      "lat": 36.97,
-      "lon": -121.451,
-      "place": "11 km ESE of Gilroy, CA",
-      "time": "2026-07-16T19:54:05.410Z"
-    },
-    {
-      "id": "nc75397251",
-      "magnitude": 1.3,
-      "depth": 2,
-      "lat": 38.815,
-      "lon": -122.822,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-16T19:48:06.080Z"
-    },
-    {
-      "id": "tx2026nxhqxu",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 32.1,
-      "lon": -101.925,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": "2026-07-16T19:46:31.940Z"
-    },
-    {
-      "id": "ci40656658",
-      "magnitude": 2.6,
-      "depth": 5,
-      "lat": 32.63,
-      "lon": -115.75,
-      "place": "17 km WNW of Progreso, B.C., MX",
-      "time": "2026-07-16T19:45:52.290Z"
-    },
-    {
-      "id": "us7000t14l",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -12.693,
-      "lon": -14.384,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": "2026-07-16T19:44:54.568Z"
-    },
-    {
-      "id": "tx2026nxhoqr",
-      "magnitude": 1.7,
-      "depth": 8,
-      "lat": 32.009,
-      "lon": -101.741,
-      "place": "14 km SSE of Stanton, Texas",
-      "time": "2026-07-16T19:43:52.375Z"
     }
   ]
 }
