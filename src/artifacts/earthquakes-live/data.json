@@ -1,7 +1,52 @@
 {
-  "generated": "2026-07-17T20:32:39.120Z",
+  "generated": "2026-07-17T21:29:31.038Z",
   "count": 256,
   "events": [
+    {
+      "id": "hv75003477",
+      "magnitude": 2,
+      "depth": 49,
+      "lat": 19.159,
+      "lon": -155.114,
+      "place": "33 km SSE of Volcano, Hawaii",
+      "time": "2026-07-17T21:19:11.360Z"
+    },
+    {
+      "id": "tx2026nzgavq",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 31.529,
+      "lon": -104.025,
+      "place": "32 km NW of Toyah, Texas",
+      "time": "2026-07-17T21:06:34.815Z"
+    },
+    {
+      "id": "aka2026oblvfj",
+      "magnitude": 1.4,
+      "depth": 10,
+      "lat": 61.333,
+      "lon": -141.055,
+      "place": "100 km E of McCarthy, Alaska",
+      "time": "2026-07-17T20:44:43.346Z"
+    },
+    {
+      "id": "tx2026nzfdqy",
+      "magnitude": 1.2,
+      "depth": 0,
+      "lat": 32.465,
+      "lon": -102.358,
+      "place": "23 km NE of Andrews, Texas",
+      "time": "2026-07-17T20:40:01.786Z"
+    },
+    {
+      "id": "tx2026nzetnu",
+      "magnitude": 2.3,
+      "depth": 7,
+      "lat": 31.719,
+      "lon": -101.689,
+      "place": "25 km SW of Garden City, Texas",
+      "time": "2026-07-17T20:30:53.160Z"
+    },
     {
       "id": "nc75397926",
       "magnitude": 1.7,
@@ -31,12 +76,12 @@
     },
     {
       "id": "ci40657234",
-      "magnitude": 0.8,
+      "magnitude": 0.7,
       "depth": 13,
-      "lat": 33.633,
+      "lat": 33.632,
       "lon": -116.689,
       "place": "9 km N of Anza, CA",
-      "time": "2026-07-17T19:54:29.550Z"
+      "time": "2026-07-17T19:54:29.600Z"
     },
     {
       "id": "nc75397906",
@@ -103,12 +148,12 @@
     },
     {
       "id": "tx2026nzbjad",
-      "magnitude": 1.7,
+      "magnitude": 1.6,
       "depth": 7,
-      "lat": 31.643,
-      "lon": -104.445,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": "2026-07-17T18:45:49.545Z"
+      "lat": 31.649,
+      "lon": -104.436,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": "2026-07-17T18:45:49.900Z"
     },
     {
       "id": "us7000t1fk",
@@ -145,6 +190,15 @@
       "lon": -156.055,
       "place": "75 km SSE of King Salmon, Alaska",
       "time": "2026-07-17T18:02:24.925Z"
+    },
+    {
+      "id": "uw714054551",
+      "magnitude": 1.8,
+      "depth": 18,
+      "lat": 45.006,
+      "lon": -122.578,
+      "place": "8 km ESE of Scotts Mills, Oregon",
+      "time": "2026-07-17T17:58:37.580Z"
     },
     {
       "id": "tx2026nyzouz",
@@ -253,6 +307,15 @@
       "lon": -93.032,
       "place": "78 km WSW of Puerto Madero, Mexico",
       "time": "2026-07-17T17:03:38.011Z"
+    },
+    {
+      "id": "us7000t1f5",
+      "magnitude": 4.3,
+      "depth": 10,
+      "lat": 14.274,
+      "lon": -93.213,
+      "place": "98 km WSW of Puerto Madero, Mexico",
+      "time": "2026-07-17T16:57:38.198Z"
     },
     {
       "id": "ci40657178",
@@ -469,15 +532,6 @@
       "lon": -110.732,
       "place": "30 km ESE of West Yellowstone, Montana",
       "time": "2026-07-17T15:49:27.470Z"
-    },
-    {
-      "id": "tx2026nyvmtl",
-      "magnitude": 1.8,
-      "depth": 0,
-      "lat": 31.27,
-      "lon": -104.177,
-      "place": "36 km W of Toyah, Texas",
-      "time": "2026-07-17T15:48:14.925Z"
     },
     {
       "id": "aka2026obbrqe",
@@ -1697,11 +1751,11 @@
     {
       "id": "hv75003082",
       "magnitude": 2.7,
-      "depth": 29,
-      "lat": 19.156,
-      "lon": -155.486,
-      "place": "5 km S of Pāhala, Hawaii",
-      "time": "2026-07-17T03:37:54.000Z"
+      "depth": 30,
+      "lat": 19.154,
+      "lon": -155.489,
+      "place": "5 km SSW of Pāhala, Hawaii",
+      "time": "2026-07-17T03:37:53.910Z"
     },
     {
       "id": "aka2026oacfek",
@@ -2251,60 +2305,6 @@
       "lon": -14.851,
       "place": "southern Mid-Atlantic Ridge",
       "time": "2026-07-16T21:29:40.802Z"
-    },
-    {
-      "id": "ci40656714",
-      "magnitude": 1.1,
-      "depth": 9,
-      "lat": 35.282,
-      "lon": -118.574,
-      "place": "20 km NW of Tehachapi, CA",
-      "time": "2026-07-16T21:23:11.030Z"
-    },
-    {
-      "id": "us7000t15b",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -12.624,
-      "lon": -14.845,
-      "place": "southern Mid-Atlantic Ridge",
-      "time": "2026-07-16T21:16:33.262Z"
-    },
-    {
-      "id": "tx2026nxkglh",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 32.105,
-      "lon": -101.926,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": "2026-07-16T21:04:49.941Z"
-    },
-    {
-      "id": "aka2026nzqchx",
-      "magnitude": 1.9,
-      "depth": 5,
-      "lat": 60.427,
-      "lon": -139.487,
-      "place": "98 km N of Yakutat, Alaska",
-      "time": "2026-07-16T20:53:29.152Z"
-    },
-    {
-      "id": "aka2026nzplat",
-      "magnitude": 2.3,
-      "depth": 6,
-      "lat": 54.537,
-      "lon": -163.386,
-      "place": "35 km S of False Pass, Alaska",
-      "time": "2026-07-16T20:33:30.319Z"
-    },
-    {
-      "id": "av94313253",
-      "magnitude": 0.5,
-      "depth": 12,
-      "lat": 51.79,
-      "lon": -178.815,
-      "place": "150 km W of Adak, Alaska",
-      "time": "2026-07-16T20:33:24.860Z"
     }
   ]
 }
