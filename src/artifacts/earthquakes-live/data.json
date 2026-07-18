@@ -1,7 +1,61 @@
 {
-  "generated": "2026-07-18T11:34:18.075Z",
-  "count": 285,
+  "generated": "2026-07-18T12:34:45.623Z",
+  "count": 280,
   "events": [
+    {
+      "id": "tx2026oakpnp",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 31.646,
+      "lon": -104.229,
+      "place": "55 km NW of Toyah, Texas",
+      "time": "2026-07-18T12:29:01.273Z"
+    },
+    {
+      "id": "aka2026ocqjtb",
+      "magnitude": 1.9,
+      "depth": 19,
+      "lat": 61.657,
+      "lon": -146.4,
+      "place": "42 km SSE of Nelchina, Alaska",
+      "time": "2026-07-18T12:01:04.635Z"
+    },
+    {
+      "id": "tx2026oajkpf",
+      "magnitude": 1.5,
+      "depth": 0,
+      "lat": 31.996,
+      "lon": -103.48,
+      "place": "30 km WSW of Jal, New Mexico",
+      "time": "2026-07-18T11:53:05.680Z"
+    },
+    {
+      "id": "tx2026oajkbs",
+      "magnitude": 2,
+      "depth": 3,
+      "lat": 31.725,
+      "lon": -101.682,
+      "place": "24 km SW of Garden City, Texas",
+      "time": "2026-07-18T11:52:18.187Z"
+    },
+    {
+      "id": "ci40657506",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 33.257,
+      "lon": -116.337,
+      "place": "4 km E of Borrego Springs, CA",
+      "time": "2026-07-18T11:47:20.050Z"
+    },
+    {
+      "id": "tx2026oaitfg",
+      "magnitude": 1.9,
+      "depth": 3,
+      "lat": 31.642,
+      "lon": -104.251,
+      "place": "56 km NW of Toyah, Texas",
+      "time": "2026-07-18T11:32:56.777Z"
+    },
     {
       "id": "tx2026oaiioo",
       "magnitude": 1.7,
@@ -19,6 +73,15 @@
       "lon": -100.951,
       "place": "16 km SSE of Westbrook, Texas",
       "time": "2026-07-18T11:17:15.481Z"
+    },
+    {
+      "id": "us7000t1ld",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -24.384,
+      "lon": -116.11,
+      "place": "southern East Pacific Rise",
+      "time": "2026-07-18T11:12:57.724Z"
     },
     {
       "id": "ci40657498",
@@ -568,6 +631,15 @@
       "lon": -158.362,
       "place": "13 km S of Chignik, Alaska",
       "time": "2026-07-18T05:59:36.613Z"
+    },
+    {
+      "id": "us7000t1jr",
+      "magnitude": 2.8,
+      "depth": 10,
+      "lat": 54.827,
+      "lon": -156.333,
+      "place": "209 km SE of Chignik, Alaska",
+      "time": "2026-07-18T05:59:12.330Z"
     },
     {
       "id": "tx2026nzxqdr",
@@ -2226,6 +2298,15 @@
       "time": "2026-07-17T14:03:55.110Z"
     },
     {
+      "id": "us7000t1gu",
+      "magnitude": 4.8,
+      "depth": 10,
+      "lat": -45.278,
+      "lon": -14.781,
+      "place": "southern Mid-Atlantic Ridge",
+      "time": "2026-07-17T13:49:10.522Z"
+    },
+    {
       "id": "tx2026nyrldy",
       "magnitude": 1.3,
       "depth": 7,
@@ -2440,132 +2521,6 @@
       "lon": -124.369,
       "place": "10 km SW of Petrolia, CA",
       "time": "2026-07-17T12:39:32.500Z"
-    },
-    {
-      "id": "aka2026oauzgy",
-      "magnitude": 1.7,
-      "depth": 8,
-      "lat": 60.653,
-      "lon": -149.39,
-      "place": "18 km N of Moose Pass, Alaska",
-      "time": "2026-07-17T12:19:37.863Z"
-    },
-    {
-      "id": "nn00921824",
-      "magnitude": 1.9,
-      "depth": 7,
-      "lat": 39.316,
-      "lon": -119.062,
-      "place": "17 km SE of Silver Springs, Nevada",
-      "time": "2026-07-17T12:13:22.271Z"
-    },
-    {
-      "id": "tx2026nyoisz",
-      "magnitude": 1.3,
-      "depth": 5,
-      "lat": 30.908,
-      "lon": -103.517,
-      "place": "23 km ESE of Balmorhea, Texas",
-      "time": "2026-07-17T12:12:54.610Z"
-    },
-    {
-      "id": "ci40657138",
-      "magnitude": 1.2,
-      "depth": 10,
-      "lat": 33.52,
-      "lon": -117.099,
-      "place": "5 km ENE of Temecula, CA",
-      "time": "2026-07-17T12:06:35.980Z"
-    },
-    {
-      "id": "uu80145501",
-      "magnitude": 0.6,
-      "depth": 9,
-      "lat": 44.592,
-      "lon": -110.724,
-      "place": "31 km ESE of West Yellowstone, Montana",
-      "time": "2026-07-17T12:02:57.960Z"
-    },
-    {
-      "id": "us7000t19u",
-      "magnitude": 5.3,
-      "depth": 10,
-      "lat": 14.487,
-      "lon": 54.145,
-      "place": "203 km N of Hadibu, Yemen",
-      "time": "2026-07-17T12:01:14.725Z"
-    },
-    {
-      "id": "uu80007673",
-      "magnitude": 0.5,
-      "depth": 8,
-      "lat": 44.588,
-      "lon": -110.735,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": "2026-07-17T11:57:07.850Z"
-    },
-    {
-      "id": "uu80145496",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 44.588,
-      "lon": -110.73,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": "2026-07-17T11:56:43.670Z"
-    },
-    {
-      "id": "uu80145491",
-      "magnitude": 0.9,
-      "depth": 9,
-      "lat": 44.588,
-      "lon": -110.73,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": "2026-07-17T11:54:42.660Z"
-    },
-    {
-      "id": "uu80145486",
-      "magnitude": 0.6,
-      "depth": 10,
-      "lat": 44.589,
-      "lon": -110.731,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": "2026-07-17T11:54:14.210Z"
-    },
-    {
-      "id": "us7000t19p",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 14.515,
-      "lon": 54.088,
-      "place": "206 km N of Hadibu, Yemen",
-      "time": "2026-07-17T11:48:39.385Z"
-    },
-    {
-      "id": "nc75397626",
-      "magnitude": 1.6,
-      "depth": 5,
-      "lat": 36.968,
-      "lon": -121.449,
-      "place": "11 km ESE of Gilroy, CA",
-      "time": "2026-07-17T11:45:30.420Z"
-    },
-    {
-      "id": "aka2026oatrqe",
-      "magnitude": 1.4,
-      "depth": 79,
-      "lat": 63.236,
-      "lon": -148.658,
-      "place": "22 km SE of Cantwell, Alaska",
-      "time": "2026-07-17T11:40:49.984Z"
-    },
-    {
-      "id": "tx2026nyndgi",
-      "magnitude": 1.4,
-      "depth": 8,
-      "lat": 32.338,
-      "lon": -101.501,
-      "place": "9 km NNW of Big Spring, Texas",
-      "time": "2026-07-17T11:36:18.573Z"
     }
   ]
 }
