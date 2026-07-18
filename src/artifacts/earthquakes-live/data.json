@@ -1,7 +1,61 @@
 {
-  "generated": "2026-07-18T17:11:24.391Z",
-  "count": 262,
+  "generated": "2026-07-18T18:05:27.081Z",
+  "count": 259,
   "events": [
+    {
+      "id": "tx2026oavmfz",
+      "magnitude": 1.6,
+      "depth": 8,
+      "lat": 31.665,
+      "lon": -104.396,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": "2026-07-18T17:56:50.927Z"
+    },
+    {
+      "id": "aka2026odcbex",
+      "magnitude": 1.7,
+      "depth": 49,
+      "lat": 58.72,
+      "lon": -152.886,
+      "place": "73 km N of Aleneva, Alaska",
+      "time": "2026-07-18T17:51:03.742Z"
+    },
+    {
+      "id": "nc75398441",
+      "magnitude": 1.1,
+      "depth": 0,
+      "lat": 38.767,
+      "lon": -122.735,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": "2026-07-18T17:44:55.280Z"
+    },
+    {
+      "id": "tx2026oaupsx",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 31.494,
+      "lon": -104.293,
+      "place": "51 km WNW of Toyah, Texas",
+      "time": "2026-07-18T17:30:48.760Z"
+    },
+    {
+      "id": "us7000t1n5",
+      "magnitude": 5.7,
+      "depth": 10,
+      "lat": 14.239,
+      "lon": -92.88,
+      "place": "72 km SW of Puerto Madero, Mexico",
+      "time": "2026-07-18T17:26:25.879Z"
+    },
+    {
+      "id": "hv75003857",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 19.218,
+      "lon": -155.426,
+      "place": "5 km ENE of Pāhala, Hawaii",
+      "time": "2026-07-18T17:17:38.710Z"
+    },
     {
       "id": "ci40657610",
       "magnitude": 0.7,
@@ -10,6 +64,24 @@
       "lon": -117.899,
       "place": "7 km NE of Coso Junction, CA",
       "time": "2026-07-18T17:01:18.330Z"
+    },
+    {
+      "id": "us7000t1n0",
+      "magnitude": 4.8,
+      "depth": 122,
+      "lat": -59.439,
+      "lon": -26.243,
+      "place": "South Sandwich Islands region",
+      "time": "2026-07-18T16:57:34.133Z"
+    },
+    {
+      "id": "us7000t1mz",
+      "magnitude": 4.3,
+      "depth": 10,
+      "lat": 14.232,
+      "lon": -92.919,
+      "place": "76 km SW of Puerto Madero, Mexico",
+      "time": "2026-07-18T16:55:57.788Z"
     },
     {
       "id": "aka2026oczuwr",
@@ -2260,105 +2332,6 @@
       "lon": -116.431,
       "place": "18 km NNW of Borrego Springs, CA",
       "time": "2026-07-17T18:17:14.700Z"
-    },
-    {
-      "id": "aka2026obgkvu",
-      "magnitude": 1,
-      "depth": 5,
-      "lat": 58.093,
-      "lon": -156.055,
-      "place": "75 km SSE of King Salmon, Alaska",
-      "time": "2026-07-17T18:02:24.925Z"
-    },
-    {
-      "id": "uw714054551",
-      "magnitude": 1.5,
-      "depth": 15,
-      "lat": 44.997,
-      "lon": -122.56,
-      "place": "9 km ESE of Scotts Mills, Oregon",
-      "time": "2026-07-17T17:58:37.710Z"
-    },
-    {
-      "id": "tx2026nyzouz",
-      "magnitude": 2.3,
-      "depth": 9,
-      "lat": 28.829,
-      "lon": -98.967,
-      "place": "14 km ESE of Pearsall, Texas",
-      "time": "2026-07-17T17:51:34.548Z"
-    },
-    {
-      "id": "nc75397771",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.766,
-      "lon": -122.7,
-      "place": "1 km SSW of Anderson Springs, CA",
-      "time": "2026-07-17T17:29:54.840Z"
-    },
-    {
-      "id": "ci40657194",
-      "magnitude": 0.7,
-      "depth": 11,
-      "lat": 33.483,
-      "lon": -116.449,
-      "place": "22 km ESE of Anza, CA",
-      "time": "2026-07-17T17:29:21.150Z"
-    },
-    {
-      "id": "nc75397766",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 38.832,
-      "lon": -122.826,
-      "place": "9 km NW of The Geysers, CA",
-      "time": "2026-07-17T17:27:01.720Z"
-    },
-    {
-      "id": "us7000t1f6",
-      "magnitude": 5,
-      "depth": 35,
-      "lat": 14.263,
-      "lon": -92.713,
-      "place": "59 km SSW of Puerto Madero, Mexico",
-      "time": "2026-07-17T17:23:30.902Z"
-    },
-    {
-      "id": "us7000t1f0",
-      "magnitude": 5.1,
-      "depth": 10,
-      "lat": 14.345,
-      "lon": -92.97,
-      "place": "72 km SW of Puerto Madero, Mexico",
-      "time": "2026-07-17T17:15:19.287Z"
-    },
-    {
-      "id": "aka2026obetue",
-      "magnitude": 1.7,
-      "depth": 57,
-      "lat": 61.022,
-      "lon": -150.987,
-      "place": "9 km ESE of Tyonek, Alaska",
-      "time": "2026-07-17T17:13:11.611Z"
-    },
-    {
-      "id": "pr71524758",
-      "magnitude": 2.1,
-      "depth": 16,
-      "lat": 18.013,
-      "lon": -66.73,
-      "place": "2 km NW of Tallaboa, Puerto Rico",
-      "time": "2026-07-17T17:12:39.360Z"
-    },
-    {
-      "id": "nc75397756",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 38.794,
-      "lon": -122.768,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": "2026-07-17T17:11:52.140Z"
     }
   ]
 }
