@@ -1,15 +1,42 @@
 {
-  "generated": "2026-07-19T11:24:45.307Z",
+  "generated": "2026-07-19T12:10:44.580Z",
   "count": 221,
   "events": [
     {
+      "id": "tx2026ocfhsx",
+      "magnitude": 2.9,
+      "depth": 1,
+      "lat": 32.34,
+      "lon": -101.075,
+      "place": "6 km WSW of Westbrook, Texas",
+      "time": "2026-07-19T11:58:17.459Z"
+    },
+    {
+      "id": "tx2026ocfics",
+      "magnitude": 2.9,
+      "depth": 2,
+      "lat": 32.339,
+      "lon": -101.081,
+      "place": "6 km WSW of Westbrook, Texas",
+      "time": "2026-07-19T11:58:17.303Z"
+    },
+    {
+      "id": "nc75398936",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.845,
+      "lon": -122.88,
+      "place": "13 km ENE of Cloverdale, CA",
+      "time": "2026-07-19T11:46:04.460Z"
+    },
+    {
       "id": "aka2026oelbzw",
-      "magnitude": 1.4,
+      "magnitude": 1.9,
       "depth": 70,
-      "lat": 61.229,
+      "lat": 61.228,
       "lon": -151.405,
       "place": "19 km WNW of Beluga, Alaska",
-      "time": "2026-07-19T11:21:30.776Z"
+      "time": "2026-07-19T11:21:30.807Z"
     },
     {
       "id": "nc75398931",
@@ -82,6 +109,15 @@
       "lon": -122.781,
       "place": "3 km NW of The Geysers, CA",
       "time": "2026-07-19T10:30:17.580Z"
+    },
+    {
+      "id": "pr71525008",
+      "magnitude": 1.9,
+      "depth": 15,
+      "lat": 17.93,
+      "lon": -66.284,
+      "place": "5 km SSE of Salinas, Puerto Rico",
+      "time": "2026-07-19T10:28:37.530Z"
     },
     {
       "id": "aka2026oeioex",
@@ -343,6 +379,15 @@
       "lon": -66.905,
       "place": "0 km SSE of Guánica, Puerto Rico",
       "time": "2026-07-19T07:04:00.750Z"
+    },
+    {
+      "id": "pr2026200000",
+      "magnitude": 3.8,
+      "depth": 131,
+      "lat": 18.266,
+      "lon": -68.411,
+      "place": "24 km ESE of Boca de Yuma, Dominican Republic",
+      "time": "2026-07-19T06:52:58.620Z"
     },
     {
       "id": "nc75398831",
@@ -1945,51 +1990,6 @@
       "lon": -103.675,
       "place": "16 km NNE of Balmorhea, Texas",
       "time": "2026-07-18T12:26:44.391Z"
-    },
-    {
-      "id": "aka2026ocqjtb",
-      "magnitude": 1.9,
-      "depth": 19,
-      "lat": 61.657,
-      "lon": -146.4,
-      "place": "42 km SSE of Nelchina, Alaska",
-      "time": "2026-07-18T12:01:04.635Z"
-    },
-    {
-      "id": "tx2026oajkpf",
-      "magnitude": 1.5,
-      "depth": 0,
-      "lat": 31.996,
-      "lon": -103.48,
-      "place": "30 km WSW of Jal, New Mexico",
-      "time": "2026-07-18T11:53:05.680Z"
-    },
-    {
-      "id": "tx2026oajkbs",
-      "magnitude": 2,
-      "depth": 3,
-      "lat": 31.726,
-      "lon": -101.676,
-      "place": "23 km SW of Garden City, Texas",
-      "time": "2026-07-18T11:52:18.178Z"
-    },
-    {
-      "id": "ci40657506",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 33.257,
-      "lon": -116.337,
-      "place": "4 km E of Borrego Springs, CA",
-      "time": "2026-07-18T11:47:20.050Z"
-    },
-    {
-      "id": "tx2026oaitfg",
-      "magnitude": 1.9,
-      "depth": 3,
-      "lat": 31.642,
-      "lon": -104.251,
-      "place": "56 km NW of Toyah, Texas",
-      "time": "2026-07-18T11:32:56.777Z"
     }
   ]
 }
