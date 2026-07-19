@@ -1,7 +1,43 @@
 {
-  "generated": "2026-07-19T15:43:58.244Z",
-  "count": 213,
+  "generated": "2026-07-19T16:35:43.114Z",
+  "count": 214,
   "events": [
+    {
+      "id": "ci40657986",
+      "magnitude": 2.3,
+      "depth": 5,
+      "lat": 33.529,
+      "lon": -116.722,
+      "place": "5 km WSW of Anza, CA",
+      "time": "2026-07-19T16:07:16.030Z"
+    },
+    {
+      "id": "nc75399026",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 39.891,
+      "lon": -123.264,
+      "place": "11 km N of Covelo, CA",
+      "time": "2026-07-19T15:59:33.310Z"
+    },
+    {
+      "id": "tx2026ocmzba",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 31.649,
+      "lon": -104.264,
+      "place": "58 km NW of Toyah, Texas",
+      "time": "2026-07-19T15:51:28.495Z"
+    },
+    {
+      "id": "nc75399006",
+      "magnitude": 0.3,
+      "depth": 3,
+      "lat": 38.801,
+      "lon": -122.78,
+      "place": "3 km NW of The Geysers, CA",
+      "time": "2026-07-19T15:43:56.600Z"
+    },
     {
       "id": "nc75398996",
       "magnitude": 0.8,
@@ -28,6 +64,15 @@
       "lon": -122.752,
       "place": "2 km NNE of The Geysers, CA",
       "time": "2026-07-19T15:24:26.080Z"
+    },
+    {
+      "id": "us7000t1t5",
+      "magnitude": 4.2,
+      "depth": 34,
+      "lat": 14.195,
+      "lon": -92.719,
+      "place": "65 km SW of Brisas Barra de Suchiate, Mexico",
+      "time": "2026-07-19T15:20:39.514Z"
     },
     {
       "id": "nc75398976",
@@ -93,6 +138,24 @@
       "time": "2026-07-19T14:29:46.620Z"
     },
     {
+      "id": "us7000t1sy",
+      "magnitude": 4.2,
+      "depth": 637,
+      "lat": -17.856,
+      "lon": -178.437,
+      "place": "239 km E of Levuka, Fiji",
+      "time": "2026-07-19T14:28:55.601Z"
+    },
+    {
+      "id": "us7000t1su",
+      "magnitude": 4.4,
+      "depth": 35,
+      "lat": 14.677,
+      "lon": -93.001,
+      "place": "59 km WSW of Aquiles Serdán, Mexico",
+      "time": "2026-07-19T14:21:51.009Z"
+    },
+    {
       "id": "aka2026oeqyfq",
       "magnitude": 2,
       "depth": 0,
@@ -145,6 +208,15 @@
       "lon": -116.646,
       "place": "35 km ENE of Lucerne Valley, CA",
       "time": "2026-07-19T14:06:54.110Z"
+    },
+    {
+      "id": "us7000t1sp",
+      "magnitude": 4.3,
+      "depth": 10,
+      "lat": 14.27,
+      "lon": -93.217,
+      "place": "99 km WSW of Puerto Madero, Mexico",
+      "time": "2026-07-19T14:01:11.615Z"
     },
     {
       "id": "aka2026oeqdnu",
@@ -408,22 +480,31 @@
       "time": "2026-07-19T09:15:46.180Z"
     },
     {
+      "id": "ci10246134",
+      "magnitude": 1.6,
+      "depth": 11,
+      "lat": 33.173,
+      "lon": -116.105,
+      "place": "4 km NE of Ocotillo Wells, CA",
+      "time": "2026-07-19T09:11:42.080Z"
+    },
+    {
       "id": "ci40657930",
-      "magnitude": 2,
-      "depth": 9,
+      "magnitude": 2.1,
+      "depth": 10,
       "lat": 33.166,
-      "lon": -116.107,
-      "place": "3 km NE of Ocotillo Wells, CA",
-      "time": "2026-07-19T09:11:23.890Z"
+      "lon": -116.105,
+      "place": "4 km NE of Ocotillo Wells, CA",
+      "time": "2026-07-19T09:11:23.860Z"
     },
     {
       "id": "ci40657922",
-      "magnitude": 1.2,
-      "depth": 22,
-      "lat": 33.651,
-      "lon": -116.731,
-      "place": "10 km S of Idyllwild, CA",
-      "time": "2026-07-19T09:11:20.170Z"
+      "magnitude": 0.2,
+      "depth": 14,
+      "lat": 33.658,
+      "lon": -116.747,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": "2026-07-19T09:11:21.160Z"
     },
     {
       "id": "ci40657914",
@@ -1846,78 +1927,6 @@
       "lon": -150.347,
       "place": "14 km NE of Susitna, Alaska",
       "time": "2026-07-18T16:37:26.075Z"
-    },
-    {
-      "id": "aka2026oczmgl",
-      "magnitude": 1.5,
-      "depth": 114,
-      "lat": 59.925,
-      "lon": -153.048,
-      "place": "61 km ENE of Pedro Bay, Alaska",
-      "time": "2026-07-18T16:34:16.431Z"
-    },
-    {
-      "id": "ok2026nyzx",
-      "magnitude": 1.6,
-      "depth": 5,
-      "lat": 36.022,
-      "lon": -97.917,
-      "place": "4 km N of Dover, Oklahoma",
-      "time": "2026-07-18T16:19:20.237Z"
-    },
-    {
-      "id": "us7000t1mu",
-      "magnitude": 5.1,
-      "depth": 10,
-      "lat": 17.944,
-      "lon": -81.543,
-      "place": "149 km S of George Town, Cayman Islands",
-      "time": "2026-07-18T16:08:44.116Z"
-    },
-    {
-      "id": "nn00921925",
-      "magnitude": 1.9,
-      "depth": 16,
-      "lat": 37.9,
-      "lon": -120.333,
-      "place": "9 km SSE of East Sonora, California",
-      "time": "2026-07-18T15:56:06.067Z"
-    },
-    {
-      "id": "nc75398371",
-      "magnitude": 2.2,
-      "depth": 3,
-      "lat": 36.914,
-      "lon": -121.048,
-      "place": "24 km SW of Los Banos, CA",
-      "time": "2026-07-18T15:55:48.580Z"
-    },
-    {
-      "id": "aka2026ocydhq",
-      "magnitude": 2.1,
-      "depth": 125,
-      "lat": 63.172,
-      "lon": -150.539,
-      "place": "72 km SE of Denali National Park, Alaska",
-      "time": "2026-07-18T15:53:47.521Z"
-    },
-    {
-      "id": "pr71524858",
-      "magnitude": 2.9,
-      "depth": 19,
-      "lat": 18.478,
-      "lon": -67.462,
-      "place": "27 km NW of Rincón, Puerto Rico",
-      "time": "2026-07-18T15:47:56.500Z"
-    },
-    {
-      "id": "nc75398366",
-      "magnitude": 1.7,
-      "depth": 2,
-      "lat": 38.834,
-      "lon": -122.781,
-      "place": "5 km WNW of Cobb, CA",
-      "time": "2026-07-18T15:44:22.680Z"
     }
   ]
 }
