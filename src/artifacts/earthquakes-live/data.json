@@ -1,15 +1,132 @@
 {
-  "generated": "2026-07-20T20:10:52.517Z",
-  "count": 211,
+  "generated": "2026-07-20T21:21:43.468Z",
+  "count": 219,
   "events": [
+    {
+      "id": "tx2026oetosy",
+      "magnitude": 2.1,
+      "depth": 6,
+      "lat": 31.606,
+      "lon": -103.956,
+      "place": "35 km WSW of Mentone, Texas",
+      "time": "2026-07-20T21:17:19.564Z"
+    },
+    {
+      "id": "tx2026oetmkt",
+      "magnitude": 1.9,
+      "depth": 6,
+      "lat": 31.993,
+      "lon": -103.185,
+      "place": "13 km S of Jal, New Mexico",
+      "time": "2026-07-20T21:14:26.689Z"
+    },
+    {
+      "id": "nc75402642",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.837,
+      "lon": -122.785,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-07-20T21:08:02.370Z"
+    },
+    {
+      "id": "nc75402612",
+      "magnitude": 0.6,
+      "depth": 1,
+      "lat": 38.821,
+      "lon": -122.759,
+      "place": "3 km W of Cobb, CA",
+      "time": "2026-07-20T20:53:22.510Z"
+    },
+    {
+      "id": "us7000t21e",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -32.759,
+      "lon": -178.088,
+      "place": "south of the Kermadec Islands",
+      "time": "2026-07-20T20:44:19.902Z"
+    },
+    {
+      "id": "nc75402597",
+      "magnitude": 1.7,
+      "depth": 7,
+      "lat": 39.367,
+      "lon": -123.229,
+      "place": "12 km N of Redwood Valley, CA",
+      "time": "2026-07-20T20:43:36.390Z"
+    },
+    {
+      "id": "nc75402592",
+      "magnitude": 0.3,
+      "depth": 4,
+      "lat": 38.786,
+      "lon": -122.763,
+      "place": "1 km NNW of The Geysers, CA",
+      "time": "2026-07-20T20:35:47.030Z"
+    },
+    {
+      "id": "ci40658498",
+      "magnitude": 0.5,
+      "depth": 11,
+      "lat": 33.457,
+      "lon": -116.541,
+      "place": "16 km SE of Anza, CA",
+      "time": "2026-07-20T20:21:37.710Z"
+    },
+    {
+      "id": "hv75005122",
+      "magnitude": 2.2,
+      "depth": 0,
+      "lat": 19.232,
+      "lon": -155.421,
+      "place": "6 km ENE of Pāhala, Hawaii",
+      "time": "2026-07-20T20:17:35.840Z"
+    },
+    {
+      "id": "pr71525223",
+      "magnitude": 3.4,
+      "depth": 9,
+      "lat": 19.687,
+      "lon": -64.5,
+      "place": "153 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-07-20T20:10:12.780Z"
+    },
+    {
+      "id": "nc75402577",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.799,
+      "lon": -122.816,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": "2026-07-20T20:09:24.350Z"
+    },
+    {
+      "id": "pr71525208",
+      "magnitude": 3.2,
+      "depth": 17,
+      "lat": 18.84,
+      "lon": -67.217,
+      "place": "40 km NNW of San Antonio, Puerto Rico",
+      "time": "2026-07-20T20:06:58.100Z"
+    },
     {
       "id": "aka2026ogyoza",
       "magnitude": 2,
-      "depth": 5,
-      "lat": 61.909,
-      "lon": -149.206,
-      "place": "18 km N of Fishhook, Alaska",
-      "time": "2026-07-20T20:05:43.076Z"
+      "depth": 6,
+      "lat": 61.903,
+      "lon": -149.209,
+      "place": "17 km N of Fishhook, Alaska",
+      "time": "2026-07-20T20:05:43.187Z"
+    },
+    {
+      "id": "tx2026oeracl",
+      "magnitude": 2.6,
+      "depth": 0,
+      "lat": 31.24,
+      "lon": -103.22,
+      "place": "14 km W of Coyanosa, Texas",
+      "time": "2026-07-20T20:00:01.474Z"
     },
     {
       "id": "nc75402567",
@@ -1317,6 +1434,15 @@
       "time": "2026-07-20T05:43:42.700Z"
     },
     {
+      "id": "us7000t213",
+      "magnitude": 5.5,
+      "depth": 10,
+      "lat": -57.266,
+      "lon": -141.763,
+      "place": "Pacific-Antarctic Ridge",
+      "time": "2026-07-20T05:38:56.465Z"
+    },
+    {
       "id": "nc75399356",
       "magnitude": 0.7,
       "depth": 1,
@@ -1713,6 +1839,24 @@
       "time": "2026-07-20T00:00:07.360Z"
     },
     {
+      "id": "uw714055062",
+      "magnitude": 0.9,
+      "depth": 13,
+      "lat": 48.629,
+      "lon": -123.052,
+      "place": "8 km WNW of Orcas, Washington",
+      "time": "2026-07-19T23:58:03.580Z"
+    },
+    {
+      "id": "uw714055052",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 47.577,
+      "lon": -123.791,
+      "place": "15 km NNE of Amanda Park, Washington",
+      "time": "2026-07-19T23:54:10.330Z"
+    },
+    {
       "id": "uw714055042",
       "magnitude": 1,
       "depth": 14,
@@ -1828,78 +1972,6 @@
       "lon": -119.561,
       "place": "4 km WNW of Carpinteria, CA",
       "time": "2026-07-19T21:22:24.030Z"
-    },
-    {
-      "id": "ci40658050",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 33.536,
-      "lon": -116.711,
-      "place": "4 km WSW of Anza, CA",
-      "time": "2026-07-19T21:13:04.480Z"
-    },
-    {
-      "id": "ci40658042",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 33.536,
-      "lon": -116.714,
-      "place": "4 km WSW of Anza, CA",
-      "time": "2026-07-19T21:08:48.230Z"
-    },
-    {
-      "id": "aka2026ofebvc",
-      "magnitude": 1.5,
-      "depth": 30,
-      "lat": 61.307,
-      "lon": -149.805,
-      "place": "10 km WNW of Elmendorf Air Force Base, Alaska",
-      "time": "2026-07-19T20:51:01.727Z"
-    },
-    {
-      "id": "nc75399166",
-      "magnitude": 0.3,
-      "depth": 4,
-      "lat": 38.798,
-      "lon": -122.779,
-      "place": "3 km NW of The Geysers, CA",
-      "time": "2026-07-19T20:44:46.250Z"
-    },
-    {
-      "id": "us7000t1uj",
-      "magnitude": 4.1,
-      "depth": 14,
-      "lat": 41.719,
-      "lon": 75.688,
-      "place": "40 km NW of Naryn, Kyrgyzstan",
-      "time": "2026-07-19T20:41:06.279Z"
-    },
-    {
-      "id": "nc75399161",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 38.825,
-      "lon": -122.765,
-      "place": "4 km W of Cobb, CA",
-      "time": "2026-07-19T20:40:18.150Z"
-    },
-    {
-      "id": "ci40658034",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 34.207,
-      "lon": -117.054,
-      "place": "5 km E of Running Springs, CA",
-      "time": "2026-07-19T20:34:38.170Z"
-    },
-    {
-      "id": "us7000t1ue",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -32.888,
-      "lon": -178.618,
-      "place": "south of the Kermadec Islands",
-      "time": "2026-07-19T20:23:42.595Z"
     }
   ]
 }
