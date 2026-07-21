@@ -1,15 +1,114 @@
 {
-  "generated": "2026-07-21T14:53:41.321Z",
-  "count": 219,
+  "generated": "2026-07-21T16:13:25.440Z",
+  "count": 222,
   "events": [
+    {
+      "id": "nc75403062",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.835,
+      "lon": -122.797,
+      "place": "7 km WNW of Cobb, CA",
+      "time": "2026-07-21T16:03:07.970Z"
+    },
+    {
+      "id": "aka2026oimlqq",
+      "magnitude": 1.8,
+      "depth": 77,
+      "lat": 60.49,
+      "lon": -151.843,
+      "place": "31 km WNW of Kalifornsky, Alaska",
+      "time": "2026-07-21T16:01:09.956Z"
+    },
+    {
+      "id": "tx2026ogemtj",
+      "magnitude": 2,
+      "depth": 6,
+      "lat": 31.643,
+      "lon": -104.213,
+      "place": "53 km NW of Toyah, Texas",
+      "time": "2026-07-21T15:54:21.450Z"
+    },
+    {
+      "id": "ci40658818",
+      "magnitude": 0.7,
+      "depth": 17,
+      "lat": 34.155,
+      "lon": -118.36,
+      "place": "2 km NNW of Universal City, CA",
+      "time": "2026-07-21T15:51:40.510Z"
+    },
+    {
+      "id": "nc75403042",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.841,
+      "lon": -122.834,
+      "place": "10 km NW of The Geysers, CA",
+      "time": "2026-07-21T15:44:07.570Z"
+    },
+    {
+      "id": "ok2026oelf",
+      "magnitude": 1.6,
+      "depth": 8,
+      "lat": 35.113,
+      "lon": -97.857,
+      "place": "5 km SSE of Amber, Oklahoma",
+      "time": "2026-07-21T15:42:09.230Z"
+    },
+    {
+      "id": "aka2026oilcve",
+      "magnitude": 1.7,
+      "depth": 19,
+      "lat": 60.723,
+      "lon": -147.39,
+      "place": "41 km WSW of Tatitlek, Alaska",
+      "time": "2026-07-21T15:21:01.463Z"
+    },
+    {
+      "id": "ci40658802",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.063,
+      "lon": -117.859,
+      "place": "8 km ENE of Coso Junction, CA",
+      "time": "2026-07-21T15:20:17.320Z"
+    },
+    {
+      "id": "nc75403022",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.821,
+      "lon": -122.809,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-07-21T15:08:38.850Z"
+    },
+    {
+      "id": "ci40658794",
+      "magnitude": 1.3,
+      "depth": 16,
+      "lat": 33.683,
+      "lon": -116.704,
+      "place": "7 km SSE of Idyllwild, CA",
+      "time": "2026-07-21T15:03:45.740Z"
+    },
+    {
+      "id": "ci40658778",
+      "magnitude": 1.2,
+      "depth": 16,
+      "lat": 33.993,
+      "lon": -118.968,
+      "place": "15 km W of Malibu, CA",
+      "time": "2026-07-21T14:39:41.420Z"
+    },
     {
       "id": "tx2026ogbxbb",
       "magnitude": 1,
-      "depth": 5,
-      "lat": 32.099,
-      "lon": -101.938,
-      "place": "14 km WSW of Stanton, Texas",
-      "time": "2026-07-21T14:32:51.434Z"
+      "depth": 9,
+      "lat": 32.101,
+      "lon": -101.933,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": "2026-07-21T14:32:51.961Z"
     },
     {
       "id": "nc75403007",
@@ -39,13 +138,31 @@
       "time": "2026-07-21T14:20:41.250Z"
     },
     {
+      "id": "tx2026ogblnh",
+      "magnitude": 1,
+      "depth": 9,
+      "lat": 31.956,
+      "lon": -103.884,
+      "place": "34 km SSE of Malaga, New Mexico",
+      "time": "2026-07-21T14:19:28.873Z"
+    },
+    {
       "id": "tx2026ogbijt",
       "magnitude": 1.6,
       "depth": 7,
-      "lat": 31.971,
-      "lon": -103.881,
+      "lat": 31.965,
+      "lon": -103.882,
       "place": "33 km SSE of Malaga, New Mexico",
-      "time": "2026-07-21T14:15:48.229Z"
+      "time": "2026-07-21T14:15:48.722Z"
+    },
+    {
+      "id": "tx2026ogarhz",
+      "magnitude": 1.1,
+      "depth": 8,
+      "lat": 32.099,
+      "lon": -101.926,
+      "place": "13 km WSW of Stanton, Texas",
+      "time": "2026-07-21T13:56:00.788Z"
     },
     {
       "id": "aka2026oiidix",
@@ -59,11 +176,11 @@
     {
       "id": "tx2026ogaldt",
       "magnitude": 1.2,
-      "depth": 4,
-      "lat": 32.1,
-      "lon": -101.927,
+      "depth": 8,
+      "lat": 32.101,
+      "lon": -101.928,
       "place": "13 km WSW of Stanton, Texas",
-      "time": "2026-07-21T13:49:01.799Z"
+      "time": "2026-07-21T13:49:02.201Z"
     },
     {
       "id": "us7000t26k",
@@ -106,9 +223,9 @@
       "magnitude": 0.9,
       "depth": 5,
       "lat": 35.661,
-      "lon": -117.44,
+      "lon": -117.439,
       "place": "12 km SSW of Searles Valley, CA",
-      "time": "2026-07-21T13:36:11.050Z"
+      "time": "2026-07-21T13:36:11.030Z"
     },
     {
       "id": "aka2026oihaor",
@@ -158,11 +275,20 @@
     {
       "id": "tx2026ofxthv",
       "magnitude": 1.6,
-      "depth": 4,
-      "lat": 31.646,
-      "lon": -104.352,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": "2026-07-21T12:27:48.885Z"
+      "depth": 7,
+      "lat": 31.676,
+      "lon": -104.356,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": "2026-07-21T12:27:48.826Z"
+    },
+    {
+      "id": "tx2026ofxslj",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 31.664,
+      "lon": -104.353,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": "2026-07-21T12:26:47.464Z"
     },
     {
       "id": "tx2026ofxhzw",
@@ -256,12 +382,12 @@
     },
     {
       "id": "ci40658738",
-      "magnitude": 2,
-      "depth": 19,
-      "lat": 32.179,
-      "lon": -115.217,
-      "place": "7 km SW of Alberto Oviedo Mota, B.C., MX",
-      "time": "2026-07-21T11:49:12.820Z"
+      "magnitude": 2.1,
+      "depth": 11,
+      "lat": 32.176,
+      "lon": -115.228,
+      "place": "8 km SW of Alberto Oviedo Mota, B.C., MX",
+      "time": "2026-07-21T11:49:12.830Z"
     },
     {
       "id": "us7000t25t",
@@ -691,9 +817,18 @@
       "magnitude": 0.6,
       "depth": 3,
       "lat": 35.677,
-      "lon": -117.54,
+      "lon": -117.539,
       "place": "14 km ENE of Ridgecrest, CA",
-      "time": "2026-07-21T06:10:40.260Z"
+      "time": "2026-07-21T06:10:40.240Z"
+    },
+    {
+      "id": "ci10246190",
+      "magnitude": 0.2,
+      "depth": 7,
+      "lat": 35.689,
+      "lon": -117.538,
+      "place": "15 km ENE of Ridgecrest, CA",
+      "time": "2026-07-21T06:10:15.730Z"
     },
     {
       "id": "hv75005372",
@@ -733,12 +868,12 @@
     },
     {
       "id": "ci40658650",
-      "magnitude": 1.3,
+      "magnitude": 1.4,
       "depth": 10,
       "lat": 33.247,
-      "lon": -116.104,
+      "lon": -116.103,
       "place": "12 km NNE of Ocotillo Wells, CA",
-      "time": "2026-07-21T05:42:53.450Z"
+      "time": "2026-07-21T05:42:53.390Z"
     },
     {
       "id": "hv75005367",
@@ -1192,12 +1327,12 @@
     },
     {
       "id": "ci40658594",
-      "magnitude": 1.2,
-      "depth": 14,
-      "lat": 32.908,
-      "lon": -116.103,
-      "place": "22 km NNW of Ocotillo, CA",
-      "time": "2026-07-20T23:31:55.440Z"
+      "magnitude": 1,
+      "depth": 9,
+      "lat": 33.005,
+      "lon": -116.361,
+      "place": "24 km ESE of Julian, CA",
+      "time": "2026-07-20T23:31:59.130Z"
     },
     {
       "id": "nc75402747",
@@ -1216,15 +1351,6 @@
       "lon": 143.783,
       "place": "117 km NE of Esashi, Japan",
       "time": "2026-07-20T23:18:22.474Z"
-    },
-    {
-      "id": "tx2026oexnyw",
-      "magnitude": 1.5,
-      "depth": 5,
-      "lat": 28.679,
-      "lon": -98.318,
-      "place": "21 km SE of Christine, Texas",
-      "time": "2026-07-20T23:17:07.565Z"
     },
     {
       "id": "nc75402737",
@@ -1265,11 +1391,11 @@
     {
       "id": "tx2026oewuzc",
       "magnitude": 1.6,
-      "depth": 5,
-      "lat": 32.003,
-      "lon": -103.247,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": "2026-07-20T22:55:05.049Z"
+      "depth": 6,
+      "lat": 32.007,
+      "lon": -103.231,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-07-20T22:55:04.921Z"
     },
     {
       "id": "pr71525238",
@@ -1427,29 +1553,20 @@
     {
       "id": "tx2026oetosy",
       "magnitude": 2.1,
-      "depth": 6,
-      "lat": 31.606,
-      "lon": -103.956,
+      "depth": 9,
+      "lat": 31.604,
+      "lon": -103.953,
       "place": "35 km WSW of Mentone, Texas",
-      "time": "2026-07-20T21:17:19.564Z"
-    },
-    {
-      "id": "tx2026oetlcu",
-      "magnitude": 2,
-      "depth": 4,
-      "lat": 32.004,
-      "lon": -103.242,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": "2026-07-20T21:14:26.786Z"
+      "time": "2026-07-20T21:17:19.717Z"
     },
     {
       "id": "tx2026oetmkt",
-      "magnitude": 2,
-      "depth": 6,
-      "lat": 31.998,
-      "lon": -103.243,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": "2026-07-20T21:14:26.443Z"
+      "magnitude": 1.9,
+      "depth": 5,
+      "lat": 31.992,
+      "lon": -103.261,
+      "place": "14 km SSW of Jal, New Mexico",
+      "time": "2026-07-20T21:14:26.967Z"
     },
     {
       "id": "us7000t21n",
@@ -1882,96 +1999,6 @@
       "lon": -66.903,
       "place": "3 km S of Guánica, Puerto Rico",
       "time": "2026-07-20T16:19:52.550Z"
-    },
-    {
-      "id": "ci40658346",
-      "magnitude": 0.8,
-      "depth": 8,
-      "lat": 33.74,
-      "lon": -117.073,
-      "place": "0 km NE of Green Acres, CA",
-      "time": "2026-07-20T16:08:55.250Z"
-    },
-    {
-      "id": "aka2026ogqlru",
-      "magnitude": 1.6,
-      "depth": 126,
-      "lat": 63.247,
-      "lon": -150.493,
-      "place": "69 km ESE of Denali National Park, Alaska",
-      "time": "2026-07-20T16:01:53.553Z"
-    },
-    {
-      "id": "aka2026ogpyyr",
-      "magnitude": 3.5,
-      "depth": 9,
-      "lat": 51.007,
-      "lon": -179.141,
-      "place": "199 km WSW of Adak, Alaska",
-      "time": "2026-07-20T15:47:11.596Z"
-    },
-    {
-      "id": "pr2026201000",
-      "magnitude": 3,
-      "depth": 13,
-      "lat": 17.952,
-      "lon": -66.908,
-      "place": "2 km S of Guánica, Puerto Rico",
-      "time": "2026-07-20T15:43:17.560Z"
-    },
-    {
-      "id": "uw714055312",
-      "magnitude": 1.4,
-      "depth": 24,
-      "lat": 48.285,
-      "lon": -122.608,
-      "place": "2 km ESE of Oak Harbor, Washington",
-      "time": "2026-07-20T15:38:30.120Z"
-    },
-    {
-      "id": "aka2026ogpgvy",
-      "magnitude": 2.1,
-      "depth": 49,
-      "lat": 61.152,
-      "lon": -150.204,
-      "place": "17 km WSW of Anchorage, Alaska",
-      "time": "2026-07-20T15:26:20.890Z"
-    },
-    {
-      "id": "ci40658330",
-      "magnitude": 0.9,
-      "depth": 7,
-      "lat": 35.671,
-      "lon": -118.136,
-      "place": "28 km ESE of Kernville, CA",
-      "time": "2026-07-20T15:13:43.110Z"
-    },
-    {
-      "id": "ci40658322",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 35.317,
-      "lon": -117.807,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-07-20T15:13:10.530Z"
-    },
-    {
-      "id": "ci10246150",
-      "magnitude": 0,
-      "depth": 11,
-      "lat": 35.871,
-      "lon": -117.672,
-      "place": "22 km ESE of Little Lake, CA",
-      "time": "2026-07-20T15:13:08.930Z"
-    },
-    {
-      "id": "ci40658314",
-      "magnitude": 1,
-      "depth": 5,
-      "lat": 34.026,
-      "lon": -117.58,
-      "place": "5 km SE of Ontario, CA",
-      "time": "2026-07-20T15:07:28.180Z"
     }
   ]
 }
