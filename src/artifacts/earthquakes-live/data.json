@@ -1,7 +1,61 @@
 {
-  "generated": "2026-07-24T21:42:50.555Z",
+  "generated": "2026-07-24T22:41:21.735Z",
   "count": 238,
   "events": [
+    {
+      "id": "nc75405252",
+      "magnitude": 2.5,
+      "depth": 5,
+      "lat": 36.967,
+      "lon": -121.449,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": "2026-07-24T22:38:21.680Z"
+    },
+    {
+      "id": "ci40660914",
+      "magnitude": 1.6,
+      "depth": 7,
+      "lat": 35.313,
+      "lon": -117.798,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": "2026-07-24T22:21:40.870Z"
+    },
+    {
+      "id": "tx2026omelgs",
+      "magnitude": 1.7,
+      "depth": 0,
+      "lat": 31.454,
+      "lon": -103.177,
+      "place": "10 km SSW of Pyote, Texas",
+      "time": "2026-07-24T22:16:31.062Z"
+    },
+    {
+      "id": "aka2026oomuvk",
+      "magnitude": 1.7,
+      "depth": 107,
+      "lat": 59.638,
+      "lon": -153.018,
+      "place": "63 km ESE of Pedro Bay, Alaska",
+      "time": "2026-07-24T22:10:19.603Z"
+    },
+    {
+      "id": "tx2026omdlky",
+      "magnitude": 1.7,
+      "depth": 8,
+      "lat": 31.638,
+      "lon": -104.26,
+      "place": "57 km NW of Toyah, Texas",
+      "time": "2026-07-24T21:46:44.516Z"
+    },
+    {
+      "id": "us7000t37a",
+      "magnitude": 6,
+      "depth": 45,
+      "lat": -14.02,
+      "lon": 166.801,
+      "place": "82 km W of Sola, Vanuatu",
+      "time": "2026-07-24T21:37:56.459Z"
+    },
     {
       "id": "ci40660898",
       "magnitude": 1,
@@ -157,12 +211,12 @@
     },
     {
       "id": "nn00922297",
-      "magnitude": 1.8,
+      "magnitude": 1.7,
       "depth": 9,
-      "lat": 38.32,
-      "lon": -118.737,
-      "place": "24 km SSW of Hawthorne, Nevada",
-      "time": "2026-07-24T19:59:21.397Z"
+      "lat": 38.317,
+      "lon": -118.74,
+      "place": "25 km SSW of Hawthorne, Nevada",
+      "time": "2026-07-24T19:59:21.667Z"
     },
     {
       "id": "hv75007502",
@@ -184,12 +238,12 @@
     },
     {
       "id": "ci40660842",
-      "magnitude": 1.2,
+      "magnitude": 1.1,
       "depth": 4,
-      "lat": 35.368,
+      "lat": 35.37,
       "lon": -118.653,
       "place": "24 km NE of Arvin, CA",
-      "time": "2026-07-24T19:50:19.820Z"
+      "time": "2026-07-24T19:50:19.800Z"
     },
     {
       "id": "us7000t36t",
@@ -599,11 +653,11 @@
     {
       "id": "nn00922276",
       "magnitude": 1.6,
-      "depth": 5,
-      "lat": 39.072,
-      "lon": -119.671,
+      "depth": 8,
+      "lat": 39.073,
+      "lon": -119.663,
       "place": "5 km ENE of Johnson Lane, Nevada",
-      "time": "2026-07-24T14:55:26.700Z"
+      "time": "2026-07-24T14:55:27.291Z"
     },
     {
       "id": "nc75405002",
@@ -1238,11 +1292,11 @@
     {
       "id": "ci40660578",
       "magnitude": 1.3,
-      "depth": 9,
-      "lat": 33.944,
-      "lon": -118.337,
-      "place": "2 km ENE of Lennox, CA",
-      "time": "2026-07-24T09:15:40.650Z"
+      "depth": 10,
+      "lat": 33.937,
+      "lon": -118.324,
+      "place": "3 km E of Lennox, CA",
+      "time": "2026-07-24T09:15:40.530Z"
     },
     {
       "id": "tx2026oleblq",
@@ -1434,6 +1488,15 @@
       "time": "2026-07-24T06:18:30.040Z"
     },
     {
+      "id": "av93064754",
+      "magnitude": 0.4,
+      "depth": 5,
+      "lat": 51.732,
+      "lon": -177.097,
+      "place": "35 km WSW of Adak, Alaska",
+      "time": "2026-07-24T06:18:25.690Z"
+    },
+    {
       "id": "ci40660530",
       "magnitude": 1,
       "depth": 5,
@@ -1450,6 +1513,15 @@
       "lon": -122.782,
       "place": "5 km WNW of Cobb, CA",
       "time": "2026-07-24T06:01:35.480Z"
+    },
+    {
+      "id": "av94329143",
+      "magnitude": 0.3,
+      "depth": 3,
+      "lat": 52.063,
+      "lon": -176.169,
+      "place": "38 km ENE of Adak, Alaska",
+      "time": "2026-07-24T05:59:57.320Z"
     },
     {
       "id": "uw714060651",
@@ -1504,6 +1576,15 @@
       "lon": -116.831,
       "place": "16 km NNE of Banning, CA",
       "time": "2026-07-24T05:31:00.550Z"
+    },
+    {
+      "id": "av94329078",
+      "magnitude": 0.3,
+      "depth": 5,
+      "lat": 52.085,
+      "lon": -176.192,
+      "place": "38 km NE of Adak, Alaska",
+      "time": "2026-07-24T05:26:25.240Z"
     },
     {
       "id": "nc75404797",
@@ -2062,87 +2143,6 @@
       "lon": -122.812,
       "place": "8 km W of Cobb, CA",
       "time": "2026-07-23T22:50:22.970Z"
-    },
-    {
-      "id": "aka2026omrugy",
-      "magnitude": 2.3,
-      "depth": 77,
-      "lat": 59.722,
-      "lon": -152.345,
-      "place": "29 km WSW of Anchor Point, Alaska",
-      "time": "2026-07-23T22:39:40.228Z"
-    },
-    {
-      "id": "us7000t2vx",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": 13.99,
-      "lon": -93.419,
-      "place": "134 km SW of Puerto Madero, Mexico",
-      "time": "2026-07-23T22:39:03.397Z"
-    },
-    {
-      "id": "ci40660426",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 33.184,
-      "lon": -115.607,
-      "place": "10 km SW of Niland, CA",
-      "time": "2026-07-23T22:15:12.180Z"
-    },
-    {
-      "id": "nc75404627",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 38.792,
-      "lon": -122.805,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": "2026-07-23T22:14:19.680Z"
-    },
-    {
-      "id": "ci40660418",
-      "magnitude": 1,
-      "depth": 13,
-      "lat": 33.587,
-      "lon": -116.82,
-      "place": "14 km WNW of Anza, CA",
-      "time": "2026-07-23T22:08:57.200Z"
-    },
-    {
-      "id": "uw714060221",
-      "magnitude": 1.6,
-      "depth": 4,
-      "lat": 47.672,
-      "lon": -124.424,
-      "place": "16 km NNW of Queets, Washington",
-      "time": "2026-07-23T22:05:25.360Z"
-    },
-    {
-      "id": "nc75404622",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.824,
-      "lon": -122.848,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": "2026-07-23T22:00:52.100Z"
-    },
-    {
-      "id": "uu80146166",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 38.511,
-      "lon": -112.879,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-07-23T21:54:48.200Z"
-    },
-    {
-      "id": "ok2026oiob",
-      "magnitude": 1.9,
-      "depth": 18,
-      "lat": 34.745,
-      "lon": -97.769,
-      "place": "12 km NNE of Bray, Oklahoma",
-      "time": "2026-07-23T21:42:00.050Z"
     }
   ]
 }
