@@ -1,7 +1,79 @@
 {
-  "generated": "2026-07-26T14:55:21.377Z",
-  "count": 206,
+  "generated": "2026-07-26T15:53:25.776Z",
+  "count": 210,
   "events": [
+    {
+      "id": "ci40661602",
+      "magnitude": 1.4,
+      "depth": 12,
+      "lat": 33.539,
+      "lon": -117.71,
+      "place": "2 km N of Laguna Niguel, CA",
+      "time": "2026-07-26T15:31:59.670Z"
+    },
+    {
+      "id": "aka2026orrnjj",
+      "magnitude": 0.8,
+      "depth": 8,
+      "lat": 64.717,
+      "lon": -146.825,
+      "place": "12 km ENE of Eielson Air Force Base, Alaska",
+      "time": "2026-07-26T15:29:54.427Z"
+    },
+    {
+      "id": "nc75406047",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.812,
+      "lon": -122.81,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-07-26T15:26:01.010Z"
+    },
+    {
+      "id": "nc75406032",
+      "magnitude": 0.6,
+      "depth": 2,
+      "lat": 38.836,
+      "lon": -122.813,
+      "place": "8 km W of Cobb, CA",
+      "time": "2026-07-26T15:10:15.860Z"
+    },
+    {
+      "id": "nc75406027",
+      "magnitude": 1.1,
+      "depth": 7,
+      "lat": 37.743,
+      "lon": -122.067,
+      "place": "6 km NNE of Castro Valley, CA",
+      "time": "2026-07-26T15:09:08.070Z"
+    },
+    {
+      "id": "tx2026opholp",
+      "magnitude": 1.7,
+      "depth": 11,
+      "lat": 28.831,
+      "lon": -98.964,
+      "place": "14 km ESE of Pearsall, Texas",
+      "time": "2026-07-26T15:04:10.831Z"
+    },
+    {
+      "id": "us7000t3hq",
+      "magnitude": 3,
+      "depth": 10,
+      "lat": 66.645,
+      "lon": -140.874,
+      "place": "126 km E of Chalkyitsik, Alaska",
+      "time": "2026-07-26T15:02:39.020Z"
+    },
+    {
+      "id": "pr71525918",
+      "magnitude": 2.3,
+      "depth": 12,
+      "lat": 17.972,
+      "lon": -66.836,
+      "place": "2 km SW of Indios, Puerto Rico",
+      "time": "2026-07-26T14:52:12.570Z"
+    },
     {
       "id": "nc75406022",
       "magnitude": 1.5,
@@ -19,6 +91,15 @@
       "lon": -155.798,
       "place": "109 km WSW of Akhiok, Alaska",
       "time": "2026-07-26T14:45:10.553Z"
+    },
+    {
+      "id": "pr2026207000",
+      "magnitude": 3.7,
+      "depth": 77,
+      "lat": 18.948,
+      "lon": -64.462,
+      "place": "76 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-07-26T14:31:04.350Z"
     },
     {
       "id": "nc75406017",
@@ -1810,51 +1891,6 @@
       "lon": -155.499,
       "place": "3 km SW of Pāhala, Hawaii",
       "time": "2026-07-25T15:56:36.490Z"
-    },
-    {
-      "id": "tx2026onnbhi",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 31.524,
-      "lon": -104.154,
-      "place": "41 km NW of Toyah, Texas",
-      "time": "2026-07-25T15:40:58.185Z"
-    },
-    {
-      "id": "nc75405552",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 38.642,
-      "lon": -122.862,
-      "place": "4 km N of Healdsburg, CA",
-      "time": "2026-07-25T15:34:11.920Z"
-    },
-    {
-      "id": "aka2026opursv",
-      "magnitude": 2.4,
-      "depth": 76,
-      "lat": 59.916,
-      "lon": -151.88,
-      "place": "8 km WSW of Happy Valley, Alaska",
-      "time": "2026-07-25T15:05:36.772Z"
-    },
-    {
-      "id": "us7000t3bu",
-      "magnitude": 4.4,
-      "depth": 90,
-      "lat": 47.135,
-      "lon": 153.17,
-      "place": "Kuril Islands",
-      "time": "2026-07-25T15:04:27.300Z"
-    },
-    {
-      "id": "aka2026opunob",
-      "magnitude": 1.5,
-      "depth": 28,
-      "lat": 59.476,
-      "lon": -146.794,
-      "place": "94 km SE of Chenega, Alaska",
-      "time": "2026-07-25T15:00:46.067Z"
     }
   ]
 }
