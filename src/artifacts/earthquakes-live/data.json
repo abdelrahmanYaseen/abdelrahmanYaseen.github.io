@@ -1,7 +1,70 @@
 {
-  "generated": "2026-07-31T22:29:59.797Z",
-  "count": 223,
+  "generated": "2026-07-31T23:30:39.154Z",
+  "count": 226,
   "events": [
+    {
+      "id": "aka2026pbnjjx",
+      "magnitude": 1.7,
+      "depth": 77,
+      "lat": 60.263,
+      "lon": -152.014,
+      "place": "30 km NW of Ninilchik, Alaska",
+      "time": "2026-07-31T23:21:48.683Z"
+    },
+    {
+      "id": "nn00922652",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 37.32,
+      "lon": -115.401,
+      "place": "21 km WSW of Alamo, Nevada",
+      "time": "2026-07-31T23:03:54.919Z"
+    },
+    {
+      "id": "ci40664442",
+      "magnitude": 1.1,
+      "depth": 7,
+      "lat": 34.417,
+      "lon": -119.701,
+      "place": "0 km S of Santa Barbara, CA",
+      "time": "2026-07-31T22:58:03.190Z"
+    },
+    {
+      "id": "nc75409302",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 36.735,
+      "lon": -121.321,
+      "place": "6 km S of Tres Pinos, CA",
+      "time": "2026-07-31T22:54:48.040Z"
+    },
+    {
+      "id": "tx2026ozbqfu",
+      "magnitude": 2.3,
+      "depth": 15,
+      "lat": 28.847,
+      "lon": -98.989,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": "2026-07-31T22:49:56.636Z"
+    },
+    {
+      "id": "tx2026ozbmsv",
+      "magnitude": 1.4,
+      "depth": 6,
+      "lat": 31.159,
+      "lon": -103.486,
+      "place": "23 km SSE of Lindsay, Texas",
+      "time": "2026-07-31T22:45:53.057Z"
+    },
+    {
+      "id": "nc75409297",
+      "magnitude": 1.8,
+      "depth": 11,
+      "lat": 39.392,
+      "lon": -122.918,
+      "place": "4 km ESE of Lake Pillsbury, CA",
+      "time": "2026-07-31T22:39:58.630Z"
+    },
     {
       "id": "ci40664434",
       "magnitude": 1.2,
@@ -28,6 +91,15 @@
       "lon": -118.221,
       "place": "6 km SSE of Humboldt, Nevada",
       "time": "2026-07-31T21:25:19.860Z"
+    },
+    {
+      "id": "us6000thc9",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": 23.191,
+      "lon": 101.288,
+      "place": "54 km NE of Simao, China",
+      "time": "2026-07-31T21:24:10.934Z"
     },
     {
       "id": "us6000thca",
@@ -1074,6 +1146,15 @@
       "time": "2026-07-31T08:47:32.450Z"
     },
     {
+      "id": "av93065199",
+      "magnitude": -0.5,
+      "depth": -3,
+      "lat": 61.309,
+      "lon": -152.175,
+      "place": "61 km WNW of Beluga, Alaska",
+      "time": "2026-07-31T08:46:30.320Z"
+    },
+    {
       "id": "nm60625956",
       "magnitude": 1.7,
       "depth": 9,
@@ -1135,6 +1216,15 @@
       "lon": -173.411,
       "place": "102 km SSE of Atka, Alaska",
       "time": "2026-07-31T08:02:07.021Z"
+    },
+    {
+      "id": "av93065189",
+      "magnitude": -0.2,
+      "depth": 7,
+      "lat": 57.036,
+      "lon": -135.646,
+      "place": "19 km W of Sitka, Alaska",
+      "time": "2026-07-31T07:56:54.010Z"
     },
     {
       "id": "ci40664074",
@@ -1200,6 +1290,15 @@
       "time": "2026-07-31T07:22:07.550Z"
     },
     {
+      "id": "av94347568",
+      "magnitude": -0.3,
+      "depth": 7,
+      "lat": 52.056,
+      "lon": -176.177,
+      "place": "37 km ENE of Adak, Alaska",
+      "time": "2026-07-31T07:20:13.180Z"
+    },
+    {
       "id": "aka2026pagsrw",
       "magnitude": 1.4,
       "depth": 19,
@@ -1237,12 +1336,12 @@
     },
     {
       "id": "hv75010897",
-      "magnitude": 2.2,
-      "depth": 31,
-      "lat": 19.211,
-      "lon": -155.492,
-      "place": "1 km WNW of Pāhala, Hawaii",
-      "time": "2026-07-31T06:34:18.470Z"
+      "magnitude": 1.8,
+      "depth": 32,
+      "lat": 19.219,
+      "lon": -155.486,
+      "place": "1 km NNW of Pāhala, Hawaii",
+      "time": "2026-07-31T06:34:18.530Z"
     },
     {
       "id": "us6000th5s",
@@ -1936,78 +2035,6 @@
       "lon": -101.924,
       "place": "29 km SSE of Midland, Texas",
       "time": "2026-07-30T23:34:23.844Z"
-    },
-    {
-      "id": "pr71526823",
-      "magnitude": 1.6,
-      "depth": 2,
-      "lat": 17.954,
-      "lon": -67.199,
-      "place": "2 km SSW of Pole Ojea, Puerto Rico",
-      "time": "2026-07-30T23:22:27.810Z"
-    },
-    {
-      "id": "nc75408837",
-      "magnitude": 1.7,
-      "depth": 11,
-      "lat": 37.396,
-      "lon": -118.566,
-      "place": "3 km SE of Round Valley, CA",
-      "time": "2026-07-30T23:07:37.620Z"
-    },
-    {
-      "id": "aka2026ozqqnw",
-      "magnitude": 1.2,
-      "depth": 4,
-      "lat": 64.971,
-      "lon": -147.489,
-      "place": "6 km ENE of Fox, Alaska",
-      "time": "2026-07-30T23:00:45.136Z"
-    },
-    {
-      "id": "nc75408832",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 38.821,
-      "lon": -122.811,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-07-30T22:59:09.930Z"
-    },
-    {
-      "id": "nc75408827",
-      "magnitude": 1.9,
-      "depth": 21,
-      "lat": 40.319,
-      "lon": -123.586,
-      "place": "30 km NE of Redway, CA",
-      "time": "2026-07-30T22:56:22.190Z"
-    },
-    {
-      "id": "uw714066591",
-      "magnitude": 0.3,
-      "depth": 8,
-      "lat": 46.885,
-      "lon": -121.924,
-      "place": "16 km NNE of Ashford, Washington",
-      "time": "2026-07-30T22:47:21.840Z"
-    },
-    {
-      "id": "nc75408817",
-      "magnitude": 1.5,
-      "depth": 7,
-      "lat": 39.411,
-      "lon": -122.79,
-      "place": "14 km E of Lake Pillsbury, CA",
-      "time": "2026-07-30T22:34:43.910Z"
-    },
-    {
-      "id": "ok2026ovke",
-      "magnitude": 0.3,
-      "depth": 11,
-      "lat": 35.12,
-      "lon": -97.879,
-      "place": "4 km S of Amber, Oklahoma",
-      "time": "2026-07-30T22:30:13.900Z"
     }
   ]
 }
