@@ -1,7 +1,124 @@
 {
-  "generated": "2026-08-01T16:35:21.903Z",
-  "count": 226,
+  "generated": "2026-08-01T17:39:54.017Z",
+  "count": 236,
   "events": [
+    {
+      "id": "ci40664762",
+      "magnitude": 1,
+      "depth": 19,
+      "lat": 34.014,
+      "lon": -116.861,
+      "place": "10 km N of Banning, CA",
+      "time": "2026-08-01T17:36:30.500Z"
+    },
+    {
+      "id": "ci40664754",
+      "magnitude": 1.2,
+      "depth": 6,
+      "lat": 33.956,
+      "lon": -116.374,
+      "place": "12 km E of Desert Hot Springs, CA",
+      "time": "2026-08-01T17:32:38.160Z"
+    },
+    {
+      "id": "nc75409737",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.833,
+      "lon": -122.794,
+      "place": "6 km W of Cobb, CA",
+      "time": "2026-08-01T17:30:21.680Z"
+    },
+    {
+      "id": "tx2026pamoih",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 31.505,
+      "lon": -104.232,
+      "place": "46 km WNW of Toyah, Texas",
+      "time": "2026-08-01T17:24:06.487Z"
+    },
+    {
+      "id": "nc75409727",
+      "magnitude": 1,
+      "depth": 8,
+      "lat": 38.528,
+      "lon": -122.715,
+      "place": "3 km ENE of Larkfield-Wikiup, CA",
+      "time": "2026-08-01T17:14:48.920Z"
+    },
+    {
+      "id": "nc75409722",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.832,
+      "lon": -122.808,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-08-01T17:12:43.130Z"
+    },
+    {
+      "id": "nc75409717",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.821,
+      "lon": -122.812,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-01T16:55:47.940Z"
+    },
+    {
+      "id": "ci40664738",
+      "magnitude": 3.3,
+      "depth": 7,
+      "lat": 33.979,
+      "lon": -116.321,
+      "place": "17 km E of Desert Hot Springs, CA",
+      "time": "2026-08-01T16:51:06.460Z"
+    },
+    {
+      "id": "nn00922691",
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 39.339,
+      "lon": -119.009,
+      "place": "20 km ESE of Silver Springs, Nevada",
+      "time": "2026-08-01T16:45:50.192Z"
+    },
+    {
+      "id": "aka2026pcwcaa",
+      "magnitude": 1.4,
+      "depth": 100,
+      "lat": 63.259,
+      "lon": -149.958,
+      "place": "52 km WSW of Cantwell, Alaska",
+      "time": "2026-08-01T16:42:49.512Z"
+    },
+    {
+      "id": "ci40664730",
+      "magnitude": 1.2,
+      "depth": 7,
+      "lat": 35.689,
+      "lon": -117.533,
+      "place": "15 km SW of Searles Valley, CA",
+      "time": "2026-08-01T16:40:22.200Z"
+    },
+    {
+      "id": "nc75409702",
+      "magnitude": 1.7,
+      "depth": 8,
+      "lat": 36.268,
+      "lon": -120.839,
+      "place": "22 km SW of New Idria, CA",
+      "time": "2026-08-01T16:37:29.980Z"
+    },
+    {
+      "id": "nn00922689",
+      "magnitude": 2.6,
+      "depth": 12,
+      "lat": 38.2,
+      "lon": -117.828,
+      "place": "32 km SE of Mina, Nevada",
+      "time": "2026-08-01T16:31:01.446Z"
+    },
     {
       "id": "ci40664698",
       "magnitude": 1.4,
@@ -100,6 +217,15 @@
       "lon": -116.841,
       "place": "7 km SE of Valle Vista, CA",
       "time": "2026-08-01T14:37:03.010Z"
+    },
+    {
+      "id": "us6000thgp",
+      "magnitude": 4.2,
+      "depth": 140,
+      "lat": -6.752,
+      "lon": 129.703,
+      "place": "Banda Sea",
+      "time": "2026-08-01T14:35:11.146Z"
     },
     {
       "id": "ci40664658",
@@ -1596,6 +1722,15 @@
       "time": "2026-07-31T21:06:09.040Z"
     },
     {
+      "id": "us6000thc1",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 14.201,
+      "lon": -93.439,
+      "place": "123 km WSW of Puerto Madero, Mexico",
+      "time": "2026-07-31T20:59:14.225Z"
+    },
+    {
       "id": "ci10247462",
       "magnitude": 0.3,
       "depth": 11,
@@ -1641,6 +1776,15 @@
       "time": "2026-07-31T20:44:18.626Z"
     },
     {
+      "id": "us6000thbz",
+      "magnitude": 4.4,
+      "depth": 347,
+      "lat": -26.793,
+      "lon": -178.825,
+      "place": "south of the Fiji Islands",
+      "time": "2026-07-31T20:32:22.003Z"
+    },
+    {
       "id": "av94348683",
       "magnitude": 0.4,
       "depth": 12,
@@ -1648,6 +1792,15 @@
       "lon": -176.108,
       "place": "43 km ENE of Adak, Alaska",
       "time": "2026-07-31T20:30:34.710Z"
+    },
+    {
+      "id": "us6000thbu",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": -2.912,
+      "lon": 130.096,
+      "place": "132 km ENE of Masohi, Indonesia",
+      "time": "2026-07-31T20:29:10.879Z"
     },
     {
       "id": "us6000thbs",
@@ -1972,69 +2125,6 @@
       "lon": -152.759,
       "place": "78 km NW of Ninilchik, Alaska",
       "time": "2026-07-31T17:41:12.920Z"
-    },
-    {
-      "id": "av94348478",
-      "magnitude": 1.1,
-      "depth": 13,
-      "lat": 52.138,
-      "lon": -175.657,
-      "place": "73 km ENE of Adak, Alaska",
-      "time": "2026-07-31T17:30:11.690Z"
-    },
-    {
-      "id": "nc75409182",
-      "magnitude": 0.2,
-      "depth": 2,
-      "lat": 38.831,
-      "lon": -122.8,
-      "place": "7 km W of Cobb, CA",
-      "time": "2026-07-31T17:18:55.220Z"
-    },
-    {
-      "id": "us6000th92",
-      "magnitude": 3.4,
-      "depth": 35,
-      "lat": 54.366,
-      "lon": -161.534,
-      "place": "92 km SSE of King Cove, Alaska",
-      "time": "2026-07-31T17:15:39.388Z"
-    },
-    {
-      "id": "nc75409172",
-      "magnitude": 1.1,
-      "depth": 6,
-      "lat": 38.778,
-      "lon": -122.937,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-07-31T17:01:34.860Z"
-    },
-    {
-      "id": "ci40664242",
-      "magnitude": 0.8,
-      "depth": 11,
-      "lat": 34.25,
-      "lon": -118.491,
-      "place": "3 km SSE of Granada Hills, CA",
-      "time": "2026-07-31T16:57:17.410Z"
-    },
-    {
-      "id": "ci40664234",
-      "magnitude": 1.9,
-      "depth": 12,
-      "lat": 33.176,
-      "lon": -116.382,
-      "place": "9 km S of Borrego Springs, CA",
-      "time": "2026-07-31T16:49:04.490Z"
-    },
-    {
-      "id": "ci40664226",
-      "magnitude": 1.6,
-      "depth": 12,
-      "lat": 33.175,
-      "lon": -116.381,
-      "place": "9 km S of Borrego Springs, CA",
-      "time": "2026-07-31T16:47:07.760Z"
     }
   ]
 }
