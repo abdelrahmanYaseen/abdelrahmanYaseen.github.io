@@ -1,7 +1,142 @@
 {
-  "generated": "2026-08-01T10:54:05.344Z",
-  "count": 226,
+  "generated": "2026-08-01T11:54:06.683Z",
+  "count": 239,
   "events": [
+    {
+      "id": "nc75409602",
+      "magnitude": 2.7,
+      "depth": 4,
+      "lat": 38.776,
+      "lon": -122.936,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": "2026-08-01T11:50:40.700Z"
+    },
+    {
+      "id": "nc75409597",
+      "magnitude": 1.7,
+      "depth": 7,
+      "lat": 38.771,
+      "lon": -122.95,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": "2026-08-01T11:49:15.800Z"
+    },
+    {
+      "id": "ci40664602",
+      "magnitude": 0.5,
+      "depth": 9,
+      "lat": 34.041,
+      "lon": -116.438,
+      "place": "8 km S of Yucca Valley, CA",
+      "time": "2026-08-01T11:45:24.470Z"
+    },
+    {
+      "id": "tx2026pabdxu",
+      "magnitude": 1.2,
+      "depth": 3,
+      "lat": 32.411,
+      "lon": -101.897,
+      "place": "21 km SW of Ackerly, Texas",
+      "time": "2026-08-01T11:40:08.590Z"
+    },
+    {
+      "id": "aka2026pclxzr",
+      "magnitude": 2.5,
+      "depth": 96,
+      "lat": 61.693,
+      "lon": -151.728,
+      "place": "37 km SSW of Skwentna, Alaska",
+      "time": "2026-08-01T11:38:22.004Z"
+    },
+    {
+      "id": "aka2026pclwxk",
+      "magnitude": 2.5,
+      "depth": 14,
+      "lat": 62.493,
+      "lon": -148.294,
+      "place": "78 km N of Chickaloon, Alaska",
+      "time": "2026-08-01T11:37:04.755Z"
+    },
+    {
+      "id": "nc75409587",
+      "magnitude": 2.8,
+      "depth": 6,
+      "lat": 38.772,
+      "lon": -122.948,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": "2026-08-01T11:35:26.220Z"
+    },
+    {
+      "id": "nc75409582",
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 38.776,
+      "lon": -122.937,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": "2026-08-01T11:34:05.380Z"
+    },
+    {
+      "id": "nc75409572",
+      "magnitude": 1.2,
+      "depth": 4,
+      "lat": 38.77,
+      "lon": -122.949,
+      "place": "7 km SE of Cloverdale, CA",
+      "time": "2026-08-01T11:25:07.090Z"
+    },
+    {
+      "id": "aka2026pclegx",
+      "magnitude": 1.7,
+      "depth": 56,
+      "lat": 60.276,
+      "lon": -150.883,
+      "place": "22 km ESE of Kasilof, Alaska",
+      "time": "2026-08-01T11:15:36.325Z"
+    },
+    {
+      "id": "us6000thg5",
+      "magnitude": 5.1,
+      "depth": 10,
+      "lat": -39.534,
+      "lon": -15.961,
+      "place": "Tristan da Cunha region",
+      "time": "2026-08-01T11:07:20.537Z"
+    },
+    {
+      "id": "nc75409557",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.77,
+      "lon": -122.951,
+      "place": "7 km SE of Cloverdale, CA",
+      "time": "2026-08-01T11:05:14.840Z"
+    },
+    {
+      "id": "tx2026ozzsze",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 32.852,
+      "lon": -100.972,
+      "place": "15 km NNW of Snyder, Texas",
+      "time": "2026-08-01T10:57:15.555Z"
+    },
+    {
+      "id": "nc75409552",
+      "magnitude": 2.3,
+      "depth": 6,
+      "lat": 36.968,
+      "lon": -121.453,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": "2026-08-01T10:54:32.550Z"
+    },
+    {
+      "id": "ci40664594",
+      "magnitude": 0.9,
+      "depth": 9,
+      "lat": 33.043,
+      "lon": -116.44,
+      "place": "16 km ESE of Julian, CA",
+      "time": "2026-08-01T10:51:48.260Z"
+    },
     {
       "id": "hv75011452",
       "magnitude": 2.2,
@@ -33,19 +168,19 @@
       "id": "tx2026ozyvnl",
       "magnitude": 1.7,
       "depth": 3,
-      "lat": 31.723,
-      "lon": -101.696,
-      "place": "25 km SW of Garden City, Texas",
-      "time": "2026-08-01T10:30:07.651Z"
+      "lat": 31.725,
+      "lon": -101.674,
+      "place": "23 km SW of Garden City, Texas",
+      "time": "2026-08-01T10:30:07.393Z"
     },
     {
       "id": "tx2026ozyrjh",
-      "magnitude": 2.6,
-      "depth": 2,
-      "lat": 31.728,
-      "lon": -101.675,
-      "place": "23 km SW of Garden City, Texas",
-      "time": "2026-08-01T10:25:15.258Z"
+      "magnitude": 2.7,
+      "depth": 3,
+      "lat": 31.725,
+      "lon": -101.68,
+      "place": "24 km SW of Garden City, Texas",
+      "time": "2026-08-01T10:25:15.110Z"
     },
     {
       "id": "tx2026ozyqsx",
@@ -57,6 +192,15 @@
       "time": "2026-08-01T10:24:29.556Z"
     },
     {
+      "id": "tx2026ozyklw",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 31.8,
+      "lon": -103.952,
+      "place": "35 km WNW of Mentone, Texas",
+      "time": "2026-08-01T10:17:13.663Z"
+    },
+    {
       "id": "tx2026ozyipl",
       "magnitude": 2.6,
       "depth": 7,
@@ -66,13 +210,31 @@
       "time": "2026-08-01T10:16:13.104Z"
     },
     {
+      "id": "tx2026ozyjal",
+      "magnitude": 2.6,
+      "depth": 3,
+      "lat": 31.727,
+      "lon": -101.679,
+      "place": "24 km SW of Garden City, Texas",
+      "time": "2026-08-01T10:15:32.574Z"
+    },
+    {
+      "id": "tx2026ozyewv",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 31.674,
+      "lon": -103.757,
+      "place": "15 km WSW of Mentone, Texas",
+      "time": "2026-08-01T10:13:15.419Z"
+    },
+    {
       "id": "tx2026ozygak",
-      "magnitude": 2.8,
-      "depth": 2,
-      "lat": 31.73,
-      "lon": -101.678,
-      "place": "23 km SW of Garden City, Texas",
-      "time": "2026-08-01T10:12:19.702Z"
+      "magnitude": 2.6,
+      "depth": 7,
+      "lat": 31.722,
+      "lon": -101.695,
+      "place": "25 km SW of Garden City, Texas",
+      "time": "2026-08-01T10:12:19.826Z"
     },
     {
       "id": "nc75409537",
@@ -489,6 +651,15 @@
       "time": "2026-08-01T05:15:18.970Z"
     },
     {
+      "id": "pr71526908",
+      "magnitude": 3.3,
+      "depth": 7,
+      "lat": 18.99,
+      "lon": -65.072,
+      "place": "73 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-08-01T05:09:48.270Z"
+    },
+    {
       "id": "nc75409402",
       "magnitude": 1.7,
       "depth": 3,
@@ -797,11 +968,11 @@
     {
       "id": "tx2026ozftan",
       "magnitude": 1,
-      "depth": 2,
-      "lat": 32.066,
-      "lon": -101.662,
+      "depth": 4,
+      "lat": 32.078,
+      "lon": -101.655,
       "place": "13 km ESE of Stanton, Texas",
-      "time": "2026-08-01T00:54:06.943Z"
+      "time": "2026-08-01T00:54:06.565Z"
     },
     {
       "id": "nc75409327",
@@ -1981,60 +2152,6 @@
       "lon": -116.167,
       "place": "19 km NNE of Indio, CA",
       "time": "2026-07-31T11:56:23.780Z"
-    },
-    {
-      "id": "av94347973",
-      "magnitude": -0.4,
-      "depth": 12,
-      "lat": 52.058,
-      "lon": -176.153,
-      "place": "38 km ENE of Adak, Alaska",
-      "time": "2026-07-31T11:39:29.740Z"
-    },
-    {
-      "id": "hv75010962",
-      "magnitude": 2.4,
-      "depth": 31,
-      "lat": 19.205,
-      "lon": -155.375,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": "2026-07-31T11:36:41.960Z"
-    },
-    {
-      "id": "nn00922633",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 38.412,
-      "lon": -118.679,
-      "place": "13 km SSW of Hawthorne, Nevada",
-      "time": "2026-07-31T11:21:57.097Z"
-    },
-    {
-      "id": "tx2026oyesch",
-      "magnitude": 1.7,
-      "depth": 6,
-      "lat": 31.649,
-      "lon": -104.27,
-      "place": "58 km NW of Toyah, Texas",
-      "time": "2026-07-31T11:18:11.662Z"
-    },
-    {
-      "id": "nc75409042",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 38.83,
-      "lon": -122.815,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-07-31T11:17:40.020Z"
-    },
-    {
-      "id": "us6000th7q",
-      "magnitude": 4.5,
-      "depth": 56,
-      "lat": -41.005,
-      "lon": 174.477,
-      "place": "31 km WNW of Titahi Bay, New Zealand",
-      "time": "2026-07-31T11:09:22.344Z"
     }
   ]
 }
