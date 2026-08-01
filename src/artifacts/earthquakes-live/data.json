@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-01T15:33:24.514Z",
-  "count": 228,
+  "generated": "2026-08-01T16:35:21.903Z",
+  "count": 226,
   "events": [
+    {
+      "id": "ci40664698",
+      "magnitude": 1.4,
+      "depth": 3,
+      "lat": 32.625,
+      "lon": -115.571,
+      "place": "5 km NNE of Progreso, B.C., MX",
+      "time": "2026-08-01T16:19:34.760Z"
+    },
+    {
+      "id": "nc75409682",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.821,
+      "lon": -122.811,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-01T16:07:50.880Z"
+    },
+    {
+      "id": "aka2026pcuvpj",
+      "magnitude": 0.9,
+      "depth": 5,
+      "lat": 58.42,
+      "lon": -154.247,
+      "place": "88 km WNW of Aleneva, Alaska",
+      "time": "2026-08-01T16:05:27.497Z"
+    },
+    {
+      "id": "aka2026pcureq",
+      "magnitude": 1.7,
+      "depth": 70,
+      "lat": 58.881,
+      "lon": -153.12,
+      "place": "86 km SW of Nanwalek, Alaska",
+      "time": "2026-08-01T16:00:22.359Z"
+    },
+    {
+      "id": "us6000thgx",
+      "magnitude": 5.1,
+      "depth": 70,
+      "lat": -24.394,
+      "lon": -176.796,
+      "place": "south of the Fiji Islands",
+      "time": "2026-08-01T15:51:11.360Z"
+    },
+    {
+      "id": "ci40664690",
+      "magnitude": 0.8,
+      "depth": 11,
+      "lat": 33.332,
+      "lon": -116.357,
+      "place": "9 km NNE of Borrego Springs, CA",
+      "time": "2026-08-01T15:49:07.030Z"
+    },
+    {
+      "id": "tx2026paiwsi",
+      "magnitude": 1.7,
+      "depth": 3,
+      "lat": 31.634,
+      "lon": -104.44,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": "2026-08-01T15:33:27.270Z"
+    },
     {
       "id": "ci40664674",
       "magnitude": 2.1,
@@ -426,6 +489,15 @@
       "time": "2026-08-01T10:25:15.110Z"
     },
     {
+      "id": "uw714067701",
+      "magnitude": 1.7,
+      "depth": 25,
+      "lat": 48.292,
+      "lon": -122.6,
+      "place": "3 km E of Oak Harbor, Washington",
+      "time": "2026-08-01T10:24:50.480Z"
+    },
+    {
       "id": "tx2026ozyqsx",
       "magnitude": 1.6,
       "depth": 6,
@@ -847,6 +919,15 @@
       "lon": -117.659,
       "place": "23 km N of Ridgecrest, CA",
       "time": "2026-08-01T06:31:40.770Z"
+    },
+    {
+      "id": "uw714067651",
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 48.557,
+      "lon": -122.056,
+      "place": "3 km N of Lyman, Washington",
+      "time": "2026-08-01T06:31:33.320Z"
     },
     {
       "id": "nn00922676",
@@ -1569,13 +1650,22 @@
       "time": "2026-07-31T20:30:34.710Z"
     },
     {
+      "id": "us6000thbs",
+      "magnitude": 4.4,
+      "depth": 46,
+      "lat": 37.821,
+      "lon": 69.789,
+      "place": "10 km S of Kŭlob, Tajikistan",
+      "time": "2026-07-31T20:26:49.821Z"
+    },
+    {
       "id": "us6000thbq",
-      "magnitude": 5.2,
+      "magnitude": 5.3,
       "depth": 10,
-      "lat": -2.845,
-      "lon": 130.155,
-      "place": "141 km ENE of Masohi, Indonesia",
-      "time": "2026-07-31T20:19:26.311Z"
+      "lat": -2.878,
+      "lon": 130.164,
+      "place": "140 km ENE of Masohi, Indonesia",
+      "time": "2026-07-31T20:19:26.522Z"
     },
     {
       "id": "tx2026oywmul",
@@ -1945,114 +2035,6 @@
       "lon": -116.381,
       "place": "9 km S of Borrego Springs, CA",
       "time": "2026-07-31T16:47:07.760Z"
-    },
-    {
-      "id": "ci40664218",
-      "magnitude": 1.1,
-      "depth": 11,
-      "lat": 33.179,
-      "lon": -116.374,
-      "place": "9 km S of Borrego Springs, CA",
-      "time": "2026-07-31T16:30:48.570Z"
-    },
-    {
-      "id": "av94348358",
-      "magnitude": 0.2,
-      "depth": 35,
-      "lat": 53.821,
-      "lon": -166.922,
-      "place": "26 km WSW of Dutch Harbor, Alaska",
-      "time": "2026-07-31T16:30:19.600Z"
-    },
-    {
-      "id": "aka2026pazkoi",
-      "magnitude": 1.6,
-      "depth": 91,
-      "lat": 61.165,
-      "lon": -151.327,
-      "place": "13 km WNW of Beluga, Alaska",
-      "time": "2026-07-31T16:23:24.414Z"
-    },
-    {
-      "id": "nc75409152",
-      "magnitude": 1.4,
-      "depth": 4,
-      "lat": 38.779,
-      "lon": -122.933,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-07-31T16:20:50.430Z"
-    },
-    {
-      "id": "ci40664202",
-      "magnitude": 0.6,
-      "depth": 12,
-      "lat": 33.182,
-      "lon": -116.375,
-      "place": "8 km S of Borrego Springs, CA",
-      "time": "2026-07-31T16:18:29.460Z"
-    },
-    {
-      "id": "nc75409147",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.836,
-      "lon": -122.793,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-07-31T16:16:32.020Z"
-    },
-    {
-      "id": "us6000th8n",
-      "magnitude": 5.2,
-      "depth": 10,
-      "lat": 14.603,
-      "lon": -93.231,
-      "place": "85 km SW of El Arenal, Mexico",
-      "time": "2026-07-31T16:15:58.641Z"
-    },
-    {
-      "id": "aka2026payuvl",
-      "magnitude": 2.5,
-      "depth": 4,
-      "lat": 60.522,
-      "lon": -150.931,
-      "place": "7 km ENE of Soldotna, Alaska",
-      "time": "2026-07-31T16:05:13.278Z"
-    },
-    {
-      "id": "us6000th8m",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": 1.526,
-      "lon": -90.963,
-      "place": "260 km NNW of Puerto Ayora, Ecuador",
-      "time": "2026-07-31T16:04:11.680Z"
-    },
-    {
-      "id": "av94348293",
-      "magnitude": -1,
-      "depth": 3,
-      "lat": 60.516,
-      "lon": -152.764,
-      "place": "79 km NW of Ninilchik, Alaska",
-      "time": "2026-07-31T15:53:26.170Z"
-    },
-    {
-      "id": "nc75409137",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.814,
-      "lon": -122.796,
-      "place": "5 km NW of The Geysers, CA",
-      "time": "2026-07-31T15:49:40.590Z"
-    },
-    {
-      "id": "hv75011057",
-      "magnitude": 1.8,
-      "depth": 30,
-      "lat": 19.151,
-      "lon": -155.492,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": "2026-07-31T15:46:35.790Z"
     }
   ]
 }
