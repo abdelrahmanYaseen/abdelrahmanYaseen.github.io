@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-02T11:52:00.571Z",
-  "count": 212,
+  "generated": "2026-08-02T12:53:47.151Z",
+  "count": 215,
   "events": [
+    {
+      "id": "nc75410067",
+      "magnitude": 1.1,
+      "depth": 5,
+      "lat": 36.965,
+      "lon": -121.457,
+      "place": "11 km ESE of Gilroy, CA",
+      "time": "2026-08-02T12:51:03.370Z"
+    },
+    {
+      "id": "aka2026pekdbs",
+      "magnitude": 1.2,
+      "depth": 89,
+      "lat": 57.407,
+      "lon": -155.528,
+      "place": "66 km WSW of Karluk, Alaska",
+      "time": "2026-08-02T12:43:30.085Z"
+    },
+    {
+      "id": "nc75410062",
+      "magnitude": 3.6,
+      "depth": 2,
+      "lat": 36.563,
+      "lon": -121.192,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": "2026-08-02T12:36:57.380Z"
+    },
+    {
+      "id": "ci40665202",
+      "magnitude": 0.4,
+      "depth": 8,
+      "lat": 35.799,
+      "lon": -118.044,
+      "place": "20 km SW of Little Lake, CA",
+      "time": "2026-08-02T12:30:36.190Z"
+    },
+    {
+      "id": "aka2026pejnwj",
+      "magnitude": 1.7,
+      "depth": 112,
+      "lat": 64.17,
+      "lon": -148.022,
+      "place": "56 km ENE of Ferry, Alaska",
+      "time": "2026-08-02T12:25:58.405Z"
+    },
+    {
+      "id": "ci40665194",
+      "magnitude": 0.2,
+      "depth": 14,
+      "lat": 33.353,
+      "lon": -116.368,
+      "place": "11 km N of Borrego Springs, CA",
+      "time": "2026-08-02T12:14:02.230Z"
+    },
+    {
+      "id": "aka2026peimza",
+      "magnitude": 1.4,
+      "depth": 0,
+      "lat": 66.835,
+      "lon": -146.42,
+      "place": "19 km S of Venetie, Alaska",
+      "time": "2026-08-02T11:54:57.103Z"
+    },
+    {
+      "id": "ci40665186",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 36.026,
+      "lon": -117.777,
+      "place": "15 km NE of Little Lake, CA",
+      "time": "2026-08-02T11:54:44.800Z"
+    },
+    {
+      "id": "us6000thly",
+      "magnitude": 5.3,
+      "depth": 10,
+      "lat": -3.214,
+      "lon": -12.176,
+      "place": "north of Ascension Island",
+      "time": "2026-08-02T11:52:33.048Z"
+    },
     {
       "id": "nc75410052",
       "magnitude": 1.2,
@@ -280,6 +361,15 @@
       "lon": 156.201,
       "place": "149 km S of Severo-Kuril’sk, Russia",
       "time": "2026-08-02T08:22:06.027Z"
+    },
+    {
+      "id": "us6000thl7",
+      "magnitude": 3.9,
+      "depth": 10,
+      "lat": 52.103,
+      "lon": 176.336,
+      "place": "229 km ESE of Attu Station, Alaska",
+      "time": "2026-08-02T08:19:10.862Z"
     },
     {
       "id": "tx2026pbqdwa",
@@ -1846,69 +1936,6 @@
       "lon": -122.823,
       "place": "8 km NW of The Geysers, CA",
       "time": "2026-08-01T12:58:39.860Z"
-    },
-    {
-      "id": "us6000thgg",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": 32.651,
-      "lon": 130.629,
-      "place": "3 km W of Matsubase, Japan",
-      "time": "2026-08-01T12:47:23.253Z"
-    },
-    {
-      "id": "tx2026pacumy",
-      "magnitude": 1.8,
-      "depth": 15,
-      "lat": 31.267,
-      "lon": -103.628,
-      "place": "14 km SW of Lindsay, Texas",
-      "time": "2026-08-01T12:29:33.812Z"
-    },
-    {
-      "id": "nc75409627",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 38.771,
-      "lon": -122.951,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": "2026-08-01T12:19:31.440Z"
-    },
-    {
-      "id": "nc75409622",
-      "magnitude": 1.2,
-      "depth": 5,
-      "lat": 38.772,
-      "lon": -122.95,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": "2026-08-01T12:15:51.750Z"
-    },
-    {
-      "id": "ci40664610",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 33.194,
-      "lon": -115.949,
-      "place": "12 km S of Salton City, CA",
-      "time": "2026-08-01T12:09:17.240Z"
-    },
-    {
-      "id": "tx2026pacbwf",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 31.728,
-      "lon": -101.684,
-      "place": "24 km SW of Garden City, Texas",
-      "time": "2026-08-01T12:07:55.959Z"
-    },
-    {
-      "id": "nc75409612",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.836,
-      "lon": -122.79,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-08-01T11:58:09.590Z"
     }
   ]
 }
