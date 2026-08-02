@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-02T19:50:06.902Z",
-  "count": 219,
+  "generated": "2026-08-02T20:41:20.200Z",
+  "count": 211,
   "events": [
+    {
+      "id": "us6000thna",
+      "magnitude": 4.5,
+      "depth": 35,
+      "lat": 43.068,
+      "lon": 147.055,
+      "place": "85 km SSE of Shikotan, Russia",
+      "time": "2026-08-02T20:02:10.395Z"
+    },
+    {
+      "id": "ci40665338",
+      "magnitude": 0.4,
+      "depth": 16,
+      "lat": 33.682,
+      "lon": -116.709,
+      "place": "7 km S of Idyllwild, CA",
+      "time": "2026-08-02T19:53:54.610Z"
+    },
     {
       "id": "tx2026pcmtwa",
       "magnitude": 1.5,
@@ -32,11 +50,11 @@
     {
       "id": "ci40665314",
       "magnitude": 1.9,
-      "depth": 7,
-      "lat": 34.462,
-      "lon": -118.635,
-      "place": "3 km SSW of Castaic, CA",
-      "time": "2026-08-02T19:09:45.390Z"
+      "depth": 8,
+      "lat": 34.46,
+      "lon": -118.638,
+      "place": "4 km SSW of Castaic, CA",
+      "time": "2026-08-02T19:09:45.300Z"
     },
     {
       "id": "nc75410247",
@@ -1832,11 +1850,11 @@
     {
       "id": "ci40664858",
       "magnitude": 1.5,
-      "depth": 7,
-      "lat": 32.63,
-      "lon": -115.563,
+      "depth": 6,
+      "lat": 32.633,
+      "lon": -115.566,
       "place": "6 km NNE of Progreso, B.C., MX",
-      "time": "2026-08-01T21:02:31.630Z"
+      "time": "2026-08-01T21:02:31.580Z"
     },
     {
       "id": "tx2026patiqk",
@@ -1882,96 +1900,6 @@
       "lon": -115.561,
       "place": "6 km NNE of Progreso, B.C., MX",
       "time": "2026-08-01T20:41:55.260Z"
-    },
-    {
-      "id": "aka2026pddzte",
-      "magnitude": 2.5,
-      "depth": 94,
-      "lat": 60.204,
-      "lon": -152.266,
-      "place": "37 km WNW of Ninilchik, Alaska",
-      "time": "2026-08-01T20:40:06.133Z"
-    },
-    {
-      "id": "ci40664842",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 33.873,
-      "lon": -116.174,
-      "place": "17 km NNE of Indio, CA",
-      "time": "2026-08-01T20:38:06.940Z"
-    },
-    {
-      "id": "pr71526963",
-      "magnitude": 3.4,
-      "depth": 7,
-      "lat": 18.778,
-      "lon": -64.937,
-      "place": "48 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": "2026-08-01T20:37:47.680Z"
-    },
-    {
-      "id": "aka2026pddher",
-      "magnitude": 0.5,
-      "depth": 5,
-      "lat": 58.164,
-      "lon": -155.279,
-      "place": "82 km NW of Karluk, Alaska",
-      "time": "2026-08-01T20:18:42.837Z"
-    },
-    {
-      "id": "aka2026pddfaz",
-      "magnitude": 1.2,
-      "depth": 126,
-      "lat": 59.447,
-      "lon": -153.327,
-      "place": "58 km SE of Pedro Bay, Alaska",
-      "time": "2026-08-01T20:16:15.848Z"
-    },
-    {
-      "id": "pr71526988",
-      "magnitude": 3,
-      "depth": 17,
-      "lat": 18.747,
-      "lon": -64.931,
-      "place": "44 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": "2026-08-01T20:08:28.050Z"
-    },
-    {
-      "id": "ci40664834",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 35.702,
-      "lon": -117.565,
-      "place": "13 km NE of Ridgecrest, CA",
-      "time": "2026-08-01T20:05:18.560Z"
-    },
-    {
-      "id": "us6000thhr",
-      "magnitude": 5.2,
-      "depth": 50,
-      "lat": 49.324,
-      "lon": 155.327,
-      "place": "160 km SSW of Severo-Kuril’sk, Russia",
-      "time": "2026-08-01T20:02:46.638Z"
-    },
-    {
-      "id": "pr2026213000",
-      "magnitude": 4.1,
-      "depth": 19,
-      "lat": 18.786,
-      "lon": -64.922,
-      "place": "49 km N of Charlotte Amalie, U.S. Virgin Islands",
-      "time": "2026-08-01T20:00:41.590Z"
-    },
-    {
-      "id": "nc75409797",
-      "magnitude": 1.8,
-      "depth": 14,
-      "lat": 40.214,
-      "lon": -124.142,
-      "place": "17 km SE of Petrolia, CA",
-      "time": "2026-08-01T19:59:40.020Z"
     }
   ]
 }
