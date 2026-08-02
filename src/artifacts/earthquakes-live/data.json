@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-02T15:34:04.223Z",
-  "count": 216,
+  "generated": "2026-08-02T16:34:53.474Z",
+  "count": 217,
   "events": [
+    {
+      "id": "ci40665274",
+      "magnitude": 0.2,
+      "depth": 5,
+      "lat": 33.539,
+      "lon": -116.712,
+      "place": "4 km WSW of Anza, CA",
+      "time": "2026-08-02T16:29:43.270Z"
+    },
+    {
+      "id": "aka2026perhsp",
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 63.581,
+      "lon": -150.625,
+      "place": "54 km E of Denali National Park, Alaska",
+      "time": "2026-08-02T16:18:47.371Z"
+    },
+    {
+      "id": "aka2026perdcv",
+      "magnitude": 2.1,
+      "depth": 0,
+      "lat": 63.359,
+      "lon": -145.193,
+      "place": "36 km NE of Paxson, Alaska",
+      "time": "2026-08-02T16:13:27.971Z"
+    },
+    {
+      "id": "ci40665266",
+      "magnitude": 2.3,
+      "depth": 11,
+      "lat": 35.864,
+      "lon": -118.928,
+      "place": "24 km SSE of Porterville, CA",
+      "time": "2026-08-02T16:13:17.320Z"
+    },
+    {
+      "id": "nc75410157",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.825,
+      "lon": -122.836,
+      "place": "9 km NW of The Geysers, CA",
+      "time": "2026-08-02T16:10:48.590Z"
+    },
+    {
+      "id": "us6000thmh",
+      "magnitude": 4.6,
+      "depth": 137,
+      "lat": 11.579,
+      "lon": -85.898,
+      "place": "8 km N of Belén, Nicaragua",
+      "time": "2026-08-02T16:09:30.420Z"
+    },
+    {
+      "id": "ci40665258",
+      "magnitude": 1.5,
+      "depth": 8,
+      "lat": 35.662,
+      "lon": -118.618,
+      "place": "14 km WNW of Lake Isabella, CA",
+      "time": "2026-08-02T15:48:36.900Z"
+    },
+    {
+      "id": "aka2026peqdzy",
+      "magnitude": 0.8,
+      "depth": 11,
+      "lat": 61.557,
+      "lon": -152.063,
+      "place": "59 km SW of Skwentna, Alaska",
+      "time": "2026-08-02T15:44:30.807Z"
+    },
+    {
+      "id": "us6000thmd",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -25.044,
+      "lon": -175.132,
+      "place": "south of Tonga",
+      "time": "2026-08-02T15:35:30.843Z"
+    },
     {
       "id": "aka2026pepdxf",
       "magnitude": 1.4,
@@ -355,12 +436,12 @@
     },
     {
       "id": "ci40665146",
-      "magnitude": 2.2,
-      "depth": 15,
-      "lat": 33.256,
-      "lon": -117.454,
+      "magnitude": 2.1,
+      "depth": 16,
+      "lat": 33.255,
+      "lon": -117.456,
       "place": "8 km WNW of Camp Pendleton South, CA",
-      "time": "2026-08-02T10:45:25.100Z"
+      "time": "2026-08-02T10:45:25.040Z"
     },
     {
       "id": "us6000thlj",
@@ -1873,78 +1954,6 @@
       "lon": -120.839,
       "place": "22 km SW of New Idria, CA",
       "time": "2026-08-01T16:37:29.980Z"
-    },
-    {
-      "id": "nn00922689",
-      "magnitude": 2.6,
-      "depth": 12,
-      "lat": 38.2,
-      "lon": -117.828,
-      "place": "32 km SE of Mina, Nevada",
-      "time": "2026-08-01T16:31:01.446Z"
-    },
-    {
-      "id": "ci40664698",
-      "magnitude": 1.4,
-      "depth": 3,
-      "lat": 32.625,
-      "lon": -115.571,
-      "place": "5 km NNE of Progreso, B.C., MX",
-      "time": "2026-08-01T16:19:34.760Z"
-    },
-    {
-      "id": "nc75409682",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.821,
-      "lon": -122.811,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-01T16:07:50.880Z"
-    },
-    {
-      "id": "us6000thgz",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 32.449,
-      "lon": 130.46,
-      "place": "14 km WSW of Honmachi, Japan",
-      "time": "2026-08-01T16:07:21.753Z"
-    },
-    {
-      "id": "aka2026pcuvpj",
-      "magnitude": 0.9,
-      "depth": 5,
-      "lat": 58.42,
-      "lon": -154.247,
-      "place": "88 km WNW of Aleneva, Alaska",
-      "time": "2026-08-01T16:05:27.497Z"
-    },
-    {
-      "id": "aka2026pcureq",
-      "magnitude": 1.7,
-      "depth": 70,
-      "lat": 58.881,
-      "lon": -153.12,
-      "place": "86 km SW of Nanwalek, Alaska",
-      "time": "2026-08-01T16:00:22.359Z"
-    },
-    {
-      "id": "us6000thgx",
-      "magnitude": 5.1,
-      "depth": 70,
-      "lat": -24.394,
-      "lon": -176.796,
-      "place": "south of the Fiji Islands",
-      "time": "2026-08-01T15:51:11.360Z"
-    },
-    {
-      "id": "ci40664690",
-      "magnitude": 0.8,
-      "depth": 11,
-      "lat": 33.332,
-      "lon": -116.357,
-      "place": "9 km NNE of Borrego Springs, CA",
-      "time": "2026-08-01T15:49:07.030Z"
     }
   ]
 }
