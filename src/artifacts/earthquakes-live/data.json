@@ -1,10 +1,46 @@
 {
-  "generated": "2026-08-05T22:39:59.179Z",
-  "count": 223,
+  "generated": "2026-08-05T23:35:40.541Z",
+  "count": 217,
   "events": [
     {
+      "id": "nc75412197",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.797,
+      "lon": -122.813,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": "2026-08-05T23:28:15.720Z"
+    },
+    {
+      "id": "ci40666898",
+      "magnitude": 1,
+      "depth": 14,
+      "lat": 34.003,
+      "lon": -117.18,
+      "place": "6 km S of Redlands, CA",
+      "time": "2026-08-05T23:12:17.660Z"
+    },
+    {
+      "id": "us6000tig8",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": 32.491,
+      "lon": 130.485,
+      "place": "10 km W of Honmachi, Japan",
+      "time": "2026-08-05T22:59:25.088Z"
+    },
+    {
+      "id": "nc75412187",
+      "magnitude": 1.5,
+      "depth": 6,
+      "lat": 36.59,
+      "lon": -121.214,
+      "place": "9 km NW of Pinnacles, CA",
+      "time": "2026-08-05T22:47:20.240Z"
+    },
+    {
       "id": "nc75412157",
-      "magnitude": 4.5,
+      "magnitude": 4.4,
       "depth": 5,
       "lat": 40.019,
       "lon": -123.452,
@@ -12,8 +48,17 @@
       "time": "2026-08-05T22:21:57.380Z"
     },
     {
+      "id": "uu80147176",
+      "magnitude": 1.9,
+      "depth": 12,
+      "lat": 42.55,
+      "lon": -111.447,
+      "place": "9 km NW of Georgetown, Idaho",
+      "time": "2026-08-05T22:21:31.720Z"
+    },
+    {
       "id": "nc75412167",
-      "magnitude": 4.1,
+      "magnitude": 3.9,
       "depth": 8,
       "lat": 40.027,
       "lon": -123.444,
@@ -256,12 +301,12 @@
     },
     {
       "id": "tx2026phzico",
-      "magnitude": 1.7,
+      "magnitude": 1.6,
       "depth": 3,
-      "lat": 32.123,
+      "lat": 32.12,
       "lon": -101.115,
       "place": "23 km E of Forsan, Texas",
-      "time": "2026-08-05T19:20:27.557Z"
+      "time": "2026-08-05T19:20:27.579Z"
     },
     {
       "id": "ok2026pgck",
@@ -1909,105 +1954,6 @@
       "lon": -147.522,
       "place": "69 km E of Denali Park, Alaska",
       "time": "2026-08-04T23:37:38.947Z"
-    },
-    {
-      "id": "nc75411477",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 38.82,
-      "lon": -122.799,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-08-04T23:34:30.250Z"
-    },
-    {
-      "id": "av94358958",
-      "magnitude": 2.1,
-      "depth": 2,
-      "lat": 52.884,
-      "lon": -169.741,
-      "place": "59 km W of Nikolski, Alaska",
-      "time": "2026-08-04T23:32:54.270Z"
-    },
-    {
-      "id": "aka2026pixvfz",
-      "magnitude": 2.4,
-      "depth": 5,
-      "lat": 64.051,
-      "lon": -148.721,
-      "place": "19 km E of Ferry, Alaska",
-      "time": "2026-08-04T23:32:53.054Z"
-    },
-    {
-      "id": "us6000ti5m",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -55.745,
-      "lon": -26.793,
-      "place": "South Sandwich Islands region",
-      "time": "2026-08-04T23:08:00.747Z"
-    },
-    {
-      "id": "pr71527578",
-      "magnitude": 2.2,
-      "depth": 15,
-      "lat": 17.956,
-      "lon": -66.913,
-      "place": "1 km SSW of Guánica, Puerto Rico",
-      "time": "2026-08-04T23:07:38.060Z"
-    },
-    {
-      "id": "nc75411462",
-      "magnitude": 1.2,
-      "depth": 4,
-      "lat": 38.77,
-      "lon": -122.949,
-      "place": "7 km ESE of Cloverdale, CA",
-      "time": "2026-08-04T23:06:10.320Z"
-    },
-    {
-      "id": "pr71527568",
-      "magnitude": 2.1,
-      "depth": 15,
-      "lat": 17.921,
-      "lon": -66.854,
-      "place": "7 km SSE of Maria Antonia, Puerto Rico",
-      "time": "2026-08-04T23:04:24.700Z"
-    },
-    {
-      "id": "aka2026piwirv",
-      "magnitude": 2.7,
-      "depth": 24,
-      "lat": 57.468,
-      "lon": -136.701,
-      "place": "61 km SSW of Pelican, Alaska",
-      "time": "2026-08-04T22:48:51.366Z"
-    },
-    {
-      "id": "nc75411452",
-      "magnitude": 1.5,
-      "depth": 5,
-      "lat": 38.777,
-      "lon": -122.935,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-04T22:47:42.020Z"
-    },
-    {
-      "id": "nc75411447",
-      "magnitude": 1.8,
-      "depth": 13,
-      "lat": 36.404,
-      "lon": -120.496,
-      "place": "16 km E of New Idria, CA",
-      "time": "2026-08-04T22:43:58.270Z"
-    },
-    {
-      "id": "nc75411442",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 38.776,
-      "lon": -122.935,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-04T22:41:03.580Z"
     }
   ]
 }
