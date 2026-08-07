@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-07T11:29:14.830Z",
-  "count": 207,
+  "generated": "2026-08-07T12:08:15.239Z",
+  "count": 209,
   "events": [
+    {
+      "id": "ci40667890",
+      "magnitude": 0.8,
+      "depth": 17,
+      "lat": 33.157,
+      "lon": -116.597,
+      "place": "9 km N of Julian, CA",
+      "time": "2026-08-07T12:02:43.580Z"
+    },
+    {
+      "id": "ci40667882",
+      "magnitude": 0.7,
+      "depth": 4,
+      "lat": 36.143,
+      "lon": -117.869,
+      "place": "13 km NNE of Coso Junction, CA",
+      "time": "2026-08-07T11:49:58.410Z"
+    },
+    {
+      "id": "ci40667874",
+      "magnitude": 0.1,
+      "depth": 5,
+      "lat": 33.538,
+      "lon": -116.71,
+      "place": "4 km WSW of Anza, CA",
+      "time": "2026-08-07T11:49:04.980Z"
+    },
+    {
+      "id": "nc75413302",
+      "magnitude": 1.7,
+      "depth": 3,
+      "lat": 38.811,
+      "lon": -122.797,
+      "place": "5 km NW of The Geysers, CA",
+      "time": "2026-08-07T11:47:36.720Z"
+    },
+    {
+      "id": "aka2026pnoipx",
+      "magnitude": 1.5,
+      "depth": 65,
+      "lat": 60.941,
+      "lon": -150.99,
+      "place": "16 km SSE of Tyonek, Alaska",
+      "time": "2026-08-07T11:46:38.952Z"
+    },
+    {
+      "id": "ci40667866",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 35.675,
+      "lon": -117.572,
+      "place": "11 km ENE of Ridgecrest, CA",
+      "time": "2026-08-07T11:38:15.600Z"
+    },
     {
       "id": "ci40667858",
       "magnitude": 0.4,
@@ -633,13 +687,13 @@
       "time": "2026-08-07T04:50:01.860Z"
     },
     {
-      "id": "us6000tivs",
+      "id": "pr2026219000",
       "magnitude": 3.6,
-      "depth": 16,
-      "lat": 17.902,
-      "lon": -66.941,
-      "place": "8 km SSW of Guánica, Puerto Rico",
-      "time": "2026-08-07T04:47:59.875Z"
+      "depth": 10,
+      "lat": 17.958,
+      "lon": -66.944,
+      "place": "4 km WSW of Guánica, Puerto Rico",
+      "time": "2026-08-07T04:48:01.170Z"
     },
     {
       "id": "pr71527753",
@@ -1828,42 +1882,6 @@
       "lon": -153.012,
       "place": "66 km WNW of Nanwalek, Alaska",
       "time": "2026-08-06T12:10:45.393Z"
-    },
-    {
-      "id": "nc75412517",
-      "magnitude": 2,
-      "depth": 9,
-      "lat": 37.337,
-      "lon": -118.349,
-      "place": "5 km SE of Bishop, CA",
-      "time": "2026-08-06T12:03:56.360Z"
-    },
-    {
-      "id": "nc75412512",
-      "magnitude": 1,
-      "depth": 11,
-      "lat": 36.024,
-      "lon": -121.051,
-      "place": "12 km SSW of San Lucas, CA",
-      "time": "2026-08-06T12:01:32.510Z"
-    },
-    {
-      "id": "tx2026pjghqf",
-      "magnitude": 1.2,
-      "depth": 0,
-      "lat": 31.004,
-      "lon": -103.508,
-      "place": "22 km E of Balmorhea, Texas",
-      "time": "2026-08-06T11:55:50.194Z"
-    },
-    {
-      "id": "nc75412507",
-      "magnitude": 1.9,
-      "depth": 8,
-      "lat": 37.337,
-      "lon": -118.354,
-      "place": "5 km SE of Bishop, CA",
-      "time": "2026-08-06T11:53:43.600Z"
     }
   ]
 }
