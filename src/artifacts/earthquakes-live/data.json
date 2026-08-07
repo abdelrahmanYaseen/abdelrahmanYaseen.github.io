@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-07T18:12:18.087Z",
-  "count": 265,
+  "generated": "2026-08-07T19:13:16.585Z",
+  "count": 263,
   "events": [
+    {
+      "id": "ci40668218",
+      "magnitude": 1.1,
+      "depth": 5,
+      "lat": 34.979,
+      "lon": -118.21,
+      "place": "9 km SSW of Mojave, CA",
+      "time": "2026-08-07T19:10:08.700Z"
+    },
+    {
+      "id": "nc75413572",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.782,
+      "lon": -122.722,
+      "place": "3 km WNW of Anderson Springs, CA",
+      "time": "2026-08-07T19:09:14.180Z"
+    },
+    {
+      "id": "tx2026plqaut",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 32.006,
+      "lon": -103.823,
+      "place": "33 km SE of Malaga, New Mexico",
+      "time": "2026-08-07T18:58:20.851Z"
+    },
+    {
+      "id": "us6000tj22",
+      "magnitude": 4.2,
+      "depth": 10,
+      "lat": 36.723,
+      "lon": 140.68,
+      "place": "3 km WNW of Takahagi, Japan",
+      "time": "2026-08-07T18:41:31.903Z"
+    },
+    {
+      "id": "ci40668194",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 33.747,
+      "lon": -117.109,
+      "place": "3 km WNW of Green Acres, CA",
+      "time": "2026-08-07T18:37:12.230Z"
+    },
+    {
+      "id": "nc75413567",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 36.574,
+      "lon": -121.188,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": "2026-08-07T18:34:44.410Z"
+    },
     {
       "id": "tx2026ploedc",
       "magnitude": 1.6,
@@ -273,6 +327,15 @@
       "time": "2026-08-07T15:36:11.308Z"
     },
     {
+      "id": "us6000tizg",
+      "magnitude": 4.2,
+      "depth": 509,
+      "lat": -24.8,
+      "lon": 179.771,
+      "place": "south of the Fiji Islands",
+      "time": "2026-08-07T15:35:48.557Z"
+    },
+    {
       "id": "hv75014502",
       "magnitude": 1.8,
       "depth": 37,
@@ -327,13 +390,22 @@
       "time": "2026-08-07T15:11:01.160Z"
     },
     {
-      "id": "aka2026pnvcvb",
-      "magnitude": 2.9,
-      "depth": 20,
-      "lat": 51.766,
-      "lon": 176.177,
-      "place": "236 km ESE of Attu Station, Alaska",
-      "time": "2026-08-07T15:09:47.671Z"
+      "id": "us6000tj0y",
+      "magnitude": 2.7,
+      "depth": 10,
+      "lat": 52.014,
+      "lon": 176.339,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": "2026-08-07T15:09:47.537Z"
+    },
+    {
+      "id": "us6000tiyy",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": 36.861,
+      "lon": 72.556,
+      "place": "23 km ESE of Khandūd, Afghanistan",
+      "time": "2026-08-07T14:55:33.817Z"
     },
     {
       "id": "nc75413382",
@@ -833,11 +905,11 @@
     {
       "id": "ci40667770",
       "magnitude": 0.7,
-      "depth": 13,
+      "depth": 14,
       "lat": 33.641,
-      "lon": -116.707,
+      "lon": -116.708,
       "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T10:40:42.860Z"
+      "time": "2026-08-07T10:40:42.780Z"
     },
     {
       "id": "nc75413262",
@@ -887,11 +959,11 @@
     {
       "id": "ci40667762",
       "magnitude": 0.5,
-      "depth": 13,
-      "lat": 33.642,
-      "lon": -116.708,
+      "depth": 14,
+      "lat": 33.641,
+      "lon": -116.709,
       "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T10:00:47.020Z"
+      "time": "2026-08-07T10:00:46.870Z"
     },
     {
       "id": "uu80147401",
@@ -1013,11 +1085,11 @@
     {
       "id": "ci40667746",
       "magnitude": 1.5,
-      "depth": 5,
-      "lat": 34.018,
-      "lon": -117.59,
+      "depth": 6,
+      "lat": 34.02,
+      "lon": -117.587,
       "place": "5 km SE of Ontario, CA",
-      "time": "2026-08-07T09:31:39.820Z"
+      "time": "2026-08-07T09:31:39.780Z"
     },
     {
       "id": "uw714072562",
@@ -1066,12 +1138,12 @@
     },
     {
       "id": "ci40667738",
-      "magnitude": 1.1,
+      "magnitude": 1,
       "depth": 9,
-      "lat": 34.508,
+      "lat": 34.51,
       "lon": -118.808,
-      "place": "10 km N of Piru, CA",
-      "time": "2026-08-07T08:37:21.380Z"
+      "place": "11 km N of Piru, CA",
+      "time": "2026-08-07T08:37:21.280Z"
     },
     {
       "id": "tx2026pkvjyx",
@@ -1138,12 +1210,12 @@
     },
     {
       "id": "ci40667722",
-      "magnitude": 0.6,
-      "depth": 12,
+      "magnitude": 0.7,
+      "depth": 11,
       "lat": 33.091,
-      "lon": -116.609,
-      "place": "1 km NNW of Julian, CA",
-      "time": "2026-08-07T07:52:20.570Z"
+      "lon": -116.613,
+      "place": "2 km NW of Julian, CA",
+      "time": "2026-08-07T07:52:20.530Z"
     },
     {
       "id": "nc75413177",
@@ -1276,9 +1348,9 @@
       "magnitude": 0.4,
       "depth": 13,
       "lat": 33.853,
-      "lon": -116.968,
+      "lon": -116.966,
       "place": "8 km N of San Jacinto, CA",
-      "time": "2026-08-07T06:50:40.160Z"
+      "time": "2026-08-07T06:50:40.180Z"
     },
     {
       "id": "aka2026pneluv",
@@ -2296,96 +2368,6 @@
       "lon": -147.717,
       "place": "66 km ESE of Cantwell, Alaska",
       "time": "2026-08-06T19:15:51.448Z"
-    },
-    {
-      "id": "us6000tipc",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 4.144,
-      "lon": 93.201,
-      "place": "282 km WSW of Banda Aceh, Indonesia",
-      "time": "2026-08-06T19:05:22.119Z"
-    },
-    {
-      "id": "us6000tip9",
-      "magnitude": 5.3,
-      "depth": 10,
-      "lat": -12.195,
-      "lon": -75.257,
-      "place": "7 km SSW of Huayucachi, Peru",
-      "time": "2026-08-06T18:57:21.831Z"
-    },
-    {
-      "id": "nc75412737",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.799,
-      "lon": -122.795,
-      "place": "4 km NW of The Geysers, CA",
-      "time": "2026-08-06T18:54:15.990Z"
-    },
-    {
-      "id": "nc75412732",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 38.825,
-      "lon": -122.808,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-06T18:52:12.650Z"
-    },
-    {
-      "id": "nn00922992",
-      "magnitude": 2.6,
-      "depth": 3,
-      "lat": 40.594,
-      "lon": -119.624,
-      "place": "23 km WSW of Gerlach, Nevada",
-      "time": "2026-08-06T18:49:30.281Z"
-    },
-    {
-      "id": "ci40667330",
-      "magnitude": 2.2,
-      "depth": 9,
-      "lat": 32.4,
-      "lon": -115.22,
-      "place": "6 km NNW of Delta, B.C., MX",
-      "time": "2026-08-06T18:37:24.570Z"
-    },
-    {
-      "id": "ci40667322",
-      "magnitude": 2.4,
-      "depth": 11,
-      "lat": 32.397,
-      "lon": -115.219,
-      "place": "5 km NNW of Delta, B.C., MX",
-      "time": "2026-08-06T18:35:27.410Z"
-    },
-    {
-      "id": "pr71527718",
-      "magnitude": 2.5,
-      "depth": 17,
-      "lat": 18.092,
-      "lon": -67.323,
-      "place": "14 km W of Puerto Real, Puerto Rico",
-      "time": "2026-08-06T18:31:06.800Z"
-    },
-    {
-      "id": "nc75412707",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.801,
-      "lon": -122.772,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": "2026-08-06T18:22:35.590Z"
-    },
-    {
-      "id": "nc75412692",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 37.338,
-      "lon": -118.346,
-      "place": "5 km SE of Bishop, CA",
-      "time": "2026-08-06T18:13:43.230Z"
     }
   ]
 }
