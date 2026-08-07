@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-07T21:20:37.620Z",
-  "count": 288,
+  "generated": "2026-08-07T22:02:14.292Z",
+  "count": 291,
   "events": [
+    {
+      "id": "aka2026poiuvv",
+      "magnitude": 2.4,
+      "depth": 3,
+      "lat": 61.655,
+      "lon": -150.129,
+      "place": "11 km SSW of Willow, Alaska",
+      "time": "2026-08-07T22:00:29.826Z"
+    },
+    {
+      "id": "hv75014672",
+      "magnitude": 1.9,
+      "depth": 31,
+      "lat": 19.33,
+      "lon": -155.312,
+      "place": "14 km SSW of Volcano, Hawaii",
+      "time": "2026-08-07T21:50:20.630Z"
+    },
+    {
+      "id": "hv75014662",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 19.261,
+      "lon": -155.486,
+      "place": "6 km N of Pāhala, Hawaii",
+      "time": "2026-08-07T21:42:54.670Z"
+    },
+    {
+      "id": "ci40668314",
+      "magnitude": 0.8,
+      "depth": 6,
+      "lat": 35.361,
+      "lon": -117.789,
+      "place": "14 km W of Johannesburg, CA",
+      "time": "2026-08-07T21:41:58.730Z"
+    },
+    {
+      "id": "uu80147471",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.508,
+      "lon": -112.879,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-07T20:59:29.180Z"
+    },
     {
       "id": "nn00923060",
       "magnitude": 1.7,
@@ -102,6 +147,15 @@
       "time": "2026-08-07T20:07:02.824Z"
     },
     {
+      "id": "us6000tj2p",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": 4.331,
+      "lon": 127.39,
+      "place": "244 km ESE of Sarangani, Philippines",
+      "time": "2026-08-07T19:48:15.479Z"
+    },
+    {
       "id": "aka2026poejxe",
       "magnitude": 1.2,
       "depth": 5,
@@ -183,15 +237,6 @@
       "time": "2026-08-07T19:13:37.960Z"
     },
     {
-      "id": "ci40668218",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 34.985,
-      "lon": -118.196,
-      "place": "8 km SSW of Mojave, CA",
-      "time": "2026-08-07T19:10:08.550Z"
-    },
-    {
       "id": "uu80147456",
       "magnitude": 0.9,
       "depth": 2,
@@ -211,12 +256,12 @@
     },
     {
       "id": "tx2026plqaut",
-      "magnitude": 1.9,
+      "magnitude": 1.8,
       "depth": 8,
-      "lat": 32.004,
-      "lon": -103.827,
+      "lat": 32.002,
+      "lon": -103.836,
       "place": "33 km SE of Malaga, New Mexico",
-      "time": "2026-08-07T18:58:20.759Z"
+      "time": "2026-08-07T18:58:21.312Z"
     },
     {
       "id": "us6000tj22",
@@ -226,15 +271,6 @@
       "lon": 140.68,
       "place": "3 km WNW of Takahagi, Japan",
       "time": "2026-08-07T18:41:31.903Z"
-    },
-    {
-      "id": "ci40668194",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 33.747,
-      "lon": -117.109,
-      "place": "3 km WNW of Green Acres, CA",
-      "time": "2026-08-07T18:37:12.230Z"
     },
     {
       "id": "nc75413567",
@@ -1047,13 +1083,22 @@
       "time": "2026-08-07T11:09:18.530Z"
     },
     {
+      "id": "ci10248174",
+      "magnitude": -0.3,
+      "depth": 13,
+      "lat": 33.647,
+      "lon": -116.699,
+      "place": "10 km S of Idyllwild, CA",
+      "time": "2026-08-07T11:04:50.050Z"
+    },
+    {
       "id": "ci40667834",
-      "magnitude": 0.7,
-      "depth": 28,
-      "lat": 34.021,
-      "lon": -117.075,
-      "place": "3 km WSW of Yucaipa, CA",
-      "time": "2026-08-07T11:04:17.330Z"
+      "magnitude": 0.3,
+      "depth": 13,
+      "lat": 33.645,
+      "lon": -116.705,
+      "place": "10 km NNW of Anza, CA",
+      "time": "2026-08-07T11:04:25.100Z"
     },
     {
       "id": "nc75413277",
@@ -2575,24 +2620,6 @@
       "lon": -122.8,
       "place": "7 km W of Cobb, CA",
       "time": "2026-08-06T22:05:56.100Z"
-    },
-    {
-      "id": "us6000tiqn",
-      "magnitude": 3.5,
-      "depth": 44,
-      "lat": 53.933,
-      "lon": -164.002,
-      "place": "109 km SSW of False Pass, Alaska",
-      "time": "2026-08-06T21:46:16.493Z"
-    },
-    {
-      "id": "uw714072332",
-      "magnitude": 0.7,
-      "depth": 6,
-      "lat": 47.481,
-      "lon": -120.752,
-      "place": "14 km SSW of Leavenworth, Washington",
-      "time": "2026-08-06T21:29:32.120Z"
     }
   ]
 }
