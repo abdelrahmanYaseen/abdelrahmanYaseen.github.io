@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-07T22:02:14.292Z",
-  "count": 291,
+  "generated": "2026-08-07T22:52:47.357Z",
+  "count": 289,
   "events": [
+    {
+      "id": "nc75413702",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.838,
+      "lon": -122.794,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-07T22:45:40.960Z"
+    },
+    {
+      "id": "ci40668370",
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 32.9,
+      "lon": -116.952,
+      "place": "5 km NNW of Lakeside, CA",
+      "time": "2026-08-07T22:43:15.770Z"
+    },
+    {
+      "id": "ci40668362",
+      "magnitude": 1.6,
+      "depth": 11,
+      "lat": 32.793,
+      "lon": -116.022,
+      "place": "7 km NNW of Ocotillo, CA",
+      "time": "2026-08-07T22:42:56.300Z"
+    },
+    {
+      "id": "nc75413697",
+      "magnitude": 0.2,
+      "depth": 2,
+      "lat": 38.826,
+      "lon": -122.822,
+      "place": "8 km NW of The Geysers, CA",
+      "time": "2026-08-07T22:39:42.480Z"
+    },
+    {
+      "id": "aka2026pokbxo",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 58.247,
+      "lon": -155.118,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": "2026-08-07T22:38:39.397Z"
+    },
+    {
+      "id": "ci40668346",
+      "magnitude": 1,
+      "depth": 7,
+      "lat": 35.307,
+      "lon": -117.802,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-07T22:29:26.690Z"
+    },
+    {
+      "id": "nc75413692",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.833,
+      "lon": -122.801,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-08-07T22:12:17.230Z"
+    },
     {
       "id": "aka2026poiuvv",
       "magnitude": 2.4,
@@ -33,10 +96,10 @@
       "id": "ci40668314",
       "magnitude": 0.8,
       "depth": 6,
-      "lat": 35.361,
-      "lon": -117.789,
+      "lat": 35.36,
+      "lon": -117.788,
       "place": "14 km W of Johannesburg, CA",
-      "time": "2026-08-07T21:41:58.730Z"
+      "time": "2026-08-07T21:41:58.710Z"
     },
     {
       "id": "uu80147471",
@@ -2539,87 +2602,6 @@
       "lon": -122.085,
       "place": "34 km NE of Amboy, Washington",
       "time": "2026-08-06T22:52:00.840Z"
-    },
-    {
-      "id": "av94363753",
-      "magnitude": 0.6,
-      "depth": 8,
-      "lat": 51.777,
-      "lon": -178.8,
-      "place": "149 km W of Adak, Alaska",
-      "time": "2026-08-06T22:51:48.740Z"
-    },
-    {
-      "id": "ci40667538",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 35.306,
-      "lon": -117.805,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-08-06T22:47:34.750Z"
-    },
-    {
-      "id": "ci40667530",
-      "magnitude": 3,
-      "depth": 9,
-      "lat": 31.582,
-      "lon": -115.761,
-      "place": "78 km E of Maneadero, B.C., MX",
-      "time": "2026-08-06T22:38:38.940Z"
-    },
-    {
-      "id": "ci40667522",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 35.512,
-      "lon": -118.399,
-      "place": "12 km SE of Bodfish, CA",
-      "time": "2026-08-06T22:31:17.940Z"
-    },
-    {
-      "id": "uu80147306",
-      "magnitude": 1.4,
-      "depth": 2,
-      "lat": 38.512,
-      "lon": -112.884,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-06T22:28:55.350Z"
-    },
-    {
-      "id": "nc75412932",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.795,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-08-06T22:23:52.500Z"
-    },
-    {
-      "id": "tx2026pkatec",
-      "magnitude": 0.2,
-      "depth": 6,
-      "lat": 32.257,
-      "lon": -101.911,
-      "place": "18 km NW of Stanton, Texas",
-      "time": "2026-08-06T22:12:25.483Z"
-    },
-    {
-      "id": "ci40667498",
-      "magnitude": 1.7,
-      "depth": 11,
-      "lat": 36.483,
-      "lon": -117.969,
-      "place": "15 km SE of Lone Pine, CA",
-      "time": "2026-08-06T22:09:00.960Z"
-    },
-    {
-      "id": "nc75412902",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 38.828,
-      "lon": -122.8,
-      "place": "7 km W of Cobb, CA",
-      "time": "2026-08-06T22:05:56.100Z"
     }
   ]
 }
