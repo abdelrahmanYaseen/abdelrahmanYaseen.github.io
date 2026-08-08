@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-08T11:18:33.679Z",
-  "count": 250,
+  "generated": "2026-08-08T11:50:29.262Z",
+  "count": 244,
   "events": [
+    {
+      "id": "tx2026pmxbel",
+      "magnitude": 1.9,
+      "depth": 5,
+      "lat": 31.648,
+      "lon": -104.222,
+      "place": "54 km NW of Toyah, Texas",
+      "time": "2026-08-08T11:35:58.975Z"
+    },
     {
       "id": "hv75014972",
       "magnitude": 2.2,
@@ -130,12 +139,12 @@
     },
     {
       "id": "tx2026pmtuhl",
-      "magnitude": 1.6,
-      "depth": 0,
-      "lat": 32.118,
-      "lon": -101.106,
-      "place": "24 km E of Forsan, Texas",
-      "time": "2026-08-08T09:55:57.154Z"
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 32.113,
+      "lon": -101.118,
+      "place": "23 km E of Forsan, Texas",
+      "time": "2026-08-08T09:55:56.697Z"
     },
     {
       "id": "tx2026pmtmqj",
@@ -850,12 +859,12 @@
     },
     {
       "id": "uu80147516",
-      "magnitude": 1.4,
+      "magnitude": 1.3,
       "depth": 3,
-      "lat": 38.516,
+      "lat": 38.515,
       "lon": -112.882,
       "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-07T23:54:41.900Z"
+      "time": "2026-08-07T23:54:41.930Z"
     },
     {
       "id": "us6000tj62",
@@ -2188,69 +2197,6 @@
       "lon": 176.763,
       "place": "241 km E of Attu Station, Alaska",
       "time": "2026-08-07T11:55:17.046Z"
-    },
-    {
-      "id": "ci40667882",
-      "magnitude": 0.7,
-      "depth": 5,
-      "lat": 36.142,
-      "lon": -117.869,
-      "place": "13 km NNE of Coso Junction, CA",
-      "time": "2026-08-07T11:49:58.390Z"
-    },
-    {
-      "id": "ci40667874",
-      "magnitude": 0.1,
-      "depth": 6,
-      "lat": 33.536,
-      "lon": -116.712,
-      "place": "4 km WSW of Anza, CA",
-      "time": "2026-08-07T11:49:04.910Z"
-    },
-    {
-      "id": "us6000tix7",
-      "magnitude": 4.1,
-      "depth": 10,
-      "lat": 53.356,
-      "lon": -133.567,
-      "place": "211 km SSW of Hydaburg, Alaska",
-      "time": "2026-08-07T11:48:03.598Z"
-    },
-    {
-      "id": "nc75413302",
-      "magnitude": 1.7,
-      "depth": 3,
-      "lat": 38.811,
-      "lon": -122.797,
-      "place": "5 km NW of The Geysers, CA",
-      "time": "2026-08-07T11:47:36.720Z"
-    },
-    {
-      "id": "aka2026pnoipx",
-      "magnitude": 1.5,
-      "depth": 65,
-      "lat": 60.941,
-      "lon": -150.99,
-      "place": "16 km SSE of Tyonek, Alaska",
-      "time": "2026-08-07T11:46:38.952Z"
-    },
-    {
-      "id": "ci40667866",
-      "magnitude": 1.3,
-      "depth": 7,
-      "lat": 35.677,
-      "lon": -117.572,
-      "place": "11 km ENE of Ridgecrest, CA",
-      "time": "2026-08-07T11:38:15.580Z"
-    },
-    {
-      "id": "ci40667858",
-      "magnitude": 0.3,
-      "depth": 17,
-      "lat": 33.723,
-      "lon": -116.82,
-      "place": "7 km ESE of Valle Vista, CA",
-      "time": "2026-08-07T11:23:45.490Z"
     }
   ]
 }
