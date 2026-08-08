@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-08T10:49:05.426Z",
-  "count": 260,
+  "generated": "2026-08-08T11:18:33.679Z",
+  "count": 250,
   "events": [
+    {
+      "id": "hv75014972",
+      "magnitude": 2.2,
+      "depth": 30,
+      "lat": 19.197,
+      "lon": -155.372,
+      "place": "11 km E of Pāhala, Hawaii",
+      "time": "2026-08-08T11:04:01.040Z"
+    },
+    {
+      "id": "tx2026pmvznt",
+      "magnitude": 1.4,
+      "depth": 9,
+      "lat": 31.646,
+      "lon": -104.481,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": "2026-08-08T11:02:31.636Z"
+    },
+    {
+      "id": "tx2026pmvwej",
+      "magnitude": 2.4,
+      "depth": 4,
+      "lat": 31.65,
+      "lon": -104.227,
+      "place": "55 km NW of Toyah, Texas",
+      "time": "2026-08-08T10:58:28.553Z"
+    },
+    {
+      "id": "ci40668618",
+      "magnitude": 0.7,
+      "depth": 7,
+      "lat": 35.602,
+      "lon": -117.42,
+      "place": "18 km SSW of Trona, CA",
+      "time": "2026-08-08T10:57:40.460Z"
+    },
     {
       "id": "hv75014962",
       "magnitude": 2,
@@ -73,6 +109,15 @@
       "lon": -116.335,
       "place": "4 km ENE of Borrego Springs, CA",
       "time": "2026-08-08T10:11:09.720Z"
+    },
+    {
+      "id": "pr71527878",
+      "magnitude": 1.8,
+      "depth": 11,
+      "lat": 17.99,
+      "lon": -66.985,
+      "place": "6 km ENE of La Parguera, Puerto Rico",
+      "time": "2026-08-08T09:59:19.110Z"
     },
     {
       "id": "aka2026ppgrzw",
@@ -796,12 +841,12 @@
     },
     {
       "id": "uu80147521",
-      "magnitude": 2.8,
-      "depth": 6,
-      "lat": 40.404,
-      "lon": -111.937,
+      "magnitude": 2.9,
+      "depth": 7,
+      "lat": 40.403,
+      "lon": -111.931,
       "place": "6 km NNW of Saratoga Springs, Utah",
-      "time": "2026-08-07T23:55:23.300Z"
+      "time": "2026-08-07T23:55:23.160Z"
     },
     {
       "id": "uu80147516",
@@ -869,11 +914,11 @@
     {
       "id": "tx2026plyvxz",
       "magnitude": 2,
-      "depth": 2,
-      "lat": 32.284,
-      "lon": -101.257,
-      "place": "4 km ESE of Coahoma, Texas",
-      "time": "2026-08-07T23:24:14.034Z"
+      "depth": 3,
+      "lat": 32.29,
+      "lon": -101.255,
+      "place": "4 km E of Coahoma, Texas",
+      "time": "2026-08-07T23:24:13.613Z"
     },
     {
       "id": "hv75014717",
@@ -2206,141 +2251,6 @@
       "lon": -116.82,
       "place": "7 km ESE of Valle Vista, CA",
       "time": "2026-08-07T11:23:45.490Z"
-    },
-    {
-      "id": "ci40667850",
-      "magnitude": 0.6,
-      "depth": 13,
-      "lat": 33.643,
-      "lon": -116.709,
-      "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T11:15:19.450Z"
-    },
-    {
-      "id": "nc75413282",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 38.811,
-      "lon": -122.82,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-07T11:13:22.000Z"
-    },
-    {
-      "id": "ci40667842",
-      "magnitude": 0.4,
-      "depth": 14,
-      "lat": 33.65,
-      "lon": -116.705,
-      "place": "10 km S of Idyllwild, CA",
-      "time": "2026-08-07T11:11:55.560Z"
-    },
-    {
-      "id": "av94365158",
-      "magnitude": 0.3,
-      "depth": 10,
-      "lat": 51.805,
-      "lon": -178.817,
-      "place": "150 km W of Adak, Alaska",
-      "time": "2026-08-07T11:09:18.530Z"
-    },
-    {
-      "id": "av94365143",
-      "magnitude": -1,
-      "depth": -3,
-      "lat": 60.021,
-      "lon": -153.079,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-07T11:05:04.880Z"
-    },
-    {
-      "id": "ci10248174",
-      "magnitude": -0.3,
-      "depth": 13,
-      "lat": 33.647,
-      "lon": -116.699,
-      "place": "10 km S of Idyllwild, CA",
-      "time": "2026-08-07T11:04:50.050Z"
-    },
-    {
-      "id": "ci40667834",
-      "magnitude": 0.3,
-      "depth": 13,
-      "lat": 33.645,
-      "lon": -116.705,
-      "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T11:04:25.100Z"
-    },
-    {
-      "id": "nc75413277",
-      "magnitude": 1.8,
-      "depth": 1,
-      "lat": 39.23,
-      "lon": -123.196,
-      "place": "4 km S of Redwood Valley, CA",
-      "time": "2026-08-07T11:03:59.860Z"
-    },
-    {
-      "id": "tx2026plabgm",
-      "magnitude": 1.2,
-      "depth": 8,
-      "lat": 32.127,
-      "lon": -101.918,
-      "place": "12 km W of Stanton, Texas",
-      "time": "2026-08-07T10:56:46.056Z"
-    },
-    {
-      "id": "nc75413272",
-      "magnitude": 0.5,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.799,
-      "place": "7 km WNW of Cobb, CA",
-      "time": "2026-08-07T10:53:54.160Z"
-    },
-    {
-      "id": "nc75413267",
-      "magnitude": 0.2,
-      "depth": 2,
-      "lat": 38.839,
-      "lon": -122.8,
-      "place": "7 km WNW of Cobb, CA",
-      "time": "2026-08-07T10:53:48.790Z"
-    },
-    {
-      "id": "ci40667826",
-      "magnitude": 0.3,
-      "depth": 14,
-      "lat": 33.645,
-      "lon": -116.706,
-      "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T10:52:17.020Z"
-    },
-    {
-      "id": "ci40667818",
-      "magnitude": 2.1,
-      "depth": 3,
-      "lat": 33.181,
-      "lon": -115.602,
-      "place": "10 km SW of Niland, CA",
-      "time": "2026-08-07T10:51:07.470Z"
-    },
-    {
-      "id": "ci40667810",
-      "magnitude": 1.2,
-      "depth": 13,
-      "lat": 33.636,
-      "lon": -116.713,
-      "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T10:48:43.070Z"
-    },
-    {
-      "id": "ci40667802",
-      "magnitude": 1,
-      "depth": 14,
-      "lat": 33.638,
-      "lon": -116.711,
-      "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-07T10:48:23.650Z"
     }
   ]
 }
