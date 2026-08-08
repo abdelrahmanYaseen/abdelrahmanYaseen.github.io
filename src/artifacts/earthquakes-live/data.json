@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-08T21:51:50.341Z",
-  "count": 225,
+  "generated": "2026-08-08T22:15:50.133Z",
+  "count": 222,
   "events": [
+    {
+      "id": "ci40668954",
+      "magnitude": 0.5,
+      "depth": 12,
+      "lat": 33.292,
+      "lon": -116.732,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-08T21:51:39.320Z"
+    },
     {
       "id": "ci40668938",
       "magnitude": 0.9,
@@ -1990,42 +1999,6 @@
       "lon": -113.58,
       "place": "southern East Pacific Rise",
       "time": "2026-08-07T22:19:39.579Z"
-    },
-    {
-      "id": "us6000tj42",
-      "magnitude": 4.4,
-      "depth": 191,
-      "lat": 1.794,
-      "lon": 125.052,
-      "place": "34 km NNE of Laikit, Laikit II (Dimembe), Indonesia",
-      "time": "2026-08-07T22:12:55.555Z"
-    },
-    {
-      "id": "nc75413692",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.833,
-      "lon": -122.801,
-      "place": "7 km W of Cobb, CA",
-      "time": "2026-08-07T22:12:17.230Z"
-    },
-    {
-      "id": "aka2026poiuvv",
-      "magnitude": 2.4,
-      "depth": 3,
-      "lat": 61.655,
-      "lon": -150.129,
-      "place": "11 km SSW of Willow, Alaska",
-      "time": "2026-08-07T22:00:29.826Z"
-    },
-    {
-      "id": "av94366443",
-      "magnitude": -0.8,
-      "depth": 3,
-      "lat": 60.036,
-      "lon": -153.08,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-07T21:57:04.620Z"
     }
   ]
 }
