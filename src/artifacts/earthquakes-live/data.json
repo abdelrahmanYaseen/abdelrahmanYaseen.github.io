@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-08T19:41:37.189Z",
-  "count": 222,
+  "generated": "2026-08-08T20:00:43.890Z",
+  "count": 220,
   "events": [
+    {
+      "id": "ci40668842",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 33.905,
+      "lon": -116.319,
+      "place": "12 km NE of Thousand Palms, CA",
+      "time": "2026-08-08T19:57:07.220Z"
+    },
+    {
+      "id": "tx2026pnnrbk",
+      "magnitude": 2.3,
+      "depth": 3,
+      "lat": 32.397,
+      "lon": -101.609,
+      "place": "17 km SE of Ackerly, Texas",
+      "time": "2026-08-08T19:55:53.586Z"
+    },
     {
       "id": "aka2026pqadcz",
       "magnitude": 1.9,
@@ -1963,42 +1981,6 @@
       "lon": -153.106,
       "place": "60 km ENE of Pedro Bay, Alaska",
       "time": "2026-08-07T20:03:33.920Z"
-    },
-    {
-      "id": "av94366178",
-      "magnitude": -1.2,
-      "depth": 5,
-      "lat": 60.03,
-      "lon": -153.069,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-07T19:51:14.720Z"
-    },
-    {
-      "id": "us6000tj2p",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": 4.331,
-      "lon": 127.39,
-      "place": "244 km ESE of Sarangani, Philippines",
-      "time": "2026-08-07T19:48:15.479Z"
-    },
-    {
-      "id": "aka2026poejxe",
-      "magnitude": 1.2,
-      "depth": 5,
-      "lat": 64.961,
-      "lon": -147.399,
-      "place": "10 km E of Fox, Alaska",
-      "time": "2026-08-07T19:47:55.724Z"
-    },
-    {
-      "id": "uw714073072",
-      "magnitude": 0.3,
-      "depth": -2,
-      "lat": 46.206,
-      "lon": -122.192,
-      "place": "38 km NNE of Amboy, Washington",
-      "time": "2026-08-07T19:44:39.000Z"
     }
   ]
 }
