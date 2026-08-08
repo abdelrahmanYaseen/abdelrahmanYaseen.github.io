@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-08T23:16:28.786Z",
-  "count": 223,
+  "generated": "2026-08-08T23:50:37.645Z",
+  "count": 222,
   "events": [
+    {
+      "id": "nc75414302",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.824,
+      "lon": -122.804,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-08T23:47:44.020Z"
+    },
+    {
+      "id": "ci40669034",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 33.272,
+      "lon": -116.333,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": "2026-08-08T23:37:58.920Z"
+    },
+    {
+      "id": "hv75015197",
+      "magnitude": 1.9,
+      "depth": 39,
+      "lat": 19.424,
+      "lon": -155.571,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-08T23:24:16.700Z"
+    },
     {
       "id": "ci40669026",
       "magnitude": 1.4,
@@ -10,6 +37,15 @@
       "lon": -116.966,
       "place": "1 km NW of San Jacinto, CA",
       "time": "2026-08-08T23:11:00.030Z"
+    },
+    {
+      "id": "us6000tjbm",
+      "magnitude": 4.3,
+      "depth": 10,
+      "lat": 32.453,
+      "lon": 130.37,
+      "place": "16 km E of Amakusa, Japan",
+      "time": "2026-08-08T23:02:07.025Z"
     },
     {
       "id": "ci40669018",
@@ -37,6 +73,15 @@
       "lon": -116.906,
       "place": "5 km NNW of Valle Vista, CA",
       "time": "2026-08-08T22:52:41.820Z"
+    },
+    {
+      "id": "uw714073872",
+      "magnitude": 1.6,
+      "depth": 20,
+      "lat": 46.484,
+      "lon": -122.386,
+      "place": "9 km ESE of Mossyrock, Washington",
+      "time": "2026-08-08T22:51:59.230Z"
     },
     {
       "id": "ci40668994",
@@ -257,11 +302,11 @@
     {
       "id": "tx2026pnoatd",
       "magnitude": 2.3,
-      "depth": 3,
-      "lat": 32.392,
-      "lon": -101.606,
-      "place": "18 km SE of Ackerly, Texas",
-      "time": "2026-08-08T20:06:52.658Z"
+      "depth": 4,
+      "lat": 32.396,
+      "lon": -101.614,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": "2026-08-08T20:06:52.480Z"
     },
     {
       "id": "ok2026plqy",
@@ -325,6 +370,15 @@
       "lon": -101.609,
       "place": "17 km SE of Ackerly, Texas",
       "time": "2026-08-08T19:55:53.586Z"
+    },
+    {
+      "id": "tx2026pnnrbt",
+      "magnitude": 2.3,
+      "depth": 4,
+      "lat": 32.395,
+      "lon": -101.614,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": "2026-08-08T19:55:53.365Z"
     },
     {
       "id": "aka2026pqadcz",
@@ -1945,69 +1999,6 @@
       "lon": -112.882,
       "place": "17 km NE of Milford, Utah",
       "time": "2026-08-07T23:54:41.930Z"
-    },
-    {
-      "id": "us6000tj62",
-      "magnitude": 2.5,
-      "depth": 10,
-      "lat": 51.844,
-      "lon": 176.243,
-      "place": "236 km ESE of Attu Station, Alaska",
-      "time": "2026-08-07T23:38:20.453Z"
-    },
-    {
-      "id": "aka2026pombox",
-      "magnitude": 2.2,
-      "depth": 20,
-      "lat": 52.977,
-      "lon": -165.467,
-      "place": "122 km SE of Unalaska, Alaska",
-      "time": "2026-08-07T23:37:57.780Z"
-    },
-    {
-      "id": "us6000tj60",
-      "magnitude": 2.8,
-      "depth": 10,
-      "lat": 51.79,
-      "lon": 176.286,
-      "place": "241 km ESE of Attu Station, Alaska",
-      "time": "2026-08-07T23:36:56.605Z"
-    },
-    {
-      "id": "nc75413742",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 37.565,
-      "lon": -121.95,
-      "place": "4 km NE of Fremont, CA",
-      "time": "2026-08-07T23:34:10.910Z"
-    },
-    {
-      "id": "us6000tj4x",
-      "magnitude": 4.5,
-      "depth": 199,
-      "lat": 0.255,
-      "lon": 122.002,
-      "place": "122 km WSW of Gorontalo, Indonesia",
-      "time": "2026-08-07T23:30:48.420Z"
-    },
-    {
-      "id": "hv75014722",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 19.387,
-      "lon": -155.488,
-      "place": "20 km N of Pāhala, Hawaii",
-      "time": "2026-08-07T23:26:31.970Z"
-    },
-    {
-      "id": "tx2026plyvxz",
-      "magnitude": 2,
-      "depth": 3,
-      "lat": 32.29,
-      "lon": -101.255,
-      "place": "4 km E of Coahoma, Texas",
-      "time": "2026-08-07T23:24:13.613Z"
     }
   ]
 }
