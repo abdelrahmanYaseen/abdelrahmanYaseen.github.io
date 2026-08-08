@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-08T21:18:16.204Z",
-  "count": 221,
+  "generated": "2026-08-08T21:51:50.341Z",
+  "count": 225,
   "events": [
+    {
+      "id": "ci40668938",
+      "magnitude": 0.9,
+      "depth": 13,
+      "lat": 33.29,
+      "lon": -116.742,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-08T21:38:08.110Z"
+    },
+    {
+      "id": "nc75414242",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.818,
+      "lon": -122.797,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-08T21:31:20.560Z"
+    },
+    {
+      "id": "nc75414232",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.806,
+      "lon": -122.78,
+      "place": "4 km NNW of The Geysers, CA",
+      "time": "2026-08-08T21:27:26.700Z"
+    },
+    {
+      "id": "nc75414227",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.818,
+      "lon": -122.797,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-08T21:26:55.880Z"
+    },
+    {
+      "id": "ci40668930",
+      "magnitude": 0.8,
+      "depth": 13,
+      "lat": 33.643,
+      "lon": -116.707,
+      "place": "10 km NNW of Anza, CA",
+      "time": "2026-08-08T21:22:54.990Z"
+    },
+    {
+      "id": "aka2026pqdmdk",
+      "magnitude": 1.3,
+      "depth": 1,
+      "lat": 62.256,
+      "lon": -152.296,
+      "place": "55 km WNW of Skwentna, Alaska",
+      "time": "2026-08-08T21:19:48.561Z"
+    },
+    {
+      "id": "nc75414217",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 36.558,
+      "lon": -121.168,
+      "place": "4 km NW of Pinnacles, CA",
+      "time": "2026-08-08T21:18:46.580Z"
+    },
     {
       "id": "nc75414212",
       "magnitude": 0.8,
@@ -1963,33 +2026,6 @@
       "lon": -153.08,
       "place": "63 km ENE of Pedro Bay, Alaska",
       "time": "2026-08-07T21:57:04.620Z"
-    },
-    {
-      "id": "hv75014672",
-      "magnitude": 1.9,
-      "depth": 31,
-      "lat": 19.33,
-      "lon": -155.312,
-      "place": "14 km SSW of Volcano, Hawaii",
-      "time": "2026-08-07T21:50:20.630Z"
-    },
-    {
-      "id": "hv75014662",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 19.261,
-      "lon": -155.486,
-      "place": "6 km N of Pāhala, Hawaii",
-      "time": "2026-08-07T21:42:54.670Z"
-    },
-    {
-      "id": "ci40668314",
-      "magnitude": 0.8,
-      "depth": 6,
-      "lat": 35.36,
-      "lon": -117.788,
-      "place": "14 km W of Johannesburg, CA",
-      "time": "2026-08-07T21:41:58.710Z"
     }
   ]
 }
