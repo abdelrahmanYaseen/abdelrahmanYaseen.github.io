@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-09T19:56:59.324Z",
-  "count": 255,
+  "generated": "2026-08-09T20:22:59.245Z",
+  "count": 243,
   "events": [
     {
       "id": "ci40669506",
       "magnitude": 2.1,
       "depth": 5,
       "lat": 35.858,
-      "lon": -117.697,
+      "lon": -117.698,
       "place": "21 km ESE of Little Lake, CA",
-      "time": "2026-08-09T19:53:07.730Z"
+      "time": "2026-08-09T19:53:07.710Z"
     },
     {
       "id": "nc75414767",
@@ -19,6 +19,15 @@
       "lon": -122.715,
       "place": "2 km W of Anderson Springs, CA",
       "time": "2026-08-09T19:51:57.650Z"
+    },
+    {
+      "id": "us6000tjh9",
+      "magnitude": 4.3,
+      "depth": 10,
+      "lat": 30.868,
+      "lon": 78.344,
+      "place": "14 km ENE of Barkot, India",
+      "time": "2026-08-09T19:51:32.991Z"
     },
     {
       "id": "ci40669490",
@@ -201,13 +210,13 @@
       "time": "2026-08-09T17:52:09.580Z"
     },
     {
-      "id": "aka2026prsgny",
-      "magnitude": 2.7,
-      "depth": 20,
-      "lat": 51.899,
-      "lon": 176.239,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": "2026-08-09T17:42:49.730Z"
+      "id": "us6000tjh1",
+      "magnitude": 2.5,
+      "depth": 10,
+      "lat": 52.129,
+      "lon": 176.393,
+      "place": "231 km ESE of Attu Station, Alaska",
+      "time": "2026-08-09T17:42:49.150Z"
     },
     {
       "id": "ci40669442",
@@ -2179,123 +2188,6 @@
       "lon": 176.203,
       "place": "232 km ESE of Attu Station, Alaska",
       "time": "2026-08-08T20:37:50.258Z"
-    },
-    {
-      "id": "ok2026plrk",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 34.664,
-      "lon": -95.982,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-08T20:19:54.688Z"
-    },
-    {
-      "id": "nc75414187",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.843,
-      "lon": -122.881,
-      "place": "12 km ENE of Cloverdale, CA",
-      "time": "2026-08-08T20:18:50.040Z"
-    },
-    {
-      "id": "aka2026pqbkxy",
-      "magnitude": 1.2,
-      "depth": 9,
-      "lat": 61.199,
-      "lon": -147.04,
-      "place": "37 km W of Valdez, Alaska",
-      "time": "2026-08-08T20:18:26.022Z"
-    },
-    {
-      "id": "nc75414182",
-      "magnitude": 0.2,
-      "depth": 3,
-      "lat": 38.806,
-      "lon": -122.781,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": "2026-08-08T20:17:08.200Z"
-    },
-    {
-      "id": "ok2026plrc",
-      "magnitude": 2.7,
-      "depth": 5,
-      "lat": 34.667,
-      "lon": -95.981,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-08T20:10:15.400Z"
-    },
-    {
-      "id": "tx2026pnoatd",
-      "magnitude": 2.3,
-      "depth": 4,
-      "lat": 32.396,
-      "lon": -101.614,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": "2026-08-08T20:06:52.480Z"
-    },
-    {
-      "id": "ok2026plqy",
-      "magnitude": 2.1,
-      "depth": 10,
-      "lat": 34.71,
-      "lon": -95.982,
-      "place": "7 km NE of Wardville, Oklahoma",
-      "time": "2026-08-08T20:05:47.522Z"
-    },
-    {
-      "id": "ci40668858",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 35.308,
-      "lon": -117.799,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-08-08T20:03:51.290Z"
-    },
-    {
-      "id": "ci40668850",
-      "magnitude": 1.6,
-      "depth": 10,
-      "lat": 35.281,
-      "lon": -117.801,
-      "place": "18 km SW of Johannesburg, CA",
-      "time": "2026-08-08T20:03:50.900Z"
-    },
-    {
-      "id": "nc75414162",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 36.047,
-      "lon": -120.613,
-      "place": "23 km NW of Parkfield, CA",
-      "time": "2026-08-08T20:03:33.630Z"
-    },
-    {
-      "id": "uw714073682",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 43.811,
-      "lon": -121.24,
-      "place": "17 km ESE of Sunriver, Oregon",
-      "time": "2026-08-08T19:59:08.340Z"
-    },
-    {
-      "id": "aka2026pqaubd",
-      "magnitude": 0.9,
-      "depth": 84,
-      "lat": 57.702,
-      "lon": -155.611,
-      "place": "70 km WNW of Karluk, Alaska",
-      "time": "2026-08-08T19:58:59.652Z"
-    },
-    {
-      "id": "ci40668842",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 33.903,
-      "lon": -116.319,
-      "place": "11 km NE of Thousand Palms, CA",
-      "time": "2026-08-08T19:57:07.160Z"
     }
   ]
 }
