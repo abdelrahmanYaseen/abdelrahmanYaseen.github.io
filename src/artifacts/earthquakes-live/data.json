@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-09T22:56:12.171Z",
-  "count": 244,
+  "generated": "2026-08-09T23:21:30.410Z",
+  "count": 243,
   "events": [
+    {
+      "id": "ci40669562",
+      "magnitude": 1.2,
+      "depth": 9,
+      "lat": 34.361,
+      "lon": -117.661,
+      "place": "3 km W of Wrightwood, CA",
+      "time": "2026-08-09T23:09:08.680Z"
+    },
+    {
+      "id": "aka2026psctll",
+      "magnitude": 3,
+      "depth": 4,
+      "lat": 61.219,
+      "lon": -149.28,
+      "place": "19 km SE of Eagle River, Alaska",
+      "time": "2026-08-09T22:57:31.007Z"
+    },
     {
       "id": "ci40669554",
       "magnitude": 0.7,
@@ -571,12 +589,12 @@
     },
     {
       "id": "tx2026ppcluz",
-      "magnitude": 1.9,
-      "depth": 2,
-      "lat": 32.098,
-      "lon": -101.466,
-      "place": "9 km W of Forsan, Texas",
-      "time": "2026-08-09T16:28:43.252Z"
+      "magnitude": 2,
+      "depth": 3,
+      "lat": 32.094,
+      "lon": -101.473,
+      "place": "10 km W of Forsan, Texas",
+      "time": "2026-08-09T16:28:43.135Z"
     },
     {
       "id": "nc75414677",
@@ -766,6 +784,15 @@
       "lon": -116.625,
       "place": "6 km NE of Anza, CA",
       "time": "2026-08-09T14:14:56.430Z"
+    },
+    {
+      "id": "tx2026poxxgo",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 32.051,
+      "lon": -101.431,
+      "place": "8 km SW of Forsan, Texas",
+      "time": "2026-08-09T14:09:01.367Z"
     },
     {
       "id": "ci40669394",
@@ -2161,42 +2188,6 @@
       "lon": -155.571,
       "place": "26 km NNW of Pāhala, Hawaii",
       "time": "2026-08-08T23:24:16.700Z"
-    },
-    {
-      "id": "us6000tjbq",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": 4.582,
-      "lon": 125.298,
-      "place": "92 km SSW of Sarangani, Philippines",
-      "time": "2026-08-08T23:12:22.267Z"
-    },
-    {
-      "id": "ci40669026",
-      "magnitude": 1.4,
-      "depth": 13,
-      "lat": 33.792,
-      "lon": -116.966,
-      "place": "1 km NW of San Jacinto, CA",
-      "time": "2026-08-08T23:11:00.030Z"
-    },
-    {
-      "id": "us6000tjbm",
-      "magnitude": 4.3,
-      "depth": 10,
-      "lat": 32.453,
-      "lon": 130.37,
-      "place": "16 km E of Amakusa, Japan",
-      "time": "2026-08-08T23:02:07.025Z"
-    },
-    {
-      "id": "ci40669018",
-      "magnitude": 0.6,
-      "depth": 11,
-      "lat": 35.738,
-      "lon": -118.013,
-      "place": "21 km WNW of Inyokern, CA",
-      "time": "2026-08-08T23:01:39.980Z"
     }
   ]
 }
