@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-09T23:21:30.410Z",
-  "count": 243,
+  "generated": "2026-08-09T23:54:50.503Z",
+  "count": 240,
   "events": [
+    {
+      "id": "nc75414867",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.84,
+      "lon": -122.823,
+      "place": "9 km WNW of Cobb, CA",
+      "time": "2026-08-09T23:47:36.560Z"
+    },
+    {
+      "id": "tx2026ppqwmq",
+      "magnitude": 1.4,
+      "depth": 4,
+      "lat": 31.612,
+      "lon": -104.123,
+      "place": "45 km NW of Toyah, Texas",
+      "time": "2026-08-09T23:41:24.206Z"
+    },
+    {
+      "id": "hv75016896",
+      "magnitude": 2,
+      "depth": 8,
+      "lat": 18.842,
+      "lon": -155.189,
+      "place": "48 km ESE of Naalehu, Hawaii",
+      "time": "2026-08-09T23:34:58.070Z"
+    },
     {
       "id": "ci40669562",
       "magnitude": 1.2,
@@ -2134,60 +2161,6 @@
       "lon": -121.178,
       "place": "5 km NW of Pinnacles, CA",
       "time": "2026-08-08T23:58:47.090Z"
-    },
-    {
-      "id": "ci40669042",
-      "magnitude": 1.1,
-      "depth": 17,
-      "lat": 33.994,
-      "lon": -116.811,
-      "place": "9 km NNW of Cabazon, CA",
-      "time": "2026-08-08T23:53:15.710Z"
-    },
-    {
-      "id": "nc75414307",
-      "magnitude": 2.1,
-      "depth": 4,
-      "lat": 36.567,
-      "lon": -121.171,
-      "place": "5 km NNW of Pinnacles, CA",
-      "time": "2026-08-08T23:51:03.970Z"
-    },
-    {
-      "id": "nc75414302",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.824,
-      "lon": -122.804,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-08T23:47:44.020Z"
-    },
-    {
-      "id": "us6000tjbr",
-      "magnitude": 4.3,
-      "depth": 10,
-      "lat": 32.203,
-      "lon": 49.684,
-      "place": "46 km NE of Masjed Soleymān, Iran",
-      "time": "2026-08-08T23:38:30.503Z"
-    },
-    {
-      "id": "ci40669034",
-      "magnitude": 0.4,
-      "depth": 3,
-      "lat": 33.272,
-      "lon": -116.333,
-      "place": "4 km ENE of Borrego Springs, CA",
-      "time": "2026-08-08T23:37:58.920Z"
-    },
-    {
-      "id": "hv75015197",
-      "magnitude": 1.9,
-      "depth": 39,
-      "lat": 19.424,
-      "lon": -155.571,
-      "place": "26 km NNW of Pāhala, Hawaii",
-      "time": "2026-08-08T23:24:16.700Z"
     }
   ]
 }
