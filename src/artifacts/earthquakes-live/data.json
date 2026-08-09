@@ -1,7 +1,115 @@
 {
-  "generated": "2026-08-09T02:55:34.872Z",
-  "count": 234,
+  "generated": "2026-08-09T04:09:08.957Z",
+  "count": 233,
   "events": [
+    {
+      "id": "ci40669122",
+      "magnitude": 1,
+      "depth": 8,
+      "lat": 35.885,
+      "lon": -117.71,
+      "place": "19 km ESE of Little Lake, CA",
+      "time": "2026-08-09T04:03:07.330Z"
+    },
+    {
+      "id": "nc75414447",
+      "magnitude": 1.7,
+      "depth": 11,
+      "lat": 36.938,
+      "lon": -121.685,
+      "place": "5 km ESE of Interlaken, CA",
+      "time": "2026-08-09T04:02:24.730Z"
+    },
+    {
+      "id": "nc75414442",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 36.537,
+      "lon": -121.152,
+      "place": "1 km NW of Pinnacles, CA",
+      "time": "2026-08-09T03:49:50.620Z"
+    },
+    {
+      "id": "ci40669114",
+      "magnitude": 1.8,
+      "depth": 5,
+      "lat": 33.944,
+      "lon": -118.107,
+      "place": "2 km W of Santa Fe Springs, CA",
+      "time": "2026-08-09T03:47:13.700Z"
+    },
+    {
+      "id": "ci40669106",
+      "magnitude": 0.4,
+      "depth": 13,
+      "lat": 33.288,
+      "lon": -116.742,
+      "place": "5 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-09T03:37:40.060Z"
+    },
+    {
+      "id": "us6000tjcn",
+      "magnitude": 4.9,
+      "depth": 60,
+      "lat": 51.987,
+      "lon": -173.261,
+      "place": "68 km ESE of Atka, Alaska",
+      "time": "2026-08-09T03:36:17.166Z"
+    },
+    {
+      "id": "ci40669098",
+      "magnitude": 1,
+      "depth": 6,
+      "lat": 36.091,
+      "lon": -117.866,
+      "place": "9 km NE of Coso Junction, CA",
+      "time": "2026-08-09T03:35:59.090Z"
+    },
+    {
+      "id": "ci40669090",
+      "magnitude": 1.7,
+      "depth": 8,
+      "lat": 35.649,
+      "lon": -117.561,
+      "place": "11 km ENE of Ridgecrest, CA",
+      "time": "2026-08-09T03:23:50.150Z"
+    },
+    {
+      "id": "ci40669082",
+      "magnitude": 1.3,
+      "depth": 10,
+      "lat": 33.94,
+      "lon": -116.669,
+      "place": "11 km ENE of Cabazon, CA",
+      "time": "2026-08-09T03:17:06.970Z"
+    },
+    {
+      "id": "us6000tjcl",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": 7.017,
+      "lon": 94.14,
+      "place": "180 km NW of Sabang, Indonesia",
+      "time": "2026-08-09T03:02:07.086Z"
+    },
+    {
+      "id": "uw714074042",
+      "magnitude": 2.4,
+      "depth": 22,
+      "lat": 43.278,
+      "lon": -124.559,
+      "place": "21 km NW of Bandon, Oregon",
+      "time": "2026-08-09T02:57:50.220Z"
+    },
+    {
+      "id": "aka2026pqonmt",
+      "magnitude": 2.6,
+      "depth": 20,
+      "lat": 52.028,
+      "lon": 176.048,
+      "place": "214 km ESE of Attu Station, Alaska",
+      "time": "2026-08-09T02:51:39.816Z"
+    },
     {
       "id": "nc75414407",
       "magnitude": 1.1,
@@ -1290,6 +1398,15 @@
       "time": "2026-08-08T11:35:58.974Z"
     },
     {
+      "id": "uw714073372",
+      "magnitude": 1,
+      "depth": -2,
+      "lat": 43.692,
+      "lon": -120.982,
+      "place": "41 km ESE of Three Rivers, Oregon",
+      "time": "2026-08-08T11:14:15.290Z"
+    },
+    {
       "id": "aka2026ppjazs",
       "magnitude": 2.5,
       "depth": 20,
@@ -1981,132 +2098,6 @@
       "lon": -122.81,
       "place": "8 km WNW of Cobb, CA",
       "time": "2026-08-08T04:18:23.090Z"
-    },
-    {
-      "id": "pr71527858",
-      "magnitude": 2.1,
-      "depth": 9,
-      "lat": 18.106,
-      "lon": -65.765,
-      "place": "5 km SSE of Bajandas, Puerto Rico",
-      "time": "2026-08-08T03:59:53.610Z"
-    },
-    {
-      "id": "us6000tj69",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -28.477,
-      "lon": -176.549,
-      "place": "Kermadec Islands region",
-      "time": "2026-08-08T03:59:31.810Z"
-    },
-    {
-      "id": "aka2026poulyd",
-      "magnitude": 3.3,
-      "depth": 20,
-      "lat": 51.757,
-      "lon": 176.153,
-      "place": "235 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T03:50:04.563Z"
-    },
-    {
-      "id": "us6000tj68",
-      "magnitude": 4.8,
-      "depth": 10,
-      "lat": 39.635,
-      "lon": 82.875,
-      "place": "158 km NNE of Darya Boyi, China",
-      "time": "2026-08-08T03:45:26.267Z"
-    },
-    {
-      "id": "ci40668522",
-      "magnitude": 0.5,
-      "depth": 15,
-      "lat": 33.291,
-      "lon": -116.834,
-      "place": "8 km SSE of Palomar Observatory, CA",
-      "time": "2026-08-08T03:39:02.170Z"
-    },
-    {
-      "id": "ci40668514",
-      "magnitude": 1.3,
-      "depth": 11,
-      "lat": 32.816,
-      "lon": -115.699,
-      "place": "13 km WSW of Imperial, CA",
-      "time": "2026-08-08T03:36:51.400Z"
-    },
-    {
-      "id": "nc75413847",
-      "magnitude": 0.3,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.808,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-08-08T03:36:22.280Z"
-    },
-    {
-      "id": "ci40668530",
-      "magnitude": 0.9,
-      "depth": 9,
-      "lat": 32.794,
-      "lon": -116.013,
-      "place": "7 km NNW of Ocotillo, CA",
-      "time": "2026-08-08T03:36:03.580Z"
-    },
-    {
-      "id": "us6000tj67",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": 32.779,
-      "lon": 73.853,
-      "place": "2 km ESE of Mehmand Chak, Pakistan",
-      "time": "2026-08-08T03:30:04.685Z"
-    },
-    {
-      "id": "ci40668506",
-      "magnitude": 0.8,
-      "depth": 6,
-      "lat": 34.003,
-      "lon": -117.218,
-      "place": "6 km SE of Loma Linda, CA",
-      "time": "2026-08-08T03:19:08.250Z"
-    },
-    {
-      "id": "se60506098",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 35.153,
-      "lon": -82.915,
-      "place": "8 km W of Rosman, North Carolina",
-      "time": "2026-08-08T03:13:34.180Z"
-    },
-    {
-      "id": "nc75413842",
-      "magnitude": 1,
-      "depth": 4,
-      "lat": 38.778,
-      "lon": -122.936,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-08T03:10:22.040Z"
-    },
-    {
-      "id": "nc75413837",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 38.768,
-      "lon": -122.8,
-      "place": "4 km WSW of The Geysers, CA",
-      "time": "2026-08-08T03:08:40.120Z"
-    },
-    {
-      "id": "ci40668498",
-      "magnitude": 0.4,
-      "depth": 16,
-      "lat": 33.7,
-      "lon": -116.803,
-      "place": "9 km WSW of Idyllwild, CA",
-      "time": "2026-08-08T03:01:55.720Z"
     }
   ]
 }
