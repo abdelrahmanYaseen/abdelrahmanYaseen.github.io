@@ -1,7 +1,142 @@
 {
-  "generated": "2026-08-09T06:04:35.411Z",
-  "count": 234,
+  "generated": "2026-08-09T07:12:49.383Z",
+  "count": 241,
   "events": [
+    {
+      "id": "ci40669210",
+      "magnitude": 1.5,
+      "depth": 5,
+      "lat": 33.305,
+      "lon": -115.681,
+      "place": "7 km SE of Bombay Beach, CA",
+      "time": "2026-08-09T07:06:38.690Z"
+    },
+    {
+      "id": "ci40669202",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 33.303,
+      "lon": -115.683,
+      "place": "7 km SE of Bombay Beach, CA",
+      "time": "2026-08-09T07:05:41.640Z"
+    },
+    {
+      "id": "nc75414512",
+      "magnitude": 0.3,
+      "depth": 2,
+      "lat": 38.839,
+      "lon": -122.824,
+      "place": "9 km WNW of Cobb, CA",
+      "time": "2026-08-09T07:05:05.690Z"
+    },
+    {
+      "id": "ci40669194",
+      "magnitude": 0.7,
+      "depth": 13,
+      "lat": 33.474,
+      "lon": -116.516,
+      "place": "17 km ESE of Anza, CA",
+      "time": "2026-08-09T07:01:36.770Z"
+    },
+    {
+      "id": "nc75414507",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 38.84,
+      "lon": -122.824,
+      "place": "9 km WNW of Cobb, CA",
+      "time": "2026-08-09T06:56:54.820Z"
+    },
+    {
+      "id": "ci40669186",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 34.536,
+      "lon": -120.474,
+      "place": "12 km S of Lompoc, CA",
+      "time": "2026-08-09T06:56:50.560Z"
+    },
+    {
+      "id": "tx2026pojkve",
+      "magnitude": 1,
+      "depth": 7,
+      "lat": 31.923,
+      "lon": -102.338,
+      "place": "9 km NNE of Odessa, Texas",
+      "time": "2026-08-09T06:52:12.456Z"
+    },
+    {
+      "id": "hv75015337",
+      "magnitude": 1.9,
+      "depth": 7,
+      "lat": 18.8,
+      "lon": -156.245,
+      "place": "58 km WSW of Hawaiian Ocean View, Hawaii",
+      "time": "2026-08-09T06:47:45.960Z"
+    },
+    {
+      "id": "nc75414497",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 36.586,
+      "lon": -121.193,
+      "place": "8 km NW of Pinnacles, CA",
+      "time": "2026-08-09T06:45:09.130Z"
+    },
+    {
+      "id": "tx2026poiysd",
+      "magnitude": 2,
+      "depth": 0,
+      "lat": 30.886,
+      "lon": -103.337,
+      "place": "40 km ESE of Balmorhea, Texas",
+      "time": "2026-08-09T06:38:07.607Z"
+    },
+    {
+      "id": "ci40669178",
+      "magnitude": 2.9,
+      "depth": 4,
+      "lat": 34.539,
+      "lon": -120.472,
+      "place": "11 km S of Lompoc, CA",
+      "time": "2026-08-09T06:37:39.830Z"
+    },
+    {
+      "id": "ci40669170",
+      "magnitude": 1.1,
+      "depth": 8,
+      "lat": 35.32,
+      "lon": -117.811,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-09T06:31:56.990Z"
+    },
+    {
+      "id": "nc75414487",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.788,
+      "lon": -122.941,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": "2026-08-09T06:25:47.330Z"
+    },
+    {
+      "id": "hv75015317",
+      "magnitude": 2.4,
+      "depth": 24,
+      "lat": 20.161,
+      "lon": -155.789,
+      "place": "8 km S of Kapaau, Hawaii",
+      "time": "2026-08-09T06:09:57.980Z"
+    },
+    {
+      "id": "aka2026pquynx",
+      "magnitude": 2.9,
+      "depth": 2,
+      "lat": 57.07,
+      "lon": -156.192,
+      "place": "87 km SE of Ugashik, Alaska",
+      "time": "2026-08-09T06:03:53.448Z"
+    },
     {
       "id": "ci40669162",
       "magnitude": 1.4,
@@ -631,6 +766,15 @@
       "lon": -122.045,
       "place": "2 km SSW of Alamo, CA",
       "time": "2026-08-08T22:18:26.520Z"
+    },
+    {
+      "id": "us6000tjcz",
+      "magnitude": 1.9,
+      "depth": 11,
+      "lat": 41.773,
+      "lon": -81.165,
+      "place": "2 km NW of Perry, Ohio",
+      "time": "2026-08-08T22:12:12.192Z"
     },
     {
       "id": "ci40668962",
@@ -2026,87 +2170,6 @@
       "lon": -118.502,
       "place": "4 km S of Encino, CA",
       "time": "2026-08-08T07:36:23.180Z"
-    },
-    {
-      "id": "aka2026ppawfh",
-      "magnitude": 3.4,
-      "depth": 1,
-      "lat": 62.248,
-      "lon": -152.37,
-      "place": "58 km WNW of Skwentna, Alaska",
-      "time": "2026-08-08T07:01:48.685Z"
-    },
-    {
-      "id": "us6000tj7a",
-      "magnitude": 4.3,
-      "depth": 173,
-      "lat": 39.944,
-      "lon": 140.11,
-      "place": "1 km NNW of Gojōnome, Japan",
-      "time": "2026-08-08T06:59:50.876Z"
-    },
-    {
-      "id": "aka2026ppankx",
-      "magnitude": 1.5,
-      "depth": 25,
-      "lat": 59.797,
-      "lon": -148.915,
-      "place": "42 km SE of Lowell Point, Alaska",
-      "time": "2026-08-08T06:51:41.415Z"
-    },
-    {
-      "id": "tx2026pmnopt",
-      "magnitude": 1.5,
-      "depth": 0,
-      "lat": 31.251,
-      "lon": -104.174,
-      "place": "36 km W of Toyah, Texas",
-      "time": "2026-08-08T06:48:18.345Z"
-    },
-    {
-      "id": "nc75413902",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 38.774,
-      "lon": -122.798,
-      "place": "4 km W of The Geysers, CA",
-      "time": "2026-08-08T06:44:16.180Z"
-    },
-    {
-      "id": "aka2026ppagtx",
-      "magnitude": 3.4,
-      "depth": 20,
-      "lat": 51.778,
-      "lon": 176.147,
-      "place": "234 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T06:43:52.921Z"
-    },
-    {
-      "id": "aka2026pozgsw",
-      "magnitude": 3.6,
-      "depth": 7,
-      "lat": 51.676,
-      "lon": -171.203,
-      "place": "212 km SW of Nikolski, Alaska",
-      "time": "2026-08-08T06:13:55.686Z"
-    },
-    {
-      "id": "aka2026pozdxv",
-      "magnitude": 2.1,
-      "depth": 5,
-      "lat": 62.241,
-      "lon": -152.337,
-      "place": "56 km WNW of Skwentna, Alaska",
-      "time": "2026-08-08T06:10:45.002Z"
-    },
-    {
-      "id": "us6000tj73",
-      "magnitude": 4.4,
-      "depth": 191,
-      "lat": -24.355,
-      "lon": -67.381,
-      "place": "108 km W of San Antonio de los Cobres, Argentina",
-      "time": "2026-08-08T06:06:41.571Z"
     }
   ]
 }
