@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-09T17:45:05.774Z",
+  "generated": "2026-08-09T18:05:30.556Z",
   "count": 244,
   "events": [
+    {
+      "id": "ci40669458",
+      "magnitude": 1,
+      "depth": 6,
+      "lat": 35.364,
+      "lon": -117.794,
+      "place": "14 km W of Johannesburg, CA",
+      "time": "2026-08-09T17:52:09.580Z"
+    },
     {
       "id": "ci40669442",
       "magnitude": 1.6,
@@ -21,6 +30,15 @@
       "time": "2026-08-09T17:37:26.110Z"
     },
     {
+      "id": "tx2026ppecjc",
+      "magnitude": 2.1,
+      "depth": 6,
+      "lat": 28.884,
+      "lon": -99.018,
+      "place": "7 km E of Pearsall, Texas",
+      "time": "2026-08-09T17:15:58.406Z"
+    },
+    {
       "id": "aka2026prrgnz",
       "magnitude": 1.4,
       "depth": 5,
@@ -28,6 +46,15 @@
       "lon": -155.551,
       "place": "79 km SE of King Salmon, Alaska",
       "time": "2026-08-09T17:12:48.533Z"
+    },
+    {
+      "id": "us6000tjgf",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": 8.81,
+      "lon": 40.071,
+      "place": "19 km ESE of Metahāra, Ethiopia",
+      "time": "2026-08-09T17:11:42.151Z"
     },
     {
       "id": "aka2026prrdkl",
@@ -57,13 +84,13 @@
       "time": "2026-08-09T16:51:27.980Z"
     },
     {
-      "id": "us6000tjg9",
-      "magnitude": 2.7,
-      "depth": 35,
-      "lat": 18.91,
-      "lon": -67.591,
-      "place": "69 km NW of San Antonio, Puerto Rico",
-      "time": "2026-08-09T16:50:10.464Z"
+      "id": "pr2026221002",
+      "magnitude": 3.5,
+      "depth": 8,
+      "lat": 18.951,
+      "lon": -67.563,
+      "place": "70 km NW of San Antonio, Puerto Rico",
+      "time": "2026-08-09T16:50:11.510Z"
     },
     {
       "id": "aka2026prqdsb",
@@ -525,22 +552,22 @@
       "time": "2026-08-09T11:50:50.280Z"
     },
     {
-      "id": "ci40669314",
-      "magnitude": 1.7,
-      "depth": 10,
-      "lat": 34.218,
-      "lon": -117.446,
-      "place": "4 km W of Devore, CA",
-      "time": "2026-08-09T11:44:28.650Z"
-    },
-    {
       "id": "ci40669306",
       "magnitude": 1.7,
-      "depth": 11,
-      "lat": 34.211,
-      "lon": -117.456,
+      "depth": 10,
+      "lat": 34.208,
+      "lon": -117.453,
       "place": "5 km WSW of Devore, CA",
-      "time": "2026-08-09T11:44:28.610Z"
+      "time": "2026-08-09T11:44:28.590Z"
+    },
+    {
+      "id": "ci40669314",
+      "magnitude": 0.6,
+      "depth": 11,
+      "lat": 34.206,
+      "lon": -117.449,
+      "place": "5 km WSW of Devore, CA",
+      "time": "2026-08-09T11:44:23.330Z"
     },
     {
       "id": "aka2026prfzce",
@@ -2170,33 +2197,6 @@
       "lon": -159.901,
       "place": "114 km SSE of Sand Point, Alaska",
       "time": "2026-08-08T18:15:56.425Z"
-    },
-    {
-      "id": "aka2026ppwwng",
-      "magnitude": 3.7,
-      "depth": 131,
-      "lat": 59.74,
-      "lon": -153.353,
-      "place": "42 km E of Pedro Bay, Alaska",
-      "time": "2026-08-08T18:01:53.273Z"
-    },
-    {
-      "id": "us6000tjaj",
-      "magnitude": 5.6,
-      "depth": 34,
-      "lat": 40.172,
-      "lon": 142.311,
-      "place": "42 km E of Noda, Japan",
-      "time": "2026-08-08T17:57:58.745Z"
-    },
-    {
-      "id": "ci40668754",
-      "magnitude": 0.3,
-      "depth": 14,
-      "lat": 33.286,
-      "lon": -116.721,
-      "place": "6 km NE of Lake Henshaw, CA",
-      "time": "2026-08-08T17:53:10.310Z"
     }
   ]
 }
