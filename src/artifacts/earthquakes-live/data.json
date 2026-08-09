@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-09T11:18:50.590Z",
-  "count": 230,
+  "generated": "2026-08-09T11:52:14.798Z",
+  "count": 233,
   "events": [
+    {
+      "id": "ci40669314",
+      "magnitude": 1.7,
+      "depth": 10,
+      "lat": 34.218,
+      "lon": -117.446,
+      "place": "4 km W of Devore, CA",
+      "time": "2026-08-09T11:44:28.650Z"
+    },
+    {
+      "id": "ci40669306",
+      "magnitude": 1.7,
+      "depth": 8,
+      "lat": 34.244,
+      "lon": -117.515,
+      "place": "2 km SW of Lytle Creek, CA",
+      "time": "2026-08-09T11:44:27.690Z"
+    },
+    {
+      "id": "aka2026prfzce",
+      "magnitude": 1.5,
+      "depth": 11,
+      "lat": 57.519,
+      "lon": -155.219,
+      "place": "46 km W of Karluk, Alaska",
+      "time": "2026-08-09T11:34:22.148Z"
+    },
+    {
+      "id": "aka2026prfmzo",
+      "magnitude": 1.4,
+      "depth": 1,
+      "lat": 62.242,
+      "lon": -152.259,
+      "place": "52 km WNW of Skwentna, Alaska",
+      "time": "2026-08-09T11:20:24.857Z"
+    },
+    {
+      "id": "nc75414582",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 36.575,
+      "lon": -121.168,
+      "place": "5 km NNW of Pinnacles, CA",
+      "time": "2026-08-09T11:18:45.300Z"
+    },
+    {
+      "id": "ci40669298",
+      "magnitude": 1.3,
+      "depth": 11,
+      "lat": 34.066,
+      "lon": -118.901,
+      "place": "11 km NW of Malibu, CA",
+      "time": "2026-08-09T11:18:32.110Z"
+    },
     {
       "id": "ci40669290",
       "magnitude": 0.8,
@@ -109,6 +163,15 @@
       "lon": -149.294,
       "place": "5 km W of Anderson, Alaska",
       "time": "2026-08-09T10:19:24.403Z"
+    },
+    {
+      "id": "us6000tje3",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": 4.536,
+      "lon": 125.352,
+      "place": "96 km S of Sarangani, Philippines",
+      "time": "2026-08-09T10:04:31.077Z"
     },
     {
       "id": "aka2026prcwyz",
@@ -507,13 +570,13 @@
       "time": "2026-08-09T05:46:09.829Z"
     },
     {
-      "id": "us6000tjcy",
-      "magnitude": 3.4,
-      "depth": 49,
-      "lat": 18.718,
-      "lon": -64.409,
-      "place": "58 km NE of Cruz Bay, U.S. Virgin Islands",
-      "time": "2026-08-09T05:38:33.063Z"
+      "id": "pr2026221000",
+      "magnitude": 3.8,
+      "depth": 48,
+      "lat": 18.755,
+      "lon": -64.418,
+      "place": "61 km NE of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-09T05:38:33.730Z"
     },
     {
       "id": "nc75414477",
@@ -2035,42 +2098,6 @@
       "lon": -155.508,
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": "2026-08-08T11:57:33.550Z"
-    },
-    {
-      "id": "nc75413982",
-      "magnitude": 1.8,
-      "depth": 12,
-      "lat": 37.835,
-      "lon": -122.05,
-      "place": "2 km SW of Alamo, CA",
-      "time": "2026-08-08T11:49:25.870Z"
-    },
-    {
-      "id": "us6000tj8t",
-      "magnitude": 5.6,
-      "depth": 10,
-      "lat": -41.483,
-      "lon": -90.08,
-      "place": "southeast of Easter Island",
-      "time": "2026-08-08T11:41:27.702Z"
-    },
-    {
-      "id": "tx2026pmxbel",
-      "magnitude": 1.9,
-      "depth": 5,
-      "lat": 31.648,
-      "lon": -104.222,
-      "place": "54 km NW of Toyah, Texas",
-      "time": "2026-08-08T11:35:58.974Z"
-    },
-    {
-      "id": "uw714073392",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 43.738,
-      "lon": -120.917,
-      "place": "45 km ESE of Sunriver, Oregon",
-      "time": "2026-08-08T11:18:50.240Z"
     }
   ]
 }
