@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-09T19:29:03.389Z",
-  "count": 256,
+  "generated": "2026-08-09T19:56:59.324Z",
+  "count": 255,
   "events": [
+    {
+      "id": "ci40669506",
+      "magnitude": 2.1,
+      "depth": 5,
+      "lat": 35.858,
+      "lon": -117.697,
+      "place": "21 km ESE of Little Lake, CA",
+      "time": "2026-08-09T19:53:07.730Z"
+    },
+    {
+      "id": "nc75414767",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.774,
+      "lon": -122.715,
+      "place": "2 km W of Anderson Springs, CA",
+      "time": "2026-08-09T19:51:57.650Z"
+    },
+    {
+      "id": "ci40669490",
+      "magnitude": 1.4,
+      "depth": 4,
+      "lat": 34.539,
+      "lon": -120.481,
+      "place": "11 km S of Lompoc, CA",
+      "time": "2026-08-09T19:41:13.140Z"
+    },
+    {
+      "id": "nc75414757",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 37.596,
+      "lon": -118.842,
+      "place": "13 km ESE of Mammoth Lakes, CA",
+      "time": "2026-08-09T19:38:48.720Z"
+    },
+    {
+      "id": "nc75414747",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 37.12,
+      "lon": -121.534,
+      "place": "8 km ENE of San Martin, CA",
+      "time": "2026-08-09T19:30:24.610Z"
+    },
     {
       "id": "aka2026prvsxr",
       "magnitude": 1.5,
@@ -2251,60 +2296,6 @@
       "lon": -116.319,
       "place": "11 km NE of Thousand Palms, CA",
       "time": "2026-08-08T19:57:07.160Z"
-    },
-    {
-      "id": "tx2026pnnrbk",
-      "magnitude": 2.3,
-      "depth": 3,
-      "lat": 32.397,
-      "lon": -101.609,
-      "place": "17 km SE of Ackerly, Texas",
-      "time": "2026-08-08T19:55:53.586Z"
-    },
-    {
-      "id": "tx2026pnnrbt",
-      "magnitude": 2.3,
-      "depth": 4,
-      "lat": 32.395,
-      "lon": -101.614,
-      "place": "17 km SSE of Ackerly, Texas",
-      "time": "2026-08-08T19:55:53.365Z"
-    },
-    {
-      "id": "aka2026pqakkm",
-      "magnitude": 2.4,
-      "depth": 20,
-      "lat": 51.848,
-      "lon": 176.23,
-      "place": "235 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T19:47:52.797Z"
-    },
-    {
-      "id": "aka2026pqadcz",
-      "magnitude": 1.9,
-      "depth": 54,
-      "lat": 60.565,
-      "lon": -150.559,
-      "place": "11 km ENE of Sterling, Alaska",
-      "time": "2026-08-08T19:39:27.496Z"
-    },
-    {
-      "id": "aka2026pqaapi",
-      "magnitude": 2.5,
-      "depth": 20,
-      "lat": 51.825,
-      "lon": 176.211,
-      "place": "235 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T19:36:30.468Z"
-    },
-    {
-      "id": "nc75414127",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 38.804,
-      "lon": -122.781,
-      "place": "4 km NW of The Geysers, CA",
-      "time": "2026-08-08T19:30:42.770Z"
     }
   ]
 }
