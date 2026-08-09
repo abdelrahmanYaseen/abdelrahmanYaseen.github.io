@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-09T14:49:51.138Z",
-  "count": 241,
+  "generated": "2026-08-09T15:19:35.252Z",
+  "count": 239,
   "events": [
+    {
+      "id": "hv75015467",
+      "magnitude": 2.2,
+      "depth": 30,
+      "lat": 19.201,
+      "lon": -155.375,
+      "place": "10 km E of Pāhala, Hawaii",
+      "time": "2026-08-09T15:02:18.940Z"
+    },
+    {
+      "id": "aka2026prmooe",
+      "magnitude": 0.9,
+      "depth": 32,
+      "lat": 57.441,
+      "lon": -156.845,
+      "place": "34 km ESE of Ugashik, Alaska",
+      "time": "2026-08-09T14:52:06.891Z"
+    },
     {
       "id": "aka2026prmgxu",
       "magnitude": 1.9,
@@ -2134,42 +2152,6 @@
       "lon": -67.429,
       "place": "25 km W of Puerto Real, Puerto Rico",
       "time": "2026-08-08T15:26:15.410Z"
-    },
-    {
-      "id": "hv75015062",
-      "magnitude": 2,
-      "depth": 33,
-      "lat": 19.15,
-      "lon": -155.503,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-08T15:16:08.700Z"
-    },
-    {
-      "id": "ci40668706",
-      "magnitude": 1.6,
-      "depth": 14,
-      "lat": 33.659,
-      "lon": -116.731,
-      "place": "9 km S of Idyllwild, CA",
-      "time": "2026-08-08T15:00:16.300Z"
-    },
-    {
-      "id": "aka2026ppqsor",
-      "magnitude": 1.8,
-      "depth": 124,
-      "lat": 59.796,
-      "lon": -153.171,
-      "place": "52 km E of Pedro Bay, Alaska",
-      "time": "2026-08-08T14:57:26.326Z"
-    },
-    {
-      "id": "aka2026ppqqmf",
-      "magnitude": 2.7,
-      "depth": 20,
-      "lat": 51.872,
-      "lon": 176.211,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T14:54:38.148Z"
     }
   ]
 }
