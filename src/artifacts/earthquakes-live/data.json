@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-09T10:50:24.483Z",
-  "count": 233,
+  "generated": "2026-08-09T11:18:50.590Z",
+  "count": 230,
   "events": [
+    {
+      "id": "ci40669290",
+      "magnitude": 0.8,
+      "depth": 8,
+      "lat": 32.913,
+      "lon": -116.24,
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-09T11:06:39.840Z"
+    },
+    {
+      "id": "aka2026presrt",
+      "magnitude": 1.9,
+      "depth": 38,
+      "lat": 60.413,
+      "lon": -150.231,
+      "place": "23 km WSW of Cooper Landing, Alaska",
+      "time": "2026-08-09T10:57:00.847Z"
+    },
+    {
+      "id": "ok2026pmuf",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 35.385,
+      "lon": -98.164,
+      "place": "18 km ENE of Binger, Oklahoma",
+      "time": "2026-08-09T10:52:37.311Z"
+    },
+    {
+      "id": "aka2026prekvx",
+      "magnitude": 1.6,
+      "depth": 71,
+      "lat": 60.271,
+      "lon": -151.381,
+      "place": "4 km N of Clam Gulch, Alaska",
+      "time": "2026-08-09T10:49:33.903Z"
+    },
     {
       "id": "aka2026prehgp",
       "magnitude": 0.5,
@@ -55,6 +91,15 @@
       "lon": -116.738,
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": "2026-08-09T10:28:53.570Z"
+    },
+    {
+      "id": "tx2026poqpca",
+      "magnitude": 1.9,
+      "depth": 6,
+      "lat": 28.874,
+      "lon": -99.018,
+      "place": "7 km ESE of Pearsall, Texas",
+      "time": "2026-08-09T10:28:20.626Z"
     },
     {
       "id": "aka2026prdmch",
@@ -454,12 +499,12 @@
     },
     {
       "id": "tx2026pohfwu",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 32.379,
-      "lon": -101.624,
-      "place": "18 km SSE of Ackerly, Texas",
-      "time": "2026-08-09T05:46:09.544Z"
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 32.397,
+      "lon": -101.618,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": "2026-08-09T05:46:09.829Z"
     },
     {
       "id": "us6000tjcy",
@@ -2026,78 +2071,6 @@
       "lon": -120.917,
       "place": "45 km ESE of Sunriver, Oregon",
       "time": "2026-08-08T11:18:50.240Z"
-    },
-    {
-      "id": "uw714073372",
-      "magnitude": 1,
-      "depth": -2,
-      "lat": 43.692,
-      "lon": -120.982,
-      "place": "41 km ESE of Three Rivers, Oregon",
-      "time": "2026-08-08T11:14:15.290Z"
-    },
-    {
-      "id": "aka2026ppjazs",
-      "magnitude": 2.5,
-      "depth": 20,
-      "lat": 51.636,
-      "lon": 176.062,
-      "place": "238 km SE of Attu Station, Alaska",
-      "time": "2026-08-08T11:07:33.857Z"
-    },
-    {
-      "id": "hv75014972",
-      "magnitude": 2.2,
-      "depth": 30,
-      "lat": 19.197,
-      "lon": -155.372,
-      "place": "11 km E of Pāhala, Hawaii",
-      "time": "2026-08-08T11:04:01.040Z"
-    },
-    {
-      "id": "tx2026pmvznt",
-      "magnitude": 1.4,
-      "depth": 10,
-      "lat": 31.65,
-      "lon": -104.479,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": "2026-08-08T11:02:31.521Z"
-    },
-    {
-      "id": "tx2026pmvwej",
-      "magnitude": 2.4,
-      "depth": 4,
-      "lat": 31.65,
-      "lon": -104.227,
-      "place": "55 km NW of Toyah, Texas",
-      "time": "2026-08-08T10:58:28.553Z"
-    },
-    {
-      "id": "ci40668618",
-      "magnitude": 0.7,
-      "depth": 7,
-      "lat": 35.602,
-      "lon": -117.42,
-      "place": "18 km SSW of Trona, CA",
-      "time": "2026-08-08T10:57:40.460Z"
-    },
-    {
-      "id": "tx2026pmvvip",
-      "magnitude": 1.6,
-      "depth": 4,
-      "lat": 31.648,
-      "lon": -104.228,
-      "place": "55 km NW of Toyah, Texas",
-      "time": "2026-08-08T10:57:29.981Z"
-    },
-    {
-      "id": "us6000tj8n",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -17.382,
-      "lon": 172.828,
-      "place": "Vanuatu region",
-      "time": "2026-08-08T10:56:06.170Z"
     }
   ]
 }
