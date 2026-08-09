@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-09T20:22:59.245Z",
-  "count": 243,
+  "generated": "2026-08-09T20:58:45.910Z",
+  "count": 246,
   "events": [
+    {
+      "id": "nc75414797",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 38.838,
+      "lon": -122.822,
+      "place": "9 km WNW of Cobb, CA",
+      "time": "2026-08-09T20:44:33.890Z"
+    },
+    {
+      "id": "nc75414792",
+      "magnitude": 0.4,
+      "depth": 8,
+      "lat": 38.785,
+      "lon": -122.853,
+      "place": "8 km W of The Geysers, CA",
+      "time": "2026-08-09T20:43:51.240Z"
+    },
+    {
+      "id": "aka2026pryfio",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 58.272,
+      "lon": -155.552,
+      "place": "79 km SE of King Salmon, Alaska",
+      "time": "2026-08-09T20:41:19.323Z"
+    },
+    {
+      "id": "ok2026pnnp",
+      "magnitude": 2.7,
+      "depth": 0,
+      "lat": 34.684,
+      "lon": -95.978,
+      "place": "5 km NE of Wardville, Oklahoma",
+      "time": "2026-08-09T20:40:55.691Z"
+    },
+    {
+      "id": "ci40669514",
+      "magnitude": 1.6,
+      "depth": 8,
+      "lat": 34.471,
+      "lon": -120.546,
+      "place": "20 km SSW of Lompoc, CA",
+      "time": "2026-08-09T20:39:45.950Z"
+    },
+    {
+      "id": "aka2026prxtgl",
+      "magnitude": 2.7,
+      "depth": 13,
+      "lat": 62.246,
+      "lon": -148.915,
+      "place": "49 km E of Susitna North, Alaska",
+      "time": "2026-08-09T20:27:23.078Z"
+    },
     {
       "id": "ci40669506",
       "magnitude": 2.1,
@@ -32,11 +86,11 @@
     {
       "id": "ci40669490",
       "magnitude": 1.4,
-      "depth": 4,
-      "lat": 34.539,
-      "lon": -120.481,
-      "place": "11 km S of Lompoc, CA",
-      "time": "2026-08-09T19:41:13.140Z"
+      "depth": 5,
+      "lat": 34.544,
+      "lon": -120.482,
+      "place": "11 km SSW of Lompoc, CA",
+      "time": "2026-08-09T19:41:13.130Z"
     },
     {
       "id": "nc75414757",
@@ -64,6 +118,15 @@
       "lon": -155.847,
       "place": "83 km W of Karluk, Alaska",
       "time": "2026-08-09T19:27:01.881Z"
+    },
+    {
+      "id": "ci40669482",
+      "magnitude": 1.1,
+      "depth": 7,
+      "lat": 32.661,
+      "lon": -115.766,
+      "place": "19 km WNW of Progreso, B.C., MX",
+      "time": "2026-08-09T19:22:12.880Z"
     },
     {
       "id": "hv75015522",
@@ -2152,42 +2215,6 @@
       "lon": 176.201,
       "place": "233 km ESE of Attu Station, Alaska",
       "time": "2026-08-08T20:58:51.069Z"
-    },
-    {
-      "id": "aka2026pqcqru",
-      "magnitude": 2.5,
-      "depth": 20,
-      "lat": 51.78,
-      "lon": 176.199,
-      "place": "237 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T20:54:47.330Z"
-    },
-    {
-      "id": "aka2026pqcmeq",
-      "magnitude": 1.5,
-      "depth": 22,
-      "lat": 61.412,
-      "lon": -147.604,
-      "place": "44 km S of Glacier View, Alaska",
-      "time": "2026-08-08T20:49:53.480Z"
-    },
-    {
-      "id": "pr71527898",
-      "magnitude": 2.1,
-      "depth": 13,
-      "lat": 17.973,
-      "lon": -66.832,
-      "place": "2 km SSW of Indios, Puerto Rico",
-      "time": "2026-08-08T20:39:15.650Z"
-    },
-    {
-      "id": "aka2026pqcbud",
-      "magnitude": 2.4,
-      "depth": 20,
-      "lat": 51.87,
-      "lon": 176.203,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": "2026-08-08T20:37:50.258Z"
     }
   ]
 }
