@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-10T23:02:37.635Z",
-  "count": 247,
+  "generated": "2026-08-10T23:48:00.559Z",
+  "count": 248,
   "events": [
+    {
+      "id": "nc75415492",
+      "magnitude": 1.6,
+      "depth": 8,
+      "lat": 36.109,
+      "lon": -120.209,
+      "place": "14 km NNW of Avenal, CA",
+      "time": "2026-08-10T23:26:46.230Z"
+    },
+    {
+      "id": "nc75415487",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.793,
+      "lon": -122.764,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": "2026-08-10T23:20:51.300Z"
+    },
+    {
+      "id": "tx2026prlthe",
+      "magnitude": 1.1,
+      "depth": 0,
+      "lat": 31.171,
+      "lon": -103.653,
+      "place": "20 km SE of Toyah, Texas",
+      "time": "2026-08-10T23:15:46.648Z"
+    },
+    {
+      "id": "nc75415477",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.826,
+      "lon": -122.815,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-10T23:15:28.950Z"
+    },
+    {
+      "id": "ci40670170",
+      "magnitude": 0.7,
+      "depth": 9,
+      "lat": 33.034,
+      "lon": -116.412,
+      "place": "18 km ESE of Julian, CA",
+      "time": "2026-08-10T23:12:00.230Z"
+    },
     {
       "id": "tx2026prlawf",
       "magnitude": 1.7,
@@ -40,12 +85,12 @@
     },
     {
       "id": "tx2026prjpcs",
-      "magnitude": 1.4,
+      "magnitude": 1.5,
       "depth": 3,
-      "lat": 31.717,
-      "lon": -101.688,
-      "place": "25 km SW of Garden City, Texas",
-      "time": "2026-08-10T22:10:38.739Z"
+      "lat": 31.723,
+      "lon": -101.686,
+      "place": "24 km SW of Garden City, Texas",
+      "time": "2026-08-10T22:10:38.630Z"
     },
     {
       "id": "ci40670122",
@@ -2188,42 +2233,6 @@
       "lon": -155.484,
       "place": "0 km SW of Pāhala, Hawaii",
       "time": "2026-08-09T23:52:41.120Z"
-    },
-    {
-      "id": "nc75414867",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.84,
-      "lon": -122.823,
-      "place": "9 km WNW of Cobb, CA",
-      "time": "2026-08-09T23:47:36.560Z"
-    },
-    {
-      "id": "hv75016896",
-      "magnitude": 2.6,
-      "depth": 6,
-      "lat": 18.847,
-      "lon": -155.186,
-      "place": "48 km ESE of Naalehu, Hawaii",
-      "time": "2026-08-09T23:34:57.890Z"
-    },
-    {
-      "id": "us6000tjj7",
-      "magnitude": 2.5,
-      "depth": 21,
-      "lat": 51.87,
-      "lon": 176.266,
-      "place": "236 km ESE of Attu Station, Alaska",
-      "time": "2026-08-09T23:25:52.329Z"
-    },
-    {
-      "id": "ci40669562",
-      "magnitude": 1.2,
-      "depth": 9,
-      "lat": 34.361,
-      "lon": -117.661,
-      "place": "3 km W of Wrightwood, CA",
-      "time": "2026-08-09T23:09:08.680Z"
     }
   ]
 }
