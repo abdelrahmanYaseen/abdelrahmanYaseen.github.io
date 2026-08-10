@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-10T09:45:01.924Z",
-  "count": 254,
+  "generated": "2026-08-10T10:47:22.651Z",
+  "count": 246,
   "events": [
+    {
+      "id": "ci40669786",
+      "magnitude": 0.9,
+      "depth": 16,
+      "lat": 34.029,
+      "lon": -117.236,
+      "place": "3 km SE of Loma Linda, CA",
+      "time": "2026-08-10T10:37:56.750Z"
+    },
+    {
+      "id": "aka2026psztfd",
+      "magnitude": 0.9,
+      "depth": 7,
+      "lat": 62.017,
+      "lon": -144.047,
+      "place": "57 km NE of Kenny Lake, Alaska",
+      "time": "2026-08-10T10:26:56.886Z"
+    },
+    {
+      "id": "pr71527988",
+      "magnitude": 2.4,
+      "depth": 23,
+      "lat": 18.221,
+      "lon": -67.157,
+      "place": "2 km NW of Mayagüez, Puerto Rico",
+      "time": "2026-08-10T10:11:11.270Z"
+    },
+    {
+      "id": "nc75415137",
+      "magnitude": 1.8,
+      "depth": 5,
+      "lat": 37.324,
+      "lon": -118.358,
+      "place": "6 km SE of Bishop, CA",
+      "time": "2026-08-10T10:05:38.960Z"
+    },
+    {
+      "id": "ci40669770",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 33.264,
+      "lon": -116.338,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": "2026-08-10T09:43:52.120Z"
+    },
     {
       "id": "ci40669762",
       "magnitude": 0.7,
@@ -66,6 +111,15 @@
       "time": "2026-08-10T08:53:50.730Z"
     },
     {
+      "id": "pr71527983",
+      "magnitude": 2.8,
+      "depth": 11,
+      "lat": 18.783,
+      "lon": -67.36,
+      "place": "42 km NW of San Antonio, Puerto Rico",
+      "time": "2026-08-10T08:47:07.160Z"
+    },
+    {
       "id": "aka2026pswhrq",
       "magnitude": 0.9,
       "depth": 35,
@@ -112,12 +166,12 @@
     },
     {
       "id": "ok2026pokr",
-      "magnitude": 2.7,
-      "depth": 5,
+      "magnitude": 2.4,
+      "depth": 6,
       "lat": 34.669,
-      "lon": -95.97,
-      "place": "5 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-10T08:20:34.292Z"
+      "lon": -95.983,
+      "place": "4 km ENE of Wardville, Oklahoma",
+      "time": "2026-08-10T08:20:33.750Z"
     },
     {
       "id": "aka2026psvlus",
@@ -343,6 +397,15 @@
       "lon": -150.052,
       "place": "43 km WSW of Clear, Alaska",
       "time": "2026-08-10T05:49:47.119Z"
+    },
+    {
+      "id": "us6000tjji",
+      "magnitude": 3,
+      "depth": 10,
+      "lat": 19.749,
+      "lon": -68.748,
+      "place": "86 km NE of Samaná, Dominican Republic",
+      "time": "2026-08-10T05:46:08.563Z"
     },
     {
       "id": "us6000tjjj",
@@ -2152,141 +2215,6 @@
       "lon": -151.381,
       "place": "4 km N of Clam Gulch, Alaska",
       "time": "2026-08-09T10:49:33.903Z"
-    },
-    {
-      "id": "aka2026prehgp",
-      "magnitude": 0.5,
-      "depth": 5,
-      "lat": 60.515,
-      "lon": -152.891,
-      "place": "85 km NW of Ninilchik, Alaska",
-      "time": "2026-08-09T10:43:50.693Z"
-    },
-    {
-      "id": "aka2026precdn",
-      "magnitude": 3,
-      "depth": 6,
-      "lat": 67.513,
-      "lon": -160.035,
-      "place": "62 km NNE of Kiana, Alaska",
-      "time": "2026-08-09T10:37:44.986Z"
-    },
-    {
-      "id": "ok2026pmts",
-      "magnitude": 2.2,
-      "depth": 1,
-      "lat": 34.666,
-      "lon": -95.983,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-09T10:37:44.357Z"
-    },
-    {
-      "id": "tx2026poqsok",
-      "magnitude": 2,
-      "depth": 7,
-      "lat": 28.85,
-      "lon": -99.015,
-      "place": "9 km ESE of Pearsall, Texas",
-      "time": "2026-08-09T10:32:22.097Z"
-    },
-    {
-      "id": "aka2026prdurd",
-      "magnitude": 2.3,
-      "depth": 5,
-      "lat": 68.508,
-      "lon": -148.285,
-      "place": "121 km WNW of Arctic Village, Alaska",
-      "time": "2026-08-09T10:29:17.733Z"
-    },
-    {
-      "id": "ci40669274",
-      "magnitude": 0.6,
-      "depth": 13,
-      "lat": 33.288,
-      "lon": -116.738,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-09T10:28:53.570Z"
-    },
-    {
-      "id": "tx2026poqpca",
-      "magnitude": 1.9,
-      "depth": 6,
-      "lat": 28.874,
-      "lon": -99.018,
-      "place": "7 km ESE of Pearsall, Texas",
-      "time": "2026-08-09T10:28:20.626Z"
-    },
-    {
-      "id": "aka2026prdmch",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 64.347,
-      "lon": -149.294,
-      "place": "5 km W of Anderson, Alaska",
-      "time": "2026-08-09T10:19:24.403Z"
-    },
-    {
-      "id": "us6000tje3",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 4.536,
-      "lon": 125.352,
-      "place": "96 km S of Sarangani, Philippines",
-      "time": "2026-08-09T10:04:31.077Z"
-    },
-    {
-      "id": "aka2026prcwyz",
-      "magnitude": 1.4,
-      "depth": 85,
-      "lat": 62.159,
-      "lon": -151.072,
-      "place": "25 km NE of Skwentna, Alaska",
-      "time": "2026-08-09T10:01:58.015Z"
-    },
-    {
-      "id": "tx2026poplnz",
-      "magnitude": 2,
-      "depth": 6,
-      "lat": 28.861,
-      "lon": -98.962,
-      "place": "13 km ESE of Pearsall, Texas",
-      "time": "2026-08-09T09:54:03.212Z"
-    },
-    {
-      "id": "aka2026prcpvq",
-      "magnitude": 3.3,
-      "depth": 5,
-      "lat": 62.285,
-      "lon": -152.275,
-      "place": "56 km NW of Skwentna, Alaska",
-      "time": "2026-08-09T09:53:46.277Z"
-    },
-    {
-      "id": "nc75414572",
-      "magnitude": 0.3,
-      "depth": 2,
-      "lat": 38.842,
-      "lon": -122.824,
-      "place": "9 km WNW of Cobb, CA",
-      "time": "2026-08-09T09:48:00.910Z"
-    },
-    {
-      "id": "nn00923117",
-      "magnitude": 2.9,
-      "depth": 11,
-      "lat": 36.733,
-      "lon": -116.008,
-      "place": "35 km WNW of Indian Springs, Nevada",
-      "time": "2026-08-09T09:45:58.248Z"
-    },
-    {
-      "id": "us6000tjgs",
-      "magnitude": 2.8,
-      "depth": 26,
-      "lat": 51.711,
-      "lon": 176.199,
-      "place": "241 km ESE of Attu Station, Alaska",
-      "time": "2026-08-09T09:44:53.506Z"
     }
   ]
 }
