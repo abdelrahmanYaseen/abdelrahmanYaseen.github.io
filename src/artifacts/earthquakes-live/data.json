@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-10T11:40:12.130Z",
+  "generated": "2026-08-10T12:29:34.936Z",
   "count": 242,
   "events": [
+    {
+      "id": "aka2026ptdluf",
+      "magnitude": 2.2,
+      "depth": 84,
+      "lat": 61.359,
+      "lon": -151.382,
+      "place": "29 km NNW of Beluga, Alaska",
+      "time": "2026-08-10T12:18:20.078Z"
+    },
+    {
+      "id": "aka2026ptdfxc",
+      "magnitude": 2.3,
+      "depth": 126,
+      "lat": 62.954,
+      "lon": -151.177,
+      "place": "55 km NNW of Petersville, Alaska",
+      "time": "2026-08-10T12:12:31.494Z"
+    },
+    {
+      "id": "aka2026ptdbnc",
+      "magnitude": 1.4,
+      "depth": 11,
+      "lat": 55.881,
+      "lon": -159.741,
+      "place": "16 km W of Ivanof Bay, Alaska",
+      "time": "2026-08-10T12:06:30.961Z"
+    },
+    {
+      "id": "tx2026pqpbat",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 31.215,
+      "lon": -104.119,
+      "place": "32 km WSW of Toyah, Texas",
+      "time": "2026-08-10T11:50:49.187Z"
+    },
+    {
+      "id": "us6000tjku",
+      "magnitude": 4.7,
+      "depth": 641,
+      "lat": -12.891,
+      "lon": 168.882,
+      "place": "180 km NE of Sola, Vanuatu",
+      "time": "2026-08-10T11:50:25.901Z"
+    },
+    {
+      "id": "ci40669802",
+      "magnitude": 1.5,
+      "depth": 14,
+      "lat": 33.289,
+      "lon": -116.741,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-10T11:44:46.410Z"
+    },
+    {
+      "id": "aka2026ptcfjd",
+      "magnitude": 1.5,
+      "depth": 5,
+      "lat": 64.985,
+      "lon": -148.865,
+      "place": "29 km SE of Minto, Alaska",
+      "time": "2026-08-10T11:40:56.839Z"
+    },
     {
       "id": "aka2026ptccdi",
       "magnitude": 1.3,
@@ -10,6 +73,15 @@
       "lon": -153.861,
       "place": "62 km WNW of Aleneva, Alaska",
       "time": "2026-08-10T11:37:14.190Z"
+    },
+    {
+      "id": "tx2026pqobzc",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 32.096,
+      "lon": -101.61,
+      "place": "17 km ESE of Stanton, Texas",
+      "time": "2026-08-10T11:21:44.789Z"
     },
     {
       "id": "aka2026ptbnlc",
@@ -354,6 +426,15 @@
       "time": "2026-08-10T06:52:40.058Z"
     },
     {
+      "id": "nm60506113",
+      "magnitude": 2.1,
+      "depth": 8,
+      "lat": 37.155,
+      "lon": -90.308,
+      "place": "12 km ENE of Greenville, Missouri",
+      "time": "2026-08-10T06:43:35.520Z"
+    },
+    {
       "id": "ci40669722",
       "magnitude": 1.3,
       "depth": 8,
@@ -586,6 +667,15 @@
       "lon": -117.842,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-10T04:08:27.570Z"
+    },
+    {
+      "id": "ok2026poch",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 34.681,
+      "lon": -95.99,
+      "place": "4 km NE of Wardville, Oklahoma",
+      "time": "2026-08-10T04:06:15.679Z"
     },
     {
       "id": "ci40669650",
@@ -1688,11 +1778,11 @@
     {
       "id": "tx2026ppcluz",
       "magnitude": 2,
-      "depth": 3,
-      "lat": 32.094,
-      "lon": -101.473,
-      "place": "10 km W of Forsan, Texas",
-      "time": "2026-08-09T16:28:43.135Z"
+      "depth": 9,
+      "lat": 32.085,
+      "lon": -101.459,
+      "place": "9 km WSW of Forsan, Texas",
+      "time": "2026-08-09T16:28:43.213Z"
     },
     {
       "id": "nc75414677",
@@ -2089,96 +2179,6 @@
       "lon": -155.12,
       "place": "58 km SE of Naalehu, Hawaii",
       "time": "2026-08-09T12:33:24.240Z"
-    },
-    {
-      "id": "ci40669338",
-      "magnitude": 0.7,
-      "depth": 9,
-      "lat": 33.17,
-      "lon": -116.116,
-      "place": "3 km NNE of Ocotillo Wells, CA",
-      "time": "2026-08-09T12:21:04.280Z"
-    },
-    {
-      "id": "aka2026prhkyc",
-      "magnitude": 1.1,
-      "depth": 8,
-      "lat": 61.368,
-      "lon": -141.919,
-      "place": "54 km E of McCarthy, Alaska",
-      "time": "2026-08-09T12:18:00.424Z"
-    },
-    {
-      "id": "ci40669330",
-      "magnitude": 0.4,
-      "depth": 6,
-      "lat": 33.572,
-      "lon": -116.803,
-      "place": "12 km W of Anza, CA",
-      "time": "2026-08-09T12:16:54.460Z"
-    },
-    {
-      "id": "ci40669322",
-      "magnitude": 1.3,
-      "depth": 10,
-      "lat": 34.244,
-      "lon": -117.519,
-      "place": "2 km SW of Lytle Creek, CA",
-      "time": "2026-08-09T12:07:34.350Z"
-    },
-    {
-      "id": "aka2026prgvyg",
-      "magnitude": 1.2,
-      "depth": 1,
-      "lat": 65.946,
-      "lon": -150.373,
-      "place": "50 km N of Rampart, Alaska",
-      "time": "2026-08-09T12:00:42.944Z"
-    },
-    {
-      "id": "uw714074152",
-      "magnitude": 1.9,
-      "depth": 5,
-      "lat": 42.274,
-      "lon": -124.3,
-      "place": "7 km E of Pistol River, Oregon",
-      "time": "2026-08-09T11:58:48.910Z"
-    },
-    {
-      "id": "us6000tjen",
-      "magnitude": 5.2,
-      "depth": 10,
-      "lat": 2.296,
-      "lon": -101.912,
-      "place": "Galapagos Triple Junction region",
-      "time": "2026-08-09T11:57:33.237Z"
-    },
-    {
-      "id": "ok2026pmwd",
-      "magnitude": 2.9,
-      "depth": 5,
-      "lat": 34.664,
-      "lon": -95.979,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-09T11:50:50.280Z"
-    },
-    {
-      "id": "ci40669306",
-      "magnitude": 1.7,
-      "depth": 10,
-      "lat": 34.208,
-      "lon": -117.453,
-      "place": "5 km WSW of Devore, CA",
-      "time": "2026-08-09T11:44:28.590Z"
-    },
-    {
-      "id": "ci40669314",
-      "magnitude": 0.6,
-      "depth": 11,
-      "lat": 34.206,
-      "lon": -117.449,
-      "place": "5 km WSW of Devore, CA",
-      "time": "2026-08-09T11:44:23.330Z"
     }
   ]
 }
