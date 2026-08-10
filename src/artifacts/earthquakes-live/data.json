@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-10T20:20:34.493Z",
-  "count": 253,
+  "generated": "2026-08-10T21:08:05.732Z",
+  "count": 251,
   "events": [
+    {
+      "id": "nc75415392",
+      "magnitude": 0.7,
+      "depth": 0,
+      "lat": 38.809,
+      "lon": -122.782,
+      "place": "4 km NNW of The Geysers, CA",
+      "time": "2026-08-10T21:05:15.260Z"
+    },
+    {
+      "id": "ci40670082",
+      "magnitude": 1,
+      "depth": 15,
+      "lat": 33.704,
+      "lon": -116.757,
+      "place": "5 km SW of Idyllwild, CA",
+      "time": "2026-08-10T21:03:41.850Z"
+    },
+    {
+      "id": "nc75415382",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.823,
+      "lon": -122.809,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-10T21:01:45.320Z"
+    },
+    {
+      "id": "aka2026ptuwqn",
+      "magnitude": 1.5,
+      "depth": 0,
+      "lat": 62.256,
+      "lon": -152.399,
+      "place": "60 km WNW of Skwentna, Alaska",
+      "time": "2026-08-10T21:00:37.031Z"
+    },
+    {
+      "id": "nc75415362",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.787,
+      "lon": -122.771,
+      "place": "2 km NW of The Geysers, CA",
+      "time": "2026-08-10T20:41:44.120Z"
+    },
+    {
+      "id": "hv75017451",
+      "magnitude": 1.8,
+      "depth": 31,
+      "lat": 19.212,
+      "lon": -155.353,
+      "place": "13 km E of Pāhala, Hawaii",
+      "time": "2026-08-10T20:32:09.390Z"
+    },
+    {
+      "id": "aka2026pttrrx",
+      "magnitude": 2.6,
+      "depth": 5,
+      "lat": 59.958,
+      "lon": -149.228,
+      "place": "17 km SE of Lowell Point, Alaska",
+      "time": "2026-08-10T20:24:56.009Z"
+    },
     {
       "id": "aka2026pttmfh",
       "magnitude": 1,
@@ -82,15 +145,6 @@
       "lon": -155.38,
       "place": "90 km NW of Karluk, Alaska",
       "time": "2026-08-10T19:18:32.264Z"
-    },
-    {
-      "id": "ci40670018",
-      "magnitude": 1.5,
-      "depth": 2,
-      "lat": 33.836,
-      "lon": -117.495,
-      "place": "5 km SSE of Home Gardens, CA",
-      "time": "2026-08-10T19:12:54.440Z"
     },
     {
       "id": "nc75415307",
@@ -1359,7 +1413,7 @@
       "lat": 33.263,
       "lon": -116.34,
       "place": "3 km ENE of Borrego Springs, CA",
-      "time": "2026-08-10T05:15:24.740Z"
+      "time": "2026-08-10T05:15:24.700Z"
     },
     {
       "id": "ci40669698",
@@ -2206,78 +2260,6 @@
       "lon": -155.556,
       "place": "79 km SE of King Salmon, Alaska",
       "time": "2026-08-09T21:13:04.104Z"
-    },
-    {
-      "id": "hv75015567",
-      "magnitude": 2.5,
-      "depth": 43,
-      "lat": 19.472,
-      "lon": -155.568,
-      "place": "31 km E of Honaunau-Napoopoo, Hawaii",
-      "time": "2026-08-09T20:56:46.950Z"
-    },
-    {
-      "id": "nc75414797",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.822,
-      "place": "9 km WNW of Cobb, CA",
-      "time": "2026-08-09T20:44:33.890Z"
-    },
-    {
-      "id": "nc75414792",
-      "magnitude": 0.4,
-      "depth": 8,
-      "lat": 38.785,
-      "lon": -122.853,
-      "place": "8 km W of The Geysers, CA",
-      "time": "2026-08-09T20:43:51.240Z"
-    },
-    {
-      "id": "aka2026pryfio",
-      "magnitude": 1.3,
-      "depth": 5,
-      "lat": 58.272,
-      "lon": -155.552,
-      "place": "79 km SE of King Salmon, Alaska",
-      "time": "2026-08-09T20:41:19.323Z"
-    },
-    {
-      "id": "aka2026pryfdz",
-      "magnitude": 3,
-      "depth": 20,
-      "lat": 51.808,
-      "lon": 176.186,
-      "place": "234 km ESE of Attu Station, Alaska",
-      "time": "2026-08-09T20:41:08.277Z"
-    },
-    {
-      "id": "ok2026pnnp",
-      "magnitude": 2.6,
-      "depth": 7,
-      "lat": 34.667,
-      "lon": -95.983,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-09T20:40:55.170Z"
-    },
-    {
-      "id": "ci40669514",
-      "magnitude": 1.5,
-      "depth": 5,
-      "lat": 34.533,
-      "lon": -120.491,
-      "place": "12 km SSW of Lompoc, CA",
-      "time": "2026-08-09T20:39:47.080Z"
-    },
-    {
-      "id": "aka2026prxtgl",
-      "magnitude": 2.7,
-      "depth": 13,
-      "lat": 62.246,
-      "lon": -148.915,
-      "place": "49 km E of Susitna North, Alaska",
-      "time": "2026-08-09T20:27:23.078Z"
     }
   ]
 }
