@@ -1,7 +1,124 @@
 {
-  "generated": "2026-08-11T09:39:31.992Z",
-  "count": 226,
+  "generated": "2026-08-11T10:30:46.711Z",
+  "count": 236,
   "events": [
+    {
+      "id": "aka2026puvuna",
+      "magnitude": 1.4,
+      "depth": 128,
+      "lat": 59.703,
+      "lon": -153.454,
+      "place": "37 km ESE of Pedro Bay, Alaska",
+      "time": "2026-08-11T10:27:48.617Z"
+    },
+    {
+      "id": "nc75415727",
+      "magnitude": 2.1,
+      "depth": 5,
+      "lat": 36.579,
+      "lon": -121.176,
+      "place": "6 km NNW of Pinnacles, CA",
+      "time": "2026-08-11T10:22:08.990Z"
+    },
+    {
+      "id": "nc75415722",
+      "magnitude": 2.6,
+      "depth": 4,
+      "lat": 36.567,
+      "lon": -121.171,
+      "place": "5 km NNW of Pinnacles, CA",
+      "time": "2026-08-11T10:21:01.710Z"
+    },
+    {
+      "id": "nc75415712",
+      "magnitude": 2.6,
+      "depth": 3,
+      "lat": 36.565,
+      "lon": -121.201,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": "2026-08-11T10:20:41.080Z"
+    },
+    {
+      "id": "nc75415717",
+      "magnitude": 4,
+      "depth": 5,
+      "lat": 36.569,
+      "lon": -121.183,
+      "place": "5 km NW of Pinnacles, CA",
+      "time": "2026-08-11T10:19:08.260Z"
+    },
+    {
+      "id": "ci40670402",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 33.266,
+      "lon": -116.337,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": "2026-08-11T10:06:15.250Z"
+    },
+    {
+      "id": "hv75017776",
+      "magnitude": 2.2,
+      "depth": 32,
+      "lat": 19.274,
+      "lon": -155.472,
+      "place": "7 km N of Pāhala, Hawaii",
+      "time": "2026-08-11T10:03:02.380Z"
+    },
+    {
+      "id": "ci40670394",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 33.263,
+      "lon": -116.342,
+      "place": "3 km ENE of Borrego Springs, CA",
+      "time": "2026-08-11T10:00:07.270Z"
+    },
+    {
+      "id": "ci40670386",
+      "magnitude": 0.5,
+      "depth": 3,
+      "lat": 33.267,
+      "lon": -116.334,
+      "place": "4 km ENE of Borrego Springs, CA",
+      "time": "2026-08-11T09:55:12.130Z"
+    },
+    {
+      "id": "ci40670378",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 33.267,
+      "lon": -116.341,
+      "place": "3 km ENE of Borrego Springs, CA",
+      "time": "2026-08-11T09:53:52.210Z"
+    },
+    {
+      "id": "ci40670370",
+      "magnitude": 1.2,
+      "depth": 3,
+      "lat": 33.262,
+      "lon": -116.343,
+      "place": "3 km ENE of Borrego Springs, CA",
+      "time": "2026-08-11T09:53:27.550Z"
+    },
+    {
+      "id": "ci40670362",
+      "magnitude": 0.5,
+      "depth": 9,
+      "lat": 33.178,
+      "lon": -116.378,
+      "place": "9 km S of Borrego Springs, CA",
+      "time": "2026-08-11T09:51:43.980Z"
+    },
+    {
+      "id": "us6000tjwm",
+      "magnitude": 4.4,
+      "depth": 34,
+      "lat": 54.503,
+      "lon": -159.96,
+      "place": "98 km SSE of Sand Point, Alaska",
+      "time": "2026-08-11T09:36:41.508Z"
+    },
     {
       "id": "nc75415702",
       "magnitude": 0.7,
@@ -283,12 +400,21 @@
     },
     {
       "id": "tx2026przdtx",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 31.529,
-      "lon": -104.156,
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 31.543,
+      "lon": -104.137,
       "place": "41 km NW of Toyah, Texas",
-      "time": "2026-08-11T06:00:19.972Z"
+      "time": "2026-08-11T06:00:20.183Z"
+    },
+    {
+      "id": "pr71528083",
+      "magnitude": 3.1,
+      "depth": 36,
+      "lat": 18.456,
+      "lon": -64.751,
+      "place": "14 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-11T06:00:06.340Z"
     },
     {
       "id": "hv75017676",
@@ -316,6 +442,15 @@
       "lon": -155.366,
       "place": "85 km NW of Karluk, Alaska",
       "time": "2026-08-11T05:52:47.971Z"
+    },
+    {
+      "id": "tx2026prywtm",
+      "magnitude": 0.4,
+      "depth": 8,
+      "lat": 32.439,
+      "lon": -102.116,
+      "place": "36 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-11T05:52:10.835Z"
     },
     {
       "id": "ci40670290",
@@ -415,6 +550,15 @@
       "lon": -155.444,
       "place": "5 km NE of Pāhala, Hawaii",
       "time": "2026-08-11T03:57:40.140Z"
+    },
+    {
+      "id": "pr71528073",
+      "magnitude": 2.1,
+      "depth": 11,
+      "lat": 17.972,
+      "lon": -66.962,
+      "place": "5 km WSW of Fuig, Puerto Rico",
+      "time": "2026-08-11T03:55:40.850Z"
     },
     {
       "id": "ci40670274",
@@ -577,6 +721,15 @@
       "lon": -150.931,
       "place": "62 km SE of Denali National Park, Alaska",
       "time": "2026-08-11T01:53:25.087Z"
+    },
+    {
+      "id": "tx2026prqxal",
+      "magnitude": 0.5,
+      "depth": 8,
+      "lat": 32.148,
+      "lon": -102.002,
+      "place": "18 km NNE of Midland, Texas",
+      "time": "2026-08-11T01:50:57.199Z"
     },
     {
       "id": "av94375373",
@@ -1972,69 +2125,6 @@
       "lon": 176.217,
       "place": "233 km ESE of Attu Station, Alaska",
       "time": "2026-08-10T10:32:31.646Z"
-    },
-    {
-      "id": "aka2026psztfd",
-      "magnitude": 0.9,
-      "depth": 7,
-      "lat": 62.017,
-      "lon": -144.047,
-      "place": "57 km NE of Kenny Lake, Alaska",
-      "time": "2026-08-10T10:26:56.886Z"
-    },
-    {
-      "id": "us6000tjne",
-      "magnitude": 3.2,
-      "depth": 10,
-      "lat": 51.847,
-      "lon": 176.283,
-      "place": "238 km ESE of Attu Station, Alaska",
-      "time": "2026-08-10T10:12:14.635Z"
-    },
-    {
-      "id": "pr71527988",
-      "magnitude": 2.4,
-      "depth": 23,
-      "lat": 18.221,
-      "lon": -67.157,
-      "place": "2 km NW of Mayagüez, Puerto Rico",
-      "time": "2026-08-10T10:11:11.270Z"
-    },
-    {
-      "id": "nc75415137",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 37.324,
-      "lon": -118.358,
-      "place": "6 km SE of Bishop, CA",
-      "time": "2026-08-10T10:05:38.960Z"
-    },
-    {
-      "id": "ci40669778",
-      "magnitude": 3.5,
-      "depth": 7,
-      "lat": 31.387,
-      "lon": -114.276,
-      "place": "113 km SE of Estacion Coahuila, B.C., MX",
-      "time": "2026-08-10T09:56:19.460Z"
-    },
-    {
-      "id": "uu80007843",
-      "magnitude": 1.5,
-      "depth": 6,
-      "lat": 38.26,
-      "lon": -108.95,
-      "place": "26 km ESE of La Sal, Utah",
-      "time": "2026-08-10T09:47:50.460Z"
-    },
-    {
-      "id": "ci40669770",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 33.264,
-      "lon": -116.338,
-      "place": "4 km ENE of Borrego Springs, CA",
-      "time": "2026-08-10T09:43:52.120Z"
     }
   ]
 }
