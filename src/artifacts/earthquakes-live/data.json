@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-11T07:50:47.214Z",
+  "generated": "2026-08-11T08:41:39.242Z",
   "count": 220,
   "events": [
+    {
+      "id": "aka2026pusdea",
+      "magnitude": 1.2,
+      "depth": 19,
+      "lat": 60.458,
+      "lon": -143.055,
+      "place": "108 km S of McCarthy, Alaska",
+      "time": "2026-08-11T08:37:49.726Z"
+    },
+    {
+      "id": "nc75415677",
+      "magnitude": 1.1,
+      "depth": 1,
+      "lat": 38.796,
+      "lon": -122.752,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-08-11T08:36:04.970Z"
+    },
+    {
+      "id": "nc75415672",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.77,
+      "lon": -122.95,
+      "place": "7 km SE of Cloverdale, CA",
+      "time": "2026-08-11T08:35:40.240Z"
+    },
+    {
+      "id": "aka2026purlng",
+      "magnitude": 2.5,
+      "depth": 74,
+      "lat": 61.639,
+      "lon": -150.817,
+      "place": "19 km WNW of Susitna, Alaska",
+      "time": "2026-08-11T08:17:28.338Z"
+    },
+    {
+      "id": "hv75017731",
+      "magnitude": 2.1,
+      "depth": 38,
+      "lat": 19.507,
+      "lon": -155.584,
+      "place": "29 km E of Honaunau-Napoopoo, Hawaii",
+      "time": "2026-08-11T08:01:47.920Z"
+    },
+    {
+      "id": "uu80148271",
+      "magnitude": 3.3,
+      "depth": -3,
+      "lat": 41.564,
+      "lon": -109.876,
+      "place": "2 km NNW of Little America, Wyoming",
+      "time": "2026-08-11T08:00:28.250Z"
+    },
+    {
+      "id": "nc75415662",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.823,
+      "lon": -122.811,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-11T07:59:58.700Z"
+    },
     {
       "id": "ci40670330",
       "magnitude": 0.7,
@@ -193,12 +256,12 @@
     },
     {
       "id": "tx2026prydfh",
-      "magnitude": 1.6,
-      "depth": 9,
-      "lat": 32.008,
-      "lon": -103.814,
+      "magnitude": 1.5,
+      "depth": 8,
+      "lat": 32.004,
+      "lon": -103.817,
       "place": "34 km SE of Malaga, New Mexico",
-      "time": "2026-08-11T05:29:21.168Z"
+      "time": "2026-08-11T05:29:21.645Z"
     },
     {
       "id": "nc75415642",
@@ -354,6 +417,15 @@
       "time": "2026-08-11T03:08:58.359Z"
     },
     {
+      "id": "tx2026prsdrf",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 28.852,
+      "lon": -98.95,
+      "place": "14 km ESE of Pearsall, Texas",
+      "time": "2026-08-11T02:28:49.148Z"
+    },
+    {
       "id": "nc75415572",
       "magnitude": 0.8,
       "depth": 3,
@@ -388,15 +460,6 @@
       "lon": -173.399,
       "place": "83 km SE of Atka, Alaska",
       "time": "2026-08-11T02:11:15.032Z"
-    },
-    {
-      "id": "tx2026prrjdx",
-      "magnitude": 1.5,
-      "depth": 4,
-      "lat": 31.651,
-      "lon": -104.484,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": "2026-08-11T02:05:03.142Z"
     },
     {
       "id": "ci40670258",
@@ -550,15 +613,6 @@
       "lon": -147.367,
       "place": "12 km E of Fox, Alaska",
       "time": "2026-08-11T00:10:46.588Z"
-    },
-    {
-      "id": "tx2026prnchd",
-      "magnitude": 1.8,
-      "depth": 8,
-      "lat": 32.59,
-      "lon": -101.058,
-      "place": "19 km SW of Snyder, Texas",
-      "time": "2026-08-10T23:56:23.554Z"
     },
     {
       "id": "ci40670202",
@@ -1219,12 +1273,12 @@
     },
     {
       "id": "hv75017331",
-      "magnitude": 2.2,
-      "depth": 5,
-      "lat": 19.364,
-      "lon": -155.471,
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 19.36,
+      "lon": -155.465,
       "place": "17 km N of Pāhala, Hawaii",
-      "time": "2026-08-10T16:25:39.680Z"
+      "time": "2026-08-10T16:25:39.520Z"
     },
     {
       "id": "uw714074522",
@@ -1272,6 +1326,24 @@
       "time": "2026-08-10T16:14:50.616Z"
     },
     {
+      "id": "hv75017306",
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 19.251,
+      "lon": -155.383,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": "2026-08-10T16:13:53.460Z"
+    },
+    {
+      "id": "hv75017301",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 19.259,
+      "lon": -155.383,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": "2026-08-10T16:06:55.330Z"
+    },
+    {
       "id": "tx2026pqwzzb",
       "magnitude": 0.7,
       "depth": 9,
@@ -1297,6 +1369,24 @@
       "lon": -121.098,
       "place": "7 km SE of Pinnacles, CA",
       "time": "2026-08-10T15:41:20.210Z"
+    },
+    {
+      "id": "hv75017281",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 19.259,
+      "lon": -155.38,
+      "place": "12 km ENE of Pāhala, Hawaii",
+      "time": "2026-08-10T15:40:51.480Z"
+    },
+    {
+      "id": "hv75017276",
+      "magnitude": 0.9,
+      "depth": 4,
+      "lat": 19.25,
+      "lon": -155.386,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": "2026-08-10T15:39:13.150Z"
     },
     {
       "id": "nn00923168",
@@ -1351,6 +1441,15 @@
       "lon": -101.923,
       "place": "28 km SSE of Midland, Texas",
       "time": "2026-08-10T15:16:48.289Z"
+    },
+    {
+      "id": "hv75017256",
+      "magnitude": 0.9,
+      "depth": 4,
+      "lat": 19.247,
+      "lon": -155.385,
+      "place": "11 km ENE of Pāhala, Hawaii",
+      "time": "2026-08-10T15:16:29.230Z"
     },
     {
       "id": "nc75415197",
@@ -1882,105 +1981,6 @@
       "lon": -155.645,
       "place": "75 km WNW of Karluk, Alaska",
       "time": "2026-08-10T08:42:35.843Z"
-    },
-    {
-      "id": "hv75017091",
-      "magnitude": 1.9,
-      "depth": 32,
-      "lat": 19.163,
-      "lon": -155.478,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": "2026-08-10T08:37:10.850Z"
-    },
-    {
-      "id": "hv75017086",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 19.932,
-      "lon": -155.593,
-      "place": "13 km SE of Waimea, Hawaii",
-      "time": "2026-08-10T08:34:46.280Z"
-    },
-    {
-      "id": "us6000tjk6",
-      "magnitude": 4.8,
-      "depth": 10,
-      "lat": -19.796,
-      "lon": 170,
-      "place": "80 km ESE of Isangel, Vanuatu",
-      "time": "2026-08-10T08:34:28.098Z"
-    },
-    {
-      "id": "ok2026pokr",
-      "magnitude": 2.4,
-      "depth": 6,
-      "lat": 34.669,
-      "lon": -95.983,
-      "place": "4 km ENE of Wardville, Oklahoma",
-      "time": "2026-08-10T08:20:33.750Z"
-    },
-    {
-      "id": "aka2026psvlus",
-      "magnitude": 1.5,
-      "depth": 80,
-      "lat": 60.487,
-      "lon": -151.994,
-      "place": "39 km W of Kalifornsky, Alaska",
-      "time": "2026-08-10T08:18:37.000Z"
-    },
-    {
-      "id": "tx2026pqhqpr",
-      "magnitude": 1.7,
-      "depth": 8,
-      "lat": 28.858,
-      "lon": -98.992,
-      "place": "10 km ESE of Pearsall, Texas",
-      "time": "2026-08-10T08:07:28.882Z"
-    },
-    {
-      "id": "aka2026psuwhz",
-      "magnitude": 1,
-      "depth": 16,
-      "lat": 63.282,
-      "lon": -145.153,
-      "place": "31 km NE of Paxson, Alaska",
-      "time": "2026-08-10T08:00:36.861Z"
-    },
-    {
-      "id": "aka2026psutwy",
-      "magnitude": 1.5,
-      "depth": 72,
-      "lat": 51.604,
-      "lon": 178.716,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": "2026-08-10T07:57:48.891Z"
-    },
-    {
-      "id": "hv75017081",
-      "magnitude": 1.9,
-      "depth": 32,
-      "lat": 19.195,
-      "lon": -155.519,
-      "place": "4 km WSW of Pāhala, Hawaii",
-      "time": "2026-08-10T07:55:40.900Z"
-    },
-    {
-      "id": "tx2026pqhfnp",
-      "magnitude": 1.3,
-      "depth": 9,
-      "lat": 28.835,
-      "lon": -99.003,
-      "place": "10 km SE of Pearsall, Texas",
-      "time": "2026-08-10T07:54:37.533Z"
-    },
-    {
-      "id": "nc75415127",
-      "magnitude": 0.2,
-      "depth": 2,
-      "lat": 38.839,
-      "lon": -122.824,
-      "place": "9 km WNW of Cobb, CA",
-      "time": "2026-08-10T07:52:08.780Z"
     }
   ]
 }
