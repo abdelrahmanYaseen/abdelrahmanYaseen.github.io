@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-11T10:30:46.711Z",
-  "count": 236,
+  "generated": "2026-08-11T11:26:55.735Z",
+  "count": 238,
   "events": [
+    {
+      "id": "aka2026puxpxc",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 62.242,
+      "lon": -152.28,
+      "place": "53 km WNW of Skwentna, Alaska",
+      "time": "2026-08-11T11:22:26.809Z"
+    },
+    {
+      "id": "nc75415772",
+      "magnitude": 1.9,
+      "depth": 0,
+      "lat": 36.572,
+      "lon": -121.183,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": "2026-08-11T10:57:38.820Z"
+    },
+    {
+      "id": "tx2026psiwvq",
+      "magnitude": 1,
+      "depth": 6,
+      "lat": 32.399,
+      "lon": -102.078,
+      "place": "36 km WSW of Ackerly, Texas",
+      "time": "2026-08-11T10:53:51.068Z"
+    },
+    {
+      "id": "nc75415757",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 36.559,
+      "lon": -121.16,
+      "place": "3 km NNW of Pinnacles, CA",
+      "time": "2026-08-11T10:46:59.870Z"
+    },
+    {
+      "id": "nc75415737",
+      "magnitude": 1.6,
+      "depth": 1,
+      "lat": 36.568,
+      "lon": -121.201,
+      "place": "7 km NW of Pinnacles, CA",
+      "time": "2026-08-11T10:34:58.740Z"
+    },
+    {
+      "id": "nc75415732",
+      "magnitude": 1.8,
+      "depth": 3,
+      "lat": 36.572,
+      "lon": -121.19,
+      "place": "6 km NW of Pinnacles, CA",
+      "time": "2026-08-11T10:32:03.860Z"
+    },
     {
       "id": "aka2026puvuna",
       "magnitude": 1.4,
@@ -40,7 +94,7 @@
     },
     {
       "id": "nc75415717",
-      "magnitude": 4,
+      "magnitude": 3.9,
       "depth": 5,
       "lat": 36.569,
       "lon": -121.183,
@@ -579,6 +633,15 @@
       "time": "2026-08-11T03:38:50.070Z"
     },
     {
+      "id": "pr2026223000",
+      "magnitude": 3.9,
+      "depth": 100,
+      "lat": 18.413,
+      "lon": -68.966,
+      "place": "1 km SSE of La Romana, Dominican Republic",
+      "time": "2026-08-11T03:38:48.250Z"
+    },
+    {
       "id": "aka2026puibug",
       "magnitude": 0.3,
       "depth": 5,
@@ -784,6 +847,15 @@
       "lon": 176.331,
       "place": "232 km ESE of Attu Station, Alaska",
       "time": "2026-08-11T01:18:02.181Z"
+    },
+    {
+      "id": "tx2026prptzr",
+      "magnitude": 1.1,
+      "depth": 8,
+      "lat": 28.933,
+      "lon": -98.186,
+      "place": "17 km WSW of Falls City, Texas",
+      "time": "2026-08-11T01:17:16.520Z"
     },
     {
       "id": "us6000tjug",
@@ -2071,60 +2143,6 @@
       "lon": -153.861,
       "place": "62 km WNW of Aleneva, Alaska",
       "time": "2026-08-10T11:37:14.190Z"
-    },
-    {
-      "id": "tx2026pqobzc",
-      "magnitude": 1.1,
-      "depth": 9,
-      "lat": 32.097,
-      "lon": -101.615,
-      "place": "16 km ESE of Stanton, Texas",
-      "time": "2026-08-10T11:21:44.445Z"
-    },
-    {
-      "id": "aka2026ptbnlc",
-      "magnitude": 1.6,
-      "depth": 86,
-      "lat": 63.328,
-      "lon": -148.382,
-      "place": "29 km ESE of Cantwell, Alaska",
-      "time": "2026-08-10T11:20:16.235Z"
-    },
-    {
-      "id": "ci40669794",
-      "magnitude": 0.6,
-      "depth": 9,
-      "lat": 35.872,
-      "lon": -117.69,
-      "place": "21 km ESE of Little Lake, CA",
-      "time": "2026-08-10T11:13:03.850Z"
-    },
-    {
-      "id": "ci40669786",
-      "magnitude": 0.9,
-      "depth": 15,
-      "lat": 34.031,
-      "lon": -117.236,
-      "place": "3 km SE of Loma Linda, CA",
-      "time": "2026-08-10T10:37:56.700Z"
-    },
-    {
-      "id": "us6000tjkl",
-      "magnitude": 4.7,
-      "depth": 66,
-      "lat": 44.016,
-      "lon": 147.494,
-      "place": "66 km ENE of Shikotan, Russia",
-      "time": "2026-08-10T10:36:42.622Z"
-    },
-    {
-      "id": "us6000tjnf",
-      "magnitude": 2.6,
-      "depth": 10,
-      "lat": 51.872,
-      "lon": 176.217,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": "2026-08-10T10:32:31.646Z"
     }
   ]
 }
