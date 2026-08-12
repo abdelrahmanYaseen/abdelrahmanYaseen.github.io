@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-12T11:56:00.038Z",
-  "count": 274,
+  "generated": "2026-08-12T12:44:26.233Z",
+  "count": 267,
   "events": [
+    {
+      "id": "ci40671042",
+      "magnitude": 0.6,
+      "depth": 13,
+      "lat": 33.177,
+      "lon": -116.409,
+      "place": "9 km SSW of Borrego Springs, CA",
+      "time": "2026-08-12T12:34:43.390Z"
+    },
+    {
+      "id": "nc75416802",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.809,
+      "lon": -122.82,
+      "place": "7 km WNW of The Geysers, CA",
+      "time": "2026-08-12T12:30:15.850Z"
+    },
+    {
+      "id": "ci40671034",
+      "magnitude": 0.2,
+      "depth": 9,
+      "lat": 33.426,
+      "lon": -116.615,
+      "place": "15 km SSE of Anza, CA",
+      "time": "2026-08-12T12:29:05.380Z"
+    },
+    {
+      "id": "aka2026pwvbwb",
+      "magnitude": 1.1,
+      "depth": 5,
+      "lat": 55.949,
+      "lon": -159.626,
+      "place": "10 km WNW of Ivanof Bay, Alaska",
+      "time": "2026-08-12T12:05:34.415Z"
+    },
+    {
+      "id": "tx2026pugwhg",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 31.611,
+      "lon": -104.117,
+      "place": "44 km NW of Toyah, Texas",
+      "time": "2026-08-12T12:02:01.381Z"
+    },
+    {
+      "id": "nc75416792",
+      "magnitude": 0.7,
+      "depth": 4,
+      "lat": 38.818,
+      "lon": -122.818,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-12T11:56:48.430Z"
+    },
+    {
+      "id": "us6000tk74",
+      "magnitude": 6,
+      "depth": 10,
+      "lat": -60.244,
+      "lon": -28.99,
+      "place": "South Sandwich Islands region",
+      "time": "2026-08-12T11:47:12.117Z"
+    },
     {
       "id": "nc75416777",
       "magnitude": 0.8,
@@ -201,6 +264,24 @@
       "time": "2026-08-12T09:56:07.590Z"
     },
     {
+      "id": "nm60626601",
+      "magnitude": 1.9,
+      "depth": 9,
+      "lat": 36.533,
+      "lon": -89.614,
+      "place": "1 km N of Marston, Missouri",
+      "time": "2026-08-12T09:54:07.730Z"
+    },
+    {
+      "id": "tx2026pucpxk",
+      "magnitude": 2,
+      "depth": 7,
+      "lat": 28.834,
+      "lon": -98.994,
+      "place": "11 km ESE of Pearsall, Texas",
+      "time": "2026-08-12T09:53:41.900Z"
+    },
+    {
       "id": "nc75416662",
       "magnitude": 1.4,
       "depth": 1,
@@ -229,12 +310,12 @@
     },
     {
       "id": "tx2026pubfoe",
-      "magnitude": 2.3,
-      "depth": 3,
-      "lat": 31.712,
-      "lon": -104.574,
-      "place": "54 km SSW of Whites City, New Mexico",
-      "time": "2026-08-12T09:14:33.172Z"
+      "magnitude": 2,
+      "depth": 5,
+      "lat": 31.714,
+      "lon": -104.52,
+      "place": "52 km SSW of Whites City, New Mexico",
+      "time": "2026-08-12T09:14:33.516Z"
     },
     {
       "id": "ci40670970",
@@ -373,12 +454,12 @@
     },
     {
       "id": "ok2026psal",
-      "magnitude": 1.8,
-      "depth": 12,
-      "lat": 34.758,
-      "lon": -95.984,
-      "place": "7 km E of Ashland, Oklahoma",
-      "time": "2026-08-12T07:42:28.243Z"
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 34.678,
+      "lon": -95.992,
+      "place": "4 km NE of Wardville, Oklahoma",
+      "time": "2026-08-12T07:42:27.190Z"
     },
     {
       "id": "hv75018421",
@@ -397,6 +478,15 @@
       "lon": 75.304,
       "place": "66 km E of Chayek, Kyrgyzstan",
       "time": "2026-08-12T07:14:52.581Z"
+    },
+    {
+      "id": "se60626596",
+      "magnitude": 2.2,
+      "depth": 15,
+      "lat": 35.928,
+      "lon": -84.288,
+      "place": "9 km S of Oak Ridge, Tennessee",
+      "time": "2026-08-12T07:07:40.400Z"
     },
     {
       "id": "nc75416572",
@@ -919,6 +1009,15 @@
       "lon": -98.186,
       "place": "17 km WSW of Falls City, Texas",
       "time": "2026-08-12T01:47:49.701Z"
+    },
+    {
+      "id": "ok2026proq",
+      "magnitude": 1.1,
+      "depth": 7,
+      "lat": 35.798,
+      "lon": -96.656,
+      "place": "5 km N of Stroud, Oklahoma",
+      "time": "2026-08-12T01:44:16.600Z"
     },
     {
       "id": "pr71528153",
@@ -2305,168 +2404,6 @@
       "lon": 130.392,
       "place": "Pulau Pulau Tanimbar, Indonesia",
       "time": "2026-08-11T12:45:12.884Z"
-    },
-    {
-      "id": "aka2026pvailr",
-      "magnitude": 3.1,
-      "depth": 21,
-      "lat": 52.61,
-      "lon": -166.596,
-      "place": "140 km S of Unalaska, Alaska",
-      "time": "2026-08-11T12:43:56.091Z"
-    },
-    {
-      "id": "aka2026pvafsq",
-      "magnitude": 1.5,
-      "depth": 24,
-      "lat": 57.08,
-      "lon": -153.822,
-      "place": "26 km NE of Akhiok, Alaska",
-      "time": "2026-08-11T12:40:40.802Z"
-    },
-    {
-      "id": "nc75415842",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.825,
-      "lon": -122.793,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-08-11T12:39:41.660Z"
-    },
-    {
-      "id": "nc75415837",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.81,
-      "lon": -122.796,
-      "place": "5 km NW of The Geysers, CA",
-      "time": "2026-08-11T12:38:10.820Z"
-    },
-    {
-      "id": "ci40670482",
-      "magnitude": 0.8,
-      "depth": 7,
-      "lat": 34.113,
-      "lon": -117.474,
-      "place": "2 km NW of Fontana, CA",
-      "time": "2026-08-11T12:33:02.290Z"
-    },
-    {
-      "id": "tx2026psmcvr",
-      "magnitude": 2.2,
-      "depth": 6,
-      "lat": 31.66,
-      "lon": -104.332,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": "2026-08-11T12:31:21.898Z"
-    },
-    {
-      "id": "ci40670474",
-      "magnitude": 0.7,
-      "depth": 10,
-      "lat": 33.299,
-      "lon": -116.249,
-      "place": "13 km ENE of Borrego Springs, CA",
-      "time": "2026-08-11T12:29:01.250Z"
-    },
-    {
-      "id": "aka2026puzqbs",
-      "magnitude": 1.8,
-      "depth": 26,
-      "lat": 51.205,
-      "lon": -176.274,
-      "place": "78 km SSE of Adak, Alaska",
-      "time": "2026-08-11T12:22:44.383Z"
-    },
-    {
-      "id": "ci40670466",
-      "magnitude": 0.9,
-      "depth": 13,
-      "lat": 33.95,
-      "lon": -117.223,
-      "place": "3 km N of Moreno Valley, CA",
-      "time": "2026-08-11T12:16:32.930Z"
-    },
-    {
-      "id": "tx2026pslody",
-      "magnitude": 1.9,
-      "depth": 7,
-      "lat": 28.833,
-      "lon": -99.001,
-      "place": "11 km SE of Pearsall, Texas",
-      "time": "2026-08-11T12:14:17.053Z"
-    },
-    {
-      "id": "us6000tjx7",
-      "magnitude": 4.5,
-      "depth": 174,
-      "lat": 49.284,
-      "lon": 153.143,
-      "place": "264 km SW of Severo-Kuril’sk, Russia",
-      "time": "2026-08-11T12:13:41.963Z"
-    },
-    {
-      "id": "nc75415817",
-      "magnitude": 2.7,
-      "depth": 1,
-      "lat": 36.569,
-      "lon": -121.175,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": "2026-08-11T12:09:29.580Z"
-    },
-    {
-      "id": "nc75415812",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.824,
-      "lon": -122.791,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-08-11T12:03:53.490Z"
-    },
-    {
-      "id": "ci40670458",
-      "magnitude": 0.8,
-      "depth": 13,
-      "lat": 33.948,
-      "lon": -117.225,
-      "place": "2 km N of Moreno Valley, CA",
-      "time": "2026-08-11T12:02:33.690Z"
-    },
-    {
-      "id": "aka2026puywwk",
-      "magnitude": 2.2,
-      "depth": 3,
-      "lat": 54.52,
-      "lon": -160.148,
-      "place": "93 km SSE of Sand Point, Alaska",
-      "time": "2026-08-11T12:00:35.647Z"
-    },
-    {
-      "id": "nc75415807",
-      "magnitude": 1.9,
-      "depth": 6,
-      "lat": 36.565,
-      "lon": -121.18,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": "2026-08-11T12:00:00.880Z"
-    },
-    {
-      "id": "ci40670450",
-      "magnitude": 0.2,
-      "depth": 13,
-      "lat": 33.374,
-      "lon": -116.692,
-      "place": "12 km NNW of Warner Springs, CA",
-      "time": "2026-08-11T11:59:28.080Z"
-    },
-    {
-      "id": "aka2026puyvry",
-      "magnitude": 2.4,
-      "depth": 5,
-      "lat": 57.281,
-      "lon": -143.08,
-      "place": "Gulf of Alaska",
-      "time": "2026-08-11T11:59:06.365Z"
     }
   ]
 }
