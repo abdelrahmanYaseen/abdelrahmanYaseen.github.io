@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-13T21:10:09.569Z",
-  "count": 245,
+  "generated": "2026-08-13T21:59:17.758Z",
+  "count": 240,
   "events": [
+    {
+      "id": "hv75018227",
+      "magnitude": 2,
+      "depth": 27,
+      "lat": 19.128,
+      "lon": -155.373,
+      "place": "13 km SE of Pāhala, Hawaii",
+      "time": "2026-08-13T21:39:10.620Z"
+    },
+    {
+      "id": "hv75018222",
+      "magnitude": 1.7,
+      "depth": 26,
+      "lat": 19.175,
+      "lon": -155.488,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": "2026-08-13T21:36:37.750Z"
+    },
+    {
+      "id": "hv75018207",
+      "magnitude": 2.1,
+      "depth": 30,
+      "lat": 19.136,
+      "lon": -155.496,
+      "place": "7 km SSW of Pāhala, Hawaii",
+      "time": "2026-08-13T21:14:17.610Z"
+    },
+    {
+      "id": "aka2026pzjjwm",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 58.258,
+      "lon": -155.151,
+      "place": "87 km NNW of Karluk, Alaska",
+      "time": "2026-08-13T21:13:55.045Z"
+    },
+    {
+      "id": "nc75417737",
+      "magnitude": 0.4,
+      "depth": 2,
+      "lat": 38.791,
+      "lon": -122.768,
+      "place": "2 km NNW of The Geysers, CA",
+      "time": "2026-08-13T21:10:12.890Z"
+    },
     {
       "id": "hv75018192",
       "magnitude": 2.5,
@@ -31,12 +76,12 @@
     },
     {
       "id": "tx2026pwtnnb",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 31.532,
-      "lon": -104.165,
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 31.55,
+      "lon": -104.141,
       "place": "42 km NW of Toyah, Texas",
-      "time": "2026-08-13T20:33:05.849Z"
+      "time": "2026-08-13T20:33:05.988Z"
     },
     {
       "id": "aka2026pzhxil",
@@ -136,6 +181,15 @@
       "lon": -139.784,
       "place": "116 km N of Yakutat, Alaska",
       "time": "2026-08-13T19:34:38.237Z"
+    },
+    {
+      "id": "pr2026225000",
+      "magnitude": 3.6,
+      "depth": 104,
+      "lat": 18.224,
+      "lon": -67.665,
+      "place": "45 km WSW of Stella, Puerto Rico",
+      "time": "2026-08-13T19:16:43.780Z"
     },
     {
       "id": "hv75018042",
@@ -1140,10 +1194,10 @@
       "id": "tx2026pvveaq",
       "magnitude": 2.9,
       "depth": 9,
-      "lat": 31.612,
-      "lon": -103.962,
-      "place": "35 km WSW of Mentone, Texas",
-      "time": "2026-08-13T08:17:42.181Z"
+      "lat": 31.614,
+      "lon": -103.967,
+      "place": "36 km WSW of Mentone, Texas",
+      "time": "2026-08-13T08:17:42.250Z"
     },
     {
       "id": "tx2026pvvctg",
@@ -1830,13 +1884,13 @@
       "time": "2026-08-13T01:22:52.110Z"
     },
     {
-      "id": "aka2026pxvqqc",
+      "id": "us6000tke6",
       "magnitude": 2.5,
-      "depth": 11,
-      "lat": 54.197,
-      "lon": -162.387,
-      "place": "96 km S of King Cove, Alaska",
-      "time": "2026-08-13T01:22:14.622Z"
+      "depth": 10,
+      "lat": 54.206,
+      "lon": -162.394,
+      "place": "95 km S of King Cove, Alaska",
+      "time": "2026-08-13T01:22:14.495Z"
     },
     {
       "id": "tx2026pvgyry",
@@ -2107,105 +2161,6 @@
       "lon": -155.327,
       "place": "84 km NW of Karluk, Alaska",
       "time": "2026-08-12T22:10:39.650Z"
-    },
-    {
-      "id": "tx2026pvakhv",
-      "magnitude": 1.3,
-      "depth": 6,
-      "lat": 32.006,
-      "lon": -103.236,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": "2026-08-12T21:51:03.757Z"
-    },
-    {
-      "id": "tx2026pvaicg",
-      "magnitude": 1.7,
-      "depth": 6,
-      "lat": 32.014,
-      "lon": -103.239,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": "2026-08-12T21:48:59.720Z"
-    },
-    {
-      "id": "ok2026ptce",
-      "magnitude": 1.2,
-      "depth": 6,
-      "lat": 34.651,
-      "lon": -95.989,
-      "place": "3 km E of Wardville, Oklahoma",
-      "time": "2026-08-12T21:43:25.850Z"
-    },
-    {
-      "id": "nc75417102",
-      "magnitude": 2,
-      "depth": 3,
-      "lat": 37.164,
-      "lon": -121.569,
-      "place": "8 km ENE of Morgan Hill, CA",
-      "time": "2026-08-12T21:41:11.970Z"
-    },
-    {
-      "id": "tx2026puzzfh",
-      "magnitude": 1.8,
-      "depth": 8,
-      "lat": 31.763,
-      "lon": -103.815,
-      "place": "21 km WNW of Mentone, Texas",
-      "time": "2026-08-12T21:39:36.643Z"
-    },
-    {
-      "id": "aka2026pxocue",
-      "magnitude": 2.7,
-      "depth": 9,
-      "lat": 55.96,
-      "lon": -159.756,
-      "place": "18 km WNW of Ivanof Bay, Alaska",
-      "time": "2026-08-12T21:36:20.973Z"
-    },
-    {
-      "id": "pr71528323",
-      "magnitude": 2.1,
-      "depth": 13,
-      "lat": 17.93,
-      "lon": -66.841,
-      "place": "7 km SE of Maria Antonia, Puerto Rico",
-      "time": "2026-08-12T21:34:12.690Z"
-    },
-    {
-      "id": "us6000tkax",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": 20.497,
-      "lon": 122.273,
-      "place": "31 km E of Basco, Philippines",
-      "time": "2026-08-12T21:25:20.192Z"
-    },
-    {
-      "id": "us6000tkaw",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 32.477,
-      "lon": 130.434,
-      "place": "15 km WSW of Honmachi, Japan",
-      "time": "2026-08-12T21:21:29.025Z"
-    },
-    {
-      "id": "uu80148446",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 38.508,
-      "lon": -112.886,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-12T21:18:21.710Z"
-    },
-    {
-      "id": "aka2026pxnldr",
-      "magnitude": 3,
-      "depth": 111,
-      "lat": 53.166,
-      "lon": 178.13,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": "2026-08-12T21:16:23.142Z"
     }
   ]
 }
