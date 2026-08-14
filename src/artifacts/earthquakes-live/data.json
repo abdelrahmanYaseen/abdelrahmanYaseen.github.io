@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-14T23:35:44.613Z",
+  "generated": "2026-08-14T23:57:24.767Z",
   "count": 262,
   "events": [
+    {
+      "id": "aka2026qbkref",
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 58.249,
+      "lon": -155.558,
+      "place": "80 km SE of King Salmon, Alaska",
+      "time": "2026-08-14T23:51:36.554Z"
+    },
+    {
+      "id": "tx2026pyvmcu",
+      "magnitude": 1.8,
+      "depth": 3,
+      "lat": 31.574,
+      "lon": -104.117,
+      "place": "42 km NW of Toyah, Texas",
+      "time": "2026-08-14T23:40:44.238Z"
+    },
     {
       "id": "nc75418427",
       "magnitude": 1.1,
@@ -21,6 +39,15 @@
       "time": "2026-08-14T23:17:12.156Z"
     },
     {
+      "id": "us6000tkv9",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -8.335,
+      "lon": 121.359,
+      "place": "65 km NNW of Ende, Indonesia",
+      "time": "2026-08-14T23:17:05.284Z"
+    },
+    {
       "id": "tx2026pyuozw",
       "magnitude": 1.6,
       "depth": 3,
@@ -28,6 +55,15 @@
       "lon": -104.571,
       "place": "55 km SSW of Whites City, New Mexico",
       "time": "2026-08-14T23:13:40.601Z"
+    },
+    {
+      "id": "us6000tkv7",
+      "magnitude": 5.1,
+      "depth": 10,
+      "lat": -8.169,
+      "lon": 120.417,
+      "place": "49 km N of Ruteng, Indonesia",
+      "time": "2026-08-14T23:12:31.091Z"
     },
     {
       "id": "aka2026qbjdaz",
@@ -813,6 +849,15 @@
       "time": "2026-08-14T16:06:55.550Z"
     },
     {
+      "id": "av93065799",
+      "magnitude": -0.2,
+      "depth": 2,
+      "lat": 61.303,
+      "lon": -152.303,
+      "place": "67 km WNW of Tyonek, Alaska",
+      "time": "2026-08-14T15:45:01.850Z"
+    },
+    {
       "id": "nc75418262",
       "magnitude": 0.7,
       "depth": 3,
@@ -856,6 +901,15 @@
       "lon": -155.868,
       "place": "4 km S of Honaunau-Napoopoo, Hawaii",
       "time": "2026-08-14T15:29:38.370Z"
+    },
+    {
+      "id": "av93065794",
+      "magnitude": -0.4,
+      "depth": 0,
+      "lat": 59.363,
+      "lon": -153.434,
+      "place": "60 km SE of Pedro Bay, Alaska",
+      "time": "2026-08-14T15:28:18.100Z"
     },
     {
       "id": "aka2026qatoeq",
@@ -1726,9 +1780,9 @@
       "magnitude": 1,
       "depth": 6,
       "lat": 33.178,
-      "lon": -116.028,
+      "lon": -116.031,
       "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": "2026-08-14T07:28:56.730Z"
+      "time": "2026-08-14T07:28:56.690Z"
     },
     {
       "id": "nc75418077",
@@ -2305,60 +2359,6 @@
       "lon": -101.708,
       "place": "21 km W of Garden City, Texas",
       "time": "2026-08-13T23:58:50.668Z"
-    },
-    {
-      "id": "aka2026pzotob",
-      "magnitude": 1.6,
-      "depth": 15,
-      "lat": 60.03,
-      "lon": -149.111,
-      "place": "18 km ESE of Lowell Point, Alaska",
-      "time": "2026-08-13T23:54:59.414Z"
-    },
-    {
-      "id": "tx2026pxaeol",
-      "magnitude": 1.8,
-      "depth": 6,
-      "lat": 31.616,
-      "lon": -104.107,
-      "place": "44 km NW of Toyah, Texas",
-      "time": "2026-08-13T23:53:43.554Z"
-    },
-    {
-      "id": "tx2026pxadez",
-      "magnitude": 1.5,
-      "depth": 6,
-      "lat": 31.549,
-      "lon": -104.153,
-      "place": "42 km NW of Toyah, Texas",
-      "time": "2026-08-13T23:52:03.985Z"
-    },
-    {
-      "id": "aka2026pzooat",
-      "magnitude": 3.6,
-      "depth": 27,
-      "lat": 52.894,
-      "lon": -167.475,
-      "place": "93 km E of Nikolski, Alaska",
-      "time": "2026-08-13T23:48:43.434Z"
-    },
-    {
-      "id": "aka2026pzokei",
-      "magnitude": 1.9,
-      "depth": 12,
-      "lat": 53.613,
-      "lon": -166.97,
-      "place": "40 km SW of Unalaska, Alaska",
-      "time": "2026-08-13T23:44:09.622Z"
-    },
-    {
-      "id": "tx2026pwzswu",
-      "magnitude": 2.5,
-      "depth": 7,
-      "lat": 28.815,
-      "lon": -98.987,
-      "place": "13 km SE of Pearsall, Texas",
-      "time": "2026-08-13T23:40:03.775Z"
     }
   ]
 }
