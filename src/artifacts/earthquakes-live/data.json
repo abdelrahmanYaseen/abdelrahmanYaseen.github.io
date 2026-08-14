@@ -1,7 +1,133 @@
 {
-  "generated": "2026-08-14T18:03:25.109Z",
-  "count": 236,
+  "generated": "2026-08-14T19:10:20.238Z",
+  "count": 237,
   "events": [
+    {
+      "id": "ci40672802",
+      "magnitude": 1.2,
+      "depth": 29,
+      "lat": 32.861,
+      "lon": -116.2,
+      "place": "24 km NW of Ocotillo, CA",
+      "time": "2026-08-14T19:02:19.510Z"
+    },
+    {
+      "id": "nc75418307",
+      "magnitude": 1.3,
+      "depth": 4,
+      "lat": 38.794,
+      "lon": -122.755,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-08-14T18:59:49.910Z"
+    },
+    {
+      "id": "aka2026qbavul",
+      "magnitude": 2.5,
+      "depth": 73,
+      "lat": 59.639,
+      "lon": -152.197,
+      "place": "25 km SW of Anchor Point, Alaska",
+      "time": "2026-08-14T18:57:08.792Z"
+    },
+    {
+      "id": "ci40672786",
+      "magnitude": 1.5,
+      "depth": -1,
+      "lat": 35.056,
+      "lon": -118.344,
+      "place": "13 km SE of Tehachapi, CA",
+      "time": "2026-08-14T18:49:33.960Z"
+    },
+    {
+      "id": "uu80148801",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 44.678,
+      "lon": -110.451,
+      "place": "38 km SSE of Mammoth, Wyoming",
+      "time": "2026-08-14T18:45:58.660Z"
+    },
+    {
+      "id": "tx2026pylpop",
+      "magnitude": 1.6,
+      "depth": 1,
+      "lat": 31.054,
+      "lon": -103.696,
+      "place": "9 km NNE of Balmorhea, Texas",
+      "time": "2026-08-14T18:42:46.924Z"
+    },
+    {
+      "id": "aka2026qbacek",
+      "magnitude": 1.9,
+      "depth": 90,
+      "lat": 62.548,
+      "lon": -151.374,
+      "place": "31 km W of Petersville, Alaska",
+      "time": "2026-08-14T18:34:27.552Z"
+    },
+    {
+      "id": "us6000tkrw",
+      "magnitude": 4.5,
+      "depth": 369,
+      "lat": -12.38,
+      "lon": 167.48,
+      "place": "165 km N of Sola, Vanuatu",
+      "time": "2026-08-14T18:33:25.499Z"
+    },
+    {
+      "id": "hv75018772",
+      "magnitude": 1.9,
+      "depth": 17,
+      "lat": 18.999,
+      "lon": -155.352,
+      "place": "25 km ESE of Naalehu, Hawaii",
+      "time": "2026-08-14T18:28:21.220Z"
+    },
+    {
+      "id": "aka2026qazpzy",
+      "magnitude": 2.7,
+      "depth": 5,
+      "lat": 62.254,
+      "lon": -152.36,
+      "place": "58 km WNW of Skwentna, Alaska",
+      "time": "2026-08-14T18:20:24.800Z"
+    },
+    {
+      "id": "ci40672746",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 36.031,
+      "lon": -117.781,
+      "place": "15 km E of Coso Junction, CA",
+      "time": "2026-08-14T18:11:56.950Z"
+    },
+    {
+      "id": "uu80148791",
+      "magnitude": 0.8,
+      "depth": -2,
+      "lat": 39.51,
+      "lon": -110.34,
+      "place": "6 km SE of Sunnyside, Utah",
+      "time": "2026-08-14T18:08:48.240Z"
+    },
+    {
+      "id": "us6000tkrs",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": 4.288,
+      "lon": 128.048,
+      "place": "283 km N of Tobelo, Indonesia",
+      "time": "2026-08-14T18:03:54.327Z"
+    },
+    {
+      "id": "tx2026pykask",
+      "magnitude": 1.5,
+      "depth": 6,
+      "lat": 31.637,
+      "lon": -104.176,
+      "place": "50 km NW of Toyah, Texas",
+      "time": "2026-08-14T17:55:22.749Z"
+    },
     {
       "id": "ci40672738",
       "magnitude": 0.9,
@@ -10,6 +136,15 @@
       "lon": -118.208,
       "place": "8 km NNW of Mojave, CA",
       "time": "2026-08-14T17:52:16.690Z"
+    },
+    {
+      "id": "pr71528493",
+      "magnitude": 3,
+      "depth": 74,
+      "lat": 18.444,
+      "lon": -64.1,
+      "place": "74 km E of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-14T17:51:00.190Z"
     },
     {
       "id": "ci40672730",
@@ -21,13 +156,22 @@
       "time": "2026-08-14T17:49:27.240Z"
     },
     {
+      "id": "us6000tkrq",
+      "magnitude": 4.5,
+      "depth": 35,
+      "lat": 51.371,
+      "lon": 158.869,
+      "place": "165 km E of Ozernovskiy, Russia",
+      "time": "2026-08-14T17:47:42.334Z"
+    },
+    {
       "id": "ci40672706",
       "magnitude": 1.5,
       "depth": 7,
-      "lat": 32.915,
+      "lat": 32.914,
       "lon": -116.243,
-      "place": "27 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-14T17:35:58.220Z"
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-14T17:35:58.210Z"
     },
     {
       "id": "ci40672690",
@@ -84,15 +228,6 @@
       "time": "2026-08-14T16:56:14.767Z"
     },
     {
-      "id": "tx2026pyhydp",
-      "magnitude": 1.4,
-      "depth": 3,
-      "lat": 32.266,
-      "lon": -101.823,
-      "place": "15 km NNW of Stanton, Texas",
-      "time": "2026-08-14T16:52:06.080Z"
-    },
-    {
       "id": "aka2026qawjgu",
       "magnitude": 2.5,
       "depth": 67,
@@ -104,11 +239,11 @@
     {
       "id": "tx2026pyhofl",
       "magnitude": 1.5,
-      "depth": 3,
-      "lat": 31.426,
-      "lon": -103.936,
+      "depth": 5,
+      "lat": 31.428,
+      "lon": -103.932,
       "place": "18 km NW of Toyah, Texas",
-      "time": "2026-08-14T16:40:52.929Z"
+      "time": "2026-08-14T16:40:52.225Z"
     },
     {
       "id": "uu80148781",
@@ -282,6 +417,15 @@
       "time": "2026-08-14T14:36:47.120Z"
     },
     {
+      "id": "uw714079131",
+      "magnitude": 1.2,
+      "depth": 16,
+      "lat": 47.741,
+      "lon": -121.993,
+      "place": "0 km W of Duvall, Washington",
+      "time": "2026-08-14T14:33:06.740Z"
+    },
+    {
       "id": "ci40672514",
       "magnitude": 0.7,
       "depth": 5,
@@ -364,12 +508,12 @@
     },
     {
       "id": "uw714079081",
-      "magnitude": 1.6,
-      "depth": 3,
-      "lat": 47.63,
-      "lon": -122.022,
-      "place": "3 km NNE of City of Sammamish, Washington",
-      "time": "2026-08-14T12:58:35.590Z"
+      "magnitude": 1.5,
+      "depth": 11,
+      "lat": 47.64,
+      "lon": -122.001,
+      "place": "2 km WNW of Ames Lake, Washington",
+      "time": "2026-08-14T12:58:35.350Z"
     },
     {
       "id": "uu80148746",
@@ -688,12 +832,12 @@
     },
     {
       "id": "ci40672402",
-      "magnitude": 1.2,
+      "magnitude": 0.5,
       "depth": 14,
-      "lat": 33.929,
-      "lon": -117.198,
-      "place": "3 km E of Moreno Valley, CA",
-      "time": "2026-08-14T09:53:50.580Z"
+      "lat": 33.931,
+      "lon": -117.202,
+      "place": "3 km ENE of Moreno Valley, CA",
+      "time": "2026-08-14T09:53:50.590Z"
     },
     {
       "id": "hv75018602",
@@ -1229,11 +1373,11 @@
     {
       "id": "ci40672274",
       "magnitude": 1.6,
-      "depth": 8,
-      "lat": 34.369,
-      "lon": -117.655,
+      "depth": 7,
+      "lat": 34.368,
+      "lon": -117.656,
       "place": "2 km WNW of Wrightwood, CA",
-      "time": "2026-08-14T05:03:19.660Z"
+      "time": "2026-08-14T05:03:19.670Z"
     },
     {
       "id": "ci40672266",
@@ -1305,7 +1449,7 @@
       "lat": 33.298,
       "lon": -116.229,
       "place": "14 km ENE of Borrego Springs, CA",
-      "time": "2026-08-14T03:32:25.780Z"
+      "time": "2026-08-14T03:32:25.750Z"
     },
     {
       "id": "ci40672250",
@@ -1893,15 +2037,6 @@
       "time": "2026-08-13T20:29:27.378Z"
     },
     {
-      "id": "ci40672146",
-      "magnitude": 1.3,
-      "depth": 2,
-      "lat": 32.615,
-      "lon": -116.973,
-      "place": "7 km SE of Bonita, CA",
-      "time": "2026-08-13T20:29:02.380Z"
-    },
-    {
       "id": "aka2026pzhtah",
       "magnitude": 3.6,
       "depth": 11,
@@ -1999,132 +2134,6 @@
       "lon": -155.452,
       "place": "4 km NE of Pāhala, Hawaii",
       "time": "2026-08-13T19:15:50.300Z"
-    },
-    {
-      "id": "aka2026pzfgfd",
-      "magnitude": 2.5,
-      "depth": 11,
-      "lat": 50.977,
-      "lon": -179.76,
-      "place": "239 km WSW of Adak, Alaska",
-      "time": "2026-08-13T19:09:50.313Z"
-    },
-    {
-      "id": "aka2026pzffgx",
-      "magnitude": 1.6,
-      "depth": 4,
-      "lat": 61.225,
-      "lon": -140.671,
-      "place": "122 km ESE of McCarthy, Alaska",
-      "time": "2026-08-13T19:08:39.812Z"
-    },
-    {
-      "id": "ci40672066",
-      "magnitude": 0.8,
-      "depth": 11,
-      "lat": 35.877,
-      "lon": -117.666,
-      "place": "23 km ESE of Little Lake, CA",
-      "time": "2026-08-13T19:04:10.860Z"
-    },
-    {
-      "id": "ci40672058",
-      "magnitude": 0.4,
-      "depth": 12,
-      "lat": 35.874,
-      "lon": -117.663,
-      "place": "23 km ESE of Little Lake, CA",
-      "time": "2026-08-13T19:00:21.520Z"
-    },
-    {
-      "id": "nc75417662",
-      "magnitude": 1,
-      "depth": 0,
-      "lat": 38.849,
-      "lon": -122.832,
-      "place": "10 km WNW of Cobb, CA",
-      "time": "2026-08-13T18:59:11.030Z"
-    },
-    {
-      "id": "nc75417652",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 38.797,
-      "lon": -122.817,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": "2026-08-13T18:51:15.960Z"
-    },
-    {
-      "id": "aka2026pzeima",
-      "magnitude": 2,
-      "depth": 13,
-      "lat": 62.185,
-      "lon": -150.135,
-      "place": "15 km W of Susitna North, Alaska",
-      "time": "2026-08-13T18:42:22.534Z"
-    },
-    {
-      "id": "us6000tkig",
-      "magnitude": 5.3,
-      "depth": 66,
-      "lat": 5.3,
-      "lon": 125.484,
-      "place": "11 km S of Sarangani, Philippines",
-      "time": "2026-08-13T18:39:31.327Z"
-    },
-    {
-      "id": "ci40672034",
-      "magnitude": 0.6,
-      "depth": 8,
-      "lat": 34.209,
-      "lon": -117.449,
-      "place": "5 km WSW of Devore, CA",
-      "time": "2026-08-13T18:34:53.990Z"
-    },
-    {
-      "id": "nc75417647",
-      "magnitude": 2.2,
-      "depth": 5,
-      "lat": 37.752,
-      "lon": -122.145,
-      "place": "3 km NNE of San Leandro, CA",
-      "time": "2026-08-13T18:34:26.150Z"
-    },
-    {
-      "id": "av94381588",
-      "magnitude": 0.2,
-      "depth": 7,
-      "lat": 53.895,
-      "lon": -166.643,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": "2026-08-13T18:25:19.060Z"
-    },
-    {
-      "id": "ci40672010",
-      "magnitude": 1.1,
-      "depth": 11,
-      "lat": 33.308,
-      "lon": -115.821,
-      "place": "9 km WSW of Bombay Beach, CA",
-      "time": "2026-08-13T18:11:26.040Z"
-    },
-    {
-      "id": "uw714078391",
-      "magnitude": 0.1,
-      "depth": 17,
-      "lat": 48.653,
-      "lon": -122.986,
-      "place": "6 km NNW of Orcas, Washington",
-      "time": "2026-08-13T18:10:55.360Z"
-    },
-    {
-      "id": "uu80148626",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 38.517,
-      "lon": -112.883,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-13T18:10:35.560Z"
     }
   ]
 }
