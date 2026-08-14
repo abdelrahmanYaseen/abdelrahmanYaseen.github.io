@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-14T10:37:48.128Z",
-  "count": 226,
+  "generated": "2026-08-14T11:24:47.359Z",
+  "count": 222,
   "events": [
+    {
+      "id": "hv75018627",
+      "magnitude": 2.5,
+      "depth": 31,
+      "lat": 20.02,
+      "lon": -155.795,
+      "place": "7 km NE of Puako, Hawaii",
+      "time": "2026-08-14T11:09:14.330Z"
+    },
+    {
+      "id": "tx2026pxwnji",
+      "magnitude": 1.7,
+      "depth": 8,
+      "lat": 28.853,
+      "lon": -99.01,
+      "place": "9 km ESE of Pearsall, Texas",
+      "time": "2026-08-14T11:07:39.255Z"
+    },
+    {
+      "id": "ci40672426",
+      "magnitude": 1.4,
+      "depth": 0,
+      "lat": 34.261,
+      "lon": -118.578,
+      "place": "2 km ENE of Chatsworth, CA",
+      "time": "2026-08-14T10:54:55.870Z"
+    },
+    {
+      "id": "ci40672418",
+      "magnitude": 0.9,
+      "depth": 8,
+      "lat": 34.869,
+      "lon": -119.26,
+      "place": "10 km WNW of Pine Mountain Club, CA",
+      "time": "2026-08-14T10:50:35.400Z"
+    },
+    {
+      "id": "hv75018617",
+      "magnitude": 2.4,
+      "depth": 33,
+      "lat": 19.219,
+      "lon": -155.42,
+      "place": "6 km ENE of Pāhala, Hawaii",
+      "time": "2026-08-14T10:49:23.780Z"
+    },
+    {
+      "id": "nn00923296",
+      "magnitude": 1.8,
+      "depth": 10,
+      "lat": 39.316,
+      "lon": -119.056,
+      "place": "18 km SE of Silver Springs, Nevada",
+      "time": "2026-08-14T10:42:47.997Z"
+    },
     {
       "id": "nc75418142",
       "magnitude": 1,
@@ -471,6 +525,15 @@
       "time": "2026-08-14T05:23:52.420Z"
     },
     {
+      "id": "tx2026pxkloa",
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 28.826,
+      "lon": -98.987,
+      "place": "12 km SE of Pearsall, Texas",
+      "time": "2026-08-14T05:03:29.050Z"
+    },
+    {
       "id": "ci40672274",
       "magnitude": 1.6,
       "depth": 8,
@@ -667,15 +730,6 @@
       "lon": 125.159,
       "place": "29 km SW of Balangonan, Philippines",
       "time": "2026-08-14T01:14:53.627Z"
-    },
-    {
-      "id": "tx2026pxcope",
-      "magnitude": 1.2,
-      "depth": 4,
-      "lat": 31.632,
-      "lon": -104.444,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": "2026-08-14T01:05:51.428Z"
     },
     {
       "id": "ci40672202",
@@ -1945,96 +1999,6 @@
       "lon": -153.195,
       "place": "56 km ENE of Pedro Bay, Alaska",
       "time": "2026-08-13T11:25:52.310Z"
-    },
-    {
-      "id": "ci40671722",
-      "magnitude": 0.7,
-      "depth": 8,
-      "lat": 32.936,
-      "lon": -116.335,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-13T11:24:00.170Z"
-    },
-    {
-      "id": "tx2026pwbdtc",
-      "magnitude": 0.8,
-      "depth": 7,
-      "lat": 31.949,
-      "lon": -103.844,
-      "place": "35 km NW of Mentone, Texas",
-      "time": "2026-08-13T11:18:26.920Z"
-    },
-    {
-      "id": "aka2026pypfow",
-      "magnitude": 2.7,
-      "depth": 185,
-      "lat": 51.912,
-      "lon": -179.352,
-      "place": "187 km W of Adak, Alaska",
-      "time": "2026-08-13T11:09:14.012Z"
-    },
-    {
-      "id": "tx2026pwaqwl",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 32.391,
-      "lon": -102.103,
-      "place": "39 km WSW of Ackerly, Texas",
-      "time": "2026-08-13T11:03:52.066Z"
-    },
-    {
-      "id": "uu80007863",
-      "magnitude": 1.7,
-      "depth": 2,
-      "lat": 38.507,
-      "lon": -112.885,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-13T10:57:42.060Z"
-    },
-    {
-      "id": "uu80007858",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 38.509,
-      "lon": -112.883,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-13T10:57:37.860Z"
-    },
-    {
-      "id": "uu80148601",
-      "magnitude": 2.6,
-      "depth": 4,
-      "lat": 38.514,
-      "lon": -112.886,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-13T10:57:26.460Z"
-    },
-    {
-      "id": "uu80148596",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.515,
-      "lon": -112.886,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-13T10:54:16.230Z"
-    },
-    {
-      "id": "nc75417472",
-      "magnitude": 2,
-      "depth": 11,
-      "lat": 40.225,
-      "lon": -121.129,
-      "place": "3 km NE of Prattville, CA",
-      "time": "2026-08-13T10:45:27.660Z"
-    },
-    {
-      "id": "aka2026pyoega",
-      "magnitude": 2.3,
-      "depth": 11,
-      "lat": 52.314,
-      "lon": -169.828,
-      "place": "95 km SW of Nikolski, Alaska",
-      "time": "2026-08-13T10:37:38.723Z"
     }
   ]
 }
