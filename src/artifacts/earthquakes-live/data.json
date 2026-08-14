@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-14T22:39:56.921Z",
-  "count": 252,
+  "generated": "2026-08-14T22:57:01.083Z",
+  "count": 254,
   "events": [
+    {
+      "id": "us6000tkuf",
+      "magnitude": 5.5,
+      "depth": 10,
+      "lat": -8.16,
+      "lon": 120.191,
+      "place": "49 km NE of Labuan Bajo, Indonesia",
+      "time": "2026-08-14T22:37:17.172Z"
+    },
     {
       "id": "aka2026qbhztk",
       "magnitude": 2.9,
@@ -19,6 +28,15 @@
       "lon": -103.848,
       "place": "15 km NNW of Toyah, Texas",
       "time": "2026-08-14T22:28:57.092Z"
+    },
+    {
+      "id": "us6000tkuc",
+      "magnitude": 6.1,
+      "depth": 10,
+      "lat": -8.319,
+      "lon": 121.572,
+      "place": "58 km N of Ende, Indonesia",
+      "time": "2026-08-14T22:28:37.550Z"
     },
     {
       "id": "uu80148836",
@@ -58,12 +76,12 @@
     },
     {
       "id": "ci40672922",
-      "magnitude": 1.9,
-      "depth": 12,
-      "lat": 33.6,
-      "lon": -117.177,
+      "magnitude": 0.3,
+      "depth": 13,
+      "lat": 33.602,
+      "lon": -117.175,
       "place": "5 km NNW of Murrieta Hot Springs, CA",
-      "time": "2026-08-14T22:10:34.730Z"
+      "time": "2026-08-14T22:10:34.660Z"
     },
     {
       "id": "hv75018922",
@@ -1254,6 +1272,24 @@
       "time": "2026-08-14T09:17:48.170Z"
     },
     {
+      "id": "av94382943",
+      "magnitude": -0.3,
+      "depth": 4,
+      "lat": 60.026,
+      "lon": -152.952,
+      "place": "68 km WNW of Anchor Point, Alaska",
+      "time": "2026-08-14T09:14:49.680Z"
+    },
+    {
+      "id": "av94382938",
+      "magnitude": -0.2,
+      "depth": 5,
+      "lat": 53.383,
+      "lon": -168.203,
+      "place": "66 km NE of Nikolski, Alaska",
+      "time": "2026-08-14T09:13:51.400Z"
+    },
+    {
       "id": "ci40672394",
       "magnitude": 1,
       "depth": 12,
@@ -1369,6 +1405,15 @@
       "lon": -98.952,
       "place": "14 km ESE of Pearsall, Texas",
       "time": "2026-08-14T08:20:11.778Z"
+    },
+    {
+      "id": "av94382828",
+      "magnitude": 0.1,
+      "depth": 4,
+      "lat": 58.274,
+      "lon": -154.992,
+      "place": "84 km NNW of Karluk, Alaska",
+      "time": "2026-08-14T08:17:26.570Z"
     },
     {
       "id": "hv75018557",
@@ -2242,33 +2287,6 @@
       "lon": -122.815,
       "place": "8 km WNW of Cobb, CA",
       "time": "2026-08-13T23:03:47.410Z"
-    },
-    {
-      "id": "nc75417802",
-      "magnitude": 0.3,
-      "depth": 2,
-      "lat": 38.847,
-      "lon": -122.845,
-      "place": "11 km WNW of Cobb, CA",
-      "time": "2026-08-13T22:47:04.530Z"
-    },
-    {
-      "id": "nc75417797",
-      "magnitude": 1.2,
-      "depth": 0,
-      "lat": 38.75,
-      "lon": -122.73,
-      "place": "4 km SE of The Geysers, CA",
-      "time": "2026-08-13T22:45:45.620Z"
-    },
-    {
-      "id": "av94381968",
-      "magnitude": 0.5,
-      "depth": 6,
-      "lat": 61.282,
-      "lon": -152.364,
-      "place": "70 km WNW of Tyonek, Alaska",
-      "time": "2026-08-13T22:44:31.210Z"
     }
   ]
 }
