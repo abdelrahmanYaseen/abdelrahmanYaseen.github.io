@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-14T21:40:41.113Z",
-  "count": 240,
+  "generated": "2026-08-14T21:56:43.882Z",
+  "count": 243,
   "events": [
+    {
+      "id": "ci40672914",
+      "magnitude": 1.1,
+      "depth": 14,
+      "lat": 33.996,
+      "lon": -116.79,
+      "place": "9 km N of Cabazon, CA",
+      "time": "2026-08-14T21:48:29.860Z"
+    },
+    {
+      "id": "nc75418417",
+      "magnitude": 0.9,
+      "depth": 10,
+      "lat": 35.881,
+      "lon": -121.247,
+      "place": "27 km N of San Simeon, CA",
+      "time": "2026-08-14T21:46:30.020Z"
+    },
     {
       "id": "nc75418397",
       "magnitude": 1.6,
@@ -1722,6 +1740,15 @@
       "time": "2026-08-14T03:21:38.460Z"
     },
     {
+      "id": "av94382393",
+      "magnitude": 0.6,
+      "depth": 5,
+      "lat": 51.86,
+      "lon": -176.597,
+      "place": "2 km ESE of Adak, Alaska",
+      "time": "2026-08-14T03:16:48.660Z"
+    },
+    {
       "id": "ci40672234",
       "magnitude": 1.1,
       "depth": 2,
@@ -1828,6 +1855,15 @@
       "lon": -122.769,
       "place": "3 km NNW of The Geysers, CA",
       "time": "2026-08-14T01:52:26.000Z"
+    },
+    {
+      "id": "av93065774",
+      "magnitude": -0.2,
+      "depth": 9,
+      "lat": 52.07,
+      "lon": -176.006,
+      "place": "48 km ENE of Adak, Alaska",
+      "time": "2026-08-14T01:23:16.390Z"
     },
     {
       "id": "us6000tkkw",
@@ -2152,15 +2188,6 @@
       "lon": -155.483,
       "place": "4 km S of Pāhala, Hawaii",
       "time": "2026-08-13T22:02:03.930Z"
-    },
-    {
-      "id": "aka2026pzkiqi",
-      "magnitude": 2.5,
-      "depth": 114,
-      "lat": 51.728,
-      "lon": -175.286,
-      "place": "90 km SW of Atka, Alaska",
-      "time": "2026-08-13T21:43:11.975Z"
     }
   ]
 }
