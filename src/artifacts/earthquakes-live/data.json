@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-14T21:56:43.882Z",
-  "count": 243,
+  "generated": "2026-08-14T22:14:00.353Z",
+  "count": 244,
   "events": [
+    {
+      "id": "uw714079361",
+      "magnitude": 2.1,
+      "depth": 1,
+      "lat": 44.125,
+      "lon": -121.351,
+      "place": "3 km SSW of Tumalo, Oregon",
+      "time": "2026-08-14T22:02:15.420Z"
+    },
     {
       "id": "ci40672914",
       "magnitude": 1.1,
@@ -1548,7 +1557,7 @@
       "lat": 34.029,
       "lon": -116.622,
       "place": "4 km WSW of Morongo Valley, CA",
-      "time": "2026-08-14T06:26:45.710Z"
+      "time": "2026-08-14T06:26:45.670Z"
     },
     {
       "id": "aka2026qabstb",
@@ -1693,6 +1702,24 @@
       "lon": -122.042,
       "place": "2 km W of Concord, CA",
       "time": "2026-08-14T04:15:53.950Z"
+    },
+    {
+      "id": "av94382488",
+      "magnitude": -0.9,
+      "depth": 4,
+      "lat": 54.133,
+      "lon": -165.98,
+      "place": "13 km W of Akutan, Alaska",
+      "time": "2026-08-14T04:15:27.630Z"
+    },
+    {
+      "id": "av94382478",
+      "magnitude": -1,
+      "depth": 4,
+      "lat": 54.133,
+      "lon": -165.978,
+      "place": "13 km W of Akutan, Alaska",
+      "time": "2026-08-14T04:14:02.600Z"
     },
     {
       "id": "nc75418037",
@@ -2170,24 +2197,6 @@
       "lon": -149.628,
       "place": "32 km NE of Chase, Alaska",
       "time": "2026-08-13T22:14:49.384Z"
-    },
-    {
-      "id": "av94381908",
-      "magnitude": 0.5,
-      "depth": 28,
-      "lat": 53.923,
-      "lon": -167.025,
-      "place": "31 km W of Dutch Harbor, Alaska",
-      "time": "2026-08-13T22:07:42.360Z"
-    },
-    {
-      "id": "hv75018232",
-      "magnitude": 2.1,
-      "depth": 27,
-      "lat": 19.16,
-      "lon": -155.483,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": "2026-08-13T22:02:03.930Z"
     }
   ]
 }
