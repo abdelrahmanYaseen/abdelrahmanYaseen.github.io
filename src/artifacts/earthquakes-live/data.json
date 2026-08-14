@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-14T20:51:49.254Z",
-  "count": 243,
+  "generated": "2026-08-14T21:14:29.666Z",
+  "count": 244,
   "events": [
+    {
+      "id": "nc75418382",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 36.012,
+      "lon": -120.572,
+      "place": "18 km NW of Parkfield, CA",
+      "time": "2026-08-14T21:05:55.620Z"
+    },
+    {
+      "id": "pr71528508",
+      "magnitude": 2.2,
+      "depth": 16,
+      "lat": 17.998,
+      "lon": -66.75,
+      "place": "2 km SE of Magas Arriba, Puerto Rico",
+      "time": "2026-08-14T20:50:02.890Z"
+    },
     {
       "id": "nc75418372",
       "magnitude": 2.4,
@@ -624,6 +642,15 @@
       "time": "2026-08-14T14:33:06.740Z"
     },
     {
+      "id": "av94383388",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 51.79,
+      "lon": -178.881,
+      "place": "155 km W of Adak, Alaska",
+      "time": "2026-08-14T14:30:26.490Z"
+    },
+    {
       "id": "ci40672514",
       "magnitude": 0.7,
       "depth": 5,
@@ -631,6 +658,15 @@
       "lon": -116.379,
       "place": "12 km ENE of Desert Hot Springs, CA",
       "time": "2026-08-14T14:26:12.530Z"
+    },
+    {
+      "id": "av94383363",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 51.8,
+      "lon": -178.893,
+      "place": "155 km W of Adak, Alaska",
+      "time": "2026-08-14T14:21:42.860Z"
     },
     {
       "id": "nc75418217",
@@ -1750,12 +1786,12 @@
     },
     {
       "id": "ci40672218",
-      "magnitude": 0.8,
-      "depth": 15,
+      "magnitude": 0.7,
+      "depth": 14,
       "lat": 33.883,
-      "lon": -116.864,
+      "lon": -116.863,
       "place": "5 km SSE of Banning, CA",
-      "time": "2026-08-14T01:55:38.540Z"
+      "time": "2026-08-14T01:55:38.590Z"
     },
     {
       "id": "nc75417962",
@@ -2161,33 +2197,6 @@
       "lon": -155.151,
       "place": "87 km NNW of Karluk, Alaska",
       "time": "2026-08-13T21:13:55.045Z"
-    },
-    {
-      "id": "nc75417737",
-      "magnitude": 0.4,
-      "depth": 2,
-      "lat": 38.791,
-      "lon": -122.768,
-      "place": "2 km NNW of The Geysers, CA",
-      "time": "2026-08-13T21:10:12.890Z"
-    },
-    {
-      "id": "hv75018192",
-      "magnitude": 1.9,
-      "depth": 36,
-      "lat": 19.157,
-      "lon": -155.494,
-      "place": "5 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-13T21:04:20.370Z"
-    },
-    {
-      "id": "ok2026puwh",
-      "magnitude": 1.4,
-      "depth": 17,
-      "lat": 34.973,
-      "lon": -96.499,
-      "place": "3 km NE of Sasakwa, Oklahoma",
-      "time": "2026-08-13T21:02:18.269Z"
     }
   ]
 }
