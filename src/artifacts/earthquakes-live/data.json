@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-14T21:14:29.666Z",
-  "count": 244,
+  "generated": "2026-08-14T21:40:41.113Z",
+  "count": 240,
   "events": [
+    {
+      "id": "nc75418397",
+      "magnitude": 1.6,
+      "depth": 2,
+      "lat": 38.825,
+      "lon": -122.767,
+      "place": "4 km W of Cobb, CA",
+      "time": "2026-08-14T21:24:13.830Z"
+    },
+    {
+      "id": "nc75418392",
+      "magnitude": 1.8,
+      "depth": 17,
+      "lat": 40.516,
+      "lon": -124.412,
+      "place": "14 km WSW of Ferndale, CA",
+      "time": "2026-08-14T21:14:58.230Z"
+    },
     {
       "id": "nc75418382",
       "magnitude": 0.9,
@@ -586,6 +604,15 @@
       "lon": -155.868,
       "place": "4 km S of Honaunau-Napoopoo, Hawaii",
       "time": "2026-08-14T15:29:38.370Z"
+    },
+    {
+      "id": "av94383498",
+      "magnitude": 0.1,
+      "depth": 5,
+      "lat": 51.812,
+      "lon": -178.74,
+      "place": "145 km W of Adak, Alaska",
+      "time": "2026-08-14T15:22:28.720Z"
     },
     {
       "id": "aka2026qatoeq",
@@ -1579,12 +1606,12 @@
     },
     {
       "id": "ci40672282",
-      "magnitude": 0.9,
-      "depth": 17,
-      "lat": 33.952,
-      "lon": -116.937,
-      "place": "4 km NE of Beaumont, CA",
-      "time": "2026-08-14T05:23:52.420Z"
+      "magnitude": 0.8,
+      "depth": 18,
+      "lat": 33.951,
+      "lon": -116.936,
+      "place": "4 km ENE of Beaumont, CA",
+      "time": "2026-08-14T05:23:52.370Z"
     },
     {
       "id": "tx2026pxksxe",
@@ -1893,6 +1920,15 @@
       "time": "2026-08-14T00:13:57.497Z"
     },
     {
+      "id": "av94382123",
+      "magnitude": -0.3,
+      "depth": 6,
+      "lat": 53.355,
+      "lon": -168.269,
+      "place": "60 km NE of Nikolski, Alaska",
+      "time": "2026-08-14T00:09:20.810Z"
+    },
+    {
       "id": "tx2026pxaoqj",
       "magnitude": 1.7,
       "depth": 7,
@@ -2125,78 +2161,6 @@
       "lon": -175.286,
       "place": "90 km SW of Atka, Alaska",
       "time": "2026-08-13T21:43:11.975Z"
-    },
-    {
-      "id": "ok2026puxo",
-      "magnitude": 1.1,
-      "depth": 11,
-      "lat": 35.023,
-      "lon": -97.897,
-      "place": "4 km SE of Chickasha, Oklahoma",
-      "time": "2026-08-13T21:40:03.450Z"
-    },
-    {
-      "id": "hv75018227",
-      "magnitude": 2,
-      "depth": 27,
-      "lat": 19.128,
-      "lon": -155.373,
-      "place": "13 km SE of Pāhala, Hawaii",
-      "time": "2026-08-13T21:39:10.620Z"
-    },
-    {
-      "id": "hv75018222",
-      "magnitude": 1.7,
-      "depth": 26,
-      "lat": 19.175,
-      "lon": -155.488,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-13T21:36:37.750Z"
-    },
-    {
-      "id": "uu80148666",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 38.515,
-      "lon": -112.89,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-13T21:34:52.370Z"
-    },
-    {
-      "id": "av94381848",
-      "magnitude": 0.3,
-      "depth": 7,
-      "lat": 53.353,
-      "lon": -168.213,
-      "place": "63 km NE of Nikolski, Alaska",
-      "time": "2026-08-13T21:23:16.750Z"
-    },
-    {
-      "id": "av94381838",
-      "magnitude": 0.2,
-      "depth": 1,
-      "lat": 58.166,
-      "lon": -155.365,
-      "place": "85 km NW of Karluk, Alaska",
-      "time": "2026-08-13T21:14:56.520Z"
-    },
-    {
-      "id": "hv75018207",
-      "magnitude": 2.1,
-      "depth": 30,
-      "lat": 19.136,
-      "lon": -155.496,
-      "place": "7 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-13T21:14:17.610Z"
-    },
-    {
-      "id": "aka2026pzjjwm",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 58.258,
-      "lon": -155.151,
-      "place": "87 km NNW of Karluk, Alaska",
-      "time": "2026-08-13T21:13:55.045Z"
     }
   ]
 }
