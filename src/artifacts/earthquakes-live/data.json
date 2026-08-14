@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-14T19:53:39.413Z",
-  "count": 233,
+  "generated": "2026-08-14T20:20:00.767Z",
+  "count": 237,
   "events": [
+    {
+      "id": "tx2026pyonzt",
+      "magnitude": 1.9,
+      "depth": 0,
+      "lat": 31.058,
+      "lon": -103.69,
+      "place": "9 km NNE of Balmorhea, Texas",
+      "time": "2026-08-14T20:12:14.880Z"
+    },
+    {
+      "id": "nn00923299",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 39.351,
+      "lon": -119.027,
+      "place": "18 km ESE of Silver Springs, Nevada",
+      "time": "2026-08-14T20:06:44.774Z"
+    },
+    {
+      "id": "aka2026qbddbh",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 62.25,
+      "lon": -152.262,
+      "place": "53 km WNW of Skwentna, Alaska",
+      "time": "2026-08-14T20:05:25.933Z"
+    },
+    {
+      "id": "tx2026pynysw",
+      "magnitude": 1.9,
+      "depth": 7,
+      "lat": 31.651,
+      "lon": -104.232,
+      "place": "55 km NW of Toyah, Texas",
+      "time": "2026-08-14T19:53:49.405Z"
+    },
+    {
+      "id": "nc75418337",
+      "magnitude": 1.1,
+      "depth": 5,
+      "lat": 36.574,
+      "lon": -121.177,
+      "place": "6 km NNW of Pinnacles, CA",
+      "time": "2026-08-14T19:51:54.420Z"
+    },
     {
       "id": "ci40672850",
       "magnitude": 1,
@@ -12,13 +57,22 @@
       "time": "2026-08-14T19:45:22.080Z"
     },
     {
+      "id": "tx2026pyniyk",
+      "magnitude": 0.9,
+      "depth": 8,
+      "lat": 31.836,
+      "lon": -101.703,
+      "place": "21 km W of Garden City, Texas",
+      "time": "2026-08-14T19:38:58.794Z"
+    },
+    {
       "id": "tx2026pynavk",
       "magnitude": 1.6,
       "depth": 2,
       "lat": 31.068,
       "lon": -103.393,
       "place": "34 km ENE of Balmorhea, Texas",
-      "time": "2026-08-14T19:26:17.585Z"
+      "time": "2026-08-14T19:26:17.584Z"
     },
     {
       "id": "ci40672810",
@@ -175,12 +229,12 @@
     },
     {
       "id": "ci40672730",
-      "magnitude": 1.1,
+      "magnitude": 0.9,
       "depth": 10,
-      "lat": 32.843,
-      "lon": -115.63,
-      "place": "6 km W of Imperial, CA",
-      "time": "2026-08-14T17:49:27.240Z"
+      "lat": 32.84,
+      "lon": -115.626,
+      "place": "5 km W of Imperial, CA",
+      "time": "2026-08-14T17:49:27.250Z"
     },
     {
       "id": "us6000tkrq",
@@ -2080,24 +2134,6 @@
       "lon": -172.639,
       "place": "44 km WSW of Lorino, Russia",
       "time": "2026-08-13T20:24:36.504Z"
-    },
-    {
-      "id": "hv75018112",
-      "magnitude": 3.1,
-      "depth": 32,
-      "lat": 19.148,
-      "lon": -155.499,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-13T20:05:09.830Z"
-    },
-    {
-      "id": "ci40672138",
-      "magnitude": 0.6,
-      "depth": 8,
-      "lat": 32.917,
-      "lon": -116.241,
-      "place": "27 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-13T19:53:32.350Z"
     }
   ]
 }
