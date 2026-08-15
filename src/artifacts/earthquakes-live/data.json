@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-15T04:53:18.514Z",
-  "count": 277,
+  "generated": "2026-08-15T05:14:57.493Z",
+  "count": 276,
   "events": [
+    {
+      "id": "ci40673002",
+      "magnitude": 1.4,
+      "depth": 11,
+      "lat": 34.118,
+      "lon": -118.048,
+      "place": "1 km NE of Temple City, CA",
+      "time": "2026-08-15T05:07:32.270Z"
+    },
+    {
+      "id": "nc75418607",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 38.758,
+      "lon": -122.737,
+      "place": "3 km SE of The Geysers, CA",
+      "time": "2026-08-15T05:04:57.840Z"
+    },
+    {
+      "id": "nc75418602",
+      "magnitude": 1.1,
+      "depth": 1,
+      "lat": 38.757,
+      "lon": -122.736,
+      "place": "3 km SE of The Geysers, CA",
+      "time": "2026-08-15T05:02:18.380Z"
+    },
     {
       "id": "nc75418592",
       "magnitude": 1.1,
@@ -19,6 +46,15 @@
       "lon": -155.504,
       "place": "6 km SSW of Pāhala, Hawaii",
       "time": "2026-08-15T04:40:23.440Z"
+    },
+    {
+      "id": "us6000tkwe",
+      "magnitude": 4.2,
+      "depth": 545,
+      "lat": -20.419,
+      "lon": -177.926,
+      "place": "285 km WNW of Houma, Tonga",
+      "time": "2026-08-15T04:31:18.890Z"
     },
     {
       "id": "us6000tkwd",
@@ -401,11 +437,11 @@
     {
       "id": "tx2026pyvmcu",
       "magnitude": 0.9,
-      "depth": 3,
-      "lat": 31.63,
-      "lon": -104.122,
+      "depth": 2,
+      "lat": 31.624,
+      "lon": -104.119,
       "place": "46 km NW of Toyah, Texas",
-      "time": "2026-08-14T23:40:43.003Z"
+      "time": "2026-08-14T23:40:43.082Z"
     },
     {
       "id": "tx2026pyvhfj",
@@ -2449,51 +2485,6 @@
       "lon": -116.936,
       "place": "4 km ENE of Beaumont, CA",
       "time": "2026-08-14T05:23:52.370Z"
-    },
-    {
-      "id": "tx2026pxksxe",
-      "magnitude": 0.1,
-      "depth": 7,
-      "lat": 32.389,
-      "lon": -102.098,
-      "place": "39 km WSW of Ackerly, Texas",
-      "time": "2026-08-14T05:11:48.661Z"
-    },
-    {
-      "id": "tx2026pxkloa",
-      "magnitude": 1.5,
-      "depth": 9,
-      "lat": 28.826,
-      "lon": -98.987,
-      "place": "12 km SE of Pearsall, Texas",
-      "time": "2026-08-14T05:03:29.050Z"
-    },
-    {
-      "id": "ci40672274",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 34.368,
-      "lon": -117.656,
-      "place": "2 km WNW of Wrightwood, CA",
-      "time": "2026-08-14T05:03:19.670Z"
-    },
-    {
-      "id": "ci40672266",
-      "magnitude": 2.5,
-      "depth": 15,
-      "lat": 33.993,
-      "lon": -118.872,
-      "place": "6 km WSW of Malibu, CA",
-      "time": "2026-08-14T04:58:48.780Z"
-    },
-    {
-      "id": "us6000tklc",
-      "magnitude": 4.8,
-      "depth": 516,
-      "lat": 27.639,
-      "lon": 139.588,
-      "place": "Bonin Islands, Japan region",
-      "time": "2026-08-14T04:53:15.378Z"
     }
   ]
 }
