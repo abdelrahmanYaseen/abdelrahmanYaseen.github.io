@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-15T09:14:48.633Z",
-  "count": 281,
+  "generated": "2026-08-15T09:40:37.968Z",
+  "count": 284,
   "events": [
+    {
+      "id": "nc75418707",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.84,
+      "lon": -122.875,
+      "place": "12 km NW of The Geysers, CA",
+      "time": "2026-08-15T09:28:35.590Z"
+    },
+    {
+      "id": "nc75418702",
+      "magnitude": 0.7,
+      "depth": 4,
+      "lat": 38.812,
+      "lon": -122.822,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-15T09:27:06.070Z"
+    },
+    {
+      "id": "nc75418692",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 38.828,
+      "lon": -122.854,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": "2026-08-15T09:25:23.190Z"
+    },
     {
       "id": "hv75019147",
       "magnitude": 1.9,
@@ -849,6 +876,15 @@
       "time": "2026-08-15T01:10:51.635Z"
     },
     {
+      "id": "aka2026qbndbm",
+      "magnitude": 2.2,
+      "depth": 27,
+      "lat": 51.324,
+      "lon": -179.089,
+      "place": "180 km WSW of Adak, Alaska",
+      "time": "2026-08-15T01:05:16.597Z"
+    },
+    {
       "id": "nc75418482",
       "magnitude": 0.9,
       "depth": 3,
@@ -1029,13 +1065,22 @@
       "time": "2026-08-14T23:12:31.091Z"
     },
     {
+      "id": "aka2026qbjdzh",
+      "magnitude": 1.4,
+      "depth": 13,
+      "lat": 64.019,
+      "lon": -149.217,
+      "place": "4 km W of Ferry, Alaska",
+      "time": "2026-08-14T23:06:24.735Z"
+    },
+    {
       "id": "aka2026qbjdaz",
       "magnitude": 2.4,
-      "depth": 0,
-      "lat": 64.964,
-      "lon": -147.516,
-      "place": "4 km E of Fox, Alaska",
-      "time": "2026-08-14T23:05:20.124Z"
+      "depth": 1,
+      "lat": 64.974,
+      "lon": -147.472,
+      "place": "7 km ENE of Fox, Alaska",
+      "time": "2026-08-14T23:05:19.840Z"
     },
     {
       "id": "us6000tkv2",
@@ -1045,6 +1090,15 @@
       "lon": -3.649,
       "place": "1 km SW of Otura, Spain",
       "time": "2026-08-14T23:04:40.797Z"
+    },
+    {
+      "id": "aka2026qbjbxe",
+      "magnitude": 2.2,
+      "depth": 74,
+      "lat": 51.71,
+      "lon": -176.114,
+      "place": "40 km ESE of Adak, Alaska",
+      "time": "2026-08-14T23:04:01.062Z"
     },
     {
       "id": "tx2026pyufsf",
@@ -2503,33 +2557,6 @@
       "lon": -104.371,
       "place": "58 km S of Whites City, New Mexico",
       "time": "2026-08-14T09:45:53.965Z"
-    },
-    {
-      "id": "nm60626746",
-      "magnitude": 1.9,
-      "depth": 7,
-      "lat": 36.53,
-      "lon": -89.549,
-      "place": "5 km ENE of Marston, Missouri",
-      "time": "2026-08-14T09:31:40.100Z"
-    },
-    {
-      "id": "nc75418112",
-      "magnitude": 0.6,
-      "depth": 12,
-      "lat": 37.826,
-      "lon": -122.072,
-      "place": "4 km SW of Alamo, CA",
-      "time": "2026-08-14T09:17:48.170Z"
-    },
-    {
-      "id": "av94382943",
-      "magnitude": -0.3,
-      "depth": 4,
-      "lat": 60.026,
-      "lon": -152.952,
-      "place": "68 km WNW of Anchor Point, Alaska",
-      "time": "2026-08-14T09:14:49.680Z"
     }
   ]
 }
