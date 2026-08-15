@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-15T21:12:33.023Z",
-  "count": 261,
+  "generated": "2026-08-15T21:33:57.312Z",
+  "count": 258,
   "events": [
+    {
+      "id": "nc75419027",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 38.795,
+      "lon": -122.809,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": "2026-08-15T21:28:48.880Z"
+    },
+    {
+      "id": "ci40673370",
+      "magnitude": 0.9,
+      "depth": 5,
+      "lat": 33.183,
+      "lon": -116.032,
+      "place": "10 km ENE of Ocotillo Wells, CA",
+      "time": "2026-08-15T21:23:51.740Z"
+    },
     {
       "id": "nc75418992",
       "magnitude": 2.1,
@@ -2305,51 +2323,6 @@
       "lon": -121.247,
       "place": "27 km N of San Simeon, CA",
       "time": "2026-08-14T21:46:30.020Z"
-    },
-    {
-      "id": "uu80148831",
-      "magnitude": 1.6,
-      "depth": 3,
-      "lat": 38.517,
-      "lon": -112.889,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-14T21:28:48.970Z"
-    },
-    {
-      "id": "nc75418397",
-      "magnitude": 1.6,
-      "depth": 2,
-      "lat": 38.825,
-      "lon": -122.767,
-      "place": "4 km W of Cobb, CA",
-      "time": "2026-08-14T21:24:13.830Z"
-    },
-    {
-      "id": "ci40672898",
-      "magnitude": 0.5,
-      "depth": 7,
-      "lat": 33.895,
-      "lon": -117.668,
-      "place": "10 km WNW of Corona, CA",
-      "time": "2026-08-14T21:19:01.960Z"
-    },
-    {
-      "id": "av94384108",
-      "magnitude": 0.6,
-      "depth": 8,
-      "lat": 52.101,
-      "lon": -176.176,
-      "place": "40 km NE of Adak, Alaska",
-      "time": "2026-08-14T21:17:06.300Z"
-    },
-    {
-      "id": "nc75418392",
-      "magnitude": 1.8,
-      "depth": 17,
-      "lat": 40.516,
-      "lon": -124.412,
-      "place": "14 km WSW of Ferndale, CA",
-      "time": "2026-08-14T21:14:58.230Z"
     }
   ]
 }
