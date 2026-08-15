@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-15T05:59:03.113Z",
-  "count": 275,
+  "generated": "2026-08-15T06:35:04.170Z",
+  "count": 276,
   "events": [
+    {
+      "id": "ci40673018",
+      "magnitude": 1.4,
+      "depth": 10,
+      "lat": 33.046,
+      "lon": -116.437,
+      "place": "16 km ESE of Julian, CA",
+      "time": "2026-08-15T06:21:07.450Z"
+    },
+    {
+      "id": "hv75019107",
+      "magnitude": 2.6,
+      "depth": 22,
+      "lat": 19.453,
+      "lon": -155.241,
+      "place": "1 km NNW of Volcano, Hawaii",
+      "time": "2026-08-15T06:11:43.760Z"
+    },
+    {
+      "id": "nc75418627",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.827,
+      "lon": -122.796,
+      "place": "6 km W of Cobb, CA",
+      "time": "2026-08-15T06:04:57.170Z"
+    },
+    {
+      "id": "aka2026qbwzhu",
+      "magnitude": 2.8,
+      "depth": 15,
+      "lat": 61.617,
+      "lon": -149.836,
+      "place": "1 km SSW of Houston, Alaska",
+      "time": "2026-08-15T06:00:49.516Z"
+    },
+    {
+      "id": "tx2026pzhyoa",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 32.259,
+      "lon": -101.917,
+      "place": "18 km NW of Stanton, Texas",
+      "time": "2026-08-15T05:57:32.228Z"
+    },
     {
       "id": "aka2026qbwtip",
       "magnitude": 2.3,
@@ -10,6 +55,15 @@
       "lon": -156.464,
       "place": "53 km E of Egegik, Alaska",
       "time": "2026-08-15T05:53:57.175Z"
+    },
+    {
+      "id": "us6000tkwj",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -8.368,
+      "lon": 121.361,
+      "place": "62 km NNW of Ende, Indonesia",
+      "time": "2026-08-15T05:45:08.046Z"
     },
     {
       "id": "uw714079441",
@@ -2431,51 +2485,6 @@
       "lon": -116.802,
       "place": "12 km W of Anza, CA",
       "time": "2026-08-14T06:43:49.460Z"
-    },
-    {
-      "id": "hv75018532",
-      "magnitude": 1.9,
-      "depth": 31,
-      "lat": 19.264,
-      "lon": -155.409,
-      "place": "10 km NE of Pāhala, Hawaii",
-      "time": "2026-08-14T06:30:10.690Z"
-    },
-    {
-      "id": "ci40672298",
-      "magnitude": 0.9,
-      "depth": 10,
-      "lat": 34.029,
-      "lon": -116.622,
-      "place": "4 km WSW of Morongo Valley, CA",
-      "time": "2026-08-14T06:26:45.670Z"
-    },
-    {
-      "id": "aka2026qabstb",
-      "magnitude": 2,
-      "depth": 107,
-      "lat": 62.83,
-      "lon": -151.107,
-      "place": "41 km NNW of Petersville, Alaska",
-      "time": "2026-08-14T06:23:53.898Z"
-    },
-    {
-      "id": "nc75418052",
-      "magnitude": 1.8,
-      "depth": 0,
-      "lat": 36.556,
-      "lon": -121.178,
-      "place": "4 km NW of Pinnacles, CA",
-      "time": "2026-08-14T06:21:52.550Z"
-    },
-    {
-      "id": "uu80148691",
-      "magnitude": 1.2,
-      "depth": 1,
-      "lat": 38.507,
-      "lon": -112.882,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-14T06:15:55.060Z"
     }
   ]
 }
