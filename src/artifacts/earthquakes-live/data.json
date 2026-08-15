@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-15T21:33:57.312Z",
+  "generated": "2026-08-15T21:54:04.480Z",
   "count": 258,
   "events": [
+    {
+      "id": "ci40673394",
+      "magnitude": 0.6,
+      "depth": 12,
+      "lat": 33.233,
+      "lon": -116.737,
+      "place": "3 km ESE of Lake Henshaw, CA",
+      "time": "2026-08-15T21:36:12.540Z"
+    },
     {
       "id": "nc75419027",
       "magnitude": 0.8,
@@ -343,6 +352,15 @@
       "lon": -152.467,
       "place": "73 km WNW of Tyonek, Alaska",
       "time": "2026-08-15T16:47:40.064Z"
+    },
+    {
+      "id": "us6000tl2a",
+      "magnitude": 4.1,
+      "depth": 99,
+      "lat": 38.619,
+      "lon": 73.921,
+      "place": "49 km N of Murghob, Tajikistan",
+      "time": "2026-08-15T16:47:26.516Z"
     },
     {
       "id": "aka2026qcsmpr",
@@ -2305,24 +2323,6 @@
       "lon": -104.434,
       "place": "56 km S of Whites City, New Mexico",
       "time": "2026-08-14T21:55:45.183Z"
-    },
-    {
-      "id": "ci40672914",
-      "magnitude": 1.1,
-      "depth": 14,
-      "lat": 33.996,
-      "lon": -116.79,
-      "place": "9 km N of Cabazon, CA",
-      "time": "2026-08-14T21:48:29.860Z"
-    },
-    {
-      "id": "nc75418417",
-      "magnitude": 0.9,
-      "depth": 10,
-      "lat": 35.881,
-      "lon": -121.247,
-      "place": "27 km N of San Simeon, CA",
-      "time": "2026-08-14T21:46:30.020Z"
     }
   ]
 }
