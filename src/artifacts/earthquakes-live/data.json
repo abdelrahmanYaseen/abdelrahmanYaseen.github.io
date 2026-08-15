@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-15T17:35:13.875Z",
-  "count": 273,
+  "generated": "2026-08-15T17:54:46.332Z",
+  "count": 269,
   "events": [
+    {
+      "id": "ci40673282",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 33.883,
+      "lon": -117.697,
+      "place": "11 km E of Yorba Linda, CA",
+      "time": "2026-08-15T17:43:52.820Z"
+    },
     {
       "id": "ci40673274",
       "magnitude": 1.2,
@@ -10,6 +19,15 @@
       "lon": -117.39,
       "place": "3 km SSE of Devore, CA",
       "time": "2026-08-15T17:21:49.960Z"
+    },
+    {
+      "id": "us6000tl2p",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": -8.38,
+      "lon": 121.495,
+      "place": "54 km NNW of Ende, Indonesia",
+      "time": "2026-08-15T17:21:07.767Z"
     },
     {
       "id": "tx2026qaepta",
@@ -23,11 +41,11 @@
     {
       "id": "hv75019242",
       "magnitude": 3.4,
-      "depth": 15,
+      "depth": 36,
       "lat": 19.521,
-      "lon": -156.419,
-      "place": "45 km WSW of Kailua-Kona, Hawaii",
-      "time": "2026-08-15T17:09:29.400Z"
+      "lon": -156.403,
+      "place": "44 km WSW of Kailua-Kona, Hawaii",
+      "time": "2026-08-15T17:09:29.280Z"
     },
     {
       "id": "aka2026qcsvho",
@@ -2404,60 +2422,6 @@
       "lon": -104.176,
       "place": "50 km NW of Toyah, Texas",
       "time": "2026-08-14T17:55:22.749Z"
-    },
-    {
-      "id": "ci40672738",
-      "magnitude": 0.7,
-      "depth": 9,
-      "lat": 35.119,
-      "lon": -118.207,
-      "place": "8 km NNW of Mojave, CA",
-      "time": "2026-08-14T17:52:16.640Z"
-    },
-    {
-      "id": "pr71528493",
-      "magnitude": 3,
-      "depth": 74,
-      "lat": 18.444,
-      "lon": -64.1,
-      "place": "74 km E of Cruz Bay, U.S. Virgin Islands",
-      "time": "2026-08-14T17:51:00.190Z"
-    },
-    {
-      "id": "ci40672730",
-      "magnitude": 0.9,
-      "depth": 10,
-      "lat": 32.84,
-      "lon": -115.626,
-      "place": "5 km W of Imperial, CA",
-      "time": "2026-08-14T17:49:27.250Z"
-    },
-    {
-      "id": "us6000tkrq",
-      "magnitude": 4.5,
-      "depth": 35,
-      "lat": 51.371,
-      "lon": 158.869,
-      "place": "165 km E of Ozernovskiy, Russia",
-      "time": "2026-08-14T17:47:42.334Z"
-    },
-    {
-      "id": "uw714079171",
-      "magnitude": -0.3,
-      "depth": 6,
-      "lat": 46.844,
-      "lon": -121.887,
-      "place": "14 km NE of Ashford, Washington",
-      "time": "2026-08-14T17:38:23.740Z"
-    },
-    {
-      "id": "ci40672706",
-      "magnitude": 1.5,
-      "depth": 7,
-      "lat": 32.914,
-      "lon": -116.243,
-      "place": "28 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-14T17:35:58.210Z"
     }
   ]
 }
