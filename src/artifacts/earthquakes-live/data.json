@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-15T12:58:15.535Z",
-  "count": 275,
+  "generated": "2026-08-15T13:26:43.933Z",
+  "count": 276,
   "events": [
+    {
+      "id": "ci40673146",
+      "magnitude": 0.9,
+      "depth": 8,
+      "lat": 32.913,
+      "lon": -116.245,
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-15T13:20:15.770Z"
+    },
+    {
+      "id": "nc75418772",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 38.774,
+      "lon": -122.716,
+      "place": "2 km W of Anderson Springs, CA",
+      "time": "2026-08-15T13:12:52.270Z"
+    },
+    {
+      "id": "ci40673138",
+      "magnitude": 1.3,
+      "depth": 15,
+      "lat": 34.005,
+      "lon": -117.264,
+      "place": "5 km S of Loma Linda, CA",
+      "time": "2026-08-15T13:11:01.400Z"
+    },
+    {
+      "id": "nc75418767",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 38.835,
+      "lon": -122.786,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-15T13:10:26.260Z"
+    },
+    {
+      "id": "nc75418762",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 36.059,
+      "lon": -121.488,
+      "place": "8 km ENE of Lopez Point, CA",
+      "time": "2026-08-15T13:03:15.180Z"
+    },
+    {
+      "id": "nc75418757",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 36.06,
+      "lon": -121.487,
+      "place": "8 km ENE of Lopez Point, CA",
+      "time": "2026-08-15T13:02:17.050Z"
+    },
+    {
+      "id": "aka2026qckwmv",
+      "magnitude": 1.4,
+      "depth": 9,
+      "lat": 63.57,
+      "lon": -147.748,
+      "place": "60 km ESE of Denali Park, Alaska",
+      "time": "2026-08-15T12:57:24.463Z"
+    },
     {
       "id": "aka2026qcjppz",
       "magnitude": 2,
@@ -244,6 +307,15 @@
       "lon": -155.359,
       "place": "15 km NE of Pāhala, Hawaii",
       "time": "2026-08-15T09:10:09.810Z"
+    },
+    {
+      "id": "us6000tky5",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": -8.13,
+      "lon": 120.493,
+      "place": "53 km N of Ruteng, Indonesia",
+      "time": "2026-08-15T09:08:22.294Z"
     },
     {
       "id": "hv75019142",
@@ -525,6 +597,15 @@
       "time": "2026-08-15T07:11:07.810Z"
     },
     {
+      "id": "nm60626801",
+      "magnitude": 2.2,
+      "depth": 7,
+      "lat": 36.551,
+      "lon": -89.729,
+      "place": "7 km SSW of Catron, Missouri",
+      "time": "2026-08-15T07:06:42.150Z"
+    },
+    {
       "id": "ok2026pxlr",
       "magnitude": 1.7,
       "depth": 5,
@@ -651,13 +732,13 @@
       "time": "2026-08-15T05:56:46.130Z"
     },
     {
-      "id": "aka2026qbwujv",
+      "id": "us6000tkxt",
       "magnitude": 2.9,
-      "depth": 177,
-      "lat": 51.854,
-      "lon": -171.641,
-      "place": "179 km ESE of Atka, Alaska",
-      "time": "2026-08-15T05:54:35.919Z"
+      "depth": 10,
+      "lat": 51.021,
+      "lon": -171.233,
+      "place": "243 km ESE of Atka, Alaska",
+      "time": "2026-08-15T05:54:31.347Z"
     },
     {
       "id": "aka2026qbwtip",
@@ -2404,78 +2485,6 @@
       "lon": -179.576,
       "place": "204 km W of Adak, Alaska",
       "time": "2026-08-14T13:33:27.080Z"
-    },
-    {
-      "id": "nc75418202",
-      "magnitude": 0.6,
-      "depth": 10,
-      "lat": 35.954,
-      "lon": -120.522,
-      "place": "10 km NW of Parkfield, CA",
-      "time": "2026-08-14T13:25:34.370Z"
-    },
-    {
-      "id": "hv75018662",
-      "magnitude": 2,
-      "depth": 28,
-      "lat": 19.163,
-      "lon": -155.484,
-      "place": "4 km S of Pāhala, Hawaii",
-      "time": "2026-08-14T13:21:40.280Z"
-    },
-    {
-      "id": "uu80148751",
-      "magnitude": 1.5,
-      "depth": 2,
-      "lat": 38.505,
-      "lon": -112.883,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-14T13:18:50.010Z"
-    },
-    {
-      "id": "av93065789",
-      "magnitude": 0.1,
-      "depth": 4,
-      "lat": 58.287,
-      "lon": -155,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": "2026-08-14T13:12:23.200Z"
-    },
-    {
-      "id": "tx2026pyaqqd",
-      "magnitude": 1.3,
-      "depth": 2,
-      "lat": 31.435,
-      "lon": -103.927,
-      "place": "18 km NW of Toyah, Texas",
-      "time": "2026-08-14T13:12:10.702Z"
-    },
-    {
-      "id": "ci40672466",
-      "magnitude": 0.1,
-      "depth": 6,
-      "lat": 33.538,
-      "lon": -116.711,
-      "place": "4 km WSW of Anza, CA",
-      "time": "2026-08-14T13:01:49.410Z"
-    },
-    {
-      "id": "uw714079081",
-      "magnitude": 1.5,
-      "depth": 11,
-      "lat": 47.64,
-      "lon": -122.001,
-      "place": "2 km WNW of Ames Lake, Washington",
-      "time": "2026-08-14T12:58:35.350Z"
-    },
-    {
-      "id": "uu80148746",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.508,
-      "lon": -112.884,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-14T12:58:24.130Z"
     }
   ]
 }
