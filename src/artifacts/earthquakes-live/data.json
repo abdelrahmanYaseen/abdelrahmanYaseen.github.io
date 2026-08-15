@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T21:54:04.480Z",
-  "count": 258,
+  "generated": "2026-08-15T22:08:43.191Z",
+  "count": 257,
   "events": [
     {
       "id": "ci40673394",
@@ -28,6 +28,15 @@
       "lon": -116.032,
       "place": "10 km ENE of Ocotillo Wells, CA",
       "time": "2026-08-15T21:23:51.740Z"
+    },
+    {
+      "id": "tx2026qambhg",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 31.296,
+      "lon": -103.599,
+      "place": "9 km SW of Lindsay, Texas",
+      "time": "2026-08-15T21:05:21.142Z"
     },
     {
       "id": "nc75418992",
@@ -334,6 +343,15 @@
       "lon": -156.403,
       "place": "44 km WSW of Kailua-Kona, Hawaii",
       "time": "2026-08-15T17:09:29.280Z"
+    },
+    {
+      "id": "us6000tl2c",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": -7.795,
+      "lon": 120.688,
+      "place": "93 km NNE of Ruteng, Indonesia",
+      "time": "2026-08-15T16:58:05.970Z"
     },
     {
       "id": "aka2026qcsvho",
@@ -2172,13 +2190,13 @@
       "time": "2026-08-14T22:54:54.655Z"
     },
     {
-      "id": "aka2026qbishp",
-      "magnitude": 3.6,
-      "depth": 20,
-      "lat": 56.383,
-      "lon": -149.428,
-      "place": "220 km SE of Chiniak, Alaska",
-      "time": "2026-08-14T22:53:17.820Z"
+      "id": "us6000tkx9",
+      "magnitude": 2.6,
+      "depth": 10,
+      "lat": 56.353,
+      "lon": -149.433,
+      "place": "222 km SE of Chiniak, Alaska",
+      "time": "2026-08-14T22:53:16.070Z"
     },
     {
       "id": "us6000tkuw",
@@ -2296,33 +2314,6 @@
       "lon": -155.876,
       "place": "1 km SW of Honaunau-Napoopoo, Hawaii",
       "time": "2026-08-14T22:10:11.190Z"
-    },
-    {
-      "id": "uw714079361",
-      "magnitude": 2.1,
-      "depth": 1,
-      "lat": 44.125,
-      "lon": -121.351,
-      "place": "3 km SSW of Tumalo, Oregon",
-      "time": "2026-08-14T22:02:15.420Z"
-    },
-    {
-      "id": "us6000tkt2",
-      "magnitude": 7.7,
-      "depth": 10,
-      "lat": -8.31,
-      "lon": 121.352,
-      "place": "68 km NNW of Ende, Indonesia",
-      "time": "2026-08-14T21:58:21.564Z"
-    },
-    {
-      "id": "tx2026pyrziy",
-      "magnitude": 1.1,
-      "depth": 5,
-      "lat": 31.671,
-      "lon": -104.434,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": "2026-08-14T21:55:45.183Z"
     }
   ]
 }
