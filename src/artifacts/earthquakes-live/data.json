@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-15T07:14:24.249Z",
-  "count": 271,
+  "generated": "2026-08-15T07:44:02.892Z",
+  "count": 270,
   "events": [
+    {
+      "id": "nc75418657",
+      "magnitude": 1.5,
+      "depth": 6,
+      "lat": 37.459,
+      "lon": -118.842,
+      "place": "18 km SW of Toms Place, CA",
+      "time": "2026-08-15T07:30:46.710Z"
+    },
+    {
+      "id": "nc75418652",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.796,
+      "lon": -122.774,
+      "place": "3 km NW of The Geysers, CA",
+      "time": "2026-08-15T07:29:29.900Z"
+    },
+    {
+      "id": "ci40673034",
+      "magnitude": 0.6,
+      "depth": 5,
+      "lat": 35.529,
+      "lon": -117.403,
+      "place": "26 km S of Trona, CA",
+      "time": "2026-08-15T07:27:15.490Z"
+    },
+    {
+      "id": "nc75418647",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.833,
+      "lon": -122.814,
+      "place": "8 km NW of The Geysers, CA",
+      "time": "2026-08-15T07:21:38.040Z"
+    },
+    {
+      "id": "hv75019127",
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 19.366,
+      "lon": -155.465,
+      "place": "18 km N of Pāhala, Hawaii",
+      "time": "2026-08-15T07:11:07.810Z"
+    },
     {
       "id": "ok2026pxlr",
       "magnitude": 1.7,
@@ -625,12 +670,12 @@
     },
     {
       "id": "aka2026qbjngl",
-      "magnitude": 2.6,
-      "depth": 37,
-      "lat": 57.871,
-      "lon": -152.848,
-      "place": "2 km E of Port Lions, Alaska",
-      "time": "2026-08-14T23:17:12.156Z"
+      "magnitude": 2.8,
+      "depth": 44,
+      "lat": 57.837,
+      "lon": -152.83,
+      "place": "4 km SE of Port Lions, Alaska",
+      "time": "2026-08-14T23:17:11.657Z"
     },
     {
       "id": "us6000tkv9",
@@ -2386,60 +2431,6 @@
       "lon": -101.615,
       "place": "17 km ESE of Stanton, Texas",
       "time": "2026-08-14T07:45:21.587Z"
-    },
-    {
-      "id": "aka2026qaehmo",
-      "magnitude": 1.4,
-      "depth": 5,
-      "lat": 62.249,
-      "lon": -152.278,
-      "place": "54 km WNW of Skwentna, Alaska",
-      "time": "2026-08-14T07:40:52.930Z"
-    },
-    {
-      "id": "ci40672338",
-      "magnitude": 0.7,
-      "depth": 9,
-      "lat": 32.938,
-      "lon": -116.334,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-14T07:38:55.120Z"
-    },
-    {
-      "id": "ok2026pvri",
-      "magnitude": 1.6,
-      "depth": 4,
-      "lat": 34.445,
-      "lon": -97.599,
-      "place": "7 km ESE of Velma, Oklahoma",
-      "time": "2026-08-14T07:38:40.619Z"
-    },
-    {
-      "id": "uu80148696",
-      "magnitude": 0.8,
-      "depth": 0,
-      "lat": 38.522,
-      "lon": -112.887,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-14T07:34:25.160Z"
-    },
-    {
-      "id": "ci40672330",
-      "magnitude": 0.7,
-      "depth": 5,
-      "lat": 33.18,
-      "lon": -116.031,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": "2026-08-14T07:32:21.670Z"
-    },
-    {
-      "id": "ci40672322",
-      "magnitude": 1,
-      "depth": 6,
-      "lat": 33.178,
-      "lon": -116.031,
-      "place": "10 km ENE of Ocotillo Wells, CA",
-      "time": "2026-08-14T07:28:56.690Z"
     }
   ]
 }
