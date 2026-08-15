@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-14T23:57:24.767Z",
-  "count": 262,
+  "generated": "2026-08-15T00:53:57.628Z",
+  "count": 264,
   "events": [
+    {
+      "id": "nc75418467",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.794,
+      "lon": -122.754,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-08-15T00:47:49.290Z"
+    },
+    {
+      "id": "aka2026qbltfw",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 64.525,
+      "lon": -149.379,
+      "place": "14 km WSW of Nenana, Alaska",
+      "time": "2026-08-15T00:23:58.646Z"
+    },
     {
       "id": "aka2026qbkref",
       "magnitude": 1.4,
@@ -12,13 +30,31 @@
       "time": "2026-08-14T23:51:36.554Z"
     },
     {
+      "id": "av94384338",
+      "magnitude": 1.2,
+      "depth": 13,
+      "lat": 51.691,
+      "lon": -178.726,
+      "place": "145 km W of Adak, Alaska",
+      "time": "2026-08-14T23:41:47.120Z"
+    },
+    {
       "id": "tx2026pyvmcu",
-      "magnitude": 1.8,
+      "magnitude": 0.9,
       "depth": 3,
-      "lat": 31.574,
-      "lon": -104.117,
-      "place": "42 km NW of Toyah, Texas",
-      "time": "2026-08-14T23:40:44.238Z"
+      "lat": 31.63,
+      "lon": -104.122,
+      "place": "46 km NW of Toyah, Texas",
+      "time": "2026-08-14T23:40:43.003Z"
+    },
+    {
+      "id": "tx2026pyvhfj",
+      "magnitude": 2.9,
+      "depth": 4,
+      "lat": 31.225,
+      "lon": -103.333,
+      "place": "25 km SE of Lindsay, Texas",
+      "time": "2026-08-14T23:34:49.885Z"
     },
     {
       "id": "nc75418427",
@@ -54,7 +90,7 @@
       "lat": 31.7,
       "lon": -104.571,
       "place": "55 km SSW of Whites City, New Mexico",
-      "time": "2026-08-14T23:13:40.601Z"
+      "time": "2026-08-14T23:13:40.599Z"
     },
     {
       "id": "us6000tkv7",
@@ -100,6 +136,15 @@
       "lon": -155.241,
       "place": "41 km ESE of Naalehu, Hawaii",
       "time": "2026-08-14T22:55:36.430Z"
+    },
+    {
+      "id": "us6000tkuv",
+      "magnitude": 3.4,
+      "depth": 35,
+      "lat": 54.527,
+      "lon": -161.763,
+      "place": "69 km SSE of King Cove, Alaska",
+      "time": "2026-08-14T22:54:54.655Z"
     },
     {
       "id": "us6000tkuw",
@@ -291,6 +336,15 @@
       "time": "2026-08-14T21:19:01.960Z"
     },
     {
+      "id": "av94384108",
+      "magnitude": 0.6,
+      "depth": 8,
+      "lat": 52.101,
+      "lon": -176.176,
+      "place": "40 km NE of Adak, Alaska",
+      "time": "2026-08-14T21:17:06.300Z"
+    },
+    {
       "id": "nc75418392",
       "magnitude": 1.8,
       "depth": 17,
@@ -379,6 +433,15 @@
       "lon": -122.188,
       "place": "38 km NNE of Amboy, Washington",
       "time": "2026-08-14T20:34:39.720Z"
+    },
+    {
+      "id": "av94384043",
+      "magnitude": 0.3,
+      "depth": 3,
+      "lat": 58.309,
+      "lon": -154.997,
+      "place": "88 km NNW of Karluk, Alaska",
+      "time": "2026-08-14T20:30:11.140Z"
     },
     {
       "id": "us6000tksg",
@@ -478,6 +541,15 @@
       "lon": -103.393,
       "place": "34 km ENE of Balmorhea, Texas",
       "time": "2026-08-14T19:26:17.584Z"
+    },
+    {
+      "id": "av94383953",
+      "magnitude": 1.4,
+      "depth": 4,
+      "lat": 58.991,
+      "lon": -153.963,
+      "place": "68 km SE of Kokhanok, Alaska",
+      "time": "2026-08-14T19:25:51.620Z"
     },
     {
       "id": "ci40672810",
@@ -741,6 +813,24 @@
       "time": "2026-08-14T17:10:20.290Z"
     },
     {
+      "id": "av93065814",
+      "magnitude": -0.8,
+      "depth": 7,
+      "lat": 53.837,
+      "lon": -166.928,
+      "place": "26 km WSW of Dutch Harbor, Alaska",
+      "time": "2026-08-14T17:07:29.480Z"
+    },
+    {
+      "id": "av94383663",
+      "magnitude": -0.2,
+      "depth": 8,
+      "lat": 58.247,
+      "lon": -155.053,
+      "place": "83 km NNW of Karluk, Alaska",
+      "time": "2026-08-14T17:03:08.280Z"
+    },
+    {
       "id": "us6000tkrg",
       "magnitude": 4.9,
       "depth": 10,
@@ -820,6 +910,15 @@
       "lon": -116.773,
       "place": "5 km WSW of Idyllwild, CA",
       "time": "2026-08-14T16:19:08.240Z"
+    },
+    {
+      "id": "av94383588",
+      "magnitude": 0.9,
+      "depth": 5,
+      "lat": 58.255,
+      "lon": -154.886,
+      "place": "80 km NNW of Karluk, Alaska",
+      "time": "2026-08-14T16:17:38.750Z"
     },
     {
       "id": "aka2026qavkmj",
@@ -2278,87 +2377,6 @@
       "lon": -101.819,
       "place": "3 km WNW of Stanton, Texas",
       "time": "2026-08-14T00:53:53.853Z"
-    },
-    {
-      "id": "nc75417917",
-      "magnitude": 1.5,
-      "depth": 6,
-      "lat": 38.682,
-      "lon": -122.502,
-      "place": "13 km SE of Middletown, CA",
-      "time": "2026-08-14T00:41:16.550Z"
-    },
-    {
-      "id": "aka2026pzppwa",
-      "magnitude": 1.9,
-      "depth": 85,
-      "lat": 60.083,
-      "lon": -151.98,
-      "place": "17 km WNW of Ninilchik, Alaska",
-      "time": "2026-08-14T00:20:44.771Z"
-    },
-    {
-      "id": "hv75018322",
-      "magnitude": 2,
-      "depth": 19,
-      "lat": 19.338,
-      "lon": -155.863,
-      "place": "13 km S of Honaunau-Napoopoo, Hawaii",
-      "time": "2026-08-14T00:19:02.550Z"
-    },
-    {
-      "id": "nc75417887",
-      "magnitude": 1.7,
-      "depth": 13,
-      "lat": 40.939,
-      "lon": -121.634,
-      "place": "7 km NNE of Burney, CA",
-      "time": "2026-08-14T00:18:27.970Z"
-    },
-    {
-      "id": "aka2026pzpjzk",
-      "magnitude": 1.6,
-      "depth": 75,
-      "lat": 59.348,
-      "lon": -152.742,
-      "place": "46 km W of Nanwalek, Alaska",
-      "time": "2026-08-14T00:13:57.497Z"
-    },
-    {
-      "id": "av94382123",
-      "magnitude": -0.3,
-      "depth": 6,
-      "lat": 53.355,
-      "lon": -168.269,
-      "place": "60 km NE of Nikolski, Alaska",
-      "time": "2026-08-14T00:09:20.810Z"
-    },
-    {
-      "id": "tx2026pxaoqj",
-      "magnitude": 1.7,
-      "depth": 7,
-      "lat": 31.654,
-      "lon": -104.217,
-      "place": "55 km NW of Toyah, Texas",
-      "time": "2026-08-14T00:07:01.813Z"
-    },
-    {
-      "id": "tx2026pxanqg",
-      "magnitude": 1.7,
-      "depth": 6,
-      "lat": 31.615,
-      "lon": -104.108,
-      "place": "44 km NW of Toyah, Texas",
-      "time": "2026-08-14T00:04:27.135Z"
-    },
-    {
-      "id": "tx2026pxajav",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 31.865,
-      "lon": -101.708,
-      "place": "21 km W of Garden City, Texas",
-      "time": "2026-08-13T23:58:50.668Z"
     }
   ]
 }
