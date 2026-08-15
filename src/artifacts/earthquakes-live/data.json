@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-15T22:55:15.979Z",
-  "count": 249,
+  "generated": "2026-08-15T23:09:20.557Z",
+  "count": 241,
   "events": [
+    {
+      "id": "nc75419062",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 38.834,
+      "lon": -122.782,
+      "place": "5 km WNW of Cobb, CA",
+      "time": "2026-08-15T23:00:02.630Z"
+    },
     {
       "id": "aka2026qdeiyi",
       "magnitude": 3.6,
@@ -13,12 +22,12 @@
     },
     {
       "id": "tx2026qapdby",
-      "magnitude": 1.2,
+      "magnitude": 0.8,
       "depth": 0,
-      "lat": 31.849,
-      "lon": -101.762,
-      "place": "26 km W of Garden City, Texas",
-      "time": "2026-08-15T22:37:54.846Z"
+      "lat": 31.876,
+      "lon": -101.746,
+      "place": "25 km W of Garden City, Texas",
+      "time": "2026-08-15T22:37:54.339Z"
     },
     {
       "id": "hv75019342",
@@ -2161,87 +2170,6 @@
       "lon": 120.417,
       "place": "49 km N of Ruteng, Indonesia",
       "time": "2026-08-14T23:12:31.091Z"
-    },
-    {
-      "id": "aka2026qbjdzh",
-      "magnitude": 1.4,
-      "depth": 13,
-      "lat": 64.019,
-      "lon": -149.217,
-      "place": "4 km W of Ferry, Alaska",
-      "time": "2026-08-14T23:06:24.735Z"
-    },
-    {
-      "id": "aka2026qbjdaz",
-      "magnitude": 2.4,
-      "depth": 1,
-      "lat": 64.974,
-      "lon": -147.472,
-      "place": "7 km ENE of Fox, Alaska",
-      "time": "2026-08-14T23:05:19.840Z"
-    },
-    {
-      "id": "us6000tkv2",
-      "magnitude": 5.2,
-      "depth": 10,
-      "lat": 37.079,
-      "lon": -3.649,
-      "place": "1 km SW of Otura, Spain",
-      "time": "2026-08-14T23:04:40.797Z"
-    },
-    {
-      "id": "aka2026qbjbxe",
-      "magnitude": 2.2,
-      "depth": 74,
-      "lat": 51.71,
-      "lon": -176.114,
-      "place": "40 km ESE of Adak, Alaska",
-      "time": "2026-08-14T23:04:01.062Z"
-    },
-    {
-      "id": "tx2026pyufsf",
-      "magnitude": 1.5,
-      "depth": 8,
-      "lat": 31.412,
-      "lon": -103.849,
-      "place": "12 km NNW of Toyah, Texas",
-      "time": "2026-08-14T23:02:54.074Z"
-    },
-    {
-      "id": "us6000tl1g",
-      "magnitude": 4.8,
-      "depth": 11,
-      "lat": -8.29,
-      "lon": 120.829,
-      "place": "53 km NE of Ruteng, Indonesia",
-      "time": "2026-08-14T23:00:03.603Z"
-    },
-    {
-      "id": "us6000tkv1",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -8.146,
-      "lon": 120.242,
-      "place": "55 km NE of Labuan Bajo, Indonesia",
-      "time": "2026-08-14T22:59:12.662Z"
-    },
-    {
-      "id": "hv75018947",
-      "magnitude": 1.9,
-      "depth": 11,
-      "lat": 18.88,
-      "lon": -155.241,
-      "place": "41 km ESE of Naalehu, Hawaii",
-      "time": "2026-08-14T22:55:36.430Z"
-    },
-    {
-      "id": "us6000tkuv",
-      "magnitude": 3.4,
-      "depth": 35,
-      "lat": 54.527,
-      "lon": -161.763,
-      "place": "69 km SSE of King Cove, Alaska",
-      "time": "2026-08-14T22:54:54.655Z"
     }
   ]
 }
