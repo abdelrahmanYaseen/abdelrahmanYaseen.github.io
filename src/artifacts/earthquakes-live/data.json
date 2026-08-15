@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-15T14:56:32.154Z",
-  "count": 282,
+  "generated": "2026-08-15T15:12:01.841Z",
+  "count": 285,
   "events": [
+    {
+      "id": "nc75418827",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 38.773,
+      "lon": -122.944,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": "2026-08-15T15:09:01.980Z"
+    },
+    {
+      "id": "ci40673210",
+      "magnitude": 0.5,
+      "depth": 6,
+      "lat": 33.55,
+      "lon": -116.427,
+      "place": "17 km SW of La Quinta, CA",
+      "time": "2026-08-15T15:00:14.010Z"
+    },
+    {
+      "id": "ci40673202",
+      "magnitude": 0.7,
+      "depth": 8,
+      "lat": 32.918,
+      "lon": -116.246,
+      "place": "27 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-15T14:59:51.090Z"
+    },
+    {
+      "id": "tx2026pzzuvy",
+      "magnitude": 2,
+      "depth": 5,
+      "lat": 32.007,
+      "lon": -103.247,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-08-15T14:56:09.799Z"
+    },
     {
       "id": "nc75418807",
       "magnitude": 1.2,
@@ -2530,15 +2566,6 @@
       "lon": -112.89,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-08-14T15:15:51.510Z"
-    },
-    {
-      "id": "uu80148756",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 38.511,
-      "lon": -112.883,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-14T15:05:58.220Z"
     }
   ]
 }
