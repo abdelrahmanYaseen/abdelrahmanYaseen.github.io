@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-15T20:35:50.486Z",
-  "count": 264,
+  "generated": "2026-08-15T20:56:24.508Z",
+  "count": 261,
   "events": [
+    {
+      "id": "nc75418992",
+      "magnitude": 2.1,
+      "depth": 3,
+      "lat": 38.818,
+      "lon": -122.79,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": "2026-08-15T20:41:56.040Z"
+    },
+    {
+      "id": "nc75418982",
+      "magnitude": 1.1,
+      "depth": 1,
+      "lat": 38.794,
+      "lon": -122.759,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-08-15T20:39:28.280Z"
+    },
     {
       "id": "ci40673362",
       "magnitude": 0.5,
@@ -2332,51 +2350,6 @@
       "lon": -120.572,
       "place": "18 km NW of Parkfield, CA",
       "time": "2026-08-14T21:05:55.620Z"
-    },
-    {
-      "id": "pr71528508",
-      "magnitude": 2.2,
-      "depth": 16,
-      "lat": 17.998,
-      "lon": -66.75,
-      "place": "2 km SE of Magas Arriba, Puerto Rico",
-      "time": "2026-08-14T20:50:02.890Z"
-    },
-    {
-      "id": "nc75418372",
-      "magnitude": 2.4,
-      "depth": 6,
-      "lat": 37.454,
-      "lon": -118.838,
-      "place": "18 km SW of Toms Place, CA",
-      "time": "2026-08-14T20:45:23.330Z"
-    },
-    {
-      "id": "aka2026qbekdq",
-      "magnitude": 3.1,
-      "depth": 65,
-      "lat": 61.944,
-      "lon": -151.007,
-      "place": "21 km ESE of Skwentna, Alaska",
-      "time": "2026-08-14T20:43:36.317Z"
-    },
-    {
-      "id": "nc75418367",
-      "magnitude": 3.4,
-      "depth": 3,
-      "lat": 37.451,
-      "lon": -118.843,
-      "place": "19 km SW of Toms Place, CA",
-      "time": "2026-08-14T20:38:32.240Z"
-    },
-    {
-      "id": "uw714079301",
-      "magnitude": 1.7,
-      "depth": 13,
-      "lat": 44.63,
-      "lon": -122.799,
-      "place": "6 km NW of Lacomb, Oregon",
-      "time": "2026-08-14T20:38:08.500Z"
     }
   ]
 }
