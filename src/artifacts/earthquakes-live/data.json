@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-15T17:14:55.231Z",
-  "count": 274,
+  "generated": "2026-08-15T17:35:13.875Z",
+  "count": 273,
   "events": [
+    {
+      "id": "ci40673274",
+      "magnitude": 1.2,
+      "depth": 13,
+      "lat": 34.197,
+      "lon": -117.39,
+      "place": "3 km SSE of Devore, CA",
+      "time": "2026-08-15T17:21:49.960Z"
+    },
+    {
+      "id": "tx2026qaepta",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 31.625,
+      "lon": -104.127,
+      "place": "46 km NW of Toyah, Texas",
+      "time": "2026-08-15T17:20:51.698Z"
+    },
     {
       "id": "hv75019242",
       "magnitude": 3.4,
@@ -235,6 +253,15 @@
       "lon": -116.738,
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": "2026-08-15T14:06:01.150Z"
+    },
+    {
+      "id": "us6000tl19",
+      "magnitude": 4.5,
+      "depth": 171,
+      "lat": -6.566,
+      "lon": 129.869,
+      "place": "Banda Sea",
+      "time": "2026-08-15T13:56:26.203Z"
     },
     {
       "id": "aka2026qcmnqm",
@@ -2431,42 +2458,6 @@
       "lon": -116.243,
       "place": "28 km SSW of Ocotillo Wells, CA",
       "time": "2026-08-14T17:35:58.210Z"
-    },
-    {
-      "id": "ci40672690",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 34.028,
-      "lon": -117.175,
-      "place": "3 km SSE of Redlands, CA",
-      "time": "2026-08-14T17:32:16.460Z"
-    },
-    {
-      "id": "ci40672674",
-      "magnitude": 1.3,
-      "depth": 5,
-      "lat": 34.033,
-      "lon": -117.175,
-      "place": "3 km SSE of Redlands, CA",
-      "time": "2026-08-14T17:27:22.370Z"
-    },
-    {
-      "id": "ci40672666",
-      "magnitude": 1,
-      "depth": 4,
-      "lat": 34.03,
-      "lon": -117.176,
-      "place": "3 km SSE of Redlands, CA",
-      "time": "2026-08-14T17:26:54.500Z"
-    },
-    {
-      "id": "ci40672658",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 34.028,
-      "lon": -117.175,
-      "place": "3 km SSE of Redlands, CA",
-      "time": "2026-08-14T17:25:29.010Z"
     }
   ]
 }
