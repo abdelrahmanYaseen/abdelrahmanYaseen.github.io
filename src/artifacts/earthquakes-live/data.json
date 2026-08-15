@@ -1,15 +1,33 @@
 {
-  "generated": "2026-08-15T19:32:56.026Z",
-  "count": 266,
+  "generated": "2026-08-15T19:52:40.144Z",
+  "count": 267,
   "events": [
     {
+      "id": "nc75418942",
+      "magnitude": 1.8,
+      "depth": 5,
+      "lat": 37.292,
+      "lon": -121.661,
+      "place": "16 km E of Seven Trees, CA",
+      "time": "2026-08-15T19:35:11.260Z"
+    },
+    {
+      "id": "us6000tl36",
+      "magnitude": 5.5,
+      "depth": 40,
+      "lat": 23.446,
+      "lon": 142.787,
+      "place": "Volcano Islands, Japan region",
+      "time": "2026-08-15T19:32:30.371Z"
+    },
+    {
       "id": "aka2026qcxzda",
-      "magnitude": 1.7,
-      "depth": 130,
-      "lat": 59.781,
-      "lon": -153.262,
-      "place": "47 km E of Pedro Bay, Alaska",
-      "time": "2026-08-15T19:30:15.420Z"
+      "magnitude": 2,
+      "depth": 128,
+      "lat": 59.762,
+      "lon": -153.165,
+      "place": "52 km E of Pedro Bay, Alaska",
+      "time": "2026-08-15T19:30:15.657Z"
     },
     {
       "id": "nc75418937",
@@ -19,6 +37,15 @@
       "lon": -122.719,
       "place": "7 km SSW of Anderson Springs, CA",
       "time": "2026-08-15T19:17:30.300Z"
+    },
+    {
+      "id": "pr71528623",
+      "magnitude": 3.4,
+      "depth": 8,
+      "lat": 19.182,
+      "lon": -65.347,
+      "place": "97 km N of Culebra, Puerto Rico",
+      "time": "2026-08-15T19:04:57.720Z"
     },
     {
       "id": "us6000tl30",
@@ -55,6 +82,15 @@
       "lon": -122.14,
       "place": "3 km NNE of San Leandro, CA",
       "time": "2026-08-15T18:43:41.370Z"
+    },
+    {
+      "id": "us6000tl33",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": -8.203,
+      "lon": 120.542,
+      "place": "45 km N of Ruteng, Indonesia",
+      "time": "2026-08-15T18:43:05.132Z"
     },
     {
       "id": "us6000tl31",
@@ -2368,33 +2404,6 @@
       "lon": -121.177,
       "place": "6 km NNW of Pinnacles, CA",
       "time": "2026-08-14T19:51:54.420Z"
-    },
-    {
-      "id": "ci40672850",
-      "magnitude": 1,
-      "depth": 4,
-      "lat": 32.555,
-      "lon": -116.708,
-      "place": "7 km W of Tecate, B.C., MX",
-      "time": "2026-08-14T19:45:22.080Z"
-    },
-    {
-      "id": "ci40672842",
-      "magnitude": 0.7,
-      "depth": 9,
-      "lat": 34.518,
-      "lon": -118.083,
-      "place": "4 km ENE of Vincent, CA",
-      "time": "2026-08-14T19:43:11.510Z"
-    },
-    {
-      "id": "tx2026pyniyk",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 31.836,
-      "lon": -101.703,
-      "place": "21 km W of Garden City, Texas",
-      "time": "2026-08-14T19:38:58.794Z"
     }
   ]
 }
