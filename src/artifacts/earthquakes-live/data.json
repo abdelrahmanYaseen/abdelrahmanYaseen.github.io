@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-15T10:14:25.923Z",
-  "count": 287,
+  "generated": "2026-08-15T10:38:26.087Z",
+  "count": 285,
   "events": [
+    {
+      "id": "tx2026pzqhub",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 31.664,
+      "lon": -104.442,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": "2026-08-15T10:10:18.192Z"
+    },
     {
       "id": "ci40673090",
       "magnitude": 1.2,
@@ -604,6 +613,15 @@
       "lon": -177.926,
       "place": "285 km WNW of Houma, Tonga",
       "time": "2026-08-15T04:31:18.890Z"
+    },
+    {
+      "id": "pr71528518",
+      "magnitude": 2.7,
+      "depth": 19,
+      "lat": 18.491,
+      "lon": -64.793,
+      "place": "17 km N of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-15T04:27:59.380Z"
     },
     {
       "id": "aka2026qbtske",
@@ -2548,42 +2566,6 @@
       "lon": -119.056,
       "place": "18 km SE of Silver Springs, Nevada",
       "time": "2026-08-14T10:42:47.997Z"
-    },
-    {
-      "id": "nc75418142",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.795,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-08-14T10:33:04.120Z"
-    },
-    {
-      "id": "av94383033",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 55.9,
-      "lon": -159.833,
-      "place": "21 km W of Ivanof Bay, Alaska",
-      "time": "2026-08-14T10:30:43.020Z"
-    },
-    {
-      "id": "nc75418132",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 39.326,
-      "lon": -123.264,
-      "place": "8 km NW of Redwood Valley, CA",
-      "time": "2026-08-14T10:22:04.270Z"
-    },
-    {
-      "id": "ci40672410",
-      "magnitude": 0.6,
-      "depth": 10,
-      "lat": 33.487,
-      "lon": -116.748,
-      "place": "10 km SW of Anza, CA",
-      "time": "2026-08-14T10:13:51.100Z"
     }
   ]
 }
