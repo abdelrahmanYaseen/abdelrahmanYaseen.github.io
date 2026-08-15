@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-15T23:32:15.953Z",
-  "count": 239,
+  "generated": "2026-08-15T23:54:05.201Z",
+  "count": 235,
   "events": [
+    {
+      "id": "tx2026qarmkd",
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 31.612,
+      "lon": -104.097,
+      "place": "43 km NW of Toyah, Texas",
+      "time": "2026-08-15T23:49:12.097Z"
+    },
     {
       "id": "tx2026qaqrjz",
       "magnitude": 2.1,
@@ -28,6 +37,15 @@
       "lon": -122.78,
       "place": "4 km NW of The Geysers, CA",
       "time": "2026-08-15T23:14:51.470Z"
+    },
+    {
+      "id": "us6000tl44",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -7.889,
+      "lon": 120.516,
+      "place": "80 km N of Ruteng, Indonesia",
+      "time": "2026-08-15T23:12:54.664Z"
     },
     {
       "id": "nc75419062",
@@ -2098,60 +2116,6 @@
       "lon": 121.313,
       "place": "78 km NNW of Ende, Indonesia",
       "time": "2026-08-15T00:03:22.963Z"
-    },
-    {
-      "id": "us6000tkvc",
-      "magnitude": 4.8,
-      "depth": 10,
-      "lat": -8.197,
-      "lon": 121.516,
-      "place": "73 km NNW of Ende, Indonesia",
-      "time": "2026-08-14T23:52:55.591Z"
-    },
-    {
-      "id": "aka2026qbkref",
-      "magnitude": 1.4,
-      "depth": 5,
-      "lat": 58.249,
-      "lon": -155.558,
-      "place": "80 km SE of King Salmon, Alaska",
-      "time": "2026-08-14T23:51:36.554Z"
-    },
-    {
-      "id": "us6000tkvb",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -8.207,
-      "lon": 121.394,
-      "place": "76 km NNW of Ende, Indonesia",
-      "time": "2026-08-14T23:49:58.157Z"
-    },
-    {
-      "id": "av94384338",
-      "magnitude": 1.2,
-      "depth": 13,
-      "lat": 51.691,
-      "lon": -178.726,
-      "place": "145 km W of Adak, Alaska",
-      "time": "2026-08-14T23:41:47.120Z"
-    },
-    {
-      "id": "tx2026pyvmcu",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 31.624,
-      "lon": -104.119,
-      "place": "46 km NW of Toyah, Texas",
-      "time": "2026-08-14T23:40:43.082Z"
-    },
-    {
-      "id": "tx2026pyvhfj",
-      "magnitude": 2.9,
-      "depth": 4,
-      "lat": 31.225,
-      "lon": -103.333,
-      "place": "25 km SE of Lindsay, Texas",
-      "time": "2026-08-14T23:34:49.885Z"
     }
   ]
 }
