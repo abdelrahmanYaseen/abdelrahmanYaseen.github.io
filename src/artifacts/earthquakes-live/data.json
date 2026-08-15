@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-15T16:57:31.728Z",
-  "count": 277,
+  "generated": "2026-08-15T17:14:55.231Z",
+  "count": 274,
   "events": [
+    {
+      "id": "hv75019242",
+      "magnitude": 3.4,
+      "depth": 15,
+      "lat": 19.521,
+      "lon": -156.419,
+      "place": "45 km WSW of Kailua-Kona, Hawaii",
+      "time": "2026-08-15T17:09:29.400Z"
+    },
     {
       "id": "aka2026qcsvho",
       "magnitude": 2,
@@ -697,12 +706,12 @@
     },
     {
       "id": "tx2026pzmlzl",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 31.884,
-      "lon": -104.081,
-      "place": "37 km S of Malaga, New Mexico",
-      "time": "2026-08-15T08:13:14.375Z"
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 31.735,
+      "lon": -104.113,
+      "place": "48 km W of Mentone, Texas",
+      "time": "2026-08-15T08:13:16.485Z"
     },
     {
       "id": "pr2026227002",
@@ -2458,42 +2467,6 @@
       "lon": -117.175,
       "place": "3 km SSE of Redlands, CA",
       "time": "2026-08-14T17:25:29.010Z"
-    },
-    {
-      "id": "nc75418302",
-      "magnitude": 1.3,
-      "depth": 4,
-      "lat": 38.779,
-      "lon": -122.93,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-14T17:11:12.190Z"
-    },
-    {
-      "id": "aka2026qaxgpi",
-      "magnitude": 2.9,
-      "depth": 10,
-      "lat": 56.14,
-      "lon": -150.204,
-      "place": "207 km SE of Chiniak, Alaska",
-      "time": "2026-08-14T17:10:20.290Z"
-    },
-    {
-      "id": "av93065814",
-      "magnitude": -0.8,
-      "depth": 7,
-      "lat": 53.837,
-      "lon": -166.928,
-      "place": "26 km WSW of Dutch Harbor, Alaska",
-      "time": "2026-08-14T17:07:29.480Z"
-    },
-    {
-      "id": "av94383663",
-      "magnitude": -0.2,
-      "depth": 8,
-      "lat": 58.247,
-      "lon": -155.053,
-      "place": "83 km NNW of Karluk, Alaska",
-      "time": "2026-08-14T17:03:08.280Z"
     }
   ]
 }
