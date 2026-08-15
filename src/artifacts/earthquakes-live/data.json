@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-15T23:09:20.557Z",
-  "count": 241,
+  "generated": "2026-08-15T23:32:15.953Z",
+  "count": 239,
   "events": [
+    {
+      "id": "tx2026qaqrjz",
+      "magnitude": 2.1,
+      "depth": 0,
+      "lat": 28.887,
+      "lon": -98.997,
+      "place": "9 km E of Pearsall, Texas",
+      "time": "2026-08-15T23:24:42.946Z"
+    },
+    {
+      "id": "ci40673426",
+      "magnitude": 0.8,
+      "depth": 11,
+      "lat": 33.25,
+      "lon": -116.078,
+      "place": "13 km WSW of Salton City, CA",
+      "time": "2026-08-15T23:16:58.690Z"
+    },
+    {
+      "id": "nc75419067",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.804,
+      "lon": -122.78,
+      "place": "4 km NW of The Geysers, CA",
+      "time": "2026-08-15T23:14:51.470Z"
+    },
     {
       "id": "nc75419062",
       "magnitude": 1.2,
@@ -10,6 +37,15 @@
       "lon": -122.782,
       "place": "5 km WNW of Cobb, CA",
       "time": "2026-08-15T23:00:02.630Z"
+    },
+    {
+      "id": "us6000tl43",
+      "magnitude": 5.4,
+      "depth": 10,
+      "lat": 9.657,
+      "lon": 138.224,
+      "place": "19 km NE of Colonia, Micronesia",
+      "time": "2026-08-15T22:52:55.761Z"
     },
     {
       "id": "aka2026qdeiyi",
@@ -320,11 +356,11 @@
     {
       "id": "tx2026qagons",
       "magnitude": 2.6,
-      "depth": 3,
-      "lat": 31.675,
-      "lon": -101.993,
+      "depth": 4,
+      "lat": 31.679,
+      "lon": -101.994,
       "place": "36 km SSE of Midland, Texas",
-      "time": "2026-08-15T18:19:49.200Z"
+      "time": "2026-08-15T18:19:49.106Z"
     },
     {
       "id": "nc75418897",
@@ -2116,60 +2152,6 @@
       "lon": -103.333,
       "place": "25 km SE of Lindsay, Texas",
       "time": "2026-08-14T23:34:49.885Z"
-    },
-    {
-      "id": "av94384313",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 52.081,
-      "lon": -176.152,
-      "place": "40 km NE of Adak, Alaska",
-      "time": "2026-08-14T23:23:56.910Z"
-    },
-    {
-      "id": "nc75418427",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.823,
-      "lon": -122.794,
-      "place": "6 km NNW of The Geysers, CA",
-      "time": "2026-08-14T23:22:29.810Z"
-    },
-    {
-      "id": "aka2026qbjngl",
-      "magnitude": 2.8,
-      "depth": 44,
-      "lat": 57.837,
-      "lon": -152.83,
-      "place": "4 km SE of Port Lions, Alaska",
-      "time": "2026-08-14T23:17:11.657Z"
-    },
-    {
-      "id": "us6000tkv9",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -8.335,
-      "lon": 121.359,
-      "place": "65 km NNW of Ende, Indonesia",
-      "time": "2026-08-14T23:17:05.284Z"
-    },
-    {
-      "id": "tx2026pyuozw",
-      "magnitude": 1.6,
-      "depth": 3,
-      "lat": 31.7,
-      "lon": -104.571,
-      "place": "55 km SSW of Whites City, New Mexico",
-      "time": "2026-08-14T23:13:40.599Z"
-    },
-    {
-      "id": "us6000tkv7",
-      "magnitude": 5.1,
-      "depth": 10,
-      "lat": -8.169,
-      "lon": 120.417,
-      "place": "49 km N of Ruteng, Indonesia",
-      "time": "2026-08-14T23:12:31.091Z"
     }
   ]
 }
