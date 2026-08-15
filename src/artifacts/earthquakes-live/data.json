@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-15T19:13:08.307Z",
-  "count": 265,
+  "generated": "2026-08-15T19:32:56.026Z",
+  "count": 266,
   "events": [
+    {
+      "id": "aka2026qcxzda",
+      "magnitude": 1.7,
+      "depth": 130,
+      "lat": 59.781,
+      "lon": -153.262,
+      "place": "47 km E of Pedro Bay, Alaska",
+      "time": "2026-08-15T19:30:15.420Z"
+    },
+    {
+      "id": "nc75418937",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.712,
+      "lon": -122.719,
+      "place": "7 km SSW of Anderson Springs, CA",
+      "time": "2026-08-15T19:17:30.300Z"
+    },
+    {
+      "id": "us6000tl30",
+      "magnitude": 4.2,
+      "depth": 10,
+      "lat": 14.058,
+      "lon": -92.94,
+      "place": "92 km SW of Puerto Madero, Mexico",
+      "time": "2026-08-15T19:04:43.241Z"
+    },
     {
       "id": "nc75418932",
       "magnitude": 0.8,
@@ -28,6 +55,15 @@
       "lon": -122.14,
       "place": "3 km NNE of San Leandro, CA",
       "time": "2026-08-15T18:43:41.370Z"
+    },
+    {
+      "id": "us6000tl31",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": -8.22,
+      "lon": 120.64,
+      "place": "47 km NNE of Ruteng, Indonesia",
+      "time": "2026-08-15T18:40:21.369Z"
     },
     {
       "id": "ci40673290",
@@ -226,6 +262,15 @@
       "lon": -122.807,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-08-15T15:59:51.360Z"
+    },
+    {
+      "id": "us6000tl1p",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -8.21,
+      "lon": 121.386,
+      "place": "76 km NNW of Ende, Indonesia",
+      "time": "2026-08-15T15:52:32.416Z"
     },
     {
       "id": "nc75418852",
@@ -2350,42 +2395,6 @@
       "lon": -101.703,
       "place": "21 km W of Garden City, Texas",
       "time": "2026-08-14T19:38:58.794Z"
-    },
-    {
-      "id": "tx2026pynavk",
-      "magnitude": 1.6,
-      "depth": 2,
-      "lat": 31.068,
-      "lon": -103.393,
-      "place": "34 km ENE of Balmorhea, Texas",
-      "time": "2026-08-14T19:26:17.584Z"
-    },
-    {
-      "id": "av94383953",
-      "magnitude": 1.4,
-      "depth": 4,
-      "lat": 58.991,
-      "lon": -153.963,
-      "place": "68 km SE of Kokhanok, Alaska",
-      "time": "2026-08-14T19:25:51.620Z"
-    },
-    {
-      "id": "ci40672810",
-      "magnitude": 0.4,
-      "depth": 9,
-      "lat": 33.529,
-      "lon": -116.686,
-      "place": "3 km SSW of Anza, CA",
-      "time": "2026-08-14T19:13:22.070Z"
-    },
-    {
-      "id": "nc75418312",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.804,
-      "lon": -122.738,
-      "place": "2 km SSW of Cobb, CA",
-      "time": "2026-08-14T19:13:13.710Z"
     }
   ]
 }
