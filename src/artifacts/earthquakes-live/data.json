@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-15T10:38:26.087Z",
-  "count": 285,
+  "generated": "2026-08-15T10:55:55.078Z",
+  "count": 283,
   "events": [
+    {
+      "id": "ci40673106",
+      "magnitude": 0.2,
+      "depth": 14,
+      "lat": 33.892,
+      "lon": -116.923,
+      "place": "6 km SW of Banning, CA",
+      "time": "2026-08-15T10:48:21.220Z"
+    },
+    {
+      "id": "ci40673098",
+      "magnitude": 0.5,
+      "depth": 13,
+      "lat": 33.891,
+      "lon": -116.925,
+      "place": "6 km SW of Banning, CA",
+      "time": "2026-08-15T10:46:08.720Z"
+    },
+    {
+      "id": "us6000tkyg",
+      "magnitude": 5.1,
+      "depth": 10,
+      "lat": -8.264,
+      "lon": 120.368,
+      "place": "39 km NNW of Ruteng, Indonesia",
+      "time": "2026-08-15T10:31:30.185Z"
+    },
     {
       "id": "tx2026pzqhub",
       "magnitude": 1.8,
@@ -469,6 +496,15 @@
       "lon": -101.917,
       "place": "18 km NW of Stanton, Texas",
       "time": "2026-08-15T05:57:32.228Z"
+    },
+    {
+      "id": "pr71528533",
+      "magnitude": 2,
+      "depth": 14,
+      "lat": 17.934,
+      "lon": -66.917,
+      "place": "4 km SSW of Guánica, Puerto Rico",
+      "time": "2026-08-15T05:56:46.130Z"
     },
     {
       "id": "aka2026qbwujv",
@@ -2512,60 +2548,6 @@
       "lon": -119.351,
       "place": "10 km W of Ojai, CA",
       "time": "2026-08-14T10:58:31.710Z"
-    },
-    {
-      "id": "ci40672426",
-      "magnitude": 0.6,
-      "depth": 11,
-      "lat": 34.457,
-      "lon": -119.329,
-      "place": "8 km W of Ojai, CA",
-      "time": "2026-08-14T10:55:06.010Z"
-    },
-    {
-      "id": "nm60626756",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 36.529,
-      "lon": -89.57,
-      "place": "3 km ENE of Marston, Missouri",
-      "time": "2026-08-14T10:51:48.140Z"
-    },
-    {
-      "id": "ci40672418",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 34.869,
-      "lon": -119.26,
-      "place": "10 km WNW of Pine Mountain Club, CA",
-      "time": "2026-08-14T10:50:35.400Z"
-    },
-    {
-      "id": "hv75018617",
-      "magnitude": 2.4,
-      "depth": 33,
-      "lat": 19.219,
-      "lon": -155.42,
-      "place": "6 km ENE of Pāhala, Hawaii",
-      "time": "2026-08-14T10:49:23.780Z"
-    },
-    {
-      "id": "av93065779",
-      "magnitude": -0.4,
-      "depth": -1,
-      "lat": 53.393,
-      "lon": -168.207,
-      "place": "66 km NE of Nikolski, Alaska",
-      "time": "2026-08-14T10:45:34.070Z"
-    },
-    {
-      "id": "nn00923296",
-      "magnitude": 1.8,
-      "depth": 10,
-      "lat": 39.316,
-      "lon": -119.056,
-      "place": "18 km SE of Silver Springs, Nevada",
-      "time": "2026-08-14T10:42:47.997Z"
     }
   ]
 }
