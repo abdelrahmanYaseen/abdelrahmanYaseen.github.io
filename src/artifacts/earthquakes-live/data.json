@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-15T11:31:49.155Z",
+  "generated": "2026-08-15T11:54:01.835Z",
   "count": 282,
   "events": [
+    {
+      "id": "ci40673130",
+      "magnitude": 0.3,
+      "depth": 14,
+      "lat": 33.661,
+      "lon": -116.76,
+      "place": "10 km SSW of Idyllwild, CA",
+      "time": "2026-08-15T11:40:07.950Z"
+    },
+    {
+      "id": "nc75418742",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 37.455,
+      "lon": -118.838,
+      "place": "18 km SW of Toms Place, CA",
+      "time": "2026-08-15T11:36:05.330Z"
+    },
+    {
+      "id": "us6000tl0a",
+      "magnitude": 4.9,
+      "depth": 66,
+      "lat": 24.473,
+      "lon": 122.293,
+      "place": "63 km ESE of Yilan, Taiwan",
+      "time": "2026-08-15T11:30:15.368Z"
+    },
     {
       "id": "nc75418727",
       "magnitude": 1.5,
@@ -23,11 +50,11 @@
     {
       "id": "us6000tkyk",
       "magnitude": 6.9,
-      "depth": 183,
-      "lat": 3.018,
-      "lon": 99.038,
-      "place": "7 km NNW of Pematangsiantar, Indonesia",
-      "time": "2026-08-15T10:54:52.753Z"
+      "depth": 173,
+      "lat": 3.086,
+      "lon": 99.015,
+      "place": "15 km NNW of Pematangsiantar, Indonesia",
+      "time": "2026-08-15T10:54:51.796Z"
     },
     {
       "id": "ci40673106",
@@ -289,6 +316,15 @@
       "lon": -122.827,
       "place": "9 km WNW of Cobb, CA",
       "time": "2026-08-15T08:00:23.360Z"
+    },
+    {
+      "id": "pr71528558",
+      "magnitude": 3.2,
+      "depth": 103,
+      "lat": 18.257,
+      "lon": -67.296,
+      "place": "8 km SW of Stella, Puerto Rico",
+      "time": "2026-08-15T07:54:27.730Z"
     },
     {
       "id": "aka2026qcatny",
@@ -2503,42 +2539,6 @@
       "lon": -112.884,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-08-14T11:58:57.830Z"
-    },
-    {
-      "id": "uu80148716",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 38.516,
-      "lon": -112.886,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-14T11:48:09.880Z"
-    },
-    {
-      "id": "nc75418167",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.841,
-      "lon": -122.837,
-      "place": "10 km NW of The Geysers, CA",
-      "time": "2026-08-14T11:44:53.170Z"
-    },
-    {
-      "id": "uu80148711",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.516,
-      "lon": -112.887,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-14T11:32:18.450Z"
-    },
-    {
-      "id": "nc75418162",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.797,
-      "place": "7 km WNW of Cobb, CA",
-      "time": "2026-08-14T11:31:20.900Z"
     }
   ]
 }
