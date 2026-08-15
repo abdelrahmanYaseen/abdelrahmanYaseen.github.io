@@ -1,15 +1,51 @@
 {
-  "generated": "2026-08-15T16:37:55.640Z",
-  "count": 276,
+  "generated": "2026-08-15T16:57:31.728Z",
+  "count": 277,
   "events": [
+    {
+      "id": "aka2026qcsvho",
+      "magnitude": 2,
+      "depth": 55,
+      "lat": 60.373,
+      "lon": -151.077,
+      "place": "11 km ENE of Kasilof, Alaska",
+      "time": "2026-08-15T16:55:55.204Z"
+    },
+    {
+      "id": "aka2026qcsodv",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 61.217,
+      "lon": -152.467,
+      "place": "73 km WNW of Tyonek, Alaska",
+      "time": "2026-08-15T16:47:40.064Z"
+    },
+    {
+      "id": "aka2026qcsmpr",
+      "magnitude": 1.2,
+      "depth": 19,
+      "lat": 62.039,
+      "lon": -152.492,
+      "place": "57 km W of Skwentna, Alaska",
+      "time": "2026-08-15T16:45:53.069Z"
+    },
     {
       "id": "ci40673242",
       "magnitude": 1.3,
       "depth": 10,
-      "lat": 33.286,
-      "lon": -116.245,
+      "lat": 33.288,
+      "lon": -116.242,
       "place": "13 km ENE of Borrego Springs, CA",
-      "time": "2026-08-15T16:30:51.790Z"
+      "time": "2026-08-15T16:30:51.750Z"
+    },
+    {
+      "id": "us6000tl1s",
+      "magnitude": 5.7,
+      "depth": 72,
+      "lat": 0.154,
+      "lon": 120.257,
+      "place": "125 km NNE of Palu, Indonesia",
+      "time": "2026-08-15T16:25:18.342Z"
     },
     {
       "id": "aka2026qcrurq",
@@ -79,9 +115,9 @@
       "magnitude": 0.4,
       "depth": 10,
       "lat": 33.676,
-      "lon": -116.781,
+      "lon": -116.78,
       "place": "9 km SW of Idyllwild, CA",
-      "time": "2026-08-15T15:30:32.020Z"
+      "time": "2026-08-15T15:30:32.010Z"
     },
     {
       "id": "nc75418827",
@@ -430,16 +466,16 @@
       "magnitude": 0.2,
       "depth": 14,
       "lat": 33.892,
-      "lon": -116.923,
+      "lon": -116.922,
       "place": "6 km SW of Banning, CA",
-      "time": "2026-08-15T10:48:21.220Z"
+      "time": "2026-08-15T10:48:21.200Z"
     },
     {
       "id": "ci40673098",
       "magnitude": 0.5,
-      "depth": 13,
-      "lat": 33.891,
-      "lon": -116.925,
+      "depth": 14,
+      "lat": 33.89,
+      "lon": -116.923,
       "place": "6 km SW of Banning, CA",
       "time": "2026-08-15T10:46:08.720Z"
     },
@@ -474,10 +510,10 @@
       "id": "ci40673090",
       "magnitude": 1.2,
       "depth": 10,
-      "lat": 34.218,
-      "lon": -117.501,
-      "place": "5 km S of Lytle Creek, CA",
-      "time": "2026-08-15T10:01:02.090Z"
+      "lat": 34.219,
+      "lon": -117.497,
+      "place": "4 km S of Lytle Creek, CA",
+      "time": "2026-08-15T10:01:02.060Z"
     },
     {
       "id": "us6000tkya",
@@ -590,8 +626,8 @@
     {
       "id": "ci40673074",
       "magnitude": 1.3,
-      "depth": 6,
-      "lat": 35.424,
+      "depth": 7,
+      "lat": 35.425,
       "lon": -117.274,
       "place": "33 km E of Johannesburg, CA",
       "time": "2026-08-15T09:01:25.950Z"
@@ -1212,10 +1248,10 @@
       "id": "ci40672994",
       "magnitude": 1.8,
       "depth": 13,
-      "lat": 33.289,
+      "lat": 33.29,
       "lon": -116.74,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-15T03:58:11.520Z"
+      "time": "2026-08-15T03:58:11.510Z"
     },
     {
       "id": "aka2026qbswum",
@@ -1357,9 +1393,9 @@
       "magnitude": 0.5,
       "depth": 13,
       "lat": 33.287,
-      "lon": -116.738,
+      "lon": -116.737,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-15T02:52:26.650Z"
+      "time": "2026-08-15T02:52:26.640Z"
     },
     {
       "id": "us6000tkw2",
@@ -2184,10 +2220,10 @@
       "id": "ci40672810",
       "magnitude": 0.4,
       "depth": 9,
-      "lat": 33.53,
+      "lat": 33.529,
       "lon": -116.686,
       "place": "3 km SSW of Anza, CA",
-      "time": "2026-08-14T19:13:22.090Z"
+      "time": "2026-08-14T19:13:22.070Z"
     },
     {
       "id": "nc75418312",
@@ -2458,33 +2494,6 @@
       "lon": -155.053,
       "place": "83 km NNW of Karluk, Alaska",
       "time": "2026-08-14T17:03:08.280Z"
-    },
-    {
-      "id": "us6000tkrg",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": 41.128,
-      "lon": 48.779,
-      "place": "19 km WSW of Divichibazar, Azerbaijan",
-      "time": "2026-08-14T16:56:14.767Z"
-    },
-    {
-      "id": "aka2026qawjgu",
-      "magnitude": 2.5,
-      "depth": 67,
-      "lat": 60.232,
-      "lon": -150.959,
-      "place": "21 km SE of Kasilof, Alaska",
-      "time": "2026-08-14T16:42:41.191Z"
-    },
-    {
-      "id": "tx2026pyhofl",
-      "magnitude": 1.5,
-      "depth": 5,
-      "lat": 31.428,
-      "lon": -103.932,
-      "place": "18 km NW of Toyah, Texas",
-      "time": "2026-08-14T16:40:52.225Z"
     }
   ]
 }
