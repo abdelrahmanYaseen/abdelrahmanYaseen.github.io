@@ -1,24 +1,60 @@
 {
-  "generated": "2026-08-15T08:53:14.570Z",
-  "count": 278,
+  "generated": "2026-08-15T09:14:48.633Z",
+  "count": 281,
   "events": [
     {
+      "id": "hv75019147",
+      "magnitude": 1.9,
+      "depth": 28,
+      "lat": 19.29,
+      "lon": -155.359,
+      "place": "15 km NE of Pāhala, Hawaii",
+      "time": "2026-08-15T09:10:09.810Z"
+    },
+    {
+      "id": "hv75019142",
+      "magnitude": 1.9,
+      "depth": 6,
+      "lat": 19.378,
+      "lon": -155.468,
+      "place": "19 km N of Pāhala, Hawaii",
+      "time": "2026-08-15T09:06:57.120Z"
+    },
+    {
+      "id": "ci40673074",
+      "magnitude": 1.3,
+      "depth": 6,
+      "lat": 35.424,
+      "lon": -117.274,
+      "place": "33 km E of Johannesburg, CA",
+      "time": "2026-08-15T09:01:25.950Z"
+    },
+    {
+      "id": "aka2026qccyxf",
+      "magnitude": 1.8,
+      "depth": 100,
+      "lat": 60.063,
+      "lon": -152.68,
+      "place": "54 km WNW of Happy Valley, Alaska",
+      "time": "2026-08-15T09:00:17.564Z"
+    },
+    {
       "id": "aka2026qccfph",
-      "magnitude": 1.5,
-      "depth": 32,
-      "lat": 61.388,
-      "lon": -149.254,
+      "magnitude": 1.8,
+      "depth": 33,
+      "lat": 61.383,
+      "lon": -149.249,
       "place": "18 km ENE of Eagle River, Alaska",
-      "time": "2026-08-15T08:38:01.873Z"
+      "time": "2026-08-15T08:38:01.985Z"
     },
     {
       "id": "aka2026qccajk",
-      "magnitude": 2.2,
-      "depth": 5,
-      "lat": 64.953,
-      "lon": -153.345,
-      "place": "64 km WSW of Tanana, Alaska",
-      "time": "2026-08-15T08:31:57.253Z"
+      "magnitude": 2,
+      "depth": 8,
+      "lat": 64.962,
+      "lon": -153.333,
+      "place": "63 km WSW of Tanana, Alaska",
+      "time": "2026-08-15T08:31:57.644Z"
     },
     {
       "id": "tx2026pznaiv",
@@ -27,7 +63,16 @@
       "lat": 31.735,
       "lon": -104.123,
       "place": "49 km W of Mentone, Texas",
-      "time": "2026-08-15T08:30:10.075Z"
+      "time": "2026-08-15T08:30:10.054Z"
+    },
+    {
+      "id": "aka2026qcbqqm",
+      "magnitude": 2,
+      "depth": 26,
+      "lat": 51.343,
+      "lon": -177.727,
+      "place": "96 km SW of Adak, Alaska",
+      "time": "2026-08-15T08:20:45.549Z"
     },
     {
       "id": "ci40673058",
@@ -37,6 +82,15 @@
       "lon": -116.73,
       "place": "6 km WSW of Anza, CA",
       "time": "2026-08-15T08:15:47.760Z"
+    },
+    {
+      "id": "tx2026pzmlzl",
+      "magnitude": 1.1,
+      "depth": 1,
+      "lat": 31.884,
+      "lon": -104.081,
+      "place": "37 km S of Malaga, New Mexico",
+      "time": "2026-08-15T08:13:14.375Z"
     },
     {
       "id": "ci40673050",
@@ -57,6 +111,15 @@
       "time": "2026-08-15T08:02:35.220Z"
     },
     {
+      "id": "aka2026qcazbj",
+      "magnitude": 2.3,
+      "depth": 112,
+      "lat": 51.835,
+      "lon": -179.889,
+      "place": "224 km W of Adak, Alaska",
+      "time": "2026-08-15T08:00:32.322Z"
+    },
+    {
       "id": "nc75418672",
       "magnitude": 1.3,
       "depth": 1,
@@ -68,11 +131,11 @@
     {
       "id": "aka2026qcatny",
       "magnitude": 1.7,
-      "depth": 72,
-      "lat": 62.091,
-      "lon": -151.177,
-      "place": "16 km NE of Skwentna, Alaska",
-      "time": "2026-08-15T07:54:07.183Z"
+      "depth": 75,
+      "lat": 62.107,
+      "lon": -151.179,
+      "place": "17 km NE of Skwentna, Alaska",
+      "time": "2026-08-15T07:54:06.957Z"
     },
     {
       "id": "nc75418667",
@@ -91,6 +154,15 @@
       "lon": -116.942,
       "place": "10 km SSE of Hemet, CA",
       "time": "2026-08-15T07:48:47.810Z"
+    },
+    {
+      "id": "aka2026qcanul",
+      "magnitude": 2.2,
+      "depth": 8,
+      "lat": 54.074,
+      "lon": -162.084,
+      "place": "110 km S of King Cove, Alaska",
+      "time": "2026-08-15T07:47:32.216Z"
     },
     {
       "id": "nc75418662",
@@ -136,6 +208,15 @@
       "lon": -117.403,
       "place": "26 km S of Trona, CA",
       "time": "2026-08-15T07:27:15.490Z"
+    },
+    {
+      "id": "aka2026qbzuuh",
+      "magnitude": 2.4,
+      "depth": 12,
+      "lat": 52.277,
+      "lon": -169.379,
+      "place": "81 km SSW of Nikolski, Alaska",
+      "time": "2026-08-15T07:25:27.133Z"
     },
     {
       "id": "nc75418647",
@@ -2449,60 +2530,6 @@
       "lon": -152.952,
       "place": "68 km WNW of Anchor Point, Alaska",
       "time": "2026-08-14T09:14:49.680Z"
-    },
-    {
-      "id": "av94382938",
-      "magnitude": -0.2,
-      "depth": 5,
-      "lat": 53.383,
-      "lon": -168.203,
-      "place": "66 km NE of Nikolski, Alaska",
-      "time": "2026-08-14T09:13:51.400Z"
-    },
-    {
-      "id": "ci40672394",
-      "magnitude": 1,
-      "depth": 12,
-      "lat": 33.369,
-      "lon": -116.697,
-      "place": "11 km NNW of Warner Springs, CA",
-      "time": "2026-08-14T09:11:26.240Z"
-    },
-    {
-      "id": "nc75418107",
-      "magnitude": 1.8,
-      "depth": 6,
-      "lat": 39.326,
-      "lon": -123.266,
-      "place": "9 km NW of Redwood Valley, CA",
-      "time": "2026-08-14T09:03:14.720Z"
-    },
-    {
-      "id": "hv75018567",
-      "magnitude": 2.1,
-      "depth": 29,
-      "lat": 19.145,
-      "lon": -155.504,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-14T09:01:23.010Z"
-    },
-    {
-      "id": "nn00923291",
-      "magnitude": 2.2,
-      "depth": 16,
-      "lat": 38.202,
-      "lon": -118.211,
-      "place": "22 km SSW of Mina, Nevada",
-      "time": "2026-08-14T08:53:41.178Z"
-    },
-    {
-      "id": "nn00923290",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 38.976,
-      "lon": -118.297,
-      "place": "34 km WNW of Gabbs, Nevada",
-      "time": "2026-08-14T08:53:30.865Z"
     }
   ]
 }
