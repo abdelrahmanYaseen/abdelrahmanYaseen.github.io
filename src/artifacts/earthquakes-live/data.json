@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-16T07:42:16.488Z",
-  "count": 210,
+  "generated": "2026-08-16T07:58:41.392Z",
+  "count": 205,
   "events": [
+    {
+      "id": "ci40673666",
+      "magnitude": 0.6,
+      "depth": 4,
+      "lat": 35.63,
+      "lon": -117.568,
+      "place": "10 km E of Ridgecrest, CA",
+      "time": "2026-08-16T07:46:12.060Z"
+    },
     {
       "id": "aka2026qdwezh",
       "magnitude": 1.7,
@@ -1837,60 +1846,6 @@
       "lon": -122.827,
       "place": "9 km WNW of Cobb, CA",
       "time": "2026-08-15T08:00:23.360Z"
-    },
-    {
-      "id": "pr71528558",
-      "magnitude": 3.2,
-      "depth": 103,
-      "lat": 18.257,
-      "lon": -67.296,
-      "place": "8 km SW of Stella, Puerto Rico",
-      "time": "2026-08-15T07:54:27.730Z"
-    },
-    {
-      "id": "aka2026qcatny",
-      "magnitude": 1.7,
-      "depth": 75,
-      "lat": 62.107,
-      "lon": -151.179,
-      "place": "17 km NE of Skwentna, Alaska",
-      "time": "2026-08-15T07:54:06.957Z"
-    },
-    {
-      "id": "nc75418667",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 38.779,
-      "lon": -122.933,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-15T07:49:55.260Z"
-    },
-    {
-      "id": "ci40673042",
-      "magnitude": 0.3,
-      "depth": 12,
-      "lat": 33.662,
-      "lon": -116.942,
-      "place": "10 km SSE of Hemet, CA",
-      "time": "2026-08-15T07:48:47.810Z"
-    },
-    {
-      "id": "aka2026qcanul",
-      "magnitude": 2.2,
-      "depth": 8,
-      "lat": 54.074,
-      "lon": -162.084,
-      "place": "110 km S of King Cove, Alaska",
-      "time": "2026-08-15T07:47:32.216Z"
-    },
-    {
-      "id": "nc75418662",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 38.839,
-      "lon": -122.792,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-08-15T07:44:53.630Z"
     }
   ]
 }
