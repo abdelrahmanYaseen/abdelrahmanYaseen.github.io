@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-16T15:42:00.344Z",
-  "count": 193,
+  "generated": "2026-08-16T15:56:21.014Z",
+  "count": 195,
   "events": [
+    {
+      "id": "hv75019522",
+      "magnitude": 1.9,
+      "depth": 6,
+      "lat": 19.338,
+      "lon": -155.197,
+      "place": "12 km SSE of Volcano, Hawaii",
+      "time": "2026-08-16T15:46:54.310Z"
+    },
+    {
+      "id": "nc75419457",
+      "magnitude": 0.3,
+      "depth": 5,
+      "lat": 38.788,
+      "lon": -122.754,
+      "place": "1 km N of The Geysers, CA",
+      "time": "2026-08-16T15:45:36.580Z"
+    },
+    {
+      "id": "ci40673858",
+      "magnitude": 1.8,
+      "depth": 7,
+      "lat": 35.309,
+      "lon": -117.806,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-16T15:45:27.790Z"
+    },
     {
       "id": "hv75019517",
       "magnitude": 2.7,
@@ -28,6 +55,15 @@
       "lon": -117.693,
       "place": "20 km ESE of Little Lake, CA",
       "time": "2026-08-16T15:06:57.870Z"
+    },
+    {
+      "id": "pr71528688",
+      "magnitude": 3.1,
+      "depth": 7,
+      "lat": 18.149,
+      "lon": -67.321,
+      "place": "16 km WNW of Puerto Real, Puerto Rico",
+      "time": "2026-08-16T15:06:23.190Z"
     },
     {
       "id": "pr71528673",
@@ -1720,24 +1756,6 @@
       "lon": -122.807,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-08-15T15:59:51.360Z"
-    },
-    {
-      "id": "us6000tl1p",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": -8.21,
-      "lon": 121.386,
-      "place": "76 km NNW of Ende, Indonesia",
-      "time": "2026-08-15T15:52:32.416Z"
-    },
-    {
-      "id": "nc75418852",
-      "magnitude": 0.8,
-      "depth": 1,
-      "lat": 38.796,
-      "lon": -122.76,
-      "place": "2 km N of The Geysers, CA",
-      "time": "2026-08-15T15:52:15.110Z"
     }
   ]
 }
