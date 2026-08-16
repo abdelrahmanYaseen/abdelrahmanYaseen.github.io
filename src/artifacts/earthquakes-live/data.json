@@ -1,15 +1,42 @@
 {
-  "generated": "2026-08-16T04:57:40.473Z",
-  "count": 218,
+  "generated": "2026-08-16T05:22:32.796Z",
+  "count": 214,
   "events": [
     {
+      "id": "ci40673570",
+      "magnitude": 1.2,
+      "depth": 21,
+      "lat": 32.747,
+      "lon": -115.965,
+      "place": "3 km ENE of Ocotillo, CA",
+      "time": "2026-08-16T05:07:02.550Z"
+    },
+    {
+      "id": "aka2026qdrdlp",
+      "magnitude": 1.2,
+      "depth": 16,
+      "lat": 61.646,
+      "lon": -148.141,
+      "place": "23 km SE of Chickaloon, Alaska",
+      "time": "2026-08-16T05:04:59.224Z"
+    },
+    {
+      "id": "ci40673562",
+      "magnitude": 0.5,
+      "depth": 11,
+      "lat": 33.408,
+      "lon": -116.693,
+      "place": "15 km NNW of Warner Springs, CA",
+      "time": "2026-08-16T04:54:16.530Z"
+    },
+    {
       "id": "ci40673554",
-      "magnitude": 1.5,
-      "depth": -1,
-      "lat": 32.995,
-      "lon": -116.551,
-      "place": "10 km SSE of Julian, CA",
-      "time": "2026-08-16T04:54:07.530Z"
+      "magnitude": 1,
+      "depth": 6,
+      "lat": 33.006,
+      "lon": -116.434,
+      "place": "18 km ESE of Julian, CA",
+      "time": "2026-08-16T04:54:07.690Z"
     },
     {
       "id": "tx2026qbbjvl",
@@ -57,15 +84,6 @@
       "time": "2026-08-16T04:01:49.320Z"
     },
     {
-      "id": "tx2026qazpun",
-      "magnitude": 2.3,
-      "depth": 2,
-      "lat": 31.767,
-      "lon": -104.411,
-      "place": "45 km S of Whites City, New Mexico",
-      "time": "2026-08-16T03:55:44.627Z"
-    },
-    {
       "id": "tx2026qazqpe",
       "magnitude": 2.1,
       "depth": 5,
@@ -73,6 +91,15 @@
       "lon": -104.179,
       "place": "54 km W of Mentone, Texas",
       "time": "2026-08-16T03:55:41.051Z"
+    },
+    {
+      "id": "tx2026qazpun",
+      "magnitude": 2.1,
+      "depth": 5,
+      "lat": 31.704,
+      "lon": -104.18,
+      "place": "55 km W of Mentone, Texas",
+      "time": "2026-08-16T03:55:41.039Z"
     },
     {
       "id": "nc75419207",
@@ -1371,15 +1398,6 @@
       "time": "2026-08-15T09:44:08.720Z"
     },
     {
-      "id": "aka2026qcekoo",
-      "magnitude": 1.2,
-      "depth": 16,
-      "lat": 62.247,
-      "lon": -152.31,
-      "place": "55 km WNW of Skwentna, Alaska",
-      "time": "2026-08-15T09:43:43.245Z"
-    },
-    {
       "id": "nc75418717",
       "magnitude": 0.9,
       "depth": 18,
@@ -1909,60 +1927,6 @@
       "lon": -124.452,
       "place": "13 km WSW of Barview, Oregon",
       "time": "2026-08-15T05:33:44.360Z"
-    },
-    {
-      "id": "hv75019092",
-      "magnitude": 1.8,
-      "depth": 27,
-      "lat": 19.169,
-      "lon": -155.471,
-      "place": "3 km SSE of Pāhala, Hawaii",
-      "time": "2026-08-15T05:21:17.720Z"
-    },
-    {
-      "id": "nc75418617",
-      "magnitude": 1.7,
-      "depth": 0,
-      "lat": 36.566,
-      "lon": -121.184,
-      "place": "5 km NW of Pinnacles, CA",
-      "time": "2026-08-15T05:19:55.980Z"
-    },
-    {
-      "id": "nc75418612",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 37.618,
-      "lon": -122.465,
-      "place": "2 km ENE of Pacifica, CA",
-      "time": "2026-08-15T05:17:34.830Z"
-    },
-    {
-      "id": "ci40673002",
-      "magnitude": 1.4,
-      "depth": 11,
-      "lat": 34.118,
-      "lon": -118.048,
-      "place": "1 km NE of Temple City, CA",
-      "time": "2026-08-15T05:07:32.270Z"
-    },
-    {
-      "id": "nc75418607",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.758,
-      "lon": -122.737,
-      "place": "3 km SE of The Geysers, CA",
-      "time": "2026-08-15T05:04:57.840Z"
-    },
-    {
-      "id": "nc75418602",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.757,
-      "lon": -122.736,
-      "place": "3 km SE of The Geysers, CA",
-      "time": "2026-08-15T05:02:18.380Z"
     }
   ]
 }
