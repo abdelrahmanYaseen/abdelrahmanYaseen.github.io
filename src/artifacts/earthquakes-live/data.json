@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-16T10:36:36.501Z",
-  "count": 206,
+  "generated": "2026-08-16T10:56:48.435Z",
+  "count": 204,
   "events": [
+    {
+      "id": "usd0015e7k",
+      "magnitude": 5.1,
+      "depth": 10,
+      "lat": -7.879,
+      "lon": 120.55,
+      "place": "81 km N of Ruteng, Indonesia",
+      "time": "2026-08-16T10:31:34.822Z"
+    },
     {
       "id": "ci40673770",
       "magnitude": 1.2,
@@ -22,12 +31,12 @@
     },
     {
       "id": "usd0015e7j",
-      "magnitude": 5.5,
+      "magnitude": 5.3,
       "depth": 10,
-      "lat": -7.939,
-      "lon": 120.546,
-      "place": "74 km N of Ruteng, Indonesia",
-      "time": "2026-08-16T10:14:36.545Z"
+      "lat": -7.94,
+      "lon": 120.6,
+      "place": "75 km NNE of Ruteng, Indonesia",
+      "time": "2026-08-16T10:14:36.343Z"
     },
     {
       "id": "ci40673762",
@@ -1828,33 +1837,6 @@
       "lon": -152.783,
       "place": "64 km WNW of Ninilchik, Alaska",
       "time": "2026-08-15T11:00:53.121Z"
-    },
-    {
-      "id": "us6000tkyk",
-      "magnitude": 6.9,
-      "depth": 173,
-      "lat": 3.086,
-      "lon": 99.015,
-      "place": "15 km NNW of Pematangsiantar, Indonesia",
-      "time": "2026-08-15T10:54:51.796Z"
-    },
-    {
-      "id": "ci40673106",
-      "magnitude": 0.2,
-      "depth": 14,
-      "lat": 33.892,
-      "lon": -116.922,
-      "place": "6 km SW of Banning, CA",
-      "time": "2026-08-15T10:48:21.200Z"
-    },
-    {
-      "id": "ci40673098",
-      "magnitude": 0.5,
-      "depth": 14,
-      "lat": 33.89,
-      "lon": -116.923,
-      "place": "6 km SW of Banning, CA",
-      "time": "2026-08-15T10:46:08.720Z"
     }
   ]
 }
