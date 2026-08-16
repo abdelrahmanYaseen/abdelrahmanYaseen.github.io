@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-16T23:31:48.236Z",
-  "count": 187,
+  "generated": "2026-08-16T23:53:19.529Z",
+  "count": 191,
   "events": [
+    {
+      "id": "nc75419742",
+      "magnitude": 1.1,
+      "depth": -1,
+      "lat": 38.864,
+      "lon": -122.843,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-08-16T23:45:54.780Z"
+    },
+    {
+      "id": "nc75419732",
+      "magnitude": 0.4,
+      "depth": 1,
+      "lat": 38.85,
+      "lon": -122.847,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-08-16T23:45:08.300Z"
+    },
+    {
+      "id": "nc75419722",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.817,
+      "lon": -122.812,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-16T23:43:31.170Z"
+    },
+    {
+      "id": "hv75019617",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 19.421,
+      "lon": -155.499,
+      "place": "24 km N of Pāhala, Hawaii",
+      "time": "2026-08-16T23:32:45.370Z"
+    },
+    {
+      "id": "tx2026qcmpqd",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 31.611,
+      "lon": -104.516,
+      "place": "63 km SSW of Whites City, New Mexico",
+      "time": "2026-08-16T23:30:56.167Z"
+    },
     {
       "id": "nc75419712",
       "magnitude": 1.3,
@@ -526,12 +571,12 @@
     },
     {
       "id": "hv75019517",
-      "magnitude": 2.7,
-      "depth": 11,
-      "lat": 20.262,
-      "lon": -155.672,
-      "place": "11 km ENE of Hala‘ula, Hawaii",
-      "time": "2026-08-16T15:25:30.600Z"
+      "magnitude": 3,
+      "depth": 41,
+      "lat": 20.253,
+      "lon": -155.675,
+      "place": "11 km E of Hala‘ula, Hawaii",
+      "time": "2026-08-16T15:25:30.450Z"
     },
     {
       "id": "nc75419442",
@@ -1675,15 +1720,6 @@
       "lon": -117.538,
       "place": "13 km WSW of Searles Valley, CA",
       "time": "2026-08-16T00:00:21.620Z"
-    },
-    {
-      "id": "tx2026qarmkd",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 31.612,
-      "lon": -104.097,
-      "place": "43 km NW of Toyah, Texas",
-      "time": "2026-08-15T23:49:12.097Z"
     }
   ]
 }
