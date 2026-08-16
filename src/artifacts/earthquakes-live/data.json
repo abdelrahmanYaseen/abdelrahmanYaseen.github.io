@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-16T10:10:56.298Z",
-  "count": 202,
+  "generated": "2026-08-16T10:36:36.501Z",
+  "count": 206,
   "events": [
+    {
+      "id": "ci40673770",
+      "magnitude": 1.2,
+      "depth": 6,
+      "lat": 32.873,
+      "lon": -115.512,
+      "place": "6 km ENE of Imperial, CA",
+      "time": "2026-08-16T10:18:30.380Z"
+    },
+    {
+      "id": "nc75419387",
+      "magnitude": 0.4,
+      "depth": 2,
+      "lat": 38.825,
+      "lon": -122.844,
+      "place": "9 km NW of The Geysers, CA",
+      "time": "2026-08-16T10:15:06.590Z"
+    },
+    {
+      "id": "usd0015e7j",
+      "magnitude": 5.5,
+      "depth": 10,
+      "lat": -7.939,
+      "lon": 120.546,
+      "place": "74 km N of Ruteng, Indonesia",
+      "time": "2026-08-16T10:14:36.545Z"
+    },
+    {
+      "id": "ci40673762",
+      "magnitude": 0.7,
+      "depth": 8,
+      "lat": 32.936,
+      "lon": -116.335,
+      "place": "22 km NE of Pine Valley, CA",
+      "time": "2026-08-16T10:12:02.460Z"
+    },
+    {
+      "id": "nc75419382",
+      "magnitude": 0.6,
+      "depth": 2,
+      "lat": 38.825,
+      "lon": -122.794,
+      "place": "6 km W of Cobb, CA",
+      "time": "2026-08-16T10:08:51.970Z"
+    },
     {
       "id": "ci40673754",
       "magnitude": 0.6,
@@ -28,6 +73,15 @@
       "lon": -114.98,
       "place": "15 km WNW of Nelson, Nevada",
       "time": "2026-08-16T09:59:12.827Z"
+    },
+    {
+      "id": "usd0015e7e",
+      "magnitude": 4,
+      "depth": 16,
+      "lat": 31.201,
+      "lon": -109.272,
+      "place": "30 km ESE of Agua Prieta, Mexico",
+      "time": "2026-08-16T09:57:38.788Z"
     },
     {
       "id": "ci40673738",
@@ -355,12 +409,12 @@
     },
     {
       "id": "tx2026qbfjqi",
-      "magnitude": 1.7,
-      "depth": 10,
-      "lat": 28.841,
-      "lon": -98.986,
-      "place": "12 km ESE of Pearsall, Texas",
-      "time": "2026-08-16T06:48:17.416Z"
+      "magnitude": 1.8,
+      "depth": 5,
+      "lat": 28.859,
+      "lon": -99.02,
+      "place": "8 km ESE of Pearsall, Texas",
+      "time": "2026-08-16T06:48:17.691Z"
     },
     {
       "id": "nc75419292",
@@ -823,12 +877,12 @@
     },
     {
       "id": "tx2026qaqrjz",
-      "magnitude": 2.1,
-      "depth": 0,
-      "lat": 28.887,
-      "lon": -98.997,
-      "place": "9 km E of Pearsall, Texas",
-      "time": "2026-08-15T23:24:42.946Z"
+      "magnitude": 2.3,
+      "depth": 9,
+      "lat": 28.872,
+      "lon": -98.998,
+      "place": "9 km ESE of Pearsall, Texas",
+      "time": "2026-08-15T23:24:42.070Z"
     },
     {
       "id": "ci40673426",
@@ -1801,24 +1855,6 @@
       "lon": -116.923,
       "place": "6 km SW of Banning, CA",
       "time": "2026-08-15T10:46:08.720Z"
-    },
-    {
-      "id": "us6000tkyg",
-      "magnitude": 5.1,
-      "depth": 10,
-      "lat": -8.264,
-      "lon": 120.368,
-      "place": "39 km NNW of Ruteng, Indonesia",
-      "time": "2026-08-15T10:31:30.185Z"
-    },
-    {
-      "id": "pr2026227000",
-      "magnitude": 3.5,
-      "depth": 10,
-      "lat": 19.487,
-      "lon": -64.338,
-      "place": "136 km NNE of Cruz Bay, U.S. Virgin Islands",
-      "time": "2026-08-15T10:16:57.590Z"
     }
   ]
 }
