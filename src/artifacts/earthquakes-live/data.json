@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-16T05:22:32.796Z",
-  "count": 214,
+  "generated": "2026-08-16T05:50:38.373Z",
+  "count": 209,
   "events": [
+    {
+      "id": "aka2026qdslov",
+      "magnitude": 1.5,
+      "depth": 6,
+      "lat": 58.263,
+      "lon": -154.956,
+      "place": "82 km NNW of Karluk, Alaska",
+      "time": "2026-08-16T05:44:20.208Z"
+    },
+    {
+      "id": "aka2026qdrzfl",
+      "magnitude": 2.6,
+      "depth": 33,
+      "lat": 61.381,
+      "lon": -150.048,
+      "place": "4 km WNW of Point MacKenzie, Alaska",
+      "time": "2026-08-16T05:30:05.977Z"
+    },
     {
       "id": "ci40673570",
       "magnitude": 1.2,
@@ -10,15 +28,6 @@
       "lon": -115.965,
       "place": "3 km ENE of Ocotillo, CA",
       "time": "2026-08-16T05:07:02.550Z"
-    },
-    {
-      "id": "aka2026qdrdlp",
-      "magnitude": 1.2,
-      "depth": 16,
-      "lat": 61.646,
-      "lon": -148.141,
-      "place": "23 km SE of Chickaloon, Alaska",
-      "time": "2026-08-16T05:04:59.224Z"
     },
     {
       "id": "ci40673562",
@@ -172,6 +181,15 @@
       "lon": -100.986,
       "place": "15 km S of Westbrook, Texas",
       "time": "2026-08-16T03:18:32.877Z"
+    },
+    {
+      "id": "aka2026qdnfmv",
+      "magnitude": 2.5,
+      "depth": 20,
+      "lat": 54.012,
+      "lon": -163.168,
+      "place": "95 km S of False Pass, Alaska",
+      "time": "2026-08-16T03:07:23.582Z"
     },
     {
       "id": "ci40673506",
@@ -831,15 +849,6 @@
       "time": "2026-08-15T16:55:55.204Z"
     },
     {
-      "id": "aka2026qcsodv",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 61.217,
-      "lon": -152.467,
-      "place": "73 km WNW of Tyonek, Alaska",
-      "time": "2026-08-15T16:47:40.064Z"
-    },
-    {
       "id": "us6000tl2a",
       "magnitude": 4.1,
       "depth": 99,
@@ -847,15 +856,6 @@
       "lon": 73.921,
       "place": "49 km N of Murghob, Tajikistan",
       "time": "2026-08-15T16:47:26.516Z"
-    },
-    {
-      "id": "aka2026qcsmpr",
-      "magnitude": 1.2,
-      "depth": 19,
-      "lat": 62.039,
-      "lon": -152.492,
-      "place": "57 km W of Skwentna, Alaska",
-      "time": "2026-08-15T16:45:53.069Z"
     },
     {
       "id": "ci40673242",
@@ -901,15 +901,6 @@
       "lon": -122.77,
       "place": "2 km NNW of The Geysers, CA",
       "time": "2026-08-15T16:14:21.460Z"
-    },
-    {
-      "id": "aka2026qcrjtc",
-      "magnitude": 0.5,
-      "depth": 5,
-      "lat": 58.162,
-      "lon": -155.319,
-      "place": "83 km NW of Karluk, Alaska",
-      "time": "2026-08-15T16:12:35.502Z"
     },
     {
       "id": "nc75418857",
@@ -1207,15 +1198,6 @@
       "lon": -121.487,
       "place": "8 km ENE of Lopez Point, CA",
       "time": "2026-08-15T13:02:17.050Z"
-    },
-    {
-      "id": "aka2026qckwmv",
-      "magnitude": 1.4,
-      "depth": 9,
-      "lat": 63.57,
-      "lon": -147.748,
-      "place": "60 km ESE of Denali Park, Alaska",
-      "time": "2026-08-15T12:57:24.463Z"
     },
     {
       "id": "aka2026qcjppz",
@@ -1900,33 +1882,6 @@
       "lon": -156.462,
       "place": "53 km E of Egegik, Alaska",
       "time": "2026-08-15T05:53:57.250Z"
-    },
-    {
-      "id": "us6000tkwj",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -8.368,
-      "lon": 121.361,
-      "place": "62 km NNW of Ende, Indonesia",
-      "time": "2026-08-15T05:45:08.046Z"
-    },
-    {
-      "id": "aka2026qbwdgo",
-      "magnitude": 2.4,
-      "depth": 2,
-      "lat": 53.921,
-      "lon": -162.719,
-      "place": "113 km SSE of False Pass, Alaska",
-      "time": "2026-08-15T05:35:25.615Z"
-    },
-    {
-      "id": "uw714079441",
-      "magnitude": 2.2,
-      "depth": 16,
-      "lat": 43.291,
-      "lon": -124.452,
-      "place": "13 km WSW of Barview, Oregon",
-      "time": "2026-08-15T05:33:44.360Z"
     }
   ]
 }
