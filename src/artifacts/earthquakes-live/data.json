@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-16T22:33:50.019Z",
-  "count": 187,
+  "generated": "2026-08-16T22:54:37.619Z",
+  "count": 188,
   "events": [
+    {
+      "id": "hv75019597",
+      "magnitude": 1.9,
+      "depth": 38,
+      "lat": 19.427,
+      "lon": -155.578,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-16T22:47:36.230Z"
+    },
+    {
+      "id": "aka2026qfajll",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 64.97,
+      "lon": -147.434,
+      "place": "8 km E of Fox, Alaska",
+      "time": "2026-08-16T22:41:25.400Z"
+    },
+    {
+      "id": "ci40674114",
+      "magnitude": 1.1,
+      "depth": 10,
+      "lat": 35.777,
+      "lon": -117.597,
+      "place": "17 km W of Searles Valley, CA",
+      "time": "2026-08-16T22:35:11.210Z"
+    },
+    {
+      "id": "ci40674106",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.066,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-16T22:31:45.200Z"
+    },
     {
       "id": "ci40674098",
       "magnitude": 0.9,
@@ -55,6 +91,15 @@
       "lon": -122.789,
       "place": "6 km W of Cobb, CA",
       "time": "2026-08-16T21:31:36.860Z"
+    },
+    {
+      "id": "usd0015ea9",
+      "magnitude": 4.5,
+      "depth": 163,
+      "lat": -7.105,
+      "lon": 129.576,
+      "place": "Kepulauan Babar, Indonesia",
+      "time": "2026-08-16T21:28:18.985Z"
     },
     {
       "id": "nc75419667",
@@ -1648,42 +1693,6 @@
       "lon": -122.782,
       "place": "5 km WNW of Cobb, CA",
       "time": "2026-08-15T23:00:02.630Z"
-    },
-    {
-      "id": "us6000tl43",
-      "magnitude": 5.4,
-      "depth": 10,
-      "lat": 9.657,
-      "lon": 138.224,
-      "place": "19 km NE of Colonia, Micronesia",
-      "time": "2026-08-15T22:52:55.761Z"
-    },
-    {
-      "id": "us6000tl40",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 13.189,
-      "lon": -90.984,
-      "place": "83 km SSW of Puerto San José, Guatemala",
-      "time": "2026-08-15T22:45:24.028Z"
-    },
-    {
-      "id": "aka2026qdeiyi",
-      "magnitude": 3.6,
-      "depth": 47,
-      "lat": 60.97,
-      "lon": -150.288,
-      "place": "22 km ENE of Point Possession, Alaska",
-      "time": "2026-08-15T22:41:30.827Z"
-    },
-    {
-      "id": "tx2026qapdby",
-      "magnitude": 0.8,
-      "depth": 0,
-      "lat": 31.876,
-      "lon": -101.746,
-      "place": "25 km W of Garden City, Texas",
-      "time": "2026-08-15T22:37:54.339Z"
     }
   ]
 }
