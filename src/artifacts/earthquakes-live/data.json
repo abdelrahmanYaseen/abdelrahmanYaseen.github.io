@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-16T09:52:54.880Z",
-  "count": 198,
+  "generated": "2026-08-16T10:10:56.298Z",
+  "count": 202,
   "events": [
+    {
+      "id": "ci40673754",
+      "magnitude": 0.6,
+      "depth": 7,
+      "lat": 35.763,
+      "lon": -117.577,
+      "place": "16 km W of Searles Valley, CA",
+      "time": "2026-08-16T10:00:52.650Z"
+    },
+    {
+      "id": "tx2026qblsrc",
+      "magnitude": 2.1,
+      "depth": 0,
+      "lat": 31.948,
+      "lon": -104.268,
+      "place": "27 km SSE of Whites City, New Mexico",
+      "time": "2026-08-16T09:59:48.857Z"
+    },
+    {
+      "id": "nn00923371",
+      "magnitude": 1.6,
+      "depth": 16,
+      "lat": 35.776,
+      "lon": -114.98,
+      "place": "15 km WNW of Nelson, Nevada",
+      "time": "2026-08-16T09:59:12.827Z"
+    },
+    {
+      "id": "ci40673738",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 35.678,
+      "lon": -117.539,
+      "place": "14 km ENE of Ridgecrest, CA",
+      "time": "2026-08-16T09:52:18.590Z"
+    },
+    {
+      "id": "ci40673730",
+      "magnitude": 0.5,
+      "depth": 7,
+      "lat": 35.768,
+      "lon": -117.588,
+      "place": "17 km W of Searles Valley, CA",
+      "time": "2026-08-16T09:48:54.880Z"
+    },
     {
       "id": "nc75419372",
       "magnitude": 0.8,
@@ -433,6 +478,15 @@
       "lon": -104.102,
       "place": "44 km NW of Toyah, Texas",
       "time": "2026-08-16T05:23:27.776Z"
+    },
+    {
+      "id": "pr71528653",
+      "magnitude": 1.9,
+      "depth": 14,
+      "lat": 18.028,
+      "lon": -66.743,
+      "place": "2 km ENE of Magas Arriba, Puerto Rico",
+      "time": "2026-08-16T05:07:49.360Z"
     },
     {
       "id": "ci40673570",
@@ -1765,24 +1819,6 @@
       "lon": -64.338,
       "place": "136 km NNE of Cruz Bay, U.S. Virgin Islands",
       "time": "2026-08-15T10:16:57.590Z"
-    },
-    {
-      "id": "tx2026pzqhub",
-      "magnitude": 1.8,
-      "depth": 4,
-      "lat": 31.664,
-      "lon": -104.442,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": "2026-08-15T10:10:18.192Z"
-    },
-    {
-      "id": "ci40673090",
-      "magnitude": 1.2,
-      "depth": 10,
-      "lat": 34.219,
-      "lon": -117.497,
-      "place": "4 km S of Lytle Creek, CA",
-      "time": "2026-08-15T10:01:02.060Z"
     }
   ]
 }
