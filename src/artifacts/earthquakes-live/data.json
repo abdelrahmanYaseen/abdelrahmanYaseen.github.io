@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-16T05:50:38.373Z",
-  "count": 209,
+  "generated": "2026-08-16T06:19:48.303Z",
+  "count": 207,
   "events": [
+    {
+      "id": "ci40673578",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 36.01,
+      "lon": -118.39,
+      "place": "29 km N of Kernville, CA",
+      "time": "2026-08-16T06:14:57.140Z"
+    },
+    {
+      "id": "nc75419277",
+      "magnitude": 2.5,
+      "depth": 2,
+      "lat": 37.45,
+      "lon": -118.84,
+      "place": "19 km SW of Toms Place, CA",
+      "time": "2026-08-16T06:01:27.090Z"
+    },
+    {
+      "id": "nc75419267",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.834,
+      "lon": -122.804,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-08-16T05:53:58.610Z"
+    },
+    {
+      "id": "nc75419252",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.834,
+      "lon": -122.802,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-08-16T05:50:18.660Z"
+    },
     {
       "id": "aka2026qdslov",
       "magnitude": 1.5,
@@ -19,6 +55,15 @@
       "lon": -150.048,
       "place": "4 km WNW of Point MacKenzie, Alaska",
       "time": "2026-08-16T05:30:05.977Z"
+    },
+    {
+      "id": "tx2026qbclqd",
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 31.611,
+      "lon": -104.102,
+      "place": "44 km NW of Toyah, Texas",
+      "time": "2026-08-16T05:23:27.776Z"
     },
     {
       "id": "ci40673570",
@@ -1819,69 +1864,6 @@
       "lon": -116.437,
       "place": "16 km ESE of Julian, CA",
       "time": "2026-08-15T06:21:07.450Z"
-    },
-    {
-      "id": "hv75019107",
-      "magnitude": 2.6,
-      "depth": 22,
-      "lat": 19.453,
-      "lon": -155.241,
-      "place": "1 km NNW of Volcano, Hawaii",
-      "time": "2026-08-15T06:11:43.760Z"
-    },
-    {
-      "id": "nc75418627",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.827,
-      "lon": -122.796,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-08-15T06:04:57.170Z"
-    },
-    {
-      "id": "aka2026qbwzhu",
-      "magnitude": 2.7,
-      "depth": 27,
-      "lat": 61.628,
-      "lon": -149.83,
-      "place": "0 km WSW of Houston, Alaska",
-      "time": "2026-08-15T06:00:50.614Z"
-    },
-    {
-      "id": "tx2026pzhyoa",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 32.254,
-      "lon": -101.922,
-      "place": "18 km NW of Stanton, Texas",
-      "time": "2026-08-15T05:57:31.840Z"
-    },
-    {
-      "id": "pr71528533",
-      "magnitude": 2,
-      "depth": 14,
-      "lat": 17.934,
-      "lon": -66.917,
-      "place": "4 km SSW of Guánica, Puerto Rico",
-      "time": "2026-08-15T05:56:46.130Z"
-    },
-    {
-      "id": "us6000tkxt",
-      "magnitude": 2.9,
-      "depth": 10,
-      "lat": 51.021,
-      "lon": -171.233,
-      "place": "243 km ESE of Atka, Alaska",
-      "time": "2026-08-15T05:54:31.347Z"
-    },
-    {
-      "id": "aka2026qbwtip",
-      "magnitude": 2.4,
-      "depth": 6,
-      "lat": 58.181,
-      "lon": -156.462,
-      "place": "53 km E of Egegik, Alaska",
-      "time": "2026-08-15T05:53:57.250Z"
     }
   ]
 }
