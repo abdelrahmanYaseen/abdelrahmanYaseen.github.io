@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-15T23:54:05.201Z",
+  "generated": "2026-08-16T00:34:08.323Z",
   "count": 235,
   "events": [
+    {
+      "id": "ci40673458",
+      "magnitude": 1,
+      "depth": 9,
+      "lat": 33.031,
+      "lon": -116.408,
+      "place": "19 km ESE of Julian, CA",
+      "time": "2026-08-16T00:16:04.770Z"
+    },
+    {
+      "id": "ci40673450",
+      "magnitude": 1.4,
+      "depth": 7,
+      "lat": 35.74,
+      "lon": -117.538,
+      "place": "13 km WSW of Searles Valley, CA",
+      "time": "2026-08-16T00:00:21.620Z"
+    },
     {
       "id": "tx2026qarmkd",
       "magnitude": 1.7,
@@ -145,6 +163,15 @@
       "lon": -116.032,
       "place": "10 km ENE of Ocotillo Wells, CA",
       "time": "2026-08-15T21:23:51.740Z"
+    },
+    {
+      "id": "us6000tl3n",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": -7.828,
+      "lon": 120.511,
+      "place": "86 km N of Ruteng, Indonesia",
+      "time": "2026-08-15T21:08:32.582Z"
     },
     {
       "id": "tx2026qambhg",
@@ -2089,33 +2116,6 @@
       "lon": 165.89,
       "place": "Balleny Islands region",
       "time": "2026-08-15T00:40:13.397Z"
-    },
-    {
-      "id": "aka2026qbltfw",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 64.525,
-      "lon": -149.379,
-      "place": "14 km WSW of Nenana, Alaska",
-      "time": "2026-08-15T00:23:58.646Z"
-    },
-    {
-      "id": "us6000tkvg",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -8.606,
-      "lon": 121.279,
-      "place": "49 km WNW of Ende, Indonesia",
-      "time": "2026-08-15T00:20:27.120Z"
-    },
-    {
-      "id": "us6000tkvd",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -8.226,
-      "lon": 121.313,
-      "place": "78 km NNW of Ende, Indonesia",
-      "time": "2026-08-15T00:03:22.963Z"
     }
   ]
 }
