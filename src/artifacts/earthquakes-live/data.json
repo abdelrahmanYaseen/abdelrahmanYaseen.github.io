@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-16T15:20:13.158Z",
+  "generated": "2026-08-16T15:42:00.344Z",
   "count": 193,
   "events": [
+    {
+      "id": "hv75019517",
+      "magnitude": 2.7,
+      "depth": 11,
+      "lat": 20.262,
+      "lon": -155.672,
+      "place": "11 km ENE of Hala‘ula, Hawaii",
+      "time": "2026-08-16T15:25:30.600Z"
+    },
     {
       "id": "nc75419442",
       "magnitude": 0.7,
@@ -21,6 +30,15 @@
       "time": "2026-08-16T15:06:57.870Z"
     },
     {
+      "id": "pr71528673",
+      "magnitude": 3.1,
+      "depth": 24,
+      "lat": 19.002,
+      "lon": -66.781,
+      "place": "57 km N of Hatillo, Puerto Rico",
+      "time": "2026-08-16T15:04:51.100Z"
+    },
+    {
       "id": "ci40673842",
       "magnitude": 0.4,
       "depth": 4,
@@ -28,6 +46,15 @@
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-16T15:00:02.360Z"
+    },
+    {
+      "id": "pr71528658",
+      "magnitude": 3.2,
+      "depth": 7,
+      "lat": 18.147,
+      "lon": -67.328,
+      "place": "16 km WNW of Puerto Real, Puerto Rico",
+      "time": "2026-08-16T14:59:17.730Z"
     },
     {
       "id": "tx2026qbviom",
@@ -1711,33 +1738,6 @@
       "lon": -122.76,
       "place": "2 km N of The Geysers, CA",
       "time": "2026-08-15T15:52:15.110Z"
-    },
-    {
-      "id": "nc75418837",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 39.37,
-      "lon": -123.231,
-      "place": "12 km ESE of Willits, CA",
-      "time": "2026-08-15T15:35:32.820Z"
-    },
-    {
-      "id": "ci40673234",
-      "magnitude": 0.4,
-      "depth": 10,
-      "lat": 33.676,
-      "lon": -116.78,
-      "place": "9 km SW of Idyllwild, CA",
-      "time": "2026-08-15T15:30:32.010Z"
-    },
-    {
-      "id": "us6000tl1m",
-      "magnitude": 4.4,
-      "depth": 600,
-      "lat": -21.834,
-      "lon": -179.604,
-      "place": "Fiji region",
-      "time": "2026-08-15T15:21:32.784Z"
     }
   ]
 }
