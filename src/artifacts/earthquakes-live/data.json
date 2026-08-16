@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-16T13:41:26.910Z",
-  "count": 200,
+  "generated": "2026-08-16T13:57:38.262Z",
+  "count": 197,
   "events": [
+    {
+      "id": "tx2026qbtjkj",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 31.639,
+      "lon": -104.396,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": "2026-08-16T13:50:52.691Z"
+    },
     {
       "id": "ci40673826",
       "magnitude": 0.4,
@@ -1765,42 +1774,6 @@
       "lon": -116.738,
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": "2026-08-15T14:06:01.150Z"
-    },
-    {
-      "id": "us6000tl19",
-      "magnitude": 4.5,
-      "depth": 171,
-      "lat": -6.566,
-      "lon": 129.869,
-      "place": "Banda Sea",
-      "time": "2026-08-15T13:56:26.203Z"
-    },
-    {
-      "id": "aka2026qcmnqm",
-      "magnitude": 1.5,
-      "depth": 67,
-      "lat": 62.711,
-      "lon": -149.729,
-      "place": "34 km NNE of Chase, Alaska",
-      "time": "2026-08-15T13:47:10.422Z"
-    },
-    {
-      "id": "hv75019202",
-      "magnitude": 2.8,
-      "depth": 30,
-      "lat": 19.198,
-      "lon": -155.382,
-      "place": "10 km E of Pāhala, Hawaii",
-      "time": "2026-08-15T13:44:57.430Z"
-    },
-    {
-      "id": "aka2026qcmjoz",
-      "magnitude": 2,
-      "depth": 35,
-      "lat": 62.178,
-      "lon": -148.857,
-      "place": "44 km N of Sutton-Alpine, Alaska",
-      "time": "2026-08-15T13:42:29.514Z"
     }
   ]
 }
