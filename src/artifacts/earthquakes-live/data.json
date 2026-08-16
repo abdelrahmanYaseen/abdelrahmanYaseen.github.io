@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-16T15:56:21.014Z",
-  "count": 195,
+  "generated": "2026-08-16T16:13:53.453Z",
+  "count": 197,
   "events": [
+    {
+      "id": "ci40673890",
+      "magnitude": 1.6,
+      "depth": 11,
+      "lat": 33.035,
+      "lon": -116.902,
+      "place": "3 km WSW of Ramona, CA",
+      "time": "2026-08-16T16:07:44.210Z"
+    },
+    {
+      "id": "ci40673874",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 35.976,
+      "lon": -117.495,
+      "place": "25 km NNW of Searles Valley, CA",
+      "time": "2026-08-16T15:58:46.990Z"
+    },
+    {
+      "id": "usd0015e8n",
+      "magnitude": 5.2,
+      "depth": 35,
+      "lat": 14.418,
+      "lon": -92.969,
+      "place": "67 km WSW of Puerto Madero, Mexico",
+      "time": "2026-08-16T15:52:53.557Z"
+    },
     {
       "id": "hv75019522",
       "magnitude": 1.9,
@@ -1747,15 +1774,6 @@
       "lon": -122.77,
       "place": "2 km NNW of The Geysers, CA",
       "time": "2026-08-15T16:14:21.460Z"
-    },
-    {
-      "id": "nc75418857",
-      "magnitude": 1.2,
-      "depth": 3,
-      "lat": 38.821,
-      "lon": -122.807,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-15T15:59:51.360Z"
     }
   ]
 }
