@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-16T18:11:41.865Z",
-  "count": 194,
+  "generated": "2026-08-16T18:44:59.304Z",
+  "count": 190,
   "events": [
+    {
+      "id": "ci40673938",
+      "magnitude": 0.8,
+      "depth": 15,
+      "lat": 33.701,
+      "lon": -116.818,
+      "place": "9 km SE of Valle Vista, CA",
+      "time": "2026-08-16T18:25:41.400Z"
+    },
+    {
+      "id": "nc75419547",
+      "magnitude": 2,
+      "depth": 2,
+      "lat": 36.559,
+      "lon": -121.171,
+      "place": "4 km NW of Pinnacles, CA",
+      "time": "2026-08-16T18:24:18.820Z"
+    },
     {
       "id": "nc75419542",
       "magnitude": 1,
@@ -373,12 +391,12 @@
     },
     {
       "id": "ci40673810",
-      "magnitude": 1.8,
+      "magnitude": 1.6,
       "depth": 8,
-      "lat": 33.847,
-      "lon": -118.258,
-      "place": "3 km NE of Carson, CA",
-      "time": "2026-08-16T12:11:12.440Z"
+      "lat": 33.845,
+      "lon": -118.247,
+      "place": "4 km ENE of Carson, CA",
+      "time": "2026-08-16T12:11:12.350Z"
     },
     {
       "id": "ci40673802",
@@ -1130,11 +1148,11 @@
     {
       "id": "ci40673530",
       "magnitude": 1.5,
-      "depth": 8,
-      "lat": 32.26,
-      "lon": -116.531,
-      "place": "35 km SSE of Tecate, B.C., MX",
-      "time": "2026-08-16T03:26:41.250Z"
+      "depth": 10,
+      "lat": 32.255,
+      "lon": -116.539,
+      "place": "36 km E of Primo Tapia, B.C., MX",
+      "time": "2026-08-16T03:26:41.180Z"
     },
     {
       "id": "ci40673514",
@@ -1434,6 +1452,15 @@
       "time": "2026-08-15T22:24:14.730Z"
     },
     {
+      "id": "uw714079911",
+      "magnitude": -0.3,
+      "depth": 8,
+      "lat": 46.859,
+      "lon": -121.888,
+      "place": "15 km NE of Ashford, Washington",
+      "time": "2026-08-15T22:16:27.660Z"
+    },
+    {
       "id": "tx2026qaohkr",
       "magnitude": 2,
       "depth": 0,
@@ -1684,69 +1711,6 @@
       "lon": -122.773,
       "place": "4 km NNW of The Geysers, CA",
       "time": "2026-08-15T19:04:13.590Z"
-    },
-    {
-      "id": "nc75418912",
-      "magnitude": 1.2,
-      "depth": 5,
-      "lat": 37.753,
-      "lon": -122.14,
-      "place": "3 km NNE of San Leandro, CA",
-      "time": "2026-08-15T18:43:41.370Z"
-    },
-    {
-      "id": "us6000tl33",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": -8.203,
-      "lon": 120.542,
-      "place": "45 km N of Ruteng, Indonesia",
-      "time": "2026-08-15T18:43:05.132Z"
-    },
-    {
-      "id": "us6000tl31",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -8.22,
-      "lon": 120.64,
-      "place": "47 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-15T18:40:21.369Z"
-    },
-    {
-      "id": "ci40673290",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 33.259,
-      "lon": -116.07,
-      "place": "11 km WSW of Salton City, CA",
-      "time": "2026-08-15T18:30:25.540Z"
-    },
-    {
-      "id": "tx2026qagoyu",
-      "magnitude": 2.2,
-      "depth": 0,
-      "lat": 32.064,
-      "lon": -103.424,
-      "place": "22 km WSW of Jal, New Mexico",
-      "time": "2026-08-15T18:20:11.658Z"
-    },
-    {
-      "id": "tx2026qagons",
-      "magnitude": 2.6,
-      "depth": 4,
-      "lat": 31.679,
-      "lon": -101.994,
-      "place": "36 km SSE of Midland, Texas",
-      "time": "2026-08-15T18:19:49.106Z"
-    },
-    {
-      "id": "nc75418897",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 37.645,
-      "lon": -122.078,
-      "place": "0 km NW of Hayward, CA",
-      "time": "2026-08-15T18:11:49.420Z"
     }
   ]
 }
