@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-16T17:40:36.328Z",
-  "count": 189,
+  "generated": "2026-08-16T17:53:43.325Z",
+  "count": 187,
   "events": [
+    {
+      "id": "ci40673930",
+      "magnitude": 1.3,
+      "depth": 10,
+      "lat": 33.765,
+      "lon": -117.529,
+      "place": "12 km SSE of Corona, CA",
+      "time": "2026-08-16T17:48:41.300Z"
+    },
+    {
+      "id": "nc75419527",
+      "magnitude": 1.4,
+      "depth": 7,
+      "lat": 36.527,
+      "lon": -120.855,
+      "place": "20 km NW of New Idria, CA",
+      "time": "2026-08-16T17:48:22.020Z"
+    },
     {
       "id": "ci40673906",
       "magnitude": 0.8,
@@ -787,12 +805,12 @@
     },
     {
       "id": "ci40673610",
-      "magnitude": 2.7,
+      "magnitude": 2.8,
       "depth": 3,
-      "lat": 36.065,
-      "lon": -117.84,
+      "lat": 36.068,
+      "lon": -117.842,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-16T06:49:33.320Z"
+      "time": "2026-08-16T06:49:33.270Z"
     },
     {
       "id": "tx2026qbfjqi",
@@ -1666,42 +1684,6 @@
       "lon": -122.078,
       "place": "0 km NW of Hayward, CA",
       "time": "2026-08-15T18:11:49.420Z"
-    },
-    {
-      "id": "us6000tl2u",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -7.767,
-      "lon": 120.678,
-      "place": "96 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-15T17:51:27.384Z"
-    },
-    {
-      "id": "us6000tl2t",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -7.926,
-      "lon": 120.412,
-      "place": "76 km N of Ruteng, Indonesia",
-      "time": "2026-08-15T17:44:14.375Z"
-    },
-    {
-      "id": "ci40673282",
-      "magnitude": 1.2,
-      "depth": 5,
-      "lat": 33.883,
-      "lon": -117.697,
-      "place": "11 km E of Yorba Linda, CA",
-      "time": "2026-08-15T17:43:52.820Z"
-    },
-    {
-      "id": "us6000tl2s",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 51.493,
-      "lon": 159.97,
-      "place": "192 km SSE of Vilyuchinsk, Russia",
-      "time": "2026-08-15T17:41:42.009Z"
     }
   ]
 }
