@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-16T20:08:27.732Z",
-  "count": 186,
+  "generated": "2026-08-16T20:35:10.521Z",
+  "count": 183,
   "events": [
+    {
+      "id": "ok2026qahp",
+      "magnitude": 2,
+      "depth": 0,
+      "lat": 35.909,
+      "lon": -99.264,
+      "place": "8 km ENE of Leedey, Oklahoma",
+      "time": "2026-08-16T20:25:08.541Z"
+    },
+    {
+      "id": "nc75419622",
+      "magnitude": 2.6,
+      "depth": 17,
+      "lat": 40.493,
+      "lon": -124.903,
+      "place": "55 km W of Ferndale, CA",
+      "time": "2026-08-16T20:21:45.850Z"
+    },
     {
       "id": "tx2026qcfjrz",
       "magnitude": 1.5,
@@ -23,11 +41,11 @@
     {
       "id": "ci40673978",
       "magnitude": 1.8,
-      "depth": 12,
-      "lat": 34.795,
+      "depth": 13,
+      "lat": 34.797,
       "lon": -118.931,
       "place": "3 km SSE of Frazier Park, CA",
-      "time": "2026-08-16T19:34:03.430Z"
+      "time": "2026-08-16T19:34:03.330Z"
     },
     {
       "id": "ci40673970",
@@ -1630,51 +1648,6 @@
       "lon": -122.759,
       "place": "2 km N of The Geysers, CA",
       "time": "2026-08-15T20:39:28.280Z"
-    },
-    {
-      "id": "ci40673362",
-      "magnitude": 0.5,
-      "depth": 13,
-      "lat": 33.289,
-      "lon": -116.737,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-15T20:30:05.720Z"
-    },
-    {
-      "id": "us6000tl3k",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -8.035,
-      "lon": 120.493,
-      "place": "63 km N of Ruteng, Indonesia",
-      "time": "2026-08-15T20:29:44.571Z"
-    },
-    {
-      "id": "aka2026qczwcl",
-      "magnitude": 2.3,
-      "depth": 2,
-      "lat": 63.567,
-      "lon": -150.735,
-      "place": "49 km E of Denali National Park, Alaska",
-      "time": "2026-08-15T20:26:44.276Z"
-    },
-    {
-      "id": "tx2026qakoan",
-      "magnitude": 1.8,
-      "depth": 1,
-      "lat": 30.729,
-      "lon": -103.365,
-      "place": "46 km SE of Balmorhea, Texas",
-      "time": "2026-08-15T20:19:47.110Z"
-    },
-    {
-      "id": "ci40673330",
-      "magnitude": 0.7,
-      "depth": 6,
-      "lat": 33.157,
-      "lon": -116.521,
-      "place": "12 km NE of Julian, CA",
-      "time": "2026-08-15T20:14:56.620Z"
     }
   ]
 }
