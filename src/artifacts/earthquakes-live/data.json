@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-16T23:53:19.529Z",
-  "count": 191,
+  "generated": "2026-08-17T00:33:09.342Z",
+  "count": 193,
   "events": [
+    {
+      "id": "tx2026qcomja",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 32.569,
+      "lon": -101.126,
+      "place": "25 km SW of Snyder, Texas",
+      "time": "2026-08-17T00:27:27.873Z"
+    },
+    {
+      "id": "tx2026qcohxo",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 31.645,
+      "lon": -104.182,
+      "place": "52 km NW of Toyah, Texas",
+      "time": "2026-08-17T00:22:19.690Z"
+    },
+    {
+      "id": "hv75019627",
+      "magnitude": 2.1,
+      "depth": 1,
+      "lat": 19.315,
+      "lon": -155.496,
+      "place": "12 km N of Pāhala, Hawaii",
+      "time": "2026-08-17T00:20:57.770Z"
+    },
+    {
+      "id": "aka2026qfdpnd",
+      "magnitude": 2.2,
+      "depth": 112,
+      "lat": 61.12,
+      "lon": -151.934,
+      "place": "43 km W of Tyonek, Alaska",
+      "time": "2026-08-17T00:18:22.644Z"
+    },
+    {
+      "id": "usd0015eas",
+      "magnitude": 4.9,
+      "depth": 556,
+      "lat": -17.737,
+      "lon": -178.665,
+      "place": "216 km E of Levuka, Fiji",
+      "time": "2026-08-17T00:08:06.777Z"
+    },
+    {
+      "id": "hv75019622",
+      "magnitude": 2.3,
+      "depth": 31,
+      "lat": 19.141,
+      "lon": -155.488,
+      "place": "6 km S of Pāhala, Hawaii",
+      "time": "2026-08-16T23:57:43.920Z"
+    },
     {
       "id": "nc75419742",
       "magnitude": 1.1,
@@ -1624,12 +1678,12 @@
     },
     {
       "id": "hv75019392",
-      "magnitude": 2.7,
-      "depth": 31,
-      "lat": 19.333,
+      "magnitude": 1.3,
+      "depth": 30,
+      "lat": 19.328,
       "lon": -155.27,
-      "place": "12 km SSW of Volcano, Hawaii",
-      "time": "2026-08-16T02:15:42.600Z"
+      "place": "13 km SSW of Volcano, Hawaii",
+      "time": "2026-08-16T02:15:42.620Z"
     },
     {
       "id": "nc75419162",
@@ -1684,42 +1738,6 @@
       "lon": -66.941,
       "place": "4 km WSW of Guánica, Puerto Rico",
       "time": "2026-08-16T01:38:45.770Z"
-    },
-    {
-      "id": "hv75019372",
-      "magnitude": 3,
-      "depth": 8,
-      "lat": 19.43,
-      "lon": -155.353,
-      "place": "12 km W of Volcano, Hawaii",
-      "time": "2026-08-16T00:32:06.750Z"
-    },
-    {
-      "id": "us6000tl4c",
-      "magnitude": 4.2,
-      "depth": 147,
-      "lat": 6.89,
-      "lon": -73.094,
-      "place": "11 km SSW of Piedecuesta, Colombia",
-      "time": "2026-08-16T00:18:16.411Z"
-    },
-    {
-      "id": "ci40673458",
-      "magnitude": 1,
-      "depth": 9,
-      "lat": 33.031,
-      "lon": -116.408,
-      "place": "19 km ESE of Julian, CA",
-      "time": "2026-08-16T00:16:04.770Z"
-    },
-    {
-      "id": "ci40673450",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 35.74,
-      "lon": -117.538,
-      "place": "13 km WSW of Searles Valley, CA",
-      "time": "2026-08-16T00:00:21.620Z"
     }
   ]
 }
