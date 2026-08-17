@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-17T16:18:39.960Z",
-  "count": 208,
+  "generated": "2026-08-17T16:51:18.751Z",
+  "count": 213,
   "events": [
+    {
+      "id": "ci40674514",
+      "magnitude": 0.7,
+      "depth": 17,
+      "lat": 33.69,
+      "lon": -116.681,
+      "place": "7 km SSE of Idyllwild, CA",
+      "time": "2026-08-17T16:45:05.780Z"
+    },
+    {
+      "id": "ci40674506",
+      "magnitude": 0.6,
+      "depth": 16,
+      "lat": 33.683,
+      "lon": -116.694,
+      "place": "7 km SSE of Idyllwild, CA",
+      "time": "2026-08-17T16:38:26.990Z"
+    },
+    {
+      "id": "tx2026qduipa",
+      "magnitude": 1.4,
+      "depth": 3,
+      "lat": 32.082,
+      "lon": -101.406,
+      "place": "4 km SW of Forsan, Texas",
+      "time": "2026-08-17T16:28:37.807Z"
+    },
+    {
+      "id": "ci40674490",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 32.578,
+      "lon": -116.715,
+      "place": "8 km W of Tecate, B.C., MX",
+      "time": "2026-08-17T16:25:53.240Z"
+    },
+    {
+      "id": "nc75420107",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 36.624,
+      "lon": -121.24,
+      "place": "13 km NW of Pinnacles, CA",
+      "time": "2026-08-17T16:20:13.650Z"
+    },
+    {
+      "id": "ok2026qbur",
+      "magnitude": 1.3,
+      "depth": 8,
+      "lat": 34.69,
+      "lon": -95.974,
+      "place": "6 km NE of Wardville, Oklahoma",
+      "time": "2026-08-17T16:08:46.759Z"
+    },
     {
       "id": "nc75420102",
       "magnitude": 0.8,
@@ -31,12 +85,12 @@
     },
     {
       "id": "tx2026qdsdpi",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 31.424,
-      "lon": -103.592,
-      "place": "7 km NW of Lindsay, Texas",
-      "time": "2026-08-17T15:22:47.187Z"
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 31.401,
+      "lon": -103.605,
+      "place": "7 km WNW of Lindsay, Texas",
+      "time": "2026-08-17T15:22:47.812Z"
     },
     {
       "id": "tx2026qdrzzx",
@@ -84,6 +138,15 @@
       "time": "2026-08-17T14:13:36.930Z"
     },
     {
+      "id": "usd0015ee6",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": -8.387,
+      "lon": 121.368,
+      "place": "59 km NNW of Ende, Indonesia",
+      "time": "2026-08-17T14:12:28.370Z"
+    },
+    {
       "id": "nc75420052",
       "magnitude": 0.7,
       "depth": 3,
@@ -100,6 +163,15 @@
       "lon": 120.447,
       "place": "32 km N of Ruteng, Indonesia",
       "time": "2026-08-17T13:58:34.474Z"
+    },
+    {
+      "id": "uu80149111",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.507,
+      "lon": -112.886,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-17T13:41:33.440Z"
     },
     {
       "id": "aka2026qgeidn",
@@ -1598,11 +1670,11 @@
     {
       "id": "tx2026qcgwig",
       "magnitude": 1.6,
-      "depth": 7,
-      "lat": 32.059,
-      "lon": -103.71,
-      "place": "38 km ESE of Malaga, New Mexico",
-      "time": "2026-08-16T20:37:48.833Z"
+      "depth": 8,
+      "lat": 32.058,
+      "lon": -103.704,
+      "place": "39 km ESE of Malaga, New Mexico",
+      "time": "2026-08-16T20:37:49.042Z"
     },
     {
       "id": "ci40674010",
@@ -1846,33 +1918,6 @@
       "lon": -116.333,
       "place": "22 km NE of Pine Valley, CA",
       "time": "2026-08-16T16:54:03.470Z"
-    },
-    {
-      "id": "hv75019527",
-      "magnitude": 1.8,
-      "depth": 35,
-      "lat": 19.121,
-      "lon": -155.503,
-      "place": "9 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-16T16:25:09.680Z"
-    },
-    {
-      "id": "aka2026qenupq",
-      "magnitude": 2.4,
-      "depth": 41,
-      "lat": 60.356,
-      "lon": -150.049,
-      "place": "19 km SW of Cooper Landing, Alaska",
-      "time": "2026-08-16T16:24:28.757Z"
-    },
-    {
-      "id": "tx2026qbyiqw",
-      "magnitude": 1.4,
-      "depth": 2,
-      "lat": 32.559,
-      "lon": -101.102,
-      "place": "24 km NNW of Westbrook, Texas",
-      "time": "2026-08-16T16:20:25.003Z"
     }
   ]
 }
