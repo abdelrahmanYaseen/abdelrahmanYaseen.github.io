@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-17T20:49:13.827Z",
-  "count": 221,
+  "generated": "2026-08-17T21:14:54.959Z",
+  "count": 222,
   "events": [
+    {
+      "id": "tx2026qedrqn",
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 31.656,
+      "lon": -104.305,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": "2026-08-17T21:10:52.764Z"
+    },
+    {
+      "id": "ci41528712",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 36.025,
+      "lon": -117.848,
+      "place": "9 km ESE of Coso Junction, CA",
+      "time": "2026-08-17T21:02:59.860Z"
+    },
+    {
+      "id": "ci41528704",
+      "magnitude": 1,
+      "depth": 13,
+      "lat": 33.492,
+      "lon": -116.474,
+      "place": "20 km ESE of Anza, CA",
+      "time": "2026-08-17T20:57:25.480Z"
+    },
+    {
+      "id": "nc75420242",
+      "magnitude": 1.3,
+      "depth": 4,
+      "lat": 38.782,
+      "lon": -122.941,
+      "place": "7 km ESE of Cloverdale, CA",
+      "time": "2026-08-17T20:56:05.660Z"
+    },
+    {
+      "id": "pr71528838",
+      "magnitude": 2.4,
+      "depth": 6,
+      "lat": 18.058,
+      "lon": -67.148,
+      "place": "3 km S of Cabo Rojo, Puerto Rico",
+      "time": "2026-08-17T20:40:13.270Z"
+    },
     {
       "id": "aka2026qgsene",
       "magnitude": 4.5,
@@ -10,6 +55,15 @@
       "lon": -154.894,
       "place": "41 km SW of Karluk, Alaska",
       "time": "2026-08-17T20:35:10.038Z"
+    },
+    {
+      "id": "uw714080841",
+      "magnitude": 0.2,
+      "depth": -1,
+      "lat": 46.201,
+      "lon": -122.199,
+      "place": "37 km NNE of Amboy, Washington",
+      "time": "2026-08-17T19:54:09.280Z"
     },
     {
       "id": "hv75019822",
@@ -64,15 +118,6 @@
       "lon": -116.711,
       "place": "10 km S of Idyllwild, CA",
       "time": "2026-08-17T19:18:40.300Z"
-    },
-    {
-      "id": "uw714080801",
-      "magnitude": 1.7,
-      "depth": 1,
-      "lat": 46.097,
-      "lon": -122.847,
-      "place": "6 km NNE of Prescott, Oregon",
-      "time": "2026-08-17T19:13:58.900Z"
     },
     {
       "id": "nc75420207",
@@ -336,6 +381,15 @@
       "time": "2026-08-17T16:12:31.060Z"
     },
     {
+      "id": "tx2026qdttbf",
+      "magnitude": 2,
+      "depth": 9,
+      "lat": 28.834,
+      "lon": -98.982,
+      "place": "12 km ESE of Pearsall, Texas",
+      "time": "2026-08-17T16:10:33.829Z"
+    },
+    {
       "id": "ok2026qbur",
       "magnitude": 1.3,
       "depth": 8,
@@ -586,6 +640,15 @@
       "lon": -155.861,
       "place": "11 km S of Honaunau-Napoopoo, Hawaii",
       "time": "2026-08-17T12:30:54.360Z"
+    },
+    {
+      "id": "tx2026qdmgvn",
+      "magnitude": 0.1,
+      "depth": 7,
+      "lat": 32.35,
+      "lon": -102.094,
+      "place": "37 km NW of Stanton, Texas",
+      "time": "2026-08-17T12:25:20.374Z"
     },
     {
       "id": "aka2026qgbqir",
@@ -1936,60 +1999,6 @@
       "lon": -122.958,
       "place": "7 km SE of Cloverdale, CA",
       "time": "2026-08-16T21:15:39.260Z"
-    },
-    {
-      "id": "ci40674050",
-      "magnitude": 0.6,
-      "depth": 5,
-      "lat": 34.013,
-      "lon": -117.585,
-      "place": "6 km SE of Ontario, CA",
-      "time": "2026-08-16T21:11:46.550Z"
-    },
-    {
-      "id": "usd0015ea6",
-      "magnitude": 4.5,
-      "depth": 174,
-      "lat": -24.304,
-      "lon": -67.308,
-      "place": "100 km W of San Antonio de los Cobres, Argentina",
-      "time": "2026-08-16T21:06:07.491Z"
-    },
-    {
-      "id": "uu80149056",
-      "magnitude": 1.6,
-      "depth": 11,
-      "lat": 40.304,
-      "lon": -111.151,
-      "place": "8 km E of Independence, Utah",
-      "time": "2026-08-16T20:56:17.170Z"
-    },
-    {
-      "id": "ci40674042",
-      "magnitude": 0.4,
-      "depth": 14,
-      "lat": 33.938,
-      "lon": -117.191,
-      "place": "4 km ENE of Moreno Valley, CA",
-      "time": "2026-08-16T20:55:12.230Z"
-    },
-    {
-      "id": "ci40674034",
-      "magnitude": 0.4,
-      "depth": 11,
-      "lat": 33.51,
-      "lon": -116.761,
-      "place": "10 km WSW of Anza, CA",
-      "time": "2026-08-16T20:50:50.240Z"
-    },
-    {
-      "id": "tx2026qchgvo",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 32.058,
-      "lon": -103.709,
-      "place": "38 km ESE of Malaga, New Mexico",
-      "time": "2026-08-16T20:49:53.126Z"
     }
   ]
 }
