@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-17T07:37:05.801Z",
-  "count": 189,
+  "generated": "2026-08-17T08:22:00.451Z",
+  "count": 183,
   "events": [
+    {
+      "id": "nc75419932",
+      "magnitude": 2.6,
+      "depth": 15,
+      "lat": 37.949,
+      "lon": -121.996,
+      "place": "3 km SE of Concord, CA",
+      "time": "2026-08-17T08:18:41.880Z"
+    },
+    {
+      "id": "ci40674274",
+      "magnitude": 0.5,
+      "depth": 11,
+      "lat": 33.323,
+      "lon": -116.348,
+      "place": "8 km NNE of Borrego Springs, CA",
+      "time": "2026-08-17T08:01:36.670Z"
+    },
+    {
+      "id": "ci40674266",
+      "magnitude": 0.7,
+      "depth": 8,
+      "lat": 32.912,
+      "lon": -116.244,
+      "place": "28 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-17T08:00:47.330Z"
+    },
+    {
+      "id": "tx2026qddiuo",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 31.52,
+      "lon": -104.168,
+      "place": "42 km WNW of Toyah, Texas",
+      "time": "2026-08-17T07:55:57.424Z"
+    },
+    {
+      "id": "nc75419917",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.799,
+      "lon": -122.793,
+      "place": "4 km NW of The Geysers, CA",
+      "time": "2026-08-17T07:45:55.930Z"
+    },
+    {
+      "id": "tx2026qdcxvs",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 31.277,
+      "lon": -103.608,
+      "place": "12 km SSW of Lindsay, Texas",
+      "time": "2026-08-17T07:43:14.800Z"
+    },
     {
       "id": "nc75419912",
       "magnitude": 0.7,
@@ -46,6 +100,15 @@
       "lon": -155.257,
       "place": "17 km S of Volcano, Hawaii",
       "time": "2026-08-17T07:22:18.510Z"
+    },
+    {
+      "id": "usd0015ech",
+      "magnitude": 4.9,
+      "depth": 28,
+      "lat": -8.525,
+      "lon": 121.201,
+      "place": "61 km NW of Ende, Indonesia",
+      "time": "2026-08-17T07:20:32.272Z"
     },
     {
       "id": "nc75419902",
@@ -1585,123 +1648,6 @@
       "lon": -148.626,
       "place": "57 km N of Chickaloon, Alaska",
       "time": "2026-08-16T08:24:53.530Z"
-    },
-    {
-      "id": "aka2026qdxqmy",
-      "magnitude": 3,
-      "depth": 72,
-      "lat": 57.24,
-      "lon": -155.585,
-      "place": "77 km WSW of Karluk, Alaska",
-      "time": "2026-08-16T08:19:43.702Z"
-    },
-    {
-      "id": "ci40673698",
-      "magnitude": 0.7,
-      "depth": 14,
-      "lat": 34.02,
-      "lon": -117.212,
-      "place": "5 km SW of Redlands, CA",
-      "time": "2026-08-16T08:17:19.110Z"
-    },
-    {
-      "id": "nc75419352",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 38.817,
-      "lon": -122.816,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-16T08:11:55.290Z"
-    },
-    {
-      "id": "ci40673690",
-      "magnitude": 0,
-      "depth": 6,
-      "lat": 33.572,
-      "lon": -116.803,
-      "place": "12 km W of Anza, CA",
-      "time": "2026-08-16T08:10:42.980Z"
-    },
-    {
-      "id": "nc75419347",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.822,
-      "lon": -122.848,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": "2026-08-16T08:07:02.910Z"
-    },
-    {
-      "id": "usd0015e6s",
-      "magnitude": 4.6,
-      "depth": 130,
-      "lat": -5.53,
-      "lon": 146.328,
-      "place": "68 km ESE of Madang, Papua New Guinea",
-      "time": "2026-08-16T08:06:50.468Z"
-    },
-    {
-      "id": "aka2026qdxfcm",
-      "magnitude": 3.6,
-      "depth": 27,
-      "lat": 55.524,
-      "lon": -158.491,
-      "place": "59 km SE of Perryville, Alaska",
-      "time": "2026-08-16T08:05:39.480Z"
-    },
-    {
-      "id": "ci40673682",
-      "magnitude": 0.5,
-      "depth": 3,
-      "lat": 36.066,
-      "lon": -117.841,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-16T08:04:36.480Z"
-    },
-    {
-      "id": "aka2026qdwywz",
-      "magnitude": 2.6,
-      "depth": 131,
-      "lat": 63.109,
-      "lon": -150.853,
-      "place": "64 km SE of Denali National Park, Alaska",
-      "time": "2026-08-16T07:59:39.369Z"
-    },
-    {
-      "id": "ci40673674",
-      "magnitude": 1.1,
-      "depth": 8,
-      "lat": 34.091,
-      "lon": -118.285,
-      "place": "2 km W of Silver Lake, CA",
-      "time": "2026-08-16T07:56:45.140Z"
-    },
-    {
-      "id": "ci40673666",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 35.63,
-      "lon": -117.567,
-      "place": "10 km E of Ridgecrest, CA",
-      "time": "2026-08-16T07:46:12.020Z"
-    },
-    {
-      "id": "aka2026qdwezh",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 63.429,
-      "lon": -150.502,
-      "place": "62 km ESE of Denali National Park, Alaska",
-      "time": "2026-08-16T07:36:39.449Z"
-    },
-    {
-      "id": "nc75419342",
-      "magnitude": 1.5,
-      "depth": 4,
-      "lat": 38.777,
-      "lon": -122.935,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-16T07:36:19.160Z"
     }
   ]
 }
