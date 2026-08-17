@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-17T11:14:52.420Z",
-  "count": 188,
+  "generated": "2026-08-17T11:40:48.743Z",
+  "count": 192,
   "events": [
+    {
+      "id": "ci40674362",
+      "magnitude": 1.4,
+      "depth": 17,
+      "lat": 32.379,
+      "lon": -116.539,
+      "place": "23 km SSE of Tecate, B.C., MX",
+      "time": "2026-08-17T11:36:23.650Z"
+    },
+    {
+      "id": "ci40674354",
+      "magnitude": 0.3,
+      "depth": 3,
+      "lat": 33.533,
+      "lon": -116.731,
+      "place": "6 km WSW of Anza, CA",
+      "time": "2026-08-17T11:24:55.390Z"
+    },
+    {
+      "id": "tx2026qdkeld",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 31.524,
+      "lon": -104.153,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-08-17T11:22:04.720Z"
+    },
     {
       "id": "nc75419982",
       "magnitude": 2.1,
@@ -10,6 +37,15 @@
       "lon": -121.159,
       "place": "4 km NNW of Pinnacles, CA",
       "time": "2026-08-17T11:11:18.000Z"
+    },
+    {
+      "id": "usd0015edb",
+      "magnitude": 5.1,
+      "depth": 35,
+      "lat": -6.377,
+      "lon": 149.358,
+      "place": "28 km SW of Kandrian, Papua New Guinea",
+      "time": "2026-08-17T11:00:23.022Z"
     },
     {
       "id": "ci40674346",
@@ -471,6 +507,15 @@
       "time": "2026-08-17T06:00:36.312Z"
     },
     {
+      "id": "pr71528768",
+      "magnitude": 2.1,
+      "depth": 16,
+      "lat": 18.008,
+      "lon": -66.823,
+      "place": "1 km NNW of Indios, Puerto Rico",
+      "time": "2026-08-17T05:57:26.450Z"
+    },
+    {
       "id": "ci40674218",
       "magnitude": 0.4,
       "depth": 13,
@@ -822,6 +867,15 @@
       "time": "2026-08-17T00:32:20.500Z"
     },
     {
+      "id": "tx2026qcoovu",
+      "magnitude": 2,
+      "depth": 3,
+      "lat": 32.56,
+      "lon": -101.109,
+      "place": "24 km NNW of Westbrook, Texas",
+      "time": "2026-08-17T00:30:20.569Z"
+    },
+    {
       "id": "usd0015eav",
       "magnitude": 4.5,
       "depth": 35,
@@ -832,12 +886,12 @@
     },
     {
       "id": "tx2026qcomja",
-      "magnitude": 1.3,
+      "magnitude": 1.4,
       "depth": 3,
-      "lat": 32.569,
-      "lon": -101.126,
-      "place": "25 km SW of Snyder, Texas",
-      "time": "2026-08-17T00:27:27.873Z"
+      "lat": 32.562,
+      "lon": -101.109,
+      "place": "24 km NNW of Westbrook, Texas",
+      "time": "2026-08-17T00:27:27.866Z"
     },
     {
       "id": "tx2026qcohxo",
@@ -1675,24 +1729,6 @@
       "lon": -117.691,
       "place": "20 km ESE of Little Lake, CA",
       "time": "2026-08-16T12:04:20.280Z"
-    },
-    {
-      "id": "usd0015e7s",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -7.828,
-      "lon": 120.236,
-      "place": "83 km NNE of Labuan Bajo, Indonesia",
-      "time": "2026-08-16T11:21:11.806Z"
-    },
-    {
-      "id": "nc75419397",
-      "magnitude": 1.9,
-      "depth": 7,
-      "lat": 38.769,
-      "lon": -122.935,
-      "place": "8 km ESE of Cloverdale, CA",
-      "time": "2026-08-16T11:14:42.040Z"
     }
   ]
 }
