@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-17T14:50:27.061Z",
-  "count": 211,
+  "generated": "2026-08-17T15:14:33.047Z",
+  "count": 208,
   "events": [
+    {
+      "id": "ci40674434",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 36.068,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-17T14:50:44.790Z"
+    },
     {
       "id": "aka2026qgfojh",
       "magnitude": 1.9,
@@ -37,6 +46,15 @@
       "lon": -122.815,
       "place": "6 km WNW of The Geysers, CA",
       "time": "2026-08-17T14:09:37.020Z"
+    },
+    {
+      "id": "usd0015ee2",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -8.318,
+      "lon": 120.447,
+      "place": "32 km N of Ruteng, Indonesia",
+      "time": "2026-08-17T13:58:34.474Z"
     },
     {
       "id": "aka2026qgeidn",
@@ -211,12 +229,12 @@
     },
     {
       "id": "tx2026qdlvdv",
-      "magnitude": 1.8,
-      "depth": 4,
-      "lat": 31.524,
-      "lon": -104.16,
-      "place": "41 km WNW of Toyah, Texas",
-      "time": "2026-08-17T12:11:40.616Z"
+      "magnitude": 1.7,
+      "depth": 10,
+      "lat": 31.546,
+      "lon": -104.142,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-08-17T12:11:40.684Z"
     },
     {
       "id": "ci40674370",
@@ -435,6 +453,15 @@
       "time": "2026-08-17T09:23:55.859Z"
     },
     {
+      "id": "tx2026qdgfwq",
+      "magnitude": 0.4,
+      "depth": 6,
+      "lat": 32.35,
+      "lon": -102.079,
+      "place": "36 km NW of Stanton, Texas",
+      "time": "2026-08-17T09:23:04.438Z"
+    },
+    {
       "id": "usd0015ed1",
       "magnitude": 4.8,
       "depth": 10,
@@ -472,12 +499,12 @@
     },
     {
       "id": "ci40674298",
-      "magnitude": 1.8,
-      "depth": 4,
-      "lat": 34.537,
-      "lon": -120.469,
-      "place": "11 km S of Lompoc, CA",
-      "time": "2026-08-17T08:38:06.350Z"
+      "magnitude": 1.9,
+      "depth": 5,
+      "lat": 34.535,
+      "lon": -120.48,
+      "place": "12 km S of Lompoc, CA",
+      "time": "2026-08-17T08:38:06.220Z"
     },
     {
       "id": "ci40674290",
@@ -1318,21 +1345,21 @@
     },
     {
       "id": "ci40674098",
-      "magnitude": 0.9,
+      "magnitude": 0.6,
       "depth": 13,
-      "lat": 33.293,
-      "lon": -116.734,
+      "lat": 33.291,
+      "lon": -116.737,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-16T22:22:22.570Z"
+      "time": "2026-08-16T22:22:22.480Z"
     },
     {
       "id": "ci40674090",
       "magnitude": 1.5,
-      "depth": 9,
-      "lat": 32.689,
-      "lon": -115.765,
+      "depth": 11,
+      "lat": 32.691,
+      "lon": -115.764,
       "place": "21 km NW of Progreso, B.C., MX",
-      "time": "2026-08-16T22:22:15.350Z"
+      "time": "2026-08-16T22:22:15.270Z"
     },
     {
       "id": "ci40674082",
@@ -1846,60 +1873,6 @@
       "lon": -155.675,
       "place": "11 km E of Hala‘ula, Hawaii",
       "time": "2026-08-16T15:25:30.450Z"
-    },
-    {
-      "id": "nc75419442",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.813,
-      "lon": -122.82,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-16T15:08:46.460Z"
-    },
-    {
-      "id": "ci40673850",
-      "magnitude": 1.3,
-      "depth": 4,
-      "lat": 35.898,
-      "lon": -117.693,
-      "place": "20 km ESE of Little Lake, CA",
-      "time": "2026-08-16T15:06:57.870Z"
-    },
-    {
-      "id": "pr71528688",
-      "magnitude": 3.1,
-      "depth": 7,
-      "lat": 18.149,
-      "lon": -67.321,
-      "place": "16 km WNW of Puerto Real, Puerto Rico",
-      "time": "2026-08-16T15:06:23.190Z"
-    },
-    {
-      "id": "pr71528673",
-      "magnitude": 3.1,
-      "depth": 24,
-      "lat": 19.002,
-      "lon": -66.781,
-      "place": "57 km N of Hatillo, Puerto Rico",
-      "time": "2026-08-16T15:04:51.100Z"
-    },
-    {
-      "id": "ci40673842",
-      "magnitude": 0.4,
-      "depth": 4,
-      "lat": 36.066,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-16T15:00:02.360Z"
-    },
-    {
-      "id": "pr71528658",
-      "magnitude": 3.2,
-      "depth": 7,
-      "lat": 18.147,
-      "lon": -67.328,
-      "place": "16 km WNW of Puerto Real, Puerto Rico",
-      "time": "2026-08-16T14:59:17.730Z"
     }
   ]
 }
