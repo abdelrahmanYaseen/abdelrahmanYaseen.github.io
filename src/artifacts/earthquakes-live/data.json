@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-17T15:14:33.047Z",
-  "count": 208,
+  "generated": "2026-08-17T15:39:25.516Z",
+  "count": 210,
   "events": [
+    {
+      "id": "tx2026qdsdpi",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 31.499,
+      "lon": -103.644,
+      "place": "16 km WNW of Pecos, Texas",
+      "time": "2026-08-17T15:22:45.850Z"
+    },
+    {
+      "id": "tx2026qdrzzx",
+      "magnitude": 2,
+      "depth": 0,
+      "lat": 31.587,
+      "lon": -103.072,
+      "place": "6 km WNW of Wickett, Texas",
+      "time": "2026-08-17T15:20:42.585Z"
+    },
     {
       "id": "ci40674434",
       "magnitude": 0.7,
@@ -36,7 +54,7 @@
       "lat": 36.186,
       "lon": -118.091,
       "place": "13 km SW of Olancha, CA",
-      "time": "2026-08-17T14:13:36.920Z"
+      "time": "2026-08-17T14:13:36.930Z"
     },
     {
       "id": "nc75420052",
@@ -706,12 +724,12 @@
     },
     {
       "id": "ci40674250",
-      "magnitude": 1.5,
-      "depth": 14,
-      "lat": 33.888,
-      "lon": -118.414,
-      "place": "0 km NNW of Manhattan Beach, CA",
-      "time": "2026-08-17T06:47:04.750Z"
+      "magnitude": 1.3,
+      "depth": 13,
+      "lat": 33.891,
+      "lon": -118.413,
+      "place": "1 km NNW of Manhattan Beach, CA",
+      "time": "2026-08-17T06:47:04.740Z"
     },
     {
       "id": "nc75419897",
@@ -1364,11 +1382,11 @@
     {
       "id": "ci40674082",
       "magnitude": 1.5,
-      "depth": 8,
-      "lat": 35.697,
-      "lon": -117.614,
+      "depth": 9,
+      "lat": 35.698,
+      "lon": -117.612,
       "place": "10 km NNE of Ridgecrest, CA",
-      "time": "2026-08-16T22:09:39.810Z"
+      "time": "2026-08-16T22:09:39.760Z"
     },
     {
       "id": "usd0015eaf",
@@ -1506,6 +1524,15 @@
       "time": "2026-08-16T20:56:17.170Z"
     },
     {
+      "id": "ci40674042",
+      "magnitude": 0.4,
+      "depth": 14,
+      "lat": 33.938,
+      "lon": -117.191,
+      "place": "4 km ENE of Moreno Valley, CA",
+      "time": "2026-08-16T20:55:12.230Z"
+    },
+    {
       "id": "ci40674034",
       "magnitude": 0.4,
       "depth": 11,
@@ -1533,13 +1560,13 @@
       "time": "2026-08-16T20:44:03.990Z"
     },
     {
-      "id": "tx2026qcgwwd",
-      "magnitude": 1.7,
-      "depth": 0,
-      "lat": 31.307,
-      "lon": -103.053,
-      "place": "7 km N of Coyanosa, Texas",
-      "time": "2026-08-16T20:38:17.803Z"
+      "id": "ci40674018",
+      "magnitude": 0.7,
+      "depth": 6,
+      "lat": 34.016,
+      "lon": -117.582,
+      "place": "6 km SE of Ontario, CA",
+      "time": "2026-08-16T20:40:52.100Z"
     },
     {
       "id": "tx2026qcgwig",
@@ -1864,15 +1891,6 @@
       "lon": -117.806,
       "place": "17 km WSW of Johannesburg, CA",
       "time": "2026-08-16T15:45:27.790Z"
-    },
-    {
-      "id": "hv75019517",
-      "magnitude": 3,
-      "depth": 41,
-      "lat": 20.253,
-      "lon": -155.675,
-      "place": "11 km E of Hala‘ula, Hawaii",
-      "time": "2026-08-16T15:25:30.450Z"
     }
   ]
 }
