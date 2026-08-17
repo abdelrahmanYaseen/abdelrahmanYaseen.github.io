@@ -1,24 +1,69 @@
 {
-  "generated": "2026-08-17T18:20:38.531Z",
-  "count": 216,
+  "generated": "2026-08-17T19:04:41.190Z",
+  "count": 220,
   "events": [
     {
+      "id": "nc75420197",
+      "magnitude": 2.5,
+      "depth": 11,
+      "lat": 38.024,
+      "lon": -118.799,
+      "place": "28 km SE of Bodie, CA",
+      "time": "2026-08-17T18:52:05.180Z"
+    },
+    {
+      "id": "aka2026qgodma",
+      "magnitude": 2.7,
+      "depth": 63,
+      "lat": 59.699,
+      "lon": -151.585,
+      "place": "2 km NNW of Diamond Ridge, Alaska",
+      "time": "2026-08-17T18:33:58.989Z"
+    },
+    {
+      "id": "ci40674610",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 35.899,
+      "lon": -117.691,
+      "place": "20 km ESE of Little Lake, CA",
+      "time": "2026-08-17T18:27:26.160Z"
+    },
+    {
+      "id": "ci40674602",
+      "magnitude": 0.9,
+      "depth": 12,
+      "lat": 33.372,
+      "lon": -116.695,
+      "place": "11 km NNW of Warner Springs, CA",
+      "time": "2026-08-17T18:23:02.570Z"
+    },
+    {
       "id": "tx2026qdxykj",
-      "magnitude": 2,
-      "depth": 3,
-      "lat": 32.142,
+      "magnitude": 1.9,
+      "depth": 2,
+      "lat": 32.14,
       "lon": -101.092,
       "place": "24 km SSW of Westbrook, Texas",
-      "time": "2026-08-17T18:17:29.834Z"
+      "time": "2026-08-17T18:17:29.897Z"
+    },
+    {
+      "id": "usd0015ef3",
+      "magnitude": 4.6,
+      "depth": 497,
+      "lat": -7.024,
+      "lon": 117.246,
+      "place": "155 km N of Pototano, Indonesia",
+      "time": "2026-08-17T18:10:05.545Z"
     },
     {
       "id": "ci40674586",
-      "magnitude": 0.5,
+      "magnitude": 0.4,
       "depth": 8,
-      "lat": 34.411,
-      "lon": -117.752,
-      "place": "10 km SSE of Llano, CA",
-      "time": "2026-08-17T18:08:59.650Z"
+      "lat": 34.409,
+      "lon": -117.75,
+      "place": "10 km WSW of Pinon Hills, CA",
+      "time": "2026-08-17T18:08:59.570Z"
     },
     {
       "id": "nc75420167",
@@ -28,6 +73,15 @@
       "lon": -122.463,
       "place": "4 km SW of Half Moon Bay, CA",
       "time": "2026-08-17T18:06:58.830Z"
+    },
+    {
+      "id": "pr71528818",
+      "magnitude": 2.6,
+      "depth": 13,
+      "lat": 17.947,
+      "lon": -66.961,
+      "place": "6 km WSW of Guánica, Puerto Rico",
+      "time": "2026-08-17T18:03:07.160Z"
     },
     {
       "id": "ok2026qbxs",
@@ -300,15 +354,6 @@
       "time": "2026-08-17T13:16:49.410Z"
     },
     {
-      "id": "aka2026qgdmvc",
-      "magnitude": 1.1,
-      "depth": 13,
-      "lat": 65.44,
-      "lon": -148.223,
-      "place": "17 km ESE of Livengood, Alaska",
-      "time": "2026-08-17T13:14:54.824Z"
-    },
-    {
       "id": "nc75420027",
       "magnitude": 1.9,
       "depth": 4,
@@ -410,11 +455,11 @@
     {
       "id": "aka2026qgbqir",
       "magnitude": 3.6,
-      "depth": 8,
-      "lat": 69.653,
-      "lon": -145.499,
-      "place": "89 km SW of Kaktovik, Alaska",
-      "time": "2026-08-17T12:18:20.943Z"
+      "depth": 9,
+      "lat": 69.66,
+      "lon": -145.377,
+      "place": "85 km SW of Kaktovik, Alaska",
+      "time": "2026-08-17T12:18:20.553Z"
     },
     {
       "id": "tx2026qdmams",
@@ -1065,6 +1110,15 @@
       "time": "2026-08-17T05:49:08.276Z"
     },
     {
+      "id": "uw714080441",
+      "magnitude": 1.3,
+      "depth": 30,
+      "lat": 47.464,
+      "lon": -122.323,
+      "place": "1 km ESE of Burien, Washington",
+      "time": "2026-08-17T05:28:56.910Z"
+    },
+    {
       "id": "ci40674210",
       "magnitude": 1.6,
       "depth": 3,
@@ -1425,13 +1479,22 @@
       "time": "2026-08-17T00:37:11.320Z"
     },
     {
-      "id": "aka2026qfedtq",
+      "id": "aka2026qfeflv",
       "magnitude": 1.9,
       "depth": 22,
-      "lat": 59.76,
-      "lon": -141.872,
-      "place": "123 km W of Yakutat, Alaska",
-      "time": "2026-08-17T00:34:48.510Z"
+      "lat": 59.782,
+      "lon": -141.802,
+      "place": "119 km WNW of Yakutat, Alaska",
+      "time": "2026-08-17T00:36:46.929Z"
+    },
+    {
+      "id": "aka2026qfedtq",
+      "magnitude": 1.9,
+      "depth": 20,
+      "lat": 59.788,
+      "lon": -141.82,
+      "place": "120 km WNW of Yakutat, Alaska",
+      "time": "2026-08-17T00:34:49.342Z"
     },
     {
       "id": "hv75019637",
@@ -1480,12 +1543,12 @@
     },
     {
       "id": "aka2026qfdpnd",
-      "magnitude": 2.2,
-      "depth": 112,
-      "lat": 61.12,
-      "lon": -151.934,
-      "place": "43 km W of Tyonek, Alaska",
-      "time": "2026-08-17T00:18:22.644Z"
+      "magnitude": 2.5,
+      "depth": 115,
+      "lat": 61.119,
+      "lon": -151.962,
+      "place": "44 km W of Tyonek, Alaska",
+      "time": "2026-08-17T00:18:22.355Z"
     },
     {
       "id": "usd0015eas",
@@ -1643,11 +1706,11 @@
     {
       "id": "uw714080321",
       "magnitude": 1.6,
-      "depth": 9,
-      "lat": 47.953,
-      "lon": -122.823,
-      "place": "9 km SSW of Port Hadlock-Irondale, Washington",
-      "time": "2026-08-16T21:53:51.310Z"
+      "depth": 11,
+      "lat": 47.954,
+      "lon": -122.806,
+      "place": "8 km S of Port Hadlock-Irondale, Washington",
+      "time": "2026-08-16T21:53:51.210Z"
     },
     {
       "id": "usd0015eae",
@@ -1918,33 +1981,6 @@
       "lon": -122.793,
       "place": "6 km NW of The Geysers, CA",
       "time": "2026-08-16T19:08:55.200Z"
-    },
-    {
-      "id": "pr71528698",
-      "magnitude": 2.2,
-      "depth": 16,
-      "lat": 17.96,
-      "lon": -66.571,
-      "place": "7 km SSW of Capitanejo, Puerto Rico",
-      "time": "2026-08-16T18:38:02.180Z"
-    },
-    {
-      "id": "ci40673938",
-      "magnitude": 0.8,
-      "depth": 15,
-      "lat": 33.701,
-      "lon": -116.818,
-      "place": "9 km SE of Valle Vista, CA",
-      "time": "2026-08-16T18:25:41.400Z"
-    },
-    {
-      "id": "nc75419547",
-      "magnitude": 2,
-      "depth": 2,
-      "lat": 36.559,
-      "lon": -121.171,
-      "place": "4 km NW of Pinnacles, CA",
-      "time": "2026-08-16T18:24:18.820Z"
     }
   ]
 }
