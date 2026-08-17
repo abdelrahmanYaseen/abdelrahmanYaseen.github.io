@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-17T20:16:34.456Z",
-  "count": 226,
+  "generated": "2026-08-17T20:49:13.827Z",
+  "count": 221,
   "events": [
+    {
+      "id": "aka2026qgsene",
+      "magnitude": 4.5,
+      "depth": 58,
+      "lat": 57.279,
+      "lon": -154.894,
+      "place": "41 km SW of Karluk, Alaska",
+      "time": "2026-08-17T20:35:10.038Z"
+    },
     {
       "id": "hv75019822",
       "magnitude": 1.7,
@@ -148,12 +157,12 @@
     },
     {
       "id": "tx2026qdxykj",
-      "magnitude": 1.9,
-      "depth": 2,
-      "lat": 32.14,
-      "lon": -101.092,
+      "magnitude": 2,
+      "depth": 7,
+      "lat": 32.141,
+      "lon": -101.094,
       "place": "24 km SSW of Westbrook, Texas",
-      "time": "2026-08-17T18:17:29.897Z"
+      "time": "2026-08-17T18:17:30.106Z"
     },
     {
       "id": "usd0015ef3",
@@ -516,6 +525,15 @@
       "time": "2026-08-17T13:00:26.640Z"
     },
     {
+      "id": "tx2026qdnkof",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 30.951,
+      "lon": -103.407,
+      "place": "32 km E of Balmorhea, Texas",
+      "time": "2026-08-17T12:59:43.004Z"
+    },
+    {
       "id": "usd0015edt",
       "magnitude": 4.9,
       "depth": 30,
@@ -622,6 +640,15 @@
       "lon": -104.142,
       "place": "41 km NW of Toyah, Texas",
       "time": "2026-08-17T12:11:40.684Z"
+    },
+    {
+      "id": "uw714080481",
+      "magnitude": 1.1,
+      "depth": 7,
+      "lat": 48.53,
+      "lon": -122.062,
+      "place": "0 km N of Lyman, Washington",
+      "time": "2026-08-17T12:10:18.770Z"
     },
     {
       "id": "ci40674370",
@@ -1813,12 +1840,12 @@
     },
     {
       "id": "tx2026qcjmny",
-      "magnitude": 1.1,
-      "depth": 3,
+      "magnitude": 1.2,
+      "depth": 8,
       "lat": 32.099,
       "lon": -101.483,
       "place": "11 km W of Forsan, Texas",
-      "time": "2026-08-16T21:56:49.548Z"
+      "time": "2026-08-16T21:56:49.744Z"
     },
     {
       "id": "uw714080321",
@@ -1868,11 +1895,11 @@
     {
       "id": "tx2026qcionv",
       "magnitude": 1.1,
-      "depth": 4,
+      "depth": 8,
       "lat": 32.101,
-      "lon": -101.476,
-      "place": "10 km W of Forsan, Texas",
-      "time": "2026-08-16T21:28:58.218Z"
+      "lon": -101.483,
+      "place": "11 km W of Forsan, Texas",
+      "time": "2026-08-16T21:28:58.591Z"
     },
     {
       "id": "usd0015ea9",
@@ -1895,11 +1922,11 @@
     {
       "id": "tx2026qciigo",
       "magnitude": 1.4,
-      "depth": 10,
-      "lat": 32.045,
-      "lon": -103.704,
-      "place": "38 km NNW of Mentone, Texas",
-      "time": "2026-08-16T21:21:41.194Z"
+      "depth": 8,
+      "lat": 32.055,
+      "lon": -103.707,
+      "place": "39 km ESE of Malaga, New Mexico",
+      "time": "2026-08-16T21:21:42.530Z"
     },
     {
       "id": "nc75419652",
@@ -1963,78 +1990,6 @@
       "lon": -103.709,
       "place": "38 km ESE of Malaga, New Mexico",
       "time": "2026-08-16T20:49:53.126Z"
-    },
-    {
-      "id": "nc75419637",
-      "magnitude": 0.6,
-      "depth": 3,
-      "lat": 38.824,
-      "lon": -122.812,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-16T20:44:03.990Z"
-    },
-    {
-      "id": "ci40674018",
-      "magnitude": 0.7,
-      "depth": 6,
-      "lat": 34.016,
-      "lon": -117.582,
-      "place": "6 km SE of Ontario, CA",
-      "time": "2026-08-16T20:40:52.100Z"
-    },
-    {
-      "id": "tx2026qcgwig",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 32.058,
-      "lon": -103.704,
-      "place": "39 km ESE of Malaga, New Mexico",
-      "time": "2026-08-16T20:37:49.042Z"
-    },
-    {
-      "id": "ci40674010",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 34.014,
-      "lon": -117.584,
-      "place": "6 km SE of Ontario, CA",
-      "time": "2026-08-16T20:36:30.810Z"
-    },
-    {
-      "id": "ci40674002",
-      "magnitude": 2.8,
-      "depth": 6,
-      "lat": 34.012,
-      "lon": -117.589,
-      "place": "6 km SE of Ontario, CA",
-      "time": "2026-08-16T20:35:29.250Z"
-    },
-    {
-      "id": "pr71528708",
-      "magnitude": 2.7,
-      "depth": 24,
-      "lat": 18.351,
-      "lon": -67.343,
-      "place": "9 km W of Rincón, Puerto Rico",
-      "time": "2026-08-16T20:32:09.060Z"
-    },
-    {
-      "id": "ok2026qahp",
-      "magnitude": 1.9,
-      "depth": 7,
-      "lat": 35.921,
-      "lon": -99.238,
-      "place": "11 km ENE of Leedey, Oklahoma",
-      "time": "2026-08-16T20:25:08.349Z"
-    },
-    {
-      "id": "nc75419622",
-      "magnitude": 2.6,
-      "depth": 17,
-      "lat": 40.493,
-      "lon": -124.903,
-      "place": "55 km W of Ferndale, CA",
-      "time": "2026-08-16T20:21:45.850Z"
     }
   ]
 }
