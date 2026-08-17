@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-17T03:58:58.054Z",
-  "count": 196,
+  "generated": "2026-08-17T04:39:28.017Z",
+  "count": 197,
   "events": [
+    {
+      "id": "tx2026qcwpwu",
+      "magnitude": 1.6,
+      "depth": 6,
+      "lat": 28.914,
+      "lon": -98.191,
+      "place": "18 km WSW of Falls City, Texas",
+      "time": "2026-08-17T04:32:57.986Z"
+    },
+    {
+      "id": "ci40674202",
+      "magnitude": 2,
+      "depth": 15,
+      "lat": 33.288,
+      "lon": -116.734,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-17T04:14:18.400Z"
+    },
+    {
+      "id": "ci40674194",
+      "magnitude": 0.4,
+      "depth": 12,
+      "lat": 33.474,
+      "lon": -116.429,
+      "place": "24 km SSW of La Quinta, CA",
+      "time": "2026-08-17T04:02:57.680Z"
+    },
+    {
+      "id": "usd0015ebj",
+      "magnitude": 5.2,
+      "depth": 16,
+      "lat": -8.3,
+      "lon": 121.327,
+      "place": "70 km NNW of Ende, Indonesia",
+      "time": "2026-08-17T03:48:04.873Z"
+    },
     {
       "id": "nc75419827",
       "magnitude": 1.7,
@@ -28,6 +64,15 @@
       "lon": 121.407,
       "place": "68 km NNW of Ende, Indonesia",
       "time": "2026-08-17T03:36:39.370Z"
+    },
+    {
+      "id": "usd0015ebh",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -8.091,
+      "lon": 121.095,
+      "place": "90 km NE of Ruteng, Indonesia",
+      "time": "2026-08-17T03:33:53.507Z"
     },
     {
       "id": "nc75419817",
@@ -1729,42 +1774,6 @@
       "lon": -104.466,
       "place": "56 km S of Whites City, New Mexico",
       "time": "2026-08-16T04:50:32.555Z"
-    },
-    {
-      "id": "us6000tl5f",
-      "magnitude": 2.6,
-      "depth": 6,
-      "lat": 43.533,
-      "lon": -110.764,
-      "place": "5 km N of Jackson, Wyoming",
-      "time": "2026-08-16T04:34:05.414Z"
-    },
-    {
-      "id": "nc75419227",
-      "magnitude": 0.8,
-      "depth": -1,
-      "lat": 38.832,
-      "lon": -122.818,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-08-16T04:14:43.720Z"
-    },
-    {
-      "id": "aka2026qdpcsg",
-      "magnitude": 2.3,
-      "depth": 132,
-      "lat": 59.964,
-      "lon": -153.219,
-      "place": "53 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-16T04:04:09.862Z"
-    },
-    {
-      "id": "nc75419222",
-      "magnitude": 0.8,
-      "depth": 1,
-      "lat": 38.761,
-      "lon": -122.712,
-      "place": "2 km SW of Anderson Springs, CA",
-      "time": "2026-08-16T04:01:49.320Z"
     }
   ]
 }
