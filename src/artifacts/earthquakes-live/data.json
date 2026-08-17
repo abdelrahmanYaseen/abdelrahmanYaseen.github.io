@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-17T16:51:18.751Z",
-  "count": 213,
+  "generated": "2026-08-17T17:15:38.917Z",
+  "count": 214,
   "events": [
+    {
+      "id": "nc75420137",
+      "magnitude": 2.4,
+      "depth": 2,
+      "lat": 37.448,
+      "lon": -118.832,
+      "place": "18 km SW of Toms Place, CA",
+      "time": "2026-08-17T17:11:58.210Z"
+    },
+    {
+      "id": "ci40674530",
+      "magnitude": 0.5,
+      "depth": 16,
+      "lat": 33.683,
+      "lon": -116.692,
+      "place": "7 km SSE of Idyllwild, CA",
+      "time": "2026-08-17T16:54:32.530Z"
+    },
+    {
+      "id": "tx2026qduyaz",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 32.105,
+      "lon": -101.513,
+      "place": "13 km W of Forsan, Texas",
+      "time": "2026-08-17T16:46:33.456Z"
+    },
     {
       "id": "ci40674514",
       "magnitude": 0.7,
@@ -649,6 +676,15 @@
       "lon": -121.999,
       "place": "2 km SE of Concord, CA",
       "time": "2026-08-17T08:22:08.900Z"
+    },
+    {
+      "id": "uu80149096",
+      "magnitude": 0.2,
+      "depth": 9,
+      "lat": 44.761,
+      "lon": -111,
+      "place": "13 km NE of West Yellowstone, Montana",
+      "time": "2026-08-17T08:21:34.300Z"
     },
     {
       "id": "ok2026qbff",
@@ -1407,15 +1443,6 @@
       "time": "2026-08-16T23:32:45.370Z"
     },
     {
-      "id": "tx2026qcmpqd",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 31.611,
-      "lon": -104.516,
-      "place": "63 km SSW of Whites City, New Mexico",
-      "time": "2026-08-16T23:30:56.167Z"
-    },
-    {
       "id": "nc75419712",
       "magnitude": 1.3,
       "depth": 2,
@@ -1900,24 +1927,6 @@
       "lon": 120.46,
       "place": "77 km N of Ruteng, Indonesia",
       "time": "2026-08-16T17:26:15.105Z"
-    },
-    {
-      "id": "usd0015e96",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": -22.577,
-      "lon": -20.371,
-      "place": "South Atlantic Ocean",
-      "time": "2026-08-16T17:11:07.915Z"
-    },
-    {
-      "id": "ci40673906",
-      "magnitude": 0.8,
-      "depth": 8,
-      "lat": 32.939,
-      "lon": -116.333,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-16T16:54:03.470Z"
     }
   ]
 }
