@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-17T10:19:33.984Z",
-  "count": 186,
+  "generated": "2026-08-17T10:53:34.631Z",
+  "count": 189,
   "events": [
+    {
+      "id": "ci40674346",
+      "magnitude": 2,
+      "depth": 10,
+      "lat": 32.933,
+      "lon": -115.518,
+      "place": "5 km SSE of Brawley, CA",
+      "time": "2026-08-17T10:50:54.790Z"
+    },
+    {
+      "id": "nc75419972",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 36.941,
+      "lon": -121.431,
+      "place": "11 km NNW of Hollister, CA",
+      "time": "2026-08-17T10:34:53.900Z"
+    },
+    {
+      "id": "ci40674338",
+      "magnitude": 0.8,
+      "depth": 8,
+      "lat": 32.939,
+      "lon": -116.335,
+      "place": "22 km NE of Pine Valley, CA",
+      "time": "2026-08-17T10:22:11.240Z"
+    },
     {
       "id": "ci40674330",
       "magnitude": 0.6,
@@ -622,6 +649,15 @@
       "lon": -143.315,
       "place": "141 km ESE of Cordova, Alaska",
       "time": "2026-08-17T02:11:06.348Z"
+    },
+    {
+      "id": "pr71528753",
+      "magnitude": 3.1,
+      "depth": 36,
+      "lat": 18.709,
+      "lon": -64.916,
+      "place": "40 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-08-17T02:10:15.730Z"
     },
     {
       "id": "pr71528738",
@@ -1666,15 +1702,6 @@
       "lon": -154.861,
       "place": "49 km SW of Hughes, Alaska",
       "time": "2026-08-16T10:56:05.904Z"
-    },
-    {
-      "id": "usd0015e7k",
-      "magnitude": 5.1,
-      "depth": 10,
-      "lat": -7.879,
-      "lon": 120.55,
-      "place": "81 km N of Ruteng, Indonesia",
-      "time": "2026-08-16T10:31:34.822Z"
     }
   ]
 }
