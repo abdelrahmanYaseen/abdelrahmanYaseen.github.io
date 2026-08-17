@@ -1,15 +1,33 @@
 {
-  "generated": "2026-08-17T21:14:54.959Z",
-  "count": 222,
+  "generated": "2026-08-17T21:41:02.414Z",
+  "count": 214,
   "events": [
+    {
+      "id": "ok2026qcfe",
+      "magnitude": 1.8,
+      "depth": 1,
+      "lat": 35.932,
+      "lon": -95.224,
+      "place": "7 km W of Hulbert, Oklahoma",
+      "time": "2026-08-17T21:27:37.810Z"
+    },
+    {
+      "id": "nc75420257",
+      "magnitude": 0.2,
+      "depth": 2,
+      "lat": 38.839,
+      "lon": -122.811,
+      "place": "8 km WNW of Cobb, CA",
+      "time": "2026-08-17T21:15:51.660Z"
+    },
     {
       "id": "tx2026qedrqn",
       "magnitude": 1.7,
-      "depth": 6,
-      "lat": 31.656,
-      "lon": -104.305,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": "2026-08-17T21:10:52.764Z"
+      "depth": 7,
+      "lat": 31.661,
+      "lon": -104.301,
+      "place": "57 km S of Whites City, New Mexico",
+      "time": "2026-08-17T21:10:53.081Z"
     },
     {
       "id": "ci41528712",
@@ -265,12 +283,12 @@
     },
     {
       "id": "ci40674570",
-      "magnitude": 0.6,
+      "magnitude": 0.5,
       "depth": 4,
-      "lat": 33.522,
-      "lon": -116.743,
+      "lat": 33.527,
+      "lon": -116.738,
       "place": "7 km WSW of Anza, CA",
-      "time": "2026-08-17T17:34:25.320Z"
+      "time": "2026-08-17T17:34:25.370Z"
     },
     {
       "id": "ci40674562",
@@ -318,15 +336,6 @@
       "time": "2026-08-17T16:54:32.530Z"
     },
     {
-      "id": "tx2026qduyaz",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 32.105,
-      "lon": -101.513,
-      "place": "13 km W of Forsan, Texas",
-      "time": "2026-08-17T16:46:33.456Z"
-    },
-    {
       "id": "ci40674514",
       "magnitude": 0.7,
       "depth": 17,
@@ -355,12 +364,21 @@
     },
     {
       "id": "ci40674490",
-      "magnitude": 1,
+      "magnitude": 0.9,
       "depth": 5,
-      "lat": 32.578,
-      "lon": -116.715,
+      "lat": 32.576,
+      "lon": -116.716,
       "place": "8 km W of Tecate, B.C., MX",
-      "time": "2026-08-17T16:25:53.240Z"
+      "time": "2026-08-17T16:25:53.150Z"
+    },
+    {
+      "id": "tx2026qdudte",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 28.812,
+      "lon": -99.005,
+      "place": "12 km SE of Pearsall, Texas",
+      "time": "2026-08-17T16:22:57.598Z"
     },
     {
       "id": "nc75420107",
@@ -408,15 +426,6 @@
       "time": "2026-08-17T16:05:40.120Z"
     },
     {
-      "id": "tx2026qdsxzh",
-      "magnitude": 1.9,
-      "depth": 0,
-      "lat": 31.717,
-      "lon": -104.215,
-      "place": "53 km SSE of Whites City, New Mexico",
-      "time": "2026-08-17T15:46:06.180Z"
-    },
-    {
       "id": "pr71528808",
       "magnitude": 2.3,
       "depth": 15,
@@ -433,15 +442,6 @@
       "lon": -103.605,
       "place": "7 km WNW of Lindsay, Texas",
       "time": "2026-08-17T15:22:47.812Z"
-    },
-    {
-      "id": "tx2026qdrzzx",
-      "magnitude": 2,
-      "depth": 0,
-      "lat": 31.587,
-      "lon": -103.072,
-      "place": "6 km WNW of Wickett, Texas",
-      "time": "2026-08-17T15:20:42.585Z"
     },
     {
       "id": "ci40674434",
@@ -687,15 +687,6 @@
       "time": "2026-08-17T12:13:28.220Z"
     },
     {
-      "id": "tx2026qdlvfh",
-      "magnitude": 1.6,
-      "depth": 0,
-      "lat": 30.82,
-      "lon": -103.58,
-      "place": "24 km SE of Balmorhea, Texas",
-      "time": "2026-08-17T12:12:04.904Z"
-    },
-    {
       "id": "tx2026qdlvdv",
       "magnitude": 1.7,
       "depth": 10,
@@ -850,12 +841,12 @@
     },
     {
       "id": "ci40674330",
-      "magnitude": 0.6,
+      "magnitude": 0.5,
       "depth": 5,
       "lat": 34.129,
-      "lon": -117.478,
+      "lon": -117.475,
       "place": "4 km NNW of Fontana, CA",
-      "time": "2026-08-17T10:15:50.460Z"
+      "time": "2026-08-17T10:15:50.390Z"
     },
     {
       "id": "ci40674322",
@@ -1003,12 +994,12 @@
     },
     {
       "id": "ci40674282",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 32.919,
-      "lon": -116.256,
+      "magnitude": 0.5,
+      "depth": 6,
+      "lat": 32.916,
+      "lon": -116.247,
       "place": "27 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-17T08:27:11.510Z"
+      "time": "2026-08-17T08:27:11.230Z"
     },
     {
       "id": "nc75419937",
@@ -1651,12 +1642,12 @@
     },
     {
       "id": "ci40674138",
-      "magnitude": 1,
+      "magnitude": 0.9,
       "depth": 5,
-      "lat": 34.028,
-      "lon": -117.175,
+      "lat": 34.027,
+      "lon": -117.174,
       "place": "3 km SSE of Redlands, CA",
-      "time": "2026-08-17T00:54:56.650Z"
+      "time": "2026-08-17T00:54:56.670Z"
     },
     {
       "id": "ok2026qaqk",
@@ -1936,69 +1927,6 @@
       "lon": -151.267,
       "place": "30 km W of Manley Hot Springs, Alaska",
       "time": "2026-08-16T21:45:24.124Z"
-    },
-    {
-      "id": "usd0015eab",
-      "magnitude": 4.3,
-      "depth": 10,
-      "lat": 33.343,
-      "lon": 130.116,
-      "place": "17 km SE of Karatsu, Japan",
-      "time": "2026-08-16T21:37:16.137Z"
-    },
-    {
-      "id": "nc75419677",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 38.831,
-      "lon": -122.789,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-08-16T21:31:36.860Z"
-    },
-    {
-      "id": "tx2026qcionv",
-      "magnitude": 1.1,
-      "depth": 8,
-      "lat": 32.101,
-      "lon": -101.483,
-      "place": "11 km W of Forsan, Texas",
-      "time": "2026-08-16T21:28:58.591Z"
-    },
-    {
-      "id": "usd0015ea9",
-      "magnitude": 4.5,
-      "depth": 163,
-      "lat": -7.105,
-      "lon": 129.576,
-      "place": "Kepulauan Babar, Indonesia",
-      "time": "2026-08-16T21:28:18.985Z"
-    },
-    {
-      "id": "nc75419667",
-      "magnitude": 1.4,
-      "depth": 9,
-      "lat": 35.823,
-      "lon": -120.553,
-      "place": "14 km SW of Parkfield, CA",
-      "time": "2026-08-16T21:22:22.280Z"
-    },
-    {
-      "id": "tx2026qciigo",
-      "magnitude": 1.4,
-      "depth": 8,
-      "lat": 32.055,
-      "lon": -103.707,
-      "place": "39 km ESE of Malaga, New Mexico",
-      "time": "2026-08-16T21:21:42.530Z"
-    },
-    {
-      "id": "nc75419652",
-      "magnitude": 1.3,
-      "depth": -1,
-      "lat": 38.759,
-      "lon": -122.958,
-      "place": "7 km SE of Cloverdale, CA",
-      "time": "2026-08-16T21:15:39.260Z"
     }
   ]
 }
