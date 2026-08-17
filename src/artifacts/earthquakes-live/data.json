@@ -1,15 +1,42 @@
 {
-  "generated": "2026-08-17T15:57:01.732Z",
-  "count": 206,
+  "generated": "2026-08-17T16:18:39.960Z",
+  "count": 208,
   "events": [
+    {
+      "id": "nc75420102",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.822,
+      "lon": -122.851,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": "2026-08-17T16:05:40.120Z"
+    },
+    {
+      "id": "tx2026qdsxzh",
+      "magnitude": 1.9,
+      "depth": 0,
+      "lat": 31.717,
+      "lon": -104.215,
+      "place": "53 km SSE of Whites City, New Mexico",
+      "time": "2026-08-17T15:46:06.180Z"
+    },
+    {
+      "id": "pr71528808",
+      "magnitude": 2.3,
+      "depth": 15,
+      "lat": 17.969,
+      "lon": -66.915,
+      "place": "0 km WSW of Guánica, Puerto Rico",
+      "time": "2026-08-17T15:41:00.740Z"
+    },
     {
       "id": "tx2026qdsdpi",
       "magnitude": 1.6,
-      "depth": 5,
-      "lat": 31.499,
-      "lon": -103.644,
-      "place": "16 km WNW of Pecos, Texas",
-      "time": "2026-08-17T15:22:45.850Z"
+      "depth": 7,
+      "lat": 31.424,
+      "lon": -103.592,
+      "place": "7 km NW of Lindsay, Texas",
+      "time": "2026-08-17T15:22:47.187Z"
     },
     {
       "id": "tx2026qdrzzx",
@@ -1846,15 +1873,6 @@
       "lon": -101.102,
       "place": "24 km NNW of Westbrook, Texas",
       "time": "2026-08-16T16:20:25.003Z"
-    },
-    {
-      "id": "ci40673874",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 35.976,
-      "lon": -117.495,
-      "place": "25 km NNW of Searles Valley, CA",
-      "time": "2026-08-16T15:58:46.990Z"
     }
   ]
 }
