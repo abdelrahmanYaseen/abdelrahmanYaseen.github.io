@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-17T22:17:39.457Z",
-  "count": 214,
+  "generated": "2026-08-17T22:46:06.742Z",
+  "count": 219,
   "events": [
+    {
+      "id": "ci41528768",
+      "magnitude": 1.4,
+      "depth": 16,
+      "lat": 33.331,
+      "lon": -116.794,
+      "place": "7 km ESE of Palomar Observatory, CA",
+      "time": "2026-08-17T22:38:17.910Z"
+    },
+    {
+      "id": "aka2026qgwerx",
+      "magnitude": 3,
+      "depth": 15,
+      "lat": 66.966,
+      "lon": -146.628,
+      "place": "10 km WSW of Venetie, Alaska",
+      "time": "2026-08-17T22:35:17.029Z"
+    },
+    {
+      "id": "nc75420307",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.827,
+      "lon": -122.8,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-08-17T22:29:45.580Z"
+    },
+    {
+      "id": "nc75420292",
+      "magnitude": 0.5,
+      "depth": 2,
+      "lat": 38.833,
+      "lon": -122.799,
+      "place": "7 km W of Cobb, CA",
+      "time": "2026-08-17T22:21:44.180Z"
+    },
+    {
+      "id": "ci41528744",
+      "magnitude": 2.8,
+      "depth": 15,
+      "lat": 33.324,
+      "lon": -116.797,
+      "place": "7 km ESE of Palomar Observatory, CA",
+      "time": "2026-08-17T22:16:08.420Z"
+    },
     {
       "id": "nc75420282",
       "magnitude": 3.2,
@@ -10,6 +55,15 @@
       "lon": -124.857,
       "place": "49 km W of Petrolia, CA",
       "time": "2026-08-17T22:13:10.050Z"
+    },
+    {
+      "id": "aka2026qgvbtf",
+      "magnitude": 2.2,
+      "depth": 32,
+      "lat": 51.334,
+      "lon": -176.031,
+      "place": "73 km SE of Adak, Alaska",
+      "time": "2026-08-17T22:01:56.146Z"
     },
     {
       "id": "hv75019857",
@@ -192,6 +246,15 @@
       "time": "2026-08-17T19:13:06.460Z"
     },
     {
+      "id": "av94390273",
+      "magnitude": 0.2,
+      "depth": 1,
+      "lat": 51.813,
+      "lon": -178.861,
+      "place": "153 km W of Adak, Alaska",
+      "time": "2026-08-17T19:08:49.560Z"
+    },
+    {
       "id": "aka2026qgpglq",
       "magnitude": 1.6,
       "depth": 6,
@@ -289,6 +352,15 @@
       "lon": -117.75,
       "place": "10 km WSW of Pinon Hills, CA",
       "time": "2026-08-17T18:08:59.570Z"
+    },
+    {
+      "id": "av94390158",
+      "magnitude": 0,
+      "depth": 1,
+      "lat": 58.178,
+      "lon": -155.318,
+      "place": "84 km NW of Karluk, Alaska",
+      "time": "2026-08-17T18:08:07.260Z"
     },
     {
       "id": "nc75420167",
@@ -1255,12 +1327,12 @@
     },
     {
       "id": "ci40674242",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 33.974,
-      "lon": -117.481,
-      "place": "0 km WSW of Pedley, CA",
-      "time": "2026-08-17T06:27:25.120Z"
+      "magnitude": 0.5,
+      "depth": 3,
+      "lat": 33.975,
+      "lon": -117.483,
+      "place": "1 km W of Pedley, CA",
+      "time": "2026-08-17T06:27:25.050Z"
     },
     {
       "id": "nc75419892",
@@ -1477,6 +1549,15 @@
       "lon": -122.318,
       "place": "2 km E of White Center, Washington",
       "time": "2026-08-17T04:02:09.110Z"
+    },
+    {
+      "id": "av94388908",
+      "magnitude": 0.3,
+      "depth": 4,
+      "lat": 51.794,
+      "lon": -178.812,
+      "place": "150 km W of Adak, Alaska",
+      "time": "2026-08-17T03:48:47.050Z"
     },
     {
       "id": "usd0015ebj",
@@ -1891,42 +1972,6 @@
       "lon": -155.578,
       "place": "26 km NNW of Pāhala, Hawaii",
       "time": "2026-08-16T22:47:36.230Z"
-    },
-    {
-      "id": "ci40674114",
-      "magnitude": 1.1,
-      "depth": 10,
-      "lat": 35.777,
-      "lon": -117.597,
-      "place": "17 km W of Searles Valley, CA",
-      "time": "2026-08-16T22:35:11.210Z"
-    },
-    {
-      "id": "ci40674106",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.066,
-      "lon": -117.842,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-16T22:31:45.200Z"
-    },
-    {
-      "id": "ci40674098",
-      "magnitude": 0.6,
-      "depth": 13,
-      "lat": 33.291,
-      "lon": -116.737,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-16T22:22:22.480Z"
-    },
-    {
-      "id": "ci40674090",
-      "magnitude": 1.5,
-      "depth": 11,
-      "lat": 32.691,
-      "lon": -115.764,
-      "place": "21 km NW of Progreso, B.C., MX",
-      "time": "2026-08-16T22:22:15.270Z"
     }
   ]
 }
