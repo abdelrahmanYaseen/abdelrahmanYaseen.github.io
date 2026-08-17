@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-17T08:22:00.451Z",
-  "count": 183,
+  "generated": "2026-08-17T09:05:31.531Z",
+  "count": 187,
   "events": [
+    {
+      "id": "nc75419952",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.837,
+      "lon": -122.79,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-17T08:43:55.820Z"
+    },
+    {
+      "id": "ci40674298",
+      "magnitude": 1.8,
+      "depth": 4,
+      "lat": 34.537,
+      "lon": -120.469,
+      "place": "11 km S of Lompoc, CA",
+      "time": "2026-08-17T08:38:06.350Z"
+    },
+    {
+      "id": "ci40674290",
+      "magnitude": 0.9,
+      "depth": 13,
+      "lat": 33.037,
+      "lon": -116.582,
+      "place": "5 km SSE of Julian, CA",
+      "time": "2026-08-17T08:34:19.790Z"
+    },
+    {
+      "id": "ci40674282",
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 32.919,
+      "lon": -116.256,
+      "place": "27 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-17T08:27:11.510Z"
+    },
+    {
+      "id": "nc75419937",
+      "magnitude": 1.1,
+      "depth": 16,
+      "lat": 37.957,
+      "lon": -121.999,
+      "place": "2 km SE of Concord, CA",
+      "time": "2026-08-17T08:22:08.900Z"
+    },
     {
       "id": "nc75419932",
       "magnitude": 2.6,
@@ -46,6 +91,15 @@
       "lon": -122.793,
       "place": "4 km NW of The Geysers, CA",
       "time": "2026-08-17T07:45:55.930Z"
+    },
+    {
+      "id": "usd0015ecl",
+      "magnitude": 2,
+      "depth": 1,
+      "lat": 39.258,
+      "lon": -108.619,
+      "place": "14 km NE of Fruita, Colorado",
+      "time": "2026-08-17T07:44:47.769Z"
     },
     {
       "id": "tx2026qdcxvs",
@@ -247,12 +301,12 @@
     },
     {
       "id": "tx2026qczdnr",
-      "magnitude": 1.9,
-      "depth": 5,
-      "lat": 31.191,
-      "lon": -103.369,
-      "place": "25 km SE of Lindsay, Texas",
-      "time": "2026-08-17T05:49:08.043Z"
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 31.171,
+      "lon": -103.36,
+      "place": "27 km SE of Lindsay, Texas",
+      "time": "2026-08-17T05:49:08.276Z"
     },
     {
       "id": "ci40674210",
@@ -1630,24 +1684,6 @@
       "lon": -120.719,
       "place": "7 km SW of Atascadero, CA",
       "time": "2026-08-16T09:16:22.520Z"
-    },
-    {
-      "id": "ci40673706",
-      "magnitude": 0.6,
-      "depth": 3,
-      "lat": 36.064,
-      "lon": -117.841,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-16T08:57:36.850Z"
-    },
-    {
-      "id": "aka2026qdxuty",
-      "magnitude": 1.7,
-      "depth": 31,
-      "lat": 62.311,
-      "lon": -148.626,
-      "place": "57 km N of Chickaloon, Alaska",
-      "time": "2026-08-16T08:24:53.530Z"
     }
   ]
 }
