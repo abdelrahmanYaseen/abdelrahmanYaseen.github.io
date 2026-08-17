@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-17T09:54:19.371Z",
-  "count": 189,
+  "generated": "2026-08-17T10:19:33.984Z",
+  "count": 186,
   "events": [
+    {
+      "id": "ci40674330",
+      "magnitude": 0.6,
+      "depth": 5,
+      "lat": 34.129,
+      "lon": -117.478,
+      "place": "4 km NNW of Fontana, CA",
+      "time": "2026-08-17T10:15:50.460Z"
+    },
+    {
+      "id": "ci40674322",
+      "magnitude": 0.3,
+      "depth": 11,
+      "lat": 33.349,
+      "lon": -116.253,
+      "place": "15 km NE of Borrego Springs, CA",
+      "time": "2026-08-17T10:13:06.820Z"
+    },
+    {
+      "id": "tx2026qdhqmg",
+      "magnitude": 1.6,
+      "depth": 6,
+      "lat": 31.169,
+      "lon": -103.351,
+      "place": "28 km SE of Lindsay, Texas",
+      "time": "2026-08-17T10:05:31.593Z"
+    },
+    {
+      "id": "tx2026qdhiiu",
+      "magnitude": 2.2,
+      "depth": 6,
+      "lat": 31.513,
+      "lon": -104.134,
+      "place": "39 km NW of Toyah, Texas",
+      "time": "2026-08-17T09:56:14.637Z"
+    },
+    {
+      "id": "tx2026qdhifl",
+      "magnitude": 2.2,
+      "depth": 4,
+      "lat": 31.524,
+      "lon": -104.155,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-08-17T09:56:14.602Z"
+    },
     {
       "id": "ci40674314",
       "magnitude": 2.6,
@@ -246,6 +291,15 @@
       "time": "2026-08-17T07:17:16.845Z"
     },
     {
+      "id": "usd0015ecf",
+      "magnitude": 4.8,
+      "depth": 10,
+      "lat": 14.596,
+      "lon": 147.093,
+      "place": "159 km ESE of Saipan, Northern Mariana Islands",
+      "time": "2026-08-17T06:55:11.062Z"
+    },
+    {
       "id": "ci40674258",
       "magnitude": 1,
       "depth": 4,
@@ -429,10 +483,10 @@
       "id": "tx2026qcwpwu",
       "magnitude": 1.6,
       "depth": 6,
-      "lat": 28.914,
-      "lon": -98.191,
-      "place": "18 km WSW of Falls City, Texas",
-      "time": "2026-08-17T04:32:57.986Z"
+      "lat": 28.916,
+      "lon": -98.183,
+      "place": "17 km WSW of Falls City, Texas",
+      "time": "2026-08-17T04:32:57.854Z"
     },
     {
       "id": "ci40674202",
@@ -1621,87 +1675,6 @@
       "lon": 120.55,
       "place": "81 km N of Ruteng, Indonesia",
       "time": "2026-08-16T10:31:34.822Z"
-    },
-    {
-      "id": "ci40673770",
-      "magnitude": 1.2,
-      "depth": 6,
-      "lat": 32.873,
-      "lon": -115.512,
-      "place": "6 km ENE of Imperial, CA",
-      "time": "2026-08-16T10:18:30.380Z"
-    },
-    {
-      "id": "nc75419387",
-      "magnitude": 0.4,
-      "depth": 2,
-      "lat": 38.825,
-      "lon": -122.844,
-      "place": "9 km NW of The Geysers, CA",
-      "time": "2026-08-16T10:15:06.590Z"
-    },
-    {
-      "id": "usd0015e7j",
-      "magnitude": 5.3,
-      "depth": 10,
-      "lat": -7.94,
-      "lon": 120.6,
-      "place": "75 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-16T10:14:36.343Z"
-    },
-    {
-      "id": "ci40673762",
-      "magnitude": 0.7,
-      "depth": 8,
-      "lat": 32.936,
-      "lon": -116.335,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-16T10:12:02.460Z"
-    },
-    {
-      "id": "nc75419382",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 38.825,
-      "lon": -122.794,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-08-16T10:08:51.970Z"
-    },
-    {
-      "id": "ci40673754",
-      "magnitude": 0.6,
-      "depth": 7,
-      "lat": 35.763,
-      "lon": -117.577,
-      "place": "16 km W of Searles Valley, CA",
-      "time": "2026-08-16T10:00:52.650Z"
-    },
-    {
-      "id": "tx2026qblsrc",
-      "magnitude": 2.1,
-      "depth": 0,
-      "lat": 31.948,
-      "lon": -104.268,
-      "place": "27 km SSE of Whites City, New Mexico",
-      "time": "2026-08-16T09:59:48.857Z"
-    },
-    {
-      "id": "nn00923371",
-      "magnitude": 1.6,
-      "depth": 16,
-      "lat": 35.776,
-      "lon": -114.98,
-      "place": "15 km WNW of Nelson, Nevada",
-      "time": "2026-08-16T09:59:12.827Z"
-    },
-    {
-      "id": "usd0015e7e",
-      "magnitude": 4,
-      "depth": 16,
-      "lat": 31.201,
-      "lon": -109.272,
-      "place": "30 km ESE of Agua Prieta, Mexico",
-      "time": "2026-08-16T09:57:38.788Z"
     }
   ]
 }
