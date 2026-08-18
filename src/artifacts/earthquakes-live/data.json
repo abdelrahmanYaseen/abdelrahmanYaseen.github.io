@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-18T11:36:37.015Z",
-  "count": 243,
+  "generated": "2026-08-18T11:58:34.445Z",
+  "count": 244,
   "events": [
+    {
+      "id": "tx2026qfguhl",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 31.641,
+      "lon": -104.454,
+      "place": "59 km S of Whites City, New Mexico",
+      "time": "2026-08-18T11:48:59.924Z"
+    },
+    {
+      "id": "nc75420557",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 38.787,
+      "lon": -122.77,
+      "place": "2 km NW of The Geysers, CA",
+      "time": "2026-08-18T11:42:29.440Z"
+    },
     {
       "id": "aka2026qhwbjb",
       "magnitude": 2.7,
@@ -21,6 +39,15 @@
       "time": "2026-08-18T11:07:24.456Z"
     },
     {
+      "id": "us6000tlmt",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": -7.89,
+      "lon": 120.366,
+      "place": "80 km N of Ruteng, Indonesia",
+      "time": "2026-08-18T11:06:50.913Z"
+    },
+    {
       "id": "tx2026qfffvn",
       "magnitude": 1,
       "depth": 3,
@@ -32,11 +59,11 @@
     {
       "id": "tx2026qffajf",
       "magnitude": 1.9,
-      "depth": 6,
-      "lat": 28.893,
-      "lon": -98.965,
-      "place": "12 km E of Pearsall, Texas",
-      "time": "2026-08-18T10:55:26.481Z"
+      "depth": 8,
+      "lat": 28.839,
+      "lon": -98.949,
+      "place": "15 km ESE of Pearsall, Texas",
+      "time": "2026-08-18T10:55:25.121Z"
     },
     {
       "id": "ci41529120",
@@ -464,11 +491,11 @@
     {
       "id": "tx2026qewest",
       "magnitude": 1.7,
-      "depth": 4,
-      "lat": 31.555,
-      "lon": -104.194,
+      "depth": 7,
+      "lat": 31.573,
+      "lon": -104.181,
       "place": "46 km NW of Toyah, Texas",
-      "time": "2026-08-18T06:28:58.012Z"
+      "time": "2026-08-18T06:28:58.102Z"
     },
     {
       "id": "hv75020097",
@@ -577,6 +604,15 @@
       "lon": -156.333,
       "place": "74 km ESE of Ugashik, Alaska",
       "time": "2026-08-18T05:33:38.321Z"
+    },
+    {
+      "id": "tx2026qeuihp",
+      "magnitude": 0.7,
+      "depth": 7,
+      "lat": 31.985,
+      "lon": -104.002,
+      "place": "27 km SSE of Malaga, New Mexico",
+      "time": "2026-08-18T05:32:53.351Z"
     },
     {
       "id": "nc75420437",
@@ -802,6 +838,15 @@
       "lon": -68.95,
       "place": "7 km SSE of La Romana, Dominican Republic",
       "time": "2026-08-18T03:33:07.490Z"
+    },
+    {
+      "id": "tx2026qeqhaw",
+      "magnitude": 0.8,
+      "depth": 9,
+      "lat": 32.108,
+      "lon": -101.909,
+      "place": "11 km WSW of Stanton, Texas",
+      "time": "2026-08-18T03:30:37.795Z"
     },
     {
       "id": "tx2026qeqetu",
@@ -2152,42 +2197,6 @@
       "lon": -120.487,
       "place": "12 km SSW of Lompoc, CA",
       "time": "2026-08-17T12:08:23.600Z"
-    },
-    {
-      "id": "tx2026qdlgtu",
-      "magnitude": 1.7,
-      "depth": 9,
-      "lat": 31.542,
-      "lon": -104.136,
-      "place": "41 km NW of Toyah, Texas",
-      "time": "2026-08-17T11:54:57.163Z"
-    },
-    {
-      "id": "nc75419992",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 38.822,
-      "lon": -122.805,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-08-17T11:52:14.130Z"
-    },
-    {
-      "id": "nc75419987",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 38.822,
-      "lon": -122.804,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-08-17T11:51:58.500Z"
-    },
-    {
-      "id": "ci40674362",
-      "magnitude": 1.5,
-      "depth": 16,
-      "lat": 32.379,
-      "lon": -116.54,
-      "place": "23 km SSE of Tecate, B.C., MX",
-      "time": "2026-08-17T11:36:23.630Z"
     }
   ]
 }
