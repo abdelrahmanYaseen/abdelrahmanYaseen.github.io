@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-18T04:23:13.365Z",
-  "count": 235,
+  "generated": "2026-08-18T04:58:32.505Z",
+  "count": 234,
   "events": [
+    {
+      "id": "hv75020032",
+      "magnitude": 2.3,
+      "depth": 1,
+      "lat": 19.418,
+      "lon": -155.434,
+      "place": "21 km W of Volcano, Hawaii",
+      "time": "2026-08-18T04:44:30.400Z"
+    },
     {
       "id": "hv75020022",
       "magnitude": 1.7,
@@ -55,6 +64,15 @@
       "lon": -121.173,
       "place": "6 km NNW of Pinnacles, CA",
       "time": "2026-08-18T03:40:51.550Z"
+    },
+    {
+      "id": "us6000tlkf",
+      "magnitude": 3.1,
+      "depth": 5,
+      "lat": 34.568,
+      "lon": -106.938,
+      "place": "15 km WSW of Pueblitos, New Mexico",
+      "time": "2026-08-18T03:40:13.636Z"
     },
     {
       "id": "hv75020012",
@@ -483,10 +501,10 @@
       "id": "us6000tlgm",
       "magnitude": 5.3,
       "depth": 10,
-      "lat": 9.762,
-      "lon": 138.606,
-      "place": "59 km ENE of Colonia, Micronesia",
-      "time": "2026-08-17T22:53:11.009Z"
+      "lat": 9.638,
+      "lon": 138.311,
+      "place": "24 km ENE of Colonia, Micronesia",
+      "time": "2026-08-17T22:53:11.292Z"
     },
     {
       "id": "aka2026qgwiqw",
@@ -2089,33 +2107,6 @@
       "lon": -103.783,
       "place": "34 km SE of Malaga, New Mexico",
       "time": "2026-08-17T05:01:32.106Z"
-    },
-    {
-      "id": "nc75419847",
-      "magnitude": 1.1,
-      "depth": 5,
-      "lat": 38.796,
-      "lon": -122.936,
-      "place": "7 km E of Cloverdale, CA",
-      "time": "2026-08-17T04:44:28.710Z"
-    },
-    {
-      "id": "nc75419842",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.799,
-      "lon": -122.813,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": "2026-08-17T04:38:33.700Z"
-    },
-    {
-      "id": "tx2026qcwpwu",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 28.933,
-      "lon": -98.19,
-      "place": "17 km WSW of Falls City, Texas",
-      "time": "2026-08-17T04:32:56.085Z"
     }
   ]
 }
