@@ -1,7 +1,97 @@
 {
-  "generated": "2026-08-18T16:17:17.542Z",
-  "count": 259,
+  "generated": "2026-08-18T16:54:09.427Z",
+  "count": 265,
   "events": [
+    {
+      "id": "ci41529352",
+      "magnitude": 0.8,
+      "depth": 6,
+      "lat": 32.9,
+      "lon": -115.942,
+      "place": "19 km NNE of Ocotillo, CA",
+      "time": "2026-08-18T16:49:31.980Z"
+    },
+    {
+      "id": "ci41529344",
+      "magnitude": 0.9,
+      "depth": 14,
+      "lat": 33.114,
+      "lon": -116.055,
+      "place": "8 km ESE of Ocotillo Wells, CA",
+      "time": "2026-08-18T16:49:13.490Z"
+    },
+    {
+      "id": "ci41529336",
+      "magnitude": 1.8,
+      "depth": 9,
+      "lat": 33.207,
+      "lon": -116.052,
+      "place": "10 km NE of Ocotillo Wells, CA",
+      "time": "2026-08-18T16:47:38.850Z"
+    },
+    {
+      "id": "ci41529328",
+      "magnitude": 1.2,
+      "depth": 16,
+      "lat": 34.509,
+      "lon": -119.088,
+      "place": "16 km ENE of Ojai, CA",
+      "time": "2026-08-18T16:43:07.230Z"
+    },
+    {
+      "id": "tx2026qfqnaw",
+      "magnitude": 2.2,
+      "depth": 2,
+      "lat": 31.99,
+      "lon": -103.258,
+      "place": "14 km SSW of Jal, New Mexico",
+      "time": "2026-08-18T16:42:04.351Z"
+    },
+    {
+      "id": "tx2026qfqgfq",
+      "magnitude": 1.7,
+      "depth": 0,
+      "lat": 30.938,
+      "lon": -103.631,
+      "place": "12 km ESE of Balmorhea, Texas",
+      "time": "2026-08-18T16:34:25.869Z"
+    },
+    {
+      "id": "pr71528918",
+      "magnitude": 3.4,
+      "depth": 34,
+      "lat": 19.08,
+      "lon": -64.847,
+      "place": "82 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-08-18T16:33:26.390Z"
+    },
+    {
+      "id": "tx2026qfqfhe",
+      "magnitude": 2.1,
+      "depth": 2,
+      "lat": 31.994,
+      "lon": -103.241,
+      "place": "13 km SSW of Jal, New Mexico",
+      "time": "2026-08-18T16:33:09.791Z"
+    },
+    {
+      "id": "pr71528908",
+      "magnitude": 2.2,
+      "depth": 8,
+      "lat": 18.187,
+      "lon": -66.86,
+      "place": "12 km S of Lares, Puerto Rico",
+      "time": "2026-08-18T16:21:27.830Z"
+    },
+    {
+      "id": "nc75420677",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.838,
+      "lon": -122.785,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-18T16:18:27.360Z"
+    },
     {
       "id": "aka2026qifncw",
       "magnitude": 1.6,
@@ -77,9 +167,9 @@
     {
       "id": "ci41529264",
       "magnitude": 1.1,
-      "depth": 6,
+      "depth": 7,
       "lat": 34.331,
-      "lon": -116.824,
+      "lon": -116.822,
       "place": "8 km NNE of Big Bear City, CA",
       "time": "2026-08-18T15:44:31.040Z"
     },
@@ -103,12 +193,12 @@
     },
     {
       "id": "ci41529248",
-      "magnitude": 1.8,
+      "magnitude": 1.7,
       "depth": 3,
-      "lat": 34.022,
-      "lon": -117.218,
+      "lat": 34.021,
+      "lon": -117.219,
       "place": "5 km SE of Loma Linda, CA",
-      "time": "2026-08-18T15:20:34.590Z"
+      "time": "2026-08-18T15:20:34.570Z"
     },
     {
       "id": "nn00923444",
@@ -130,12 +220,12 @@
     },
     {
       "id": "nn00923438",
-      "magnitude": 2.9,
-      "depth": 7,
-      "lat": 38.508,
-      "lon": -116.562,
-      "place": "76 km NE of Tonopah, Nevada",
-      "time": "2026-08-18T15:12:03.556Z"
+      "magnitude": 2.8,
+      "depth": 6,
+      "lat": 38.442,
+      "lon": -116.512,
+      "place": "75 km ENE of Tonopah, Nevada",
+      "time": "2026-08-18T15:12:03.666Z"
     },
     {
       "id": "aka2026qidjpa",
@@ -1632,6 +1722,15 @@
       "time": "2026-08-18T00:31:05.241Z"
     },
     {
+      "id": "ci41528824",
+      "magnitude": 0.5,
+      "depth": 9,
+      "lat": 35.31,
+      "lon": -117.812,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-08-18T00:29:49.190Z"
+    },
+    {
       "id": "ci41528816",
       "magnitude": 0.9,
       "depth": 5,
@@ -1956,6 +2055,15 @@
       "time": "2026-08-17T20:18:05.980Z"
     },
     {
+      "id": "ok2026qccs",
+      "magnitude": 0.9,
+      "depth": 5,
+      "lat": 34.669,
+      "lon": -96.024,
+      "place": "1 km NNE of Wardville, Oklahoma",
+      "time": "2026-08-17T20:12:54.229Z"
+    },
+    {
       "id": "uw714080841",
       "magnitude": 0.2,
       "depth": -1,
@@ -2278,60 +2386,6 @@
       "lon": -150.739,
       "place": "17 km S of Point Possession, Alaska",
       "time": "2026-08-17T16:54:15.478Z"
-    },
-    {
-      "id": "ci40674514",
-      "magnitude": 0.7,
-      "depth": 17,
-      "lat": 33.69,
-      "lon": -116.681,
-      "place": "7 km SSE of Idyllwild, CA",
-      "time": "2026-08-17T16:45:05.780Z"
-    },
-    {
-      "id": "ci40674506",
-      "magnitude": 0.6,
-      "depth": 16,
-      "lat": 33.683,
-      "lon": -116.694,
-      "place": "7 km SSE of Idyllwild, CA",
-      "time": "2026-08-17T16:38:26.990Z"
-    },
-    {
-      "id": "tx2026qduipa",
-      "magnitude": 1.3,
-      "depth": 10,
-      "lat": 32.09,
-      "lon": -101.395,
-      "place": "3 km SW of Forsan, Texas",
-      "time": "2026-08-17T16:28:37.714Z"
-    },
-    {
-      "id": "ci40674490",
-      "magnitude": 0.9,
-      "depth": 5,
-      "lat": 32.576,
-      "lon": -116.716,
-      "place": "8 km W of Tecate, B.C., MX",
-      "time": "2026-08-17T16:25:53.150Z"
-    },
-    {
-      "id": "tx2026qdudte",
-      "magnitude": 1.9,
-      "depth": 8,
-      "lat": 28.812,
-      "lon": -99.005,
-      "place": "12 km SE of Pearsall, Texas",
-      "time": "2026-08-17T16:22:57.598Z"
-    },
-    {
-      "id": "nc75420107",
-      "magnitude": 1.3,
-      "depth": 7,
-      "lat": 36.624,
-      "lon": -121.24,
-      "place": "13 km NW of Pinnacles, CA",
-      "time": "2026-08-17T16:20:13.650Z"
     }
   ]
 }
