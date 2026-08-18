@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-18T05:51:46.053Z",
-  "count": 235,
+  "generated": "2026-08-18T06:22:02.764Z",
+  "count": 230,
   "events": [
+    {
+      "id": "ci41528984",
+      "magnitude": 1,
+      "depth": 7,
+      "lat": 35.327,
+      "lon": -117.813,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-18T06:16:28.950Z"
+    },
+    {
+      "id": "aka2026qhlldp",
+      "magnitude": 1.7,
+      "depth": 58,
+      "lat": 57.356,
+      "lon": -154.874,
+      "place": "34 km SW of Karluk, Alaska",
+      "time": "2026-08-18T06:12:31.156Z"
+    },
+    {
+      "id": "ci41528976",
+      "magnitude": 1.1,
+      "depth": 10,
+      "lat": 33.166,
+      "lon": -116.116,
+      "place": "3 km NNE of Ocotillo Wells, CA",
+      "time": "2026-08-18T06:09:35.330Z"
+    },
+    {
+      "id": "hv75020087",
+      "magnitude": 2,
+      "depth": 40,
+      "lat": 19.874,
+      "lon": -155.169,
+      "place": "5 km W of Honomu, Hawaii",
+      "time": "2026-08-18T06:08:23.890Z"
+    },
+    {
+      "id": "ci41528968",
+      "magnitude": 0.9,
+      "depth": 10,
+      "lat": 34.344,
+      "lon": -117.601,
+      "place": "4 km ESE of Wrightwood, CA",
+      "time": "2026-08-18T05:56:30.520Z"
+    },
     {
       "id": "ci41528960",
       "magnitude": 1.4,
@@ -1290,6 +1335,15 @@
       "time": "2026-08-17T13:12:28.480Z"
     },
     {
+      "id": "av94389793",
+      "magnitude": 0.8,
+      "depth": 6,
+      "lat": 58.444,
+      "lon": -154.366,
+      "place": "95 km WNW of Aleneva, Alaska",
+      "time": "2026-08-17T13:11:20.100Z"
+    },
+    {
       "id": "nc75420017",
       "magnitude": 1.1,
       "depth": 2,
@@ -1504,6 +1558,15 @@
       "lon": -104.129,
       "place": "40 km NW of Toyah, Texas",
       "time": "2026-08-17T11:22:04.741Z"
+    },
+    {
+      "id": "av94389628",
+      "magnitude": 1.1,
+      "depth": 8,
+      "lat": 51.733,
+      "lon": -179.027,
+      "place": "165 km W of Adak, Alaska",
+      "time": "2026-08-17T11:21:30.200Z"
     },
     {
       "id": "nc75419982",
@@ -2008,114 +2071,6 @@
       "lon": -122.812,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-08-17T06:22:34.420Z"
-    },
-    {
-      "id": "av94389118",
-      "magnitude": -0.3,
-      "depth": 2,
-      "lat": 59.997,
-      "lon": -153.081,
-      "place": "61 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-17T06:20:58.430Z"
-    },
-    {
-      "id": "uu80149081",
-      "magnitude": 0.9,
-      "depth": 5,
-      "lat": 44.629,
-      "lon": -110.343,
-      "place": "47 km SE of Mammoth, Wyoming",
-      "time": "2026-08-17T06:20:57.800Z"
-    },
-    {
-      "id": "av94389113",
-      "magnitude": -0.1,
-      "depth": 2,
-      "lat": 59.999,
-      "lon": -153.084,
-      "place": "61 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-17T06:19:24.990Z"
-    },
-    {
-      "id": "av94389103",
-      "magnitude": 0.3,
-      "depth": 9,
-      "lat": 52.108,
-      "lon": -176.183,
-      "place": "40 km NE of Adak, Alaska",
-      "time": "2026-08-17T06:14:45.960Z"
-    },
-    {
-      "id": "nc75419872",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.775,
-      "lon": -122.751,
-      "place": "1 km ESE of The Geysers, CA",
-      "time": "2026-08-17T06:11:02.470Z"
-    },
-    {
-      "id": "av93065884",
-      "magnitude": -0.5,
-      "depth": 2,
-      "lat": 51.964,
-      "lon": 178.456,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": "2026-08-17T06:09:09.860Z"
-    },
-    {
-      "id": "av93065879",
-      "magnitude": -0.2,
-      "depth": 1,
-      "lat": 51.98,
-      "lon": 178.438,
-      "place": "Rat Islands, Aleutian Islands, Alaska",
-      "time": "2026-08-17T06:08:39.160Z"
-    },
-    {
-      "id": "ci40674234",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.104,
-      "lon": -117.889,
-      "place": "8 km NE of Coso Junction, CA",
-      "time": "2026-08-17T06:07:33.140Z"
-    },
-    {
-      "id": "ci40674226",
-      "magnitude": 0.4,
-      "depth": 2,
-      "lat": 36.065,
-      "lon": -117.838,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-17T06:01:25.680Z"
-    },
-    {
-      "id": "aka2026qfpagh",
-      "magnitude": 1.9,
-      "depth": 4,
-      "lat": 63.587,
-      "lon": -150.546,
-      "place": "58 km E of Denali National Park, Alaska",
-      "time": "2026-08-17T06:00:36.507Z"
-    },
-    {
-      "id": "pr71528768",
-      "magnitude": 2.1,
-      "depth": 16,
-      "lat": 18.008,
-      "lon": -66.823,
-      "place": "1 km NNW of Indios, Puerto Rico",
-      "time": "2026-08-17T05:57:26.450Z"
-    },
-    {
-      "id": "ci40674218",
-      "magnitude": 0.4,
-      "depth": 13,
-      "lat": 33.658,
-      "lon": -116.779,
-      "place": "11 km SSW of Idyllwild, CA",
-      "time": "2026-08-17T05:51:57.870Z"
     }
   ]
 }
