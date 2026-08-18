@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-18T20:57:15.858Z",
-  "count": 283,
+  "generated": "2026-08-18T21:17:11.417Z",
+  "count": 286,
   "events": [
+    {
+      "id": "nc75420847",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.824,
+      "lon": -122.796,
+      "place": "6 km NNW of The Geysers, CA",
+      "time": "2026-08-18T21:13:22.940Z"
+    },
+    {
+      "id": "aka2026qiplrh",
+      "magnitude": 2.3,
+      "depth": 61,
+      "lat": 59.14,
+      "lon": -152.347,
+      "place": "34 km SW of Nanwalek, Alaska",
+      "time": "2026-08-18T21:12:42.454Z"
+    },
+    {
+      "id": "aka2026qioxsy",
+      "magnitude": 3,
+      "depth": 13,
+      "lat": 61.3,
+      "lon": -150.093,
+      "place": "9 km SW of Point MacKenzie, Alaska",
+      "time": "2026-08-18T20:56:38.168Z"
+    },
     {
       "id": "aka2026qiovlq",
       "magnitude": 2,
@@ -19,6 +46,24 @@
       "lon": -122.861,
       "place": "10 km WNW of The Geysers, CA",
       "time": "2026-08-18T20:41:40.710Z"
+    },
+    {
+      "id": "tx2026qfykgm",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 31.525,
+      "lon": -104.145,
+      "place": "40 km NW of Toyah, Texas",
+      "time": "2026-08-18T20:40:12.077Z"
+    },
+    {
+      "id": "tx2026qfyjyd",
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 31.521,
+      "lon": -104.137,
+      "place": "39 km NW of Toyah, Texas",
+      "time": "2026-08-18T20:39:50.314Z"
     },
     {
       "id": "aka2026qioeum",
@@ -46,6 +91,15 @@
       "lon": -122.808,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-08-18T20:30:32.990Z"
+    },
+    {
+      "id": "tx2026qfxyvy",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 31.927,
+      "lon": -102.321,
+      "place": "10 km NNE of Odessa, Texas",
+      "time": "2026-08-18T20:27:00.520Z"
     },
     {
       "id": "ci41529568",
@@ -2163,6 +2217,15 @@
       "time": "2026-08-18T00:47:16.614Z"
     },
     {
+      "id": "av94390713",
+      "magnitude": 0.1,
+      "depth": 4,
+      "lat": 51.809,
+      "lon": -178.769,
+      "place": "147 km W of Adak, Alaska",
+      "time": "2026-08-18T00:41:52.030Z"
+    },
+    {
       "id": "hv75019922",
       "magnitude": 1.8,
       "depth": 29,
@@ -2233,6 +2296,15 @@
       "lon": -117.812,
       "place": "18 km WSW of Johannesburg, CA",
       "time": "2026-08-18T00:29:49.190Z"
+    },
+    {
+      "id": "av94390678",
+      "magnitude": 0.4,
+      "depth": 8,
+      "lat": 51.792,
+      "lon": -178.828,
+      "place": "151 km W of Adak, Alaska",
+      "time": "2026-08-18T00:25:03.140Z"
     },
     {
       "id": "ci41528816",
@@ -2503,51 +2575,6 @@
       "lon": -116.741,
       "place": "6 km NNE of Lake Henshaw, CA",
       "time": "2026-08-17T21:19:00.770Z"
-    },
-    {
-      "id": "nc75420257",
-      "magnitude": 0.2,
-      "depth": 2,
-      "lat": 38.839,
-      "lon": -122.811,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-08-17T21:15:51.660Z"
-    },
-    {
-      "id": "aka2026qgtlub",
-      "magnitude": 1.5,
-      "depth": 33,
-      "lat": 61.779,
-      "lon": -147.977,
-      "place": "17 km W of Glacier View, Alaska",
-      "time": "2026-08-17T21:13:36.337Z"
-    },
-    {
-      "id": "tx2026qedrqn",
-      "magnitude": 1.7,
-      "depth": 7,
-      "lat": 31.661,
-      "lon": -104.301,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": "2026-08-17T21:10:53.081Z"
-    },
-    {
-      "id": "ci41528712",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 36.026,
-      "lon": -117.848,
-      "place": "9 km ESE of Coso Junction, CA",
-      "time": "2026-08-17T21:02:59.810Z"
-    },
-    {
-      "id": "ci41528704",
-      "magnitude": 0.7,
-      "depth": 14,
-      "lat": 33.493,
-      "lon": -116.476,
-      "place": "20 km ESE of Anza, CA",
-      "time": "2026-08-17T20:57:25.290Z"
     }
   ]
 }
