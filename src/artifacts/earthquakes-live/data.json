@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-18T19:37:04.468Z",
-  "count": 275,
+  "generated": "2026-08-18T19:54:47.953Z",
+  "count": 273,
   "events": [
+    {
+      "id": "ci41529552",
+      "magnitude": 1,
+      "depth": 6,
+      "lat": 35.328,
+      "lon": -117.809,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-18T19:49:03.870Z"
+    },
+    {
+      "id": "ci41529520",
+      "magnitude": 1.4,
+      "depth": 15,
+      "lat": 34.021,
+      "lon": -117.227,
+      "place": "4 km SE of Loma Linda, CA",
+      "time": "2026-08-18T19:36:57.050Z"
+    },
     {
       "id": "tx2026qfwcys",
       "magnitude": 1.6,
@@ -32,11 +50,11 @@
     {
       "id": "ci41529496",
       "magnitude": 0.9,
-      "depth": 13,
+      "depth": 12,
       "lat": 33.29,
-      "lon": -116.743,
+      "lon": -116.745,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-18T19:13:16.790Z"
+      "time": "2026-08-18T19:13:16.810Z"
     },
     {
       "id": "aka2026qildly",
@@ -46,6 +64,15 @@
       "lon": -150.177,
       "place": "33 km SE of Point Possession, Alaska",
       "time": "2026-08-18T19:03:12.662Z"
+    },
+    {
+      "id": "us6000tlqk",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -8.294,
+      "lon": 121.243,
+      "place": "76 km NW of Ende, Indonesia",
+      "time": "2026-08-18T19:03:07.854Z"
     },
     {
       "id": "nc75420752",
@@ -100,15 +127,6 @@
       "lon": -122.224,
       "place": "3 km SE of Woodside, CA",
       "time": "2026-08-18T18:18:38.330Z"
-    },
-    {
-      "id": "nn00923451",
-      "magnitude": 1.5,
-      "depth": 16,
-      "lat": 36.09,
-      "lon": -115.394,
-      "place": "4 km N of Blue Diamond, Nevada",
-      "time": "2026-08-18T18:12:49.889Z"
     },
     {
       "id": "ci41529440",
@@ -1138,12 +1156,12 @@
     },
     {
       "id": "hv75020167",
-      "magnitude": 1.9,
+      "magnitude": 1.3,
       "depth": 29,
-      "lat": 19.347,
-      "lon": -155.251,
+      "lat": 19.35,
+      "lon": -155.253,
       "place": "10 km S of Volcano, Hawaii",
-      "time": "2026-08-18T08:43:48.210Z"
+      "time": "2026-08-18T08:43:48.240Z"
     },
     {
       "id": "ci41529064",
@@ -2163,15 +2181,6 @@
       "time": "2026-08-17T23:31:14.680Z"
     },
     {
-      "id": "ci41528792",
-      "magnitude": 1.4,
-      "depth": -1,
-      "lat": 35.04,
-      "lon": -117.671,
-      "place": "5 km NNW of Boron, CA",
-      "time": "2026-08-17T23:30:41.550Z"
-    },
-    {
       "id": "hv75019887",
       "magnitude": 2,
       "depth": 29,
@@ -2328,10 +2337,10 @@
       "id": "hv75019857",
       "magnitude": 2,
       "depth": 29,
-      "lat": 19.355,
-      "lon": -155.244,
+      "lat": 19.357,
+      "lon": -155.239,
       "place": "9 km S of Volcano, Hawaii",
-      "time": "2026-08-17T22:00:45.410Z"
+      "time": "2026-08-17T22:00:45.440Z"
     },
     {
       "id": "av94390473",
@@ -2449,33 +2458,6 @@
       "lon": -96.024,
       "place": "1 km NNE of Wardville, Oklahoma",
       "time": "2026-08-17T20:12:54.229Z"
-    },
-    {
-      "id": "uw714080841",
-      "magnitude": 0.2,
-      "depth": -1,
-      "lat": 46.201,
-      "lon": -122.199,
-      "place": "37 km NNE of Amboy, Washington",
-      "time": "2026-08-17T19:54:09.280Z"
-    },
-    {
-      "id": "hv75019822",
-      "magnitude": 1.7,
-      "depth": 0,
-      "lat": 19.194,
-      "lon": -155.535,
-      "place": "5 km W of Pāhala, Hawaii",
-      "time": "2026-08-17T19:53:10.980Z"
-    },
-    {
-      "id": "usd0015efp",
-      "magnitude": 4.8,
-      "depth": 10,
-      "lat": 77.575,
-      "lon": 6.791,
-      "place": "219 km WSW of Longyearbyen, Svalbard and Jan Mayen",
-      "time": "2026-08-17T19:51:23.274Z"
     }
   ]
 }
