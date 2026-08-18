@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-18T11:58:34.445Z",
-  "count": 244,
+  "generated": "2026-08-18T12:39:55.382Z",
+  "count": 234,
   "events": [
+    {
+      "id": "nc75420567",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.833,
+      "lon": -122.796,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-18T12:29:30.110Z"
+    },
+    {
+      "id": "uw714081141",
+      "magnitude": 1.7,
+      "depth": 0,
+      "lat": 48.48,
+      "lon": -121.771,
+      "place": "6 km SSW of Concrete, Washington",
+      "time": "2026-08-18T12:01:01.770Z"
+    },
     {
       "id": "tx2026qfguhl",
       "magnitude": 1.9,
@@ -9,7 +27,7 @@
       "lat": 31.641,
       "lon": -104.454,
       "place": "59 km S of Whites City, New Mexico",
-      "time": "2026-08-18T11:48:59.924Z"
+      "time": "2026-08-18T11:48:59.923Z"
     },
     {
       "id": "nc75420557",
@@ -49,12 +67,12 @@
     },
     {
       "id": "tx2026qfffvn",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 31.749,
-      "lon": -101.923,
+      "magnitude": 0.6,
+      "depth": 4,
+      "lat": 31.742,
+      "lon": -101.943,
       "place": "31 km SSE of Midland, Texas",
-      "time": "2026-08-18T11:01:47.988Z"
+      "time": "2026-08-18T11:01:48.544Z"
     },
     {
       "id": "tx2026qffajf",
@@ -73,6 +91,15 @@
       "lon": -117.84,
       "place": "10 km E of Coso Junction, CA",
       "time": "2026-08-18T10:42:34.390Z"
+    },
+    {
+      "id": "us6000tlmq",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": 37.106,
+      "lon": -3.66,
+      "place": "1 km WSW of Alhendín, Spain",
+      "time": "2026-08-18T10:39:43.915Z"
     },
     {
       "id": "nc75420542",
@@ -316,15 +343,6 @@
       "lon": -116.319,
       "place": "14 km S of Joshua Tree, CA",
       "time": "2026-08-18T08:23:59.200Z"
-    },
-    {
-      "id": "tx2026qezueu",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 32.312,
-      "lon": -101.192,
-      "place": "10 km E of Coahoma, Texas",
-      "time": "2026-08-18T08:17:36.175Z"
     },
     {
       "id": "pr71528888",
@@ -766,6 +784,15 @@
       "lon": -153.24,
       "place": "20 km WSW of Aleneva, Alaska",
       "time": "2026-08-18T04:04:55.145Z"
+    },
+    {
+      "id": "tx2026qerfkc",
+      "magnitude": 1.2,
+      "depth": 1,
+      "lat": 30.945,
+      "lon": -103.255,
+      "place": "36 km W of Fort Stockton, Texas",
+      "time": "2026-08-18T04:00:40.553Z"
     },
     {
       "id": "nc75420422",
@@ -2080,123 +2107,6 @@
       "lon": 120.37,
       "place": "68 km N of Ruteng, Indonesia",
       "time": "2026-08-17T12:39:35.566Z"
-    },
-    {
-      "id": "usd0015edq",
-      "magnitude": 5.8,
-      "depth": 55,
-      "lat": 53.024,
-      "lon": 159.711,
-      "place": "72 km E of Petropavlovsk-Kamchatsky, Russia",
-      "time": "2026-08-17T12:38:03.466Z"
-    },
-    {
-      "id": "av93065914",
-      "magnitude": 0.4,
-      "depth": 20,
-      "lat": 53.37,
-      "lon": -168.135,
-      "place": "68 km NE of Nikolski, Alaska",
-      "time": "2026-08-17T12:36:53.900Z"
-    },
-    {
-      "id": "av93065909",
-      "magnitude": 0.6,
-      "depth": 20,
-      "lat": 53.334,
-      "lon": -168.14,
-      "place": "65 km NE of Nikolski, Alaska",
-      "time": "2026-08-17T12:35:21.190Z"
-    },
-    {
-      "id": "av93065904",
-      "magnitude": 0.1,
-      "depth": 20,
-      "lat": 53.331,
-      "lon": -168.149,
-      "place": "64 km NE of Nikolski, Alaska",
-      "time": "2026-08-17T12:34:44.050Z"
-    },
-    {
-      "id": "hv75019792",
-      "magnitude": 2.1,
-      "depth": 6,
-      "lat": 19.352,
-      "lon": -155.861,
-      "place": "11 km S of Honaunau-Napoopoo, Hawaii",
-      "time": "2026-08-17T12:30:54.360Z"
-    },
-    {
-      "id": "tx2026qdmgvn",
-      "magnitude": 0.1,
-      "depth": 7,
-      "lat": 32.35,
-      "lon": -102.094,
-      "place": "37 km NW of Stanton, Texas",
-      "time": "2026-08-17T12:25:20.374Z"
-    },
-    {
-      "id": "aka2026qgbqir",
-      "magnitude": 3.6,
-      "depth": 9,
-      "lat": 69.66,
-      "lon": -145.377,
-      "place": "85 km SW of Kaktovik, Alaska",
-      "time": "2026-08-17T12:18:20.553Z"
-    },
-    {
-      "id": "tx2026qdmams",
-      "magnitude": 2,
-      "depth": 10,
-      "lat": 31.543,
-      "lon": -104.145,
-      "place": "41 km NW of Toyah, Texas",
-      "time": "2026-08-17T12:17:50.832Z"
-    },
-    {
-      "id": "ci40674386",
-      "magnitude": 0.5,
-      "depth": 7,
-      "lat": 35.677,
-      "lon": -117.572,
-      "place": "11 km ENE of Ridgecrest, CA",
-      "time": "2026-08-17T12:15:08.200Z"
-    },
-    {
-      "id": "ci40674378",
-      "magnitude": 1.1,
-      "depth": 16,
-      "lat": 34.049,
-      "lon": -117.251,
-      "place": "1 km E of Loma Linda, CA",
-      "time": "2026-08-17T12:13:28.220Z"
-    },
-    {
-      "id": "tx2026qdlvdv",
-      "magnitude": 1.7,
-      "depth": 10,
-      "lat": 31.546,
-      "lon": -104.142,
-      "place": "41 km NW of Toyah, Texas",
-      "time": "2026-08-17T12:11:40.684Z"
-    },
-    {
-      "id": "uw714080481",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 48.53,
-      "lon": -122.062,
-      "place": "0 km N of Lyman, Washington",
-      "time": "2026-08-17T12:10:18.770Z"
-    },
-    {
-      "id": "ci40674370",
-      "magnitude": 2.5,
-      "depth": 7,
-      "lat": 34.534,
-      "lon": -120.487,
-      "place": "12 km SSW of Lompoc, CA",
-      "time": "2026-08-17T12:08:23.600Z"
     }
   ]
 }
