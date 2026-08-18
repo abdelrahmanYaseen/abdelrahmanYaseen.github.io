@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-18T10:02:17.091Z",
-  "count": 238,
+  "generated": "2026-08-18T10:44:26.323Z",
+  "count": 244,
   "events": [
+    {
+      "id": "nc75420542",
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 39.317,
+      "lon": -123.269,
+      "place": "8 km NW of Redwood Valley, CA",
+      "time": "2026-08-18T10:35:14.540Z"
+    },
+    {
+      "id": "ci41529112",
+      "magnitude": 1.7,
+      "depth": 11,
+      "lat": 34.111,
+      "lon": -118.239,
+      "place": "3 km NE of Silver Lake, CA",
+      "time": "2026-08-18T10:34:35.330Z"
+    },
+    {
+      "id": "uw714081131",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 48.673,
+      "lon": -124.908,
+      "place": "39 km NNW of Neah Bay, Washington",
+      "time": "2026-08-18T10:29:50.800Z"
+    },
+    {
+      "id": "hv75020202",
+      "magnitude": 2.1,
+      "depth": 31,
+      "lat": 19.33,
+      "lon": -155.235,
+      "place": "12 km S of Volcano, Hawaii",
+      "time": "2026-08-18T10:28:14.440Z"
+    },
+    {
+      "id": "ci41529096",
+      "magnitude": 0.6,
+      "depth": 18,
+      "lat": 33.696,
+      "lon": -116.708,
+      "place": "5 km SSE of Idyllwild, CA",
+      "time": "2026-08-18T10:24:51.330Z"
+    },
+    {
+      "id": "hv75020197",
+      "magnitude": 2.4,
+      "depth": 32,
+      "lat": 19.342,
+      "lon": -155.274,
+      "place": "11 km SSW of Volcano, Hawaii",
+      "time": "2026-08-18T10:09:19.440Z"
+    },
+    {
+      "id": "nc75420537",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 37.407,
+      "lon": -122.226,
+      "place": "3 km NNE of Portola Valley, CA",
+      "time": "2026-08-18T10:08:33.880Z"
+    },
+    {
+      "id": "hv75020192",
+      "magnitude": 2.2,
+      "depth": 42,
+      "lat": 19.427,
+      "lon": -155.577,
+      "place": "26 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-18T10:04:12.980Z"
+    },
     {
       "id": "ci41529088",
       "magnitude": 1.1,
@@ -28,6 +100,15 @@
       "lon": -154.865,
       "place": "40 km SW of Karluk, Alaska",
       "time": "2026-08-18T09:34:53.616Z"
+    },
+    {
+      "id": "us6000tlmc",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": 37.088,
+      "lon": -3.708,
+      "place": "5 km ENE of Escúzar, Spain",
+      "time": "2026-08-18T09:34:37.659Z"
     },
     {
       "id": "ci41529072",
@@ -64,6 +145,15 @@
       "lon": -161.454,
       "place": "93 km SE of King Cove, Alaska",
       "time": "2026-08-18T09:04:44.087Z"
+    },
+    {
+      "id": "us6000tlm6",
+      "magnitude": 4.5,
+      "depth": 130,
+      "lat": -24.743,
+      "lon": -177.126,
+      "place": "south of the Fiji Islands",
+      "time": "2026-08-18T09:02:35.424Z"
     },
     {
       "id": "aka2026qhrciw",
@@ -154,6 +244,15 @@
       "lon": -116.319,
       "place": "14 km S of Joshua Tree, CA",
       "time": "2026-08-18T08:23:59.200Z"
+    },
+    {
+      "id": "pr71528888",
+      "magnitude": 2.5,
+      "depth": 16,
+      "lat": 18.148,
+      "lon": -64.835,
+      "place": "20 km SSW of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-18T08:02:38.150Z"
     },
     {
       "id": "ci41529040",
@@ -471,6 +570,15 @@
       "time": "2026-08-18T05:01:32.990Z"
     },
     {
+      "id": "pr71528893",
+      "magnitude": 3,
+      "depth": 16,
+      "lat": 18.83,
+      "lon": -64.657,
+      "place": "57 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-18T04:49:46.630Z"
+    },
+    {
       "id": "hv75020032",
       "magnitude": 2.3,
       "depth": 1,
@@ -577,6 +685,15 @@
       "lon": -122.82,
       "place": "8 km NW of The Geysers, CA",
       "time": "2026-08-18T03:55:05.280Z"
+    },
+    {
+      "id": "pr71528873",
+      "magnitude": 2.4,
+      "depth": 15,
+      "lat": 18.38,
+      "lon": -67.333,
+      "place": "9 km WNW of Rincón, Puerto Rico",
+      "time": "2026-08-18T03:53:42.950Z"
     },
     {
       "id": "aka2026qhglnv",
@@ -2080,69 +2197,6 @@
       "lon": 120.432,
       "place": "75 km N of Ruteng, Indonesia",
       "time": "2026-08-17T10:44:49.886Z"
-    },
-    {
-      "id": "usd0015ed7",
-      "magnitude": 5.2,
-      "depth": 10,
-      "lat": -7.876,
-      "lon": 120.502,
-      "place": "81 km N of Ruteng, Indonesia",
-      "time": "2026-08-17T10:42:41.971Z"
-    },
-    {
-      "id": "nc75419972",
-      "magnitude": 1.3,
-      "depth": 7,
-      "lat": 36.941,
-      "lon": -121.431,
-      "place": "11 km NNW of Hollister, CA",
-      "time": "2026-08-17T10:34:53.900Z"
-    },
-    {
-      "id": "ci40674338",
-      "magnitude": 0.8,
-      "depth": 8,
-      "lat": 32.939,
-      "lon": -116.335,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-17T10:22:11.240Z"
-    },
-    {
-      "id": "ci40674330",
-      "magnitude": 0.5,
-      "depth": 5,
-      "lat": 34.129,
-      "lon": -117.475,
-      "place": "4 km NNW of Fontana, CA",
-      "time": "2026-08-17T10:15:50.390Z"
-    },
-    {
-      "id": "ci40674322",
-      "magnitude": 0.3,
-      "depth": 11,
-      "lat": 33.349,
-      "lon": -116.253,
-      "place": "15 km NE of Borrego Springs, CA",
-      "time": "2026-08-17T10:13:06.820Z"
-    },
-    {
-      "id": "uu80149101",
-      "magnitude": 1.5,
-      "depth": 4,
-      "lat": 44.386,
-      "lon": -110.669,
-      "place": "46 km SE of West Yellowstone, Montana",
-      "time": "2026-08-17T10:12:54.340Z"
-    },
-    {
-      "id": "tx2026qdhuob",
-      "magnitude": 1.2,
-      "depth": 8,
-      "lat": 32.058,
-      "lon": -103.707,
-      "place": "39 km ESE of Malaga, New Mexico",
-      "time": "2026-08-17T10:10:21.613Z"
     }
   ]
 }
