@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-19T11:39:42.930Z",
-  "count": 292,
+  "generated": "2026-08-19T11:58:07.359Z",
+  "count": 294,
   "events": [
+    {
+      "id": "ci41530064",
+      "magnitude": 0.7,
+      "depth": 14,
+      "lat": 33.488,
+      "lon": -116.468,
+      "place": "20 km ESE of Anza, CA",
+      "time": "2026-08-19T11:52:00.860Z"
+    },
+    {
+      "id": "nc75421207",
+      "magnitude": 0.8,
+      "depth": 0,
+      "lat": 38.78,
+      "lon": -122.746,
+      "place": "1 km ENE of The Geysers, CA",
+      "time": "2026-08-19T11:48:51.790Z"
+    },
+    {
+      "id": "hv75020692",
+      "magnitude": 2,
+      "depth": 30,
+      "lat": 19.358,
+      "lon": -155.247,
+      "place": "9 km S of Volcano, Hawaii",
+      "time": "2026-08-19T11:38:53.990Z"
+    },
+    {
+      "id": "nc75421202",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.818,
+      "lon": -122.823,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-19T11:38:13.570Z"
+    },
+    {
+      "id": "tx2026qhccwz",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 31.599,
+      "lon": -104.123,
+      "place": "44 km NW of Toyah, Texas",
+      "time": "2026-08-19T11:36:48.646Z"
+    },
     {
       "id": "nc75421197",
       "magnitude": 0.8,
@@ -2602,33 +2647,6 @@
       "lon": 120.633,
       "place": "72 km NNE of Ruteng, Indonesia",
       "time": "2026-08-18T12:00:13.955Z"
-    },
-    {
-      "id": "tx2026qfguhl",
-      "magnitude": 1.9,
-      "depth": 6,
-      "lat": 31.661,
-      "lon": -104.425,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": "2026-08-18T11:48:59.996Z"
-    },
-    {
-      "id": "aka2026qhwlsz",
-      "magnitude": 1.6,
-      "depth": 15,
-      "lat": 61.054,
-      "lon": -148.43,
-      "place": "34 km NNE of Whittier, Alaska",
-      "time": "2026-08-18T11:43:06.159Z"
-    },
-    {
-      "id": "nc75420557",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 38.787,
-      "lon": -122.77,
-      "place": "2 km NW of The Geysers, CA",
-      "time": "2026-08-18T11:42:29.440Z"
     }
   ]
 }
