@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-19T14:49:56.842Z",
-  "count": 290,
+  "generated": "2026-08-19T15:19:20.551Z",
+  "count": 292,
   "events": [
+    {
+      "id": "tx2026qhjart",
+      "magnitude": 1.7,
+      "depth": 7,
+      "lat": 31.666,
+      "lon": -104.365,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": "2026-08-19T15:05:27.840Z"
+    },
+    {
+      "id": "hv75020807",
+      "magnitude": 2,
+      "depth": 44,
+      "lat": 20.015,
+      "lon": -155.432,
+      "place": "7 km WSW of Pa‘auilo, Hawaii",
+      "time": "2026-08-19T14:48:26.840Z"
+    },
+    {
+      "id": "ci41530200",
+      "magnitude": 0.9,
+      "depth": 15,
+      "lat": 33.873,
+      "lon": -116.841,
+      "place": "7 km SSE of Banning, CA",
+      "time": "2026-08-19T14:47:02.410Z"
+    },
     {
       "id": "ci41530192",
       "magnitude": 1.1,
@@ -59,11 +86,20 @@
     {
       "id": "tx2026qhhbhp",
       "magnitude": 1.8,
-      "depth": 5,
-      "lat": 31.637,
-      "lon": -104.372,
-      "place": "59 km S of Whites City, New Mexico",
-      "time": "2026-08-19T14:06:06.207Z"
+      "depth": 6,
+      "lat": 31.667,
+      "lon": -104.364,
+      "place": "56 km S of Whites City, New Mexico",
+      "time": "2026-08-19T14:06:06.395Z"
+    },
+    {
+      "id": "pr71529018",
+      "magnitude": 3.2,
+      "depth": 54,
+      "lat": 18.699,
+      "lon": -64.668,
+      "place": "42 km NNE of Cruz Bay, U.S. Virgin Islands",
+      "time": "2026-08-19T14:04:37.890Z"
     },
     {
       "id": "aka2026qjxeat",
@@ -136,15 +172,6 @@
       "lon": -116.499,
       "place": "13 km WSW of Borrego Springs, CA",
       "time": "2026-08-19T13:35:41.630Z"
-    },
-    {
-      "id": "tx2026qhfvdt",
-      "magnitude": 1.5,
-      "depth": 8,
-      "lat": 31.559,
-      "lon": -102.373,
-      "place": "18 km N of Crane, Texas",
-      "time": "2026-08-19T13:28:31.225Z"
     },
     {
       "id": "nn00923510",
@@ -787,12 +814,12 @@
     },
     {
       "id": "ci41529896",
-      "magnitude": 3.5,
-      "depth": 4,
+      "magnitude": 3.6,
+      "depth": 5,
       "lat": 33.406,
-      "lon": -116.655,
+      "lon": -116.652,
       "place": "14 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:31:35.970Z"
+      "time": "2026-08-19T07:31:35.950Z"
     },
     {
       "id": "tx2026qgszdv",
@@ -829,6 +856,24 @@
       "lon": -122.826,
       "place": "7 km WNW of The Geysers, CA",
       "time": "2026-08-19T06:39:25.620Z"
+    },
+    {
+      "id": "uu80007873",
+      "magnitude": 0.3,
+      "depth": 14,
+      "lat": 44.751,
+      "lon": -111.168,
+      "place": "2 km SE of Hebgen Lake Estates, Montana",
+      "time": "2026-08-19T06:38:53.950Z"
+    },
+    {
+      "id": "uu80149336",
+      "magnitude": 0.5,
+      "depth": 13,
+      "lat": 44.749,
+      "lon": -111.165,
+      "place": "3 km SE of Hebgen Lake Estates, Montana",
+      "time": "2026-08-19T06:37:59.750Z"
     },
     {
       "id": "ci41529888",
@@ -876,6 +921,15 @@
       "time": "2026-08-19T06:19:44.900Z"
     },
     {
+      "id": "uu80149326",
+      "magnitude": 1.4,
+      "depth": 2,
+      "lat": 38.516,
+      "lon": -112.891,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-19T06:19:21.210Z"
+    },
+    {
       "id": "us6000tltz",
       "magnitude": 2.9,
       "depth": 10,
@@ -901,6 +955,15 @@
       "lon": -122.838,
       "place": "10 km NW of The Geysers, CA",
       "time": "2026-08-19T05:40:03.080Z"
+    },
+    {
+      "id": "uu80149321",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.509,
+      "lon": -112.887,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-19T05:37:50.470Z"
     },
     {
       "id": "nc75421072",
@@ -957,6 +1020,15 @@
       "time": "2026-08-19T05:19:41.770Z"
     },
     {
+      "id": "uu80149316",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.506,
+      "lon": -112.885,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-19T05:15:15.290Z"
+    },
+    {
       "id": "nn00923493",
       "magnitude": 1.6,
       "depth": 6,
@@ -982,6 +1054,15 @@
       "lon": -117.415,
       "place": "21 km S of Trona, CA",
       "time": "2026-08-19T05:05:43.480Z"
+    },
+    {
+      "id": "uu80149311",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.518,
+      "lon": -112.885,
+      "place": "17 km NE of Milford, Utah",
+      "time": "2026-08-19T05:03:19.460Z"
     },
     {
       "id": "nn00923492",
@@ -1018,6 +1099,15 @@
       "lon": -155.478,
       "place": "1 km S of Pāhala, Hawaii",
       "time": "2026-08-19T04:32:03.270Z"
+    },
+    {
+      "id": "uu80149306",
+      "magnitude": 0.9,
+      "depth": 11,
+      "lat": 41.033,
+      "lon": -111.601,
+      "place": "6 km E of Morgan, Utah",
+      "time": "2026-08-19T04:27:13.020Z"
     },
     {
       "id": "us6000tlta",
@@ -1911,15 +2001,6 @@
       "time": "2026-08-18T20:41:40.710Z"
     },
     {
-      "id": "tx2026qfykgm",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 31.525,
-      "lon": -104.145,
-      "place": "40 km NW of Toyah, Texas",
-      "time": "2026-08-18T20:40:12.077Z"
-    },
-    {
       "id": "tx2026qfyjyd",
       "magnitude": 1.3,
       "depth": 4,
@@ -2012,11 +2093,11 @@
     {
       "id": "tx2026qfxcvh",
       "magnitude": 1.6,
-      "depth": 4,
-      "lat": 31.61,
-      "lon": -104.112,
+      "depth": 7,
+      "lat": 31.613,
+      "lon": -104.1,
       "place": "44 km NW of Toyah, Texas",
-      "time": "2026-08-18T20:04:14.767Z"
+      "time": "2026-08-18T20:04:14.532Z"
     },
     {
       "id": "us6000tlqq",
@@ -2048,11 +2129,11 @@
     {
       "id": "tx2026qfwcys",
       "magnitude": 1.6,
-      "depth": 4,
-      "lat": 31.522,
-      "lon": -104.153,
-      "place": "41 km NW of Toyah, Texas",
-      "time": "2026-08-18T19:31:39.992Z"
+      "depth": 9,
+      "lat": 31.539,
+      "lon": -104.127,
+      "place": "40 km NW of Toyah, Texas",
+      "time": "2026-08-18T19:31:40.181Z"
     },
     {
       "id": "tx2026qfwbcd",
@@ -2548,69 +2629,6 @@
       "lon": -117.219,
       "place": "5 km SE of Loma Linda, CA",
       "time": "2026-08-18T15:20:34.570Z"
-    },
-    {
-      "id": "nn00923444",
-      "magnitude": 1.6,
-      "depth": 0,
-      "lat": 38.444,
-      "lon": -116.542,
-      "place": "73 km NE of Tonopah, Nevada",
-      "time": "2026-08-18T15:16:35.660Z"
-    },
-    {
-      "id": "nn00923442",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 38.434,
-      "lon": -116.513,
-      "place": "74 km ENE of Tonopah, Nevada",
-      "time": "2026-08-18T15:14:11.096Z"
-    },
-    {
-      "id": "nn00923438",
-      "magnitude": 2.8,
-      "depth": 6,
-      "lat": 38.442,
-      "lon": -116.512,
-      "place": "75 km ENE of Tonopah, Nevada",
-      "time": "2026-08-18T15:12:03.666Z"
-    },
-    {
-      "id": "aka2026qidjpa",
-      "magnitude": 1.7,
-      "depth": 9,
-      "lat": 62.186,
-      "lon": -150.115,
-      "place": "14 km W of Susitna North, Alaska",
-      "time": "2026-08-18T15:10:28.435Z"
-    },
-    {
-      "id": "aka2026qidgvf",
-      "magnitude": 2.1,
-      "depth": 6,
-      "lat": 55.38,
-      "lon": -159.625,
-      "place": "55 km E of Sand Point, Alaska",
-      "time": "2026-08-18T15:07:16.568Z"
-    },
-    {
-      "id": "ci41529240",
-      "magnitude": 0.7,
-      "depth": 17,
-      "lat": 33.697,
-      "lon": -116.709,
-      "place": "5 km S of Idyllwild, CA",
-      "time": "2026-08-18T15:01:11.330Z"
-    },
-    {
-      "id": "nc75420632",
-      "magnitude": 2.7,
-      "depth": 1,
-      "lat": 40.364,
-      "lon": -124.989,
-      "place": "60 km W of Petrolia, CA",
-      "time": "2026-08-18T14:59:46.750Z"
     }
   ]
 }
