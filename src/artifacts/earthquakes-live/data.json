@@ -1,15 +1,69 @@
 {
-  "generated": "2026-08-19T20:44:22.441Z",
-  "count": 330,
+  "generated": "2026-08-19T21:03:19.995Z",
+  "count": 334,
   "events": [
     {
-      "id": "ci41530584",
+      "id": "nn00923531",
+      "magnitude": 2.7,
+      "depth": 16,
+      "lat": 36.314,
+      "lon": -114.533,
+      "place": "30 km S of Moapa Valley, Nevada",
+      "time": "2026-08-19T20:57:18.391Z"
+    },
+    {
+      "id": "nc75421457",
+      "magnitude": 1.3,
+      "depth": 6,
+      "lat": 35.545,
+      "lon": -120.781,
+      "place": "7 km W of Templeton, CA",
+      "time": "2026-08-19T20:52:48.310Z"
+    },
+    {
+      "id": "nc75421452",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.826,
+      "lon": -122.856,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": "2026-08-19T20:52:26.990Z"
+    },
+    {
+      "id": "ci41530600",
       "magnitude": 1.1,
-      "depth": -1,
-      "lat": 35.05,
-      "lon": -118.322,
-      "place": "14 km W of Mojave, CA",
-      "time": "2026-08-19T20:35:36.130Z"
+      "depth": 7,
+      "lat": 35.312,
+      "lon": -117.798,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": "2026-08-19T20:52:10.240Z"
+    },
+    {
+      "id": "ci41530592",
+      "magnitude": 1.3,
+      "depth": 16,
+      "lat": 34.022,
+      "lon": -117.227,
+      "place": "4 km SE of Loma Linda, CA",
+      "time": "2026-08-19T20:50:35.710Z"
+    },
+    {
+      "id": "aka2026qkkqrs",
+      "magnitude": 2.2,
+      "depth": 5,
+      "lat": 63.307,
+      "lon": -151.671,
+      "place": "26 km S of Denali National Park, Alaska",
+      "time": "2026-08-19T20:47:41.379Z"
+    },
+    {
+      "id": "nn00923529",
+      "magnitude": 2,
+      "depth": 2,
+      "lat": 38.395,
+      "lon": -116.583,
+      "place": "67 km ENE of Tonopah, Nevada",
+      "time": "2026-08-19T20:44:32.198Z"
     },
     {
       "id": "nc75421447",
@@ -343,6 +397,15 @@
       "lon": -117.722,
       "place": "7 km N of Claremont, CA",
       "time": "2026-08-19T17:51:47.950Z"
+    },
+    {
+      "id": "us6000tlym",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 34.201,
+      "lon": 46.316,
+      "place": "50 km SE of Sarpol-e Z̄ahāb, Iran",
+      "time": "2026-08-19T17:36:14.158Z"
     },
     {
       "id": "aka2026qkdwfo",
@@ -2944,33 +3007,6 @@
       "lon": -173.391,
       "place": "109 km SSE of Atka, Alaska",
       "time": "2026-08-18T21:06:17.607Z"
-    },
-    {
-      "id": "aka2026qioxsy",
-      "magnitude": 2.9,
-      "depth": 38,
-      "lat": 61.332,
-      "lon": -150.11,
-      "place": "7 km WSW of Point MacKenzie, Alaska",
-      "time": "2026-08-18T20:56:40.138Z"
-    },
-    {
-      "id": "aka2026qiovlq",
-      "magnitude": 2,
-      "depth": 4,
-      "lat": 63.577,
-      "lon": -150.649,
-      "place": "53 km E of Denali National Park, Alaska",
-      "time": "2026-08-18T20:54:00.570Z"
-    },
-    {
-      "id": "aka2026qiopfk",
-      "magnitude": 2.8,
-      "depth": 10,
-      "lat": 52.147,
-      "lon": -172.036,
-      "place": "148 km E of Atka, Alaska",
-      "time": "2026-08-18T20:46:24.164Z"
     }
   ]
 }
