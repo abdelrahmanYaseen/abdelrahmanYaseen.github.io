@@ -1,15 +1,60 @@
 {
-  "generated": "2026-08-19T17:46:32.335Z",
-  "count": 313,
+  "generated": "2026-08-19T18:16:28.469Z",
+  "count": 326,
   "events": [
     {
+      "id": "ci41530416",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 35.362,
+      "lon": -117.791,
+      "place": "14 km W of Johannesburg, CA",
+      "time": "2026-08-19T18:03:20.100Z"
+    },
+    {
+      "id": "nc75421337",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 38.796,
+      "lon": -122.774,
+      "place": "3 km NW of The Geysers, CA",
+      "time": "2026-08-19T18:02:46.940Z"
+    },
+    {
+      "id": "ci41530408",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 32.903,
+      "lon": -116.941,
+      "place": "5 km NNW of Lakeside, CA",
+      "time": "2026-08-19T17:58:28.590Z"
+    },
+    {
+      "id": "ci41530400",
+      "magnitude": 1.6,
+      "depth": 10,
+      "lat": 34.157,
+      "lon": -117.73,
+      "place": "7 km N of Claremont, CA",
+      "time": "2026-08-19T17:51:47.950Z"
+    },
+    {
+      "id": "tx2026qholzd",
+      "magnitude": 1.7,
+      "depth": 10,
+      "lat": 32.394,
+      "lon": -101.951,
+      "place": "26 km WSW of Ackerly, Texas",
+      "time": "2026-08-19T17:49:28.034Z"
+    },
+    {
       "id": "aka2026qkdwfo",
-      "magnitude": 2.1,
-      "depth": 108,
-      "lat": 62.151,
-      "lon": -151.979,
-      "place": "35 km WNW of Skwentna, Alaska",
-      "time": "2026-08-19T17:24:18.723Z"
+      "magnitude": 2.3,
+      "depth": 107,
+      "lat": 62.161,
+      "lon": -152.041,
+      "place": "38 km WNW of Skwentna, Alaska",
+      "time": "2026-08-19T17:24:18.805Z"
     },
     {
       "id": "nc75421307",
@@ -22,12 +67,39 @@
     },
     {
       "id": "aka2026qkdqtt",
-      "magnitude": 2.2,
+      "magnitude": 2.7,
       "depth": 88,
-      "lat": 57.909,
-      "lon": -155.032,
-      "place": "51 km NW of Karluk, Alaska",
-      "time": "2026-08-19T17:18:04.392Z"
+      "lat": 57.906,
+      "lon": -154.991,
+      "place": "49 km NW of Karluk, Alaska",
+      "time": "2026-08-19T17:18:04.362Z"
+    },
+    {
+      "id": "uu80149421",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.505,
+      "lon": -112.895,
+      "place": "15 km NE of Milford, Utah",
+      "time": "2026-08-19T17:15:19.570Z"
+    },
+    {
+      "id": "aka2026qkdmvi",
+      "magnitude": 1.2,
+      "depth": 62,
+      "lat": 57.725,
+      "lon": -154.739,
+      "place": "24 km NW of Karluk, Alaska",
+      "time": "2026-08-19T17:13:30.012Z"
+    },
+    {
+      "id": "uu80149416",
+      "magnitude": 1.8,
+      "depth": 3,
+      "lat": 38.511,
+      "lon": -112.891,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-19T17:13:08.450Z"
     },
     {
       "id": "hv75020857",
@@ -37,6 +109,33 @@
       "lon": -155.352,
       "place": "13 km E of Pāhala, Hawaii",
       "time": "2026-08-19T17:05:10.270Z"
+    },
+    {
+      "id": "aka2026qkctsk",
+      "magnitude": 1.5,
+      "depth": 83,
+      "lat": 58.568,
+      "lon": -153.744,
+      "place": "74 km NW of Aleneva, Alaska",
+      "time": "2026-08-19T16:51:36.946Z"
+    },
+    {
+      "id": "aka2026qkcrxb",
+      "magnitude": 3.9,
+      "depth": 120,
+      "lat": 51.726,
+      "lon": 178.919,
+      "place": "Rat Islands, Aleutian Islands, Alaska",
+      "time": "2026-08-19T16:49:43.559Z"
+    },
+    {
+      "id": "aka2026qkclrt",
+      "magnitude": 1.7,
+      "depth": 61,
+      "lat": 53.838,
+      "lon": -165.306,
+      "place": "45 km SE of Akutan, Alaska",
+      "time": "2026-08-19T16:42:12.231Z"
     },
     {
       "id": "uu80149411",
@@ -58,12 +157,21 @@
     },
     {
       "id": "aka2026qkbnof",
-      "magnitude": 2,
-      "depth": 5,
-      "lat": 57.051,
-      "lon": -156.714,
-      "place": "65 km SE of Ugashik, Alaska",
-      "time": "2026-08-19T16:14:21.799Z"
+      "magnitude": 1.9,
+      "depth": 2,
+      "lat": 57.079,
+      "lon": -156.761,
+      "place": "61 km SE of Ugashik, Alaska",
+      "time": "2026-08-19T16:14:22.130Z"
+    },
+    {
+      "id": "aka2026qkbnix",
+      "magnitude": 1.5,
+      "depth": 53,
+      "lat": 61.627,
+      "lon": -149.808,
+      "place": "0 km SE of Houston, Alaska",
+      "time": "2026-08-19T16:14:08.266Z"
     },
     {
       "id": "nc75421282",
@@ -129,6 +237,15 @@
       "time": "2026-08-19T15:50:53.710Z"
     },
     {
+      "id": "aka2026qkaokz",
+      "magnitude": 2.2,
+      "depth": 64,
+      "lat": 51.575,
+      "lon": 179.776,
+      "place": "250 km W of Adak, Alaska",
+      "time": "2026-08-19T15:45:22.317Z"
+    },
+    {
       "id": "ci41530272",
       "magnitude": 0.9,
       "depth": 6,
@@ -148,12 +265,12 @@
     },
     {
       "id": "aka2026qkagts",
-      "magnitude": 1.1,
-      "depth": 5,
-      "lat": 58.917,
-      "lon": -153.842,
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 58.915,
+      "lon": -153.847,
       "place": "78 km SE of Kokhanok, Alaska",
-      "time": "2026-08-19T15:36:33.511Z"
+      "time": "2026-08-19T15:36:33.257Z"
     },
     {
       "id": "tx2026qhjytn",
@@ -373,12 +490,12 @@
     },
     {
       "id": "ci41530120",
-      "magnitude": 1.8,
-      "depth": 13,
-      "lat": 33.205,
-      "lon": -116.499,
-      "place": "13 km WSW of Borrego Springs, CA",
-      "time": "2026-08-19T13:35:41.630Z"
+      "magnitude": 0.2,
+      "depth": 7,
+      "lat": 33.417,
+      "lon": -116.642,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-19T13:35:45.610Z"
     },
     {
       "id": "uu80149396",
@@ -543,13 +660,22 @@
       "time": "2026-08-19T12:02:30.790Z"
     },
     {
+      "id": "ci10248862",
+      "magnitude": 0.4,
+      "depth": 18,
+      "lat": 33.503,
+      "lon": -116.471,
+      "place": "20 km ESE of Anza, CA",
+      "time": "2026-08-19T11:52:04.250Z"
+    },
+    {
       "id": "ci41530064",
       "magnitude": 0.7,
-      "depth": 14,
-      "lat": 33.488,
-      "lon": -116.468,
+      "depth": 15,
+      "lat": 33.487,
+      "lon": -116.47,
       "place": "20 km ESE of Anza, CA",
-      "time": "2026-08-19T11:52:00.860Z"
+      "time": "2026-08-19T11:52:00.730Z"
     },
     {
       "id": "aka2026qjsrrz",
@@ -796,12 +922,12 @@
     },
     {
       "id": "tx2026qgzoxd",
-      "magnitude": 1.9,
-      "depth": 3,
-      "lat": 31.99,
-      "lon": -103.234,
-      "place": "14 km SSW of Jal, New Mexico",
-      "time": "2026-08-19T10:20:23.962Z"
+      "magnitude": 2,
+      "depth": 7,
+      "lat": 32.007,
+      "lon": -103.229,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-08-19T10:20:23.400Z"
     },
     {
       "id": "ci41530024",
@@ -1219,12 +1345,12 @@
     },
     {
       "id": "ci41529904",
-      "magnitude": 1.9,
-      "depth": 8,
-      "lat": 33.419,
+      "magnitude": 0.4,
+      "depth": 7,
+      "lat": 33.417,
       "lon": -116.64,
       "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:34:36.570Z"
+      "time": "2026-08-19T07:34:36.530Z"
     },
     {
       "id": "aka2026qjkevl",
@@ -2217,6 +2343,15 @@
       "time": "2026-08-18T23:34:57.360Z"
     },
     {
+      "id": "uw714081961",
+      "magnitude": 0.7,
+      "depth": 22,
+      "lat": 46.189,
+      "lon": -123.11,
+      "place": "8 km WNW of West Longview, Washington",
+      "time": "2026-08-18T23:31:25.320Z"
+    },
+    {
       "id": "nc75420907",
       "magnitude": 0.9,
       "depth": 2,
@@ -2505,6 +2640,15 @@
       "time": "2026-08-18T20:46:24.164Z"
     },
     {
+      "id": "tx2026qfylzr",
+      "magnitude": 0.7,
+      "depth": 7,
+      "lat": 31.958,
+      "lon": -101.995,
+      "place": "8 km ESE of Midland, Texas",
+      "time": "2026-08-18T20:42:20.004Z"
+    },
+    {
       "id": "nc75420807",
       "magnitude": 0.8,
       "depth": 2,
@@ -2791,33 +2935,6 @@
       "lon": -122.224,
       "place": "3 km SE of Woodside, CA",
       "time": "2026-08-18T18:18:38.330Z"
-    },
-    {
-      "id": "ci41529440",
-      "magnitude": 0.5,
-      "depth": 14,
-      "lat": 33.586,
-      "lon": -116.641,
-      "place": "5 km NE of Anza, CA",
-      "time": "2026-08-18T18:11:13.360Z"
-    },
-    {
-      "id": "nn00923448",
-      "magnitude": 2.5,
-      "depth": 7,
-      "lat": 39.334,
-      "lon": -119.013,
-      "place": "20 km ESE of Silver Springs, Nevada",
-      "time": "2026-08-18T18:00:14.145Z"
-    },
-    {
-      "id": "aka2026qiiztv",
-      "magnitude": 2.8,
-      "depth": 14,
-      "lat": 51.107,
-      "lon": -179.628,
-      "place": "224 km WSW of Adak, Alaska",
-      "time": "2026-08-18T17:59:02.797Z"
     }
   ]
 }
