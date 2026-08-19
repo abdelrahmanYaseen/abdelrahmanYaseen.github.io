@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-19T18:59:05.622Z",
-  "count": 329,
+  "generated": "2026-08-19T19:22:55.485Z",
+  "count": 325,
   "events": [
+    {
+      "id": "ci41530480",
+      "magnitude": 1.4,
+      "depth": 2,
+      "lat": 33.863,
+      "lon": -117.506,
+      "place": "2 km SE of Home Gardens, CA",
+      "time": "2026-08-19T19:02:55.850Z"
+    },
+    {
+      "id": "nc75421377",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 38.806,
+      "lon": -122.82,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": "2026-08-19T19:01:28.980Z"
+    },
     {
       "id": "aka2026qkgxuf",
       "magnitude": 1.6,
@@ -21,6 +39,15 @@
       "time": "2026-08-19T18:51:29.060Z"
     },
     {
+      "id": "us6000tlz8",
+      "magnitude": 5.4,
+      "depth": 557,
+      "lat": -17.805,
+      "lon": -178.664,
+      "place": "215 km E of Levuka, Fiji",
+      "time": "2026-08-19T18:45:29.754Z"
+    },
+    {
       "id": "ci41530456",
       "magnitude": 1.5,
       "depth": 4,
@@ -31,12 +58,12 @@
     },
     {
       "id": "nn00923520",
-      "magnitude": 2.3,
-      "depth": 16,
-      "lat": 38.461,
-      "lon": -116.539,
-      "place": "74 km NE of Tonopah, Nevada",
-      "time": "2026-08-19T18:43:09.203Z"
+      "magnitude": 1.7,
+      "depth": 6,
+      "lat": 38.438,
+      "lon": -116.509,
+      "place": "75 km ENE of Tonopah, Nevada",
+      "time": "2026-08-19T18:43:08.627Z"
     },
     {
       "id": "aka2026qkggsv",
@@ -337,12 +364,12 @@
     },
     {
       "id": "ci41530264",
-      "magnitude": 0.5,
+      "magnitude": 0.2,
       "depth": 7,
       "lat": 33.421,
-      "lon": -116.638,
+      "lon": -116.64,
       "place": "15 km SSE of Anza, CA",
-      "time": "2026-08-19T15:38:39.610Z"
+      "time": "2026-08-19T15:38:39.510Z"
     },
     {
       "id": "aka2026qkagts",
@@ -373,12 +400,12 @@
     },
     {
       "id": "ci41530232",
-      "magnitude": 1.2,
-      "depth": 13,
-      "lat": 33.489,
-      "lon": -116.481,
+      "magnitude": 1.3,
+      "depth": 12,
+      "lat": 33.488,
+      "lon": -116.485,
       "place": "19 km ESE of Anza, CA",
-      "time": "2026-08-19T15:17:59.660Z"
+      "time": "2026-08-19T15:17:59.670Z"
     },
     {
       "id": "aka2026qjzlbq",
@@ -445,12 +472,12 @@
     },
     {
       "id": "ci41530176",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 32.749,
-      "lon": -116.081,
-      "place": "8 km W of Ocotillo, CA",
-      "time": "2026-08-19T14:34:06.860Z"
+      "magnitude": 1.1,
+      "depth": 10,
+      "lat": 32.756,
+      "lon": -115.984,
+      "place": "2 km NNE of Ocotillo, CA",
+      "time": "2026-08-19T14:34:05.470Z"
     },
     {
       "id": "us6000tlvn",
@@ -1086,10 +1113,10 @@
       "id": "ci41530008",
       "magnitude": 0.8,
       "depth": 2,
-      "lat": 33.818,
-      "lon": -115.784,
-      "place": "35 km NNE of North Shore, CA",
-      "time": "2026-08-19T09:34:38.470Z"
+      "lat": 33.822,
+      "lon": -115.781,
+      "place": "36 km NNE of North Shore, CA",
+      "time": "2026-08-19T09:34:38.390Z"
     },
     {
       "id": "nc75421152",
@@ -1139,9 +1166,9 @@
     {
       "id": "ci41530000",
       "magnitude": 1.3,
-      "depth": 13,
+      "depth": 12,
       "lat": 34.227,
-      "lon": -117.435,
+      "lon": -117.436,
       "place": "3 km W of Devore, CA",
       "time": "2026-08-19T09:19:19.190Z"
     },
@@ -1912,12 +1939,12 @@
     },
     {
       "id": "uw714082051",
-      "magnitude": 1.7,
-      "depth": 15,
-      "lat": 47.999,
-      "lon": -121.911,
-      "place": "2 km NE of Lake Roesiger, Washington",
-      "time": "2026-08-19T03:38:29.660Z"
+      "magnitude": 1.3,
+      "depth": 16,
+      "lat": 48.001,
+      "lon": -121.889,
+      "place": "3 km ENE of Lake Roesiger, Washington",
+      "time": "2026-08-19T03:38:29.630Z"
     },
     {
       "id": "us6000tlt9",
@@ -2899,69 +2926,6 @@
       "lon": -155.256,
       "place": "82 km NW of Karluk, Alaska",
       "time": "2026-08-18T19:26:04.440Z"
-    },
-    {
-      "id": "uu80149221",
-      "magnitude": 1.8,
-      "depth": 6,
-      "lat": 42.377,
-      "lon": -111.413,
-      "place": "7 km WSW of Bennington, Idaho",
-      "time": "2026-08-18T19:22:22.070Z"
-    },
-    {
-      "id": "aka2026qilqer",
-      "magnitude": 2.4,
-      "depth": 10,
-      "lat": 54.502,
-      "lon": -160.398,
-      "place": "93 km S of Sand Point, Alaska",
-      "time": "2026-08-18T19:17:59.522Z"
-    },
-    {
-      "id": "ci41529504",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 35.925,
-      "lon": -117.713,
-      "place": "17 km E of Little Lake, CA",
-      "time": "2026-08-18T19:17:25.780Z"
-    },
-    {
-      "id": "ci41529496",
-      "magnitude": 0.9,
-      "depth": 12,
-      "lat": 33.29,
-      "lon": -116.745,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-18T19:13:16.810Z"
-    },
-    {
-      "id": "aka2026qildly",
-      "magnitude": 2.9,
-      "depth": 49,
-      "lat": 60.762,
-      "lon": -150.174,
-      "place": "33 km ESE of Point Possession, Alaska",
-      "time": "2026-08-18T19:03:12.652Z"
-    },
-    {
-      "id": "us6000tlqk",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": -8.294,
-      "lon": 121.243,
-      "place": "76 km NW of Ende, Indonesia",
-      "time": "2026-08-18T19:03:07.854Z"
-    },
-    {
-      "id": "uu80149211",
-      "magnitude": 0.9,
-      "depth": 4,
-      "lat": 44.343,
-      "lon": -110.579,
-      "place": "54 km SE of West Yellowstone, Montana",
-      "time": "2026-08-18T19:01:51.700Z"
     }
   ]
 }
