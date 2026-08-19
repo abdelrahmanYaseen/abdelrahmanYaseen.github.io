@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-19T07:02:00.202Z",
-  "count": 298,
+  "generated": "2026-08-19T07:50:44.725Z",
+  "count": 296,
   "events": [
+    {
+      "id": "ci41529912",
+      "magnitude": 0.4,
+      "depth": 7,
+      "lat": 33.419,
+      "lon": -116.641,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-19T07:46:09.150Z"
+    },
+    {
+      "id": "ci41529904",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 33.419,
+      "lon": -116.64,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-19T07:34:36.570Z"
+    },
+    {
+      "id": "ci41529896",
+      "magnitude": 3.5,
+      "depth": 4,
+      "lat": 33.406,
+      "lon": -116.655,
+      "place": "14 km N of Warner Springs, CA",
+      "time": "2026-08-19T07:31:35.970Z"
+    },
+    {
+      "id": "tx2026qgszdv",
+      "magnitude": 2.5,
+      "depth": 3,
+      "lat": 32.006,
+      "lon": -103.242,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-08-19T07:01:05.817Z"
+    },
+    {
+      "id": "nn00923495",
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 38.589,
+      "lon": -116.272,
+      "place": "97 km SE of Kingston, Nevada",
+      "time": "2026-08-19T07:00:21.682Z"
+    },
     {
       "id": "nc75421087",
       "magnitude": 1.3,
@@ -282,15 +327,6 @@
       "time": "2026-08-19T03:09:39.178Z"
     },
     {
-      "id": "tx2026qgleeu",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 31.579,
-      "lon": -104.185,
-      "place": "47 km NW of Toyah, Texas",
-      "time": "2026-08-19T03:06:02.734Z"
-    },
-    {
       "id": "nc75421027",
       "magnitude": 1.5,
       "depth": 2,
@@ -311,11 +347,11 @@
     {
       "id": "tx2026qgkvpp",
       "magnitude": 1.5,
-      "depth": 3,
-      "lat": 31.993,
-      "lon": -103.229,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": "2026-08-19T02:55:26.601Z"
+      "depth": 6,
+      "lat": 32.011,
+      "lon": -103.231,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": "2026-08-19T02:55:25.921Z"
     },
     {
       "id": "nc75421022",
@@ -460,6 +496,15 @@
       "lon": -122.507,
       "place": "4 km NNW of Pacifica, CA",
       "time": "2026-08-19T01:42:19.250Z"
+    },
+    {
+      "id": "tx2026qgijdu",
+      "magnitude": 1,
+      "depth": 7,
+      "lat": 32.008,
+      "lon": -103.231,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-08-19T01:40:41.164Z"
     },
     {
       "id": "aka2026qiyeoy",
@@ -2620,69 +2665,6 @@
       "lon": -122.858,
       "place": "10 km WNW of The Geysers, CA",
       "time": "2026-08-18T07:51:46.880Z"
-    },
-    {
-      "id": "aka2026qhopyy",
-      "magnitude": 2.9,
-      "depth": 34,
-      "lat": 56.585,
-      "lon": -153.987,
-      "place": "41 km SSE of Akhiok, Alaska",
-      "time": "2026-08-18T07:48:02.428Z"
-    },
-    {
-      "id": "ci41529032",
-      "magnitude": 0.8,
-      "depth": 17,
-      "lat": 34.011,
-      "lon": -116.929,
-      "place": "10 km NNE of Beaumont, CA",
-      "time": "2026-08-18T07:41:01.030Z"
-    },
-    {
-      "id": "nc75420487",
-      "magnitude": 2.5,
-      "depth": 10,
-      "lat": 36.054,
-      "lon": -120.177,
-      "place": "7 km NW of Avenal, CA",
-      "time": "2026-08-18T07:34:58.310Z"
-    },
-    {
-      "id": "aka2026qhnzdb",
-      "magnitude": 1.9,
-      "depth": 51,
-      "lat": 60.435,
-      "lon": -150.246,
-      "place": "23 km WSW of Cooper Landing, Alaska",
-      "time": "2026-08-18T07:28:46.198Z"
-    },
-    {
-      "id": "ci41529016",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 36.069,
-      "lon": -117.857,
-      "place": "9 km ENE of Coso Junction, CA",
-      "time": "2026-08-18T07:17:38.210Z"
-    },
-    {
-      "id": "aka2026qhnoxx",
-      "magnitude": 2.9,
-      "depth": 20,
-      "lat": 51.561,
-      "lon": -174.932,
-      "place": "86 km SW of Atka, Alaska",
-      "time": "2026-08-18T07:16:48.146Z"
-    },
-    {
-      "id": "aka2026qhnllv",
-      "magnitude": 2,
-      "depth": 22,
-      "lat": 60.318,
-      "lon": -147.209,
-      "place": "52 km ENE of Chenega, Alaska",
-      "time": "2026-08-18T07:12:51.645Z"
     }
   ]
 }
