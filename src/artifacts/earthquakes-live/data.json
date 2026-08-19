@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-19T12:38:03.625Z",
-  "count": 292,
+  "generated": "2026-08-19T13:28:44.618Z",
+  "count": 290,
   "events": [
+    {
+      "id": "nn00923510",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 38.094,
+      "lon": -116.464,
+      "place": "67 km E of Tonopah, Nevada",
+      "time": "2026-08-19T13:20:10.703Z"
+    },
+    {
+      "id": "ci41530104",
+      "magnitude": 0.6,
+      "depth": 7,
+      "lat": 33.414,
+      "lon": -116.641,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-19T13:19:47.560Z"
+    },
+    {
+      "id": "nc75421222",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 36.581,
+      "lon": -121.181,
+      "place": "6 km NNW of Pinnacles, CA",
+      "time": "2026-08-19T13:14:28.390Z"
+    },
+    {
+      "id": "ci41530096",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 33.176,
+      "lon": -116.034,
+      "place": "10 km ENE of Ocotillo Wells, CA",
+      "time": "2026-08-19T13:10:13.700Z"
+    },
+    {
+      "id": "nn00923508",
+      "magnitude": 1.7,
+      "depth": 8,
+      "lat": 38.451,
+      "lon": -116.517,
+      "place": "75 km NE of Tonopah, Nevada",
+      "time": "2026-08-19T13:04:52.076Z"
+    },
+    {
+      "id": "hv75020732",
+      "magnitude": 1.8,
+      "depth": 30,
+      "lat": 18.894,
+      "lon": -155.446,
+      "place": "23 km SE of Naalehu, Hawaii",
+      "time": "2026-08-19T12:42:20.800Z"
+    },
     {
       "id": "hv75020722",
       "magnitude": 2.1,
@@ -19,6 +73,15 @@
       "lon": -122.749,
       "place": "1 km NNE of The Geysers, CA",
       "time": "2026-08-19T12:30:47.460Z"
+    },
+    {
+      "id": "pr71529003",
+      "magnitude": 3,
+      "depth": 34,
+      "lat": 18.366,
+      "lon": -64.913,
+      "place": "3 km NE of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-08-19T12:13:55.730Z"
     },
     {
       "id": "hv75020707",
@@ -401,11 +464,11 @@
     {
       "id": "ci41529984",
       "magnitude": 1.2,
-      "depth": 6,
+      "depth": 7,
       "lat": 33.416,
-      "lon": -116.648,
+      "lon": -116.639,
       "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T08:29:37.050Z"
+      "time": "2026-08-19T08:29:37.030Z"
     },
     {
       "id": "ci41529976",
@@ -433,6 +496,15 @@
       "lon": -116.399,
       "place": "14 km N of Borrego Springs, CA",
       "time": "2026-08-19T08:22:22.220Z"
+    },
+    {
+      "id": "uu80149366",
+      "magnitude": 1.8,
+      "depth": 3,
+      "lat": 38.514,
+      "lon": -112.892,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-19T08:17:30.240Z"
     },
     {
       "id": "nc75421102",
@@ -553,12 +625,12 @@
     },
     {
       "id": "tx2026qgszdv",
-      "magnitude": 2.5,
-      "depth": 3,
-      "lat": 32.006,
-      "lon": -103.242,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": "2026-08-19T07:01:05.817Z"
+      "magnitude": 2.3,
+      "depth": 6,
+      "lat": 32.013,
+      "lon": -103.232,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": "2026-08-19T07:01:05.436Z"
     },
     {
       "id": "nn00923495",
@@ -1137,6 +1209,15 @@
       "time": "2026-08-19T00:42:10.984Z"
     },
     {
+      "id": "uu80149266",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 38.514,
+      "lon": -112.887,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-19T00:32:09.630Z"
+    },
+    {
       "id": "aka2026qiwasm",
       "magnitude": 2.3,
       "depth": 159,
@@ -1171,6 +1252,15 @@
       "lon": -122.821,
       "place": "8 km NW of The Geysers, CA",
       "time": "2026-08-19T00:17:41.250Z"
+    },
+    {
+      "id": "uu80149261",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 42.382,
+      "lon": -111.405,
+      "place": "6 km W of Bennington, Idaho",
+      "time": "2026-08-19T00:15:17.100Z"
     },
     {
       "id": "us6000tls7",
@@ -1441,6 +1531,15 @@
       "lon": 120.446,
       "place": "47 km N of Ruteng, Indonesia",
       "time": "2026-08-18T22:26:55.404Z"
+    },
+    {
+      "id": "uu80149256",
+      "magnitude": 1.4,
+      "depth": 18,
+      "lat": 36.782,
+      "lon": -112.8,
+      "place": "13 km SSW of Kaibab, Arizona",
+      "time": "2026-08-18T22:25:59.170Z"
     },
     {
       "id": "tx2026qgbepq",
@@ -2047,12 +2146,12 @@
     },
     {
       "id": "tx2026qfqnaw",
-      "magnitude": 2.2,
-      "depth": 5,
-      "lat": 32.004,
-      "lon": -103.246,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": "2026-08-18T16:42:04.153Z"
+      "magnitude": 2,
+      "depth": 6,
+      "lat": 32.01,
+      "lon": -103.241,
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-08-18T16:42:04.017Z"
     },
     {
       "id": "tx2026qfqmfv",
@@ -2092,12 +2191,12 @@
     },
     {
       "id": "tx2026qfqfhe",
-      "magnitude": 2.2,
+      "magnitude": 2.1,
       "depth": 6,
-      "lat": 32.009,
-      "lon": -103.241,
-      "place": "12 km SSW of Jal, New Mexico",
-      "time": "2026-08-18T16:33:09.328Z"
+      "lat": 32.013,
+      "lon": -103.238,
+      "place": "11 km SSW of Jal, New Mexico",
+      "time": "2026-08-18T16:33:09.459Z"
     },
     {
       "id": "av94391823",
@@ -2512,123 +2611,6 @@
       "lon": -123.23,
       "place": "10 km NNW of Redwood Valley, CA",
       "time": "2026-08-18T13:33:00.560Z"
-    },
-    {
-      "id": "nn00923432",
-      "magnitude": 1.6,
-      "depth": 4,
-      "lat": 36.723,
-      "lon": -115.752,
-      "place": "18 km NNW of Indian Springs, Nevada",
-      "time": "2026-08-18T13:26:35.015Z"
-    },
-    {
-      "id": "tx2026qfkaiz",
-      "magnitude": 2,
-      "depth": 8,
-      "lat": 28.815,
-      "lon": -98.988,
-      "place": "13 km SE of Pearsall, Texas",
-      "time": "2026-08-18T13:26:15.567Z"
-    },
-    {
-      "id": "nc75420577",
-      "magnitude": 1.5,
-      "depth": 3,
-      "lat": 38.831,
-      "lon": -122.791,
-      "place": "6 km W of Cobb, CA",
-      "time": "2026-08-18T13:25:02.820Z"
-    },
-    {
-      "id": "tx2026qfjxan",
-      "magnitude": 1.9,
-      "depth": 8,
-      "lat": 28.817,
-      "lon": -98.996,
-      "place": "12 km SE of Pearsall, Texas",
-      "time": "2026-08-18T13:22:23.323Z"
-    },
-    {
-      "id": "hv75020237",
-      "magnitude": 2,
-      "depth": 28,
-      "lat": 19.201,
-      "lon": -155.485,
-      "place": "0 km WSW of Pāhala, Hawaii",
-      "time": "2026-08-18T13:16:45.640Z"
-    },
-    {
-      "id": "ci41529160",
-      "magnitude": 2.7,
-      "depth": 1,
-      "lat": 33.762,
-      "lon": -119.214,
-      "place": "35 km NNW of Santa Barbara Is., CA",
-      "time": "2026-08-18T13:12:45.770Z"
-    },
-    {
-      "id": "us6000tlq8",
-      "magnitude": 3.4,
-      "depth": 26,
-      "lat": 53.117,
-      "lon": -166.868,
-      "place": "87 km SSW of Unalaska, Alaska",
-      "time": "2026-08-18T13:05:16.900Z"
-    },
-    {
-      "id": "ci41529152",
-      "magnitude": 1.3,
-      "depth": 1,
-      "lat": 36.022,
-      "lon": -117.805,
-      "place": "13 km ESE of Coso Junction, CA",
-      "time": "2026-08-18T13:04:18.670Z"
-    },
-    {
-      "id": "aka2026qhzdez",
-      "magnitude": 2.6,
-      "depth": 10,
-      "lat": 50.986,
-      "lon": -179.857,
-      "place": "244 km WSW of Adak, Alaska",
-      "time": "2026-08-18T13:03:13.944Z"
-    },
-    {
-      "id": "uw714081151",
-      "magnitude": 1.3,
-      "depth": 8,
-      "lat": 48.599,
-      "lon": -122.588,
-      "place": "9 km N of Anacortes, Washington",
-      "time": "2026-08-18T13:01:28.010Z"
-    },
-    {
-      "id": "av94391563",
-      "magnitude": -0.1,
-      "depth": 2,
-      "lat": 58.17,
-      "lon": -155.371,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": "2026-08-18T12:54:18.850Z"
-    },
-    {
-      "id": "ci41529136",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 34.276,
-      "lon": -117.02,
-      "place": "11 km WNW of Big Bear Lake, CA",
-      "time": "2026-08-18T12:53:58.300Z"
-    },
-    {
-      "id": "aka2026qhylnk",
-      "magnitude": 3,
-      "depth": 1,
-      "lat": 51.788,
-      "lon": 176.925,
-      "place": "280 km ESE of Attu Station, Alaska",
-      "time": "2026-08-18T12:42:30.509Z"
     }
   ]
 }
