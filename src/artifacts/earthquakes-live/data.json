@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-20T17:23:01.305Z",
-  "count": 278,
+  "generated": "2026-08-20T17:53:00.661Z",
+  "count": 276,
   "events": [
+    {
+      "id": "nc75421882",
+      "magnitude": 0.3,
+      "depth": 2,
+      "lat": 38.85,
+      "lon": -122.849,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-08-20T17:43:26.400Z"
+    },
     {
       "id": "ci41531264",
       "magnitude": 0.8,
@@ -73,15 +82,6 @@
       "lon": -120.114,
       "place": "7 km WSW of Chelan, Washington",
       "time": "2026-08-20T15:10:46.460Z"
-    },
-    {
-      "id": "ci41531192",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 33.028,
-      "lon": -116.549,
-      "place": "7 km SE of Julian, CA",
-      "time": "2026-08-20T15:03:37.260Z"
     },
     {
       "id": "aka2026qlvebe",
@@ -248,11 +248,11 @@
     {
       "id": "ci41531136",
       "magnitude": 0.8,
-      "depth": 6,
-      "lat": 33.413,
-      "lon": -116.643,
+      "depth": 7,
+      "lat": 33.414,
+      "lon": -116.642,
       "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-20T12:43:38.970Z"
+      "time": "2026-08-20T12:43:38.940Z"
     },
     {
       "id": "nc75421762",
@@ -419,11 +419,11 @@
     {
       "id": "aka2026qlnvqp",
       "magnitude": 3,
-      "depth": 15,
-      "lat": 61.169,
-      "lon": -149.246,
-      "place": "22 km ESE of Elmendorf Air Force Base, Alaska",
-      "time": "2026-08-20T11:23:12.566Z"
+      "depth": 29,
+      "lat": 61.185,
+      "lon": -149.217,
+      "place": "23 km ESE of Elmendorf Air Force Base, Alaska",
+      "time": "2026-08-20T11:23:13.895Z"
     },
     {
       "id": "ci41531080",
@@ -832,12 +832,12 @@
     },
     {
       "id": "ci41530976",
-      "magnitude": 0.6,
-      "depth": 8,
+      "magnitude": 0.5,
+      "depth": 9,
       "lat": 35.919,
-      "lon": -117.735,
+      "lon": -117.731,
       "place": "16 km E of Little Lake, CA",
-      "time": "2026-08-20T07:12:45.830Z"
+      "time": "2026-08-20T07:12:45.770Z"
     },
     {
       "id": "tx2026qioyvp",
@@ -1083,6 +1083,15 @@
       "time": "2026-08-20T04:37:31.649Z"
     },
     {
+      "id": "uw714081872",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 47.449,
+      "lon": -122.381,
+      "place": "3 km WNW of Normandy Park, Washington",
+      "time": "2026-08-20T04:35:26.720Z"
+    },
+    {
       "id": "nm60627091",
       "magnitude": 2.5,
       "depth": 14,
@@ -1175,11 +1184,11 @@
     {
       "id": "nn00923544",
       "magnitude": 2.1,
-      "depth": 0,
-      "lat": 36.721,
-      "lon": -115.757,
-      "place": "18 km NNW of Indian Springs, Nevada",
-      "time": "2026-08-20T04:00:44.338Z"
+      "depth": 3,
+      "lat": 36.714,
+      "lon": -115.758,
+      "place": "17 km NNW of Indian Springs, Nevada",
+      "time": "2026-08-20T04:00:45.423Z"
     },
     {
       "id": "pr71529088",
@@ -1657,6 +1666,15 @@
       "lon": 120.528,
       "place": "25 km NNE of Ruteng, Indonesia",
       "time": "2026-08-19T22:45:17.395Z"
+    },
+    {
+      "id": "tx2026qhygnz",
+      "magnitude": 0.4,
+      "depth": 8,
+      "lat": 32.418,
+      "lon": -102.128,
+      "place": "38 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-19T22:44:50.134Z"
     },
     {
       "id": "nn00923538",
@@ -2467,42 +2485,6 @@
       "lon": -122.774,
       "place": "3 km NW of The Geysers, CA",
       "time": "2026-08-19T18:02:46.940Z"
-    },
-    {
-      "id": "ci41530400",
-      "magnitude": 0.8,
-      "depth": 10,
-      "lat": 34.163,
-      "lon": -117.722,
-      "place": "7 km N of Claremont, CA",
-      "time": "2026-08-19T17:51:47.950Z"
-    },
-    {
-      "id": "av93065989",
-      "magnitude": -0.4,
-      "depth": -1,
-      "lat": 53.373,
-      "lon": -168.242,
-      "place": "63 km NE of Nikolski, Alaska",
-      "time": "2026-08-19T17:37:16.540Z"
-    },
-    {
-      "id": "us6000tlym",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 34.201,
-      "lon": 46.316,
-      "place": "50 km SE of Sarpol-e Z̄ahāb, Iran",
-      "time": "2026-08-19T17:36:14.158Z"
-    },
-    {
-      "id": "aka2026qkdwfo",
-      "magnitude": 2.3,
-      "depth": 107,
-      "lat": 62.161,
-      "lon": -152.041,
-      "place": "38 km WNW of Skwentna, Alaska",
-      "time": "2026-08-19T17:24:18.805Z"
     }
   ]
 }
