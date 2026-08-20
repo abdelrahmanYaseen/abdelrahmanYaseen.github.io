@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-20T07:03:19.997Z",
-  "count": 334,
+  "generated": "2026-08-20T07:53:38.320Z",
+  "count": 326,
   "events": [
+    {
+      "id": "ci41531000",
+      "magnitude": 0.7,
+      "depth": 5,
+      "lat": 33.415,
+      "lon": -116.646,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-20T07:40:02.120Z"
+    },
+    {
+      "id": "ci41530992",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.065,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-20T07:28:42.130Z"
+    },
+    {
+      "id": "ci41530976",
+      "magnitude": 0.6,
+      "depth": 8,
+      "lat": 35.919,
+      "lon": -117.735,
+      "place": "16 km E of Little Lake, CA",
+      "time": "2026-08-20T07:12:45.830Z"
+    },
+    {
+      "id": "ci41530968",
+      "magnitude": 0.9,
+      "depth": 7,
+      "lat": 36.112,
+      "lon": -117.771,
+      "place": "18 km ENE of Coso Junction, CA",
+      "time": "2026-08-20T07:06:57.120Z"
+    },
+    {
+      "id": "ci41530960",
+      "magnitude": 0.9,
+      "depth": 4,
+      "lat": 35.681,
+      "lon": -117.487,
+      "place": "12 km SW of Searles Valley, CA",
+      "time": "2026-08-20T07:03:24.830Z"
+    },
+    {
+      "id": "ci41530952",
+      "magnitude": 0.8,
+      "depth": 8,
+      "lat": 35.772,
+      "lon": -117.587,
+      "place": "16 km W of Searles Valley, CA",
+      "time": "2026-08-20T07:00:38.330Z"
+    },
     {
       "id": "ci41530944",
       "magnitude": 1.1,
@@ -111,15 +165,6 @@
       "time": "2026-08-20T05:34:17.230Z"
     },
     {
-      "id": "tx2026qilssp",
-      "magnitude": 1.4,
-      "depth": 0,
-      "lat": 31.713,
-      "lon": -104.27,
-      "place": "52 km S of Whites City, New Mexico",
-      "time": "2026-08-20T05:31:28.027Z"
-    },
-    {
       "id": "us6000tm2a",
       "magnitude": 4.3,
       "depth": 48,
@@ -149,11 +194,11 @@
     {
       "id": "tx2026qilhgi",
       "magnitude": 2.1,
-      "depth": 5,
-      "lat": 31.704,
-      "lon": -104.294,
-      "place": "52 km S of Whites City, New Mexico",
-      "time": "2026-08-20T05:17:53.805Z"
+      "depth": 7,
+      "lat": 31.715,
+      "lon": -104.274,
+      "place": "51 km S of Whites City, New Mexico",
+      "time": "2026-08-20T05:17:53.658Z"
     },
     {
       "id": "aka2026qlblhb",
@@ -247,12 +292,12 @@
     },
     {
       "id": "tx2026qijhml",
-      "magnitude": 1.9,
-      "depth": 1,
-      "lat": 32.147,
+      "magnitude": 1.7,
+      "depth": 7,
+      "lat": 32.149,
       "lon": -101.056,
       "place": "23 km S of Westbrook, Texas",
-      "time": "2026-08-20T04:17:49.586Z"
+      "time": "2026-08-20T04:17:49.511Z"
     },
     {
       "id": "nc75421652",
@@ -793,6 +838,15 @@
       "lon": -122.855,
       "place": "10 km WNW of The Geysers, CA",
       "time": "2026-08-19T21:45:33.710Z"
+    },
+    {
+      "id": "av94394018",
+      "magnitude": -0.2,
+      "depth": 0,
+      "lat": 58.174,
+      "lon": -155.36,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": "2026-08-19T21:44:56.120Z"
     },
     {
       "id": "aka2026qkmnlj",
@@ -2082,6 +2136,15 @@
       "time": "2026-08-19T12:25:46.100Z"
     },
     {
+      "id": "us6000tlv2",
+      "magnitude": 4.4,
+      "depth": 194,
+      "lat": -5.94,
+      "lon": 106.352,
+      "place": "21 km N of Kresek, Indonesia",
+      "time": "2026-08-19T12:19:02.358Z"
+    },
+    {
       "id": "pr71529003",
       "magnitude": 3,
       "depth": 34,
@@ -2467,6 +2530,15 @@
       "lon": -122.76,
       "place": "3 km WSW of Cobb, CA",
       "time": "2026-08-19T10:10:30.360Z"
+    },
+    {
+      "id": "us6000tluk",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 6.071,
+      "lon": -77.436,
+      "place": "17 km SSW of Bahía Solano, Colombia",
+      "time": "2026-08-19T10:07:18.554Z"
     },
     {
       "id": "uu80149376",
@@ -2863,150 +2935,6 @@
       "lon": -116.64,
       "place": "15 km N of Warner Springs, CA",
       "time": "2026-08-19T07:54:32.000Z"
-    },
-    {
-      "id": "aka2026qjkrzo",
-      "magnitude": 1.5,
-      "depth": 66,
-      "lat": 61.758,
-      "lon": -150.615,
-      "place": "24 km NNW of Susitna, Alaska",
-      "time": "2026-08-19T07:49:41.945Z"
-    },
-    {
-      "id": "av93065979",
-      "magnitude": 1,
-      "depth": 33,
-      "lat": 54.555,
-      "lon": -164.789,
-      "place": "79 km NE of Akutan, Alaska",
-      "time": "2026-08-19T07:46:23.300Z"
-    },
-    {
-      "id": "ci41529912",
-      "magnitude": 0.4,
-      "depth": 7,
-      "lat": 33.419,
-      "lon": -116.641,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:46:09.150Z"
-    },
-    {
-      "id": "aka2026qjknhi",
-      "magnitude": 2.9,
-      "depth": 3,
-      "lat": 51.972,
-      "lon": 176.804,
-      "place": "264 km ESE of Attu Station, Alaska",
-      "time": "2026-08-19T07:44:18.984Z"
-    },
-    {
-      "id": "uu80149361",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.517,
-      "lon": -112.893,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-19T07:41:33.200Z"
-    },
-    {
-      "id": "av94392868",
-      "magnitude": -0.5,
-      "depth": 1,
-      "lat": 60.45,
-      "lon": -152.728,
-      "place": "73 km NW of Ninilchik, Alaska",
-      "time": "2026-08-19T07:36:27.360Z"
-    },
-    {
-      "id": "ci10248854",
-      "magnitude": 0.1,
-      "depth": 7,
-      "lat": 33.419,
-      "lon": -116.64,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:35:09.500Z"
-    },
-    {
-      "id": "ci41529904",
-      "magnitude": 0.4,
-      "depth": 7,
-      "lat": 33.417,
-      "lon": -116.64,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:34:36.530Z"
-    },
-    {
-      "id": "aka2026qjkevl",
-      "magnitude": 2.3,
-      "depth": 19,
-      "lat": 51.287,
-      "lon": -176.152,
-      "place": "73 km SSE of Adak, Alaska",
-      "time": "2026-08-19T07:34:32.656Z"
-    },
-    {
-      "id": "ci10248846",
-      "magnitude": 0.4,
-      "depth": 7,
-      "lat": 33.419,
-      "lon": -116.641,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:34:11.530Z"
-    },
-    {
-      "id": "ci41529896",
-      "magnitude": 3.6,
-      "depth": 5,
-      "lat": 33.406,
-      "lon": -116.652,
-      "place": "14 km N of Warner Springs, CA",
-      "time": "2026-08-19T07:31:35.950Z"
-    },
-    {
-      "id": "aka2026qjjywl",
-      "magnitude": 3.1,
-      "depth": 1,
-      "lat": 51.937,
-      "lon": 176.876,
-      "place": "270 km ESE of Attu Station, Alaska",
-      "time": "2026-08-19T07:27:40.057Z"
-    },
-    {
-      "id": "aka2026qjjxhf",
-      "magnitude": 3.7,
-      "depth": 20,
-      "lat": 51.962,
-      "lon": 176.971,
-      "place": "275 km ESE of Attu Station, Alaska",
-      "time": "2026-08-19T07:25:54.650Z"
-    },
-    {
-      "id": "aka2026qjjwim",
-      "magnitude": 2.4,
-      "depth": 30,
-      "lat": 53.575,
-      "lon": -163.965,
-      "place": "134 km ESE of Akutan, Alaska",
-      "time": "2026-08-19T07:24:45.282Z"
-    },
-    {
-      "id": "aka2026qjjnyb",
-      "magnitude": 2.1,
-      "depth": 24,
-      "lat": 51.376,
-      "lon": -176.196,
-      "place": "63 km SSE of Adak, Alaska",
-      "time": "2026-08-19T07:15:02.782Z"
-    },
-    {
-      "id": "aka2026qjjjgo",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 63.565,
-      "lon": -147.331,
-      "place": "80 km ESE of Denali Park, Alaska",
-      "time": "2026-08-19T07:09:39.282Z"
     }
   ]
 }
