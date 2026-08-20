@@ -1,15 +1,24 @@
 {
-  "generated": "2026-08-20T15:54:44.738Z",
-  "count": 289,
+  "generated": "2026-08-20T16:20:06.442Z",
+  "count": 285,
   "events": [
+    {
+      "id": "aka2026qlxomk",
+      "magnitude": 3.1,
+      "depth": 2,
+      "lat": 58.998,
+      "lon": -136.351,
+      "place": "50 km SSW of Covenant Life, Alaska",
+      "time": "2026-08-20T16:14:41.207Z"
+    },
     {
       "id": "tx2026qjfmty",
       "magnitude": 1.6,
-      "depth": 4,
-      "lat": 31.632,
-      "lon": -104.377,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": "2026-08-20T15:30:25.272Z"
+      "depth": 6,
+      "lat": 31.651,
+      "lon": -104.366,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": "2026-08-20T15:30:25.239Z"
     },
     {
       "id": "tx2026qjfbuk",
@@ -46,6 +55,15 @@
       "lon": -135.787,
       "place": "13 km NNW of Gustavus, Alaska",
       "time": "2026-08-20T15:02:44.796Z"
+    },
+    {
+      "id": "us6000tm46",
+      "magnitude": 3.7,
+      "depth": 10,
+      "lat": 55.289,
+      "lon": -160.588,
+      "place": "7 km SW of Sand Point, Alaska",
+      "time": "2026-08-20T14:46:39.024Z"
     },
     {
       "id": "nc75421817",
@@ -534,6 +552,15 @@
       "time": "2026-08-20T09:41:08.320Z"
     },
     {
+      "id": "uu80149531",
+      "magnitude": 1.7,
+      "depth": 3,
+      "lat": 38.508,
+      "lon": -112.89,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-20T09:36:49.760Z"
+    },
+    {
       "id": "nc75421697",
       "magnitude": 1.6,
       "depth": 2,
@@ -559,6 +586,15 @@
       "lon": 120.67,
       "place": "48 km NNE of Ruteng, Indonesia",
       "time": "2026-08-20T09:30:52.720Z"
+    },
+    {
+      "id": "uu80149526",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 38.509,
+      "lon": -112.886,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-20T09:24:33.430Z"
     },
     {
       "id": "ci41531032",
@@ -805,12 +841,12 @@
     },
     {
       "id": "ci41530944",
-      "magnitude": 1.1,
-      "depth": 15,
-      "lat": 33.645,
-      "lon": -116.705,
+      "magnitude": 0.3,
+      "depth": 14,
+      "lat": 33.643,
+      "lon": -116.706,
       "place": "10 km NNW of Anza, CA",
-      "time": "2026-08-20T06:53:05.740Z"
+      "time": "2026-08-20T06:53:05.730Z"
     },
     {
       "id": "ci41530936",
@@ -2082,6 +2118,15 @@
       "time": "2026-08-19T19:31:02.231Z"
     },
     {
+      "id": "tx2026qhrtrf",
+      "magnitude": 0.3,
+      "depth": 8,
+      "lat": 32.416,
+      "lon": -102.126,
+      "place": "38 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-19T19:28:52.411Z"
+    },
+    {
       "id": "ci41530528",
       "magnitude": 0.6,
       "depth": 6,
@@ -2521,87 +2566,6 @@
       "lon": -112.887,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-08-19T16:35:56.320Z"
-    },
-    {
-      "id": "us6000tlxq",
-      "magnitude": 5.5,
-      "depth": 10,
-      "lat": -8.177,
-      "lon": 120.664,
-      "place": "52 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-19T16:17:38.400Z"
-    },
-    {
-      "id": "aka2026qkbnof",
-      "magnitude": 1.9,
-      "depth": 2,
-      "lat": 57.079,
-      "lon": -156.761,
-      "place": "61 km SE of Ugashik, Alaska",
-      "time": "2026-08-19T16:14:22.130Z"
-    },
-    {
-      "id": "aka2026qkbnix",
-      "magnitude": 1.5,
-      "depth": 53,
-      "lat": 61.627,
-      "lon": -149.808,
-      "place": "0 km SE of Houston, Alaska",
-      "time": "2026-08-19T16:14:08.266Z"
-    },
-    {
-      "id": "nc75421282",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.84,
-      "lon": -122.809,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-08-19T16:13:03.560Z"
-    },
-    {
-      "id": "nc75421277",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 38.797,
-      "lon": -122.774,
-      "place": "3 km NW of The Geysers, CA",
-      "time": "2026-08-19T16:12:44.670Z"
-    },
-    {
-      "id": "nn00923515",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 38.313,
-      "lon": -116.745,
-      "place": "50 km ENE of Tonopah, Nevada",
-      "time": "2026-08-19T16:11:54.459Z"
-    },
-    {
-      "id": "nc75421272",
-      "magnitude": 0.2,
-      "depth": 2,
-      "lat": 38.839,
-      "lon": -122.811,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-08-19T16:09:40.570Z"
-    },
-    {
-      "id": "nc75421267",
-      "magnitude": 1.7,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.809,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-08-19T16:08:54.630Z"
-    },
-    {
-      "id": "tx2026qhlczi",
-      "magnitude": 2,
-      "depth": 6,
-      "lat": 32.016,
-      "lon": -103.235,
-      "place": "11 km SSW of Jal, New Mexico",
-      "time": "2026-08-19T16:08:41.100Z"
     }
   ]
 }
