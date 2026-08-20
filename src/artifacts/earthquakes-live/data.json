@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-20T21:02:53.403Z",
+  "generated": "2026-08-20T21:39:47.055Z",
   "count": 263,
   "events": [
+    {
+      "id": "ci41531480",
+      "magnitude": 0.8,
+      "depth": 13,
+      "lat": 33.03,
+      "lon": -116.521,
+      "place": "9 km SE of Julian, CA",
+      "time": "2026-08-20T21:20:34.530Z"
+    },
+    {
+      "id": "ci41531472",
+      "magnitude": 0.6,
+      "depth": 9,
+      "lat": 33.353,
+      "lon": -116.978,
+      "place": "9 km E of Pala, CA",
+      "time": "2026-08-20T21:08:48.200Z"
+    },
+    {
+      "id": "ci41531464",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 36.07,
+      "lon": -117.833,
+      "place": "11 km ENE of Coso Junction, CA",
+      "time": "2026-08-20T21:01:45.720Z"
+    },
+    {
+      "id": "uu80149621",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 38.514,
+      "lon": -112.886,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-20T20:48:27.500Z"
+    },
     {
       "id": "ci41531440",
       "magnitude": 0.5,
@@ -91,6 +127,15 @@
       "lon": -122.761,
       "place": "2 km NNW of The Geysers, CA",
       "time": "2026-08-20T20:26:44.070Z"
+    },
+    {
+      "id": "uu80149616",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 38.509,
+      "lon": -112.884,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-20T20:24:13.160Z"
     },
     {
       "id": "aka2026qmfram",
@@ -1884,6 +1929,15 @@
       "time": "2026-08-20T01:12:49.379Z"
     },
     {
+      "id": "av94394333",
+      "magnitude": -0.1,
+      "depth": 7,
+      "lat": 59.993,
+      "lon": -152.894,
+      "place": "64 km WNW of Anchor Point, Alaska",
+      "time": "2026-08-20T01:12:13.990Z"
+    },
+    {
       "id": "ci41530760",
       "magnitude": 0.8,
       "depth": 3,
@@ -1927,6 +1981,24 @@
       "lon": -117.814,
       "place": "17 km WSW of Johannesburg, CA",
       "time": "2026-08-20T01:00:03.590Z"
+    },
+    {
+      "id": "av94394308",
+      "magnitude": -0.5,
+      "depth": 3,
+      "lat": 61.318,
+      "lon": -152.264,
+      "place": "66 km WNW of Beluga, Alaska",
+      "time": "2026-08-20T00:46:58.820Z"
+    },
+    {
+      "id": "av94394273",
+      "magnitude": 0.1,
+      "depth": 2,
+      "lat": 61.469,
+      "lon": -152.602,
+      "place": "86 km SW of Skwentna, Alaska",
+      "time": "2026-08-20T00:31:38.250Z"
     },
     {
       "id": "nc75421577",
@@ -2296,78 +2368,6 @@
       "lon": -116.65,
       "place": "14 km N of Warner Springs, CA",
       "time": "2026-08-19T21:43:37.870Z"
-    },
-    {
-      "id": "nc75421487",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 38.823,
-      "lon": -122.812,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-19T21:36:32.660Z"
-    },
-    {
-      "id": "ci41530664",
-      "magnitude": 1.1,
-      "depth": 8,
-      "lat": 33.787,
-      "lon": -115.961,
-      "place": "23 km ENE of Coachella, CA",
-      "time": "2026-08-19T21:36:29.340Z"
-    },
-    {
-      "id": "aka2026qkmgib",
-      "magnitude": 1.6,
-      "depth": 86,
-      "lat": 55.622,
-      "lon": -159.182,
-      "place": "32 km S of Perryville, Alaska",
-      "time": "2026-08-19T21:35:52.412Z"
-    },
-    {
-      "id": "ci41530656",
-      "magnitude": 0.9,
-      "depth": 10,
-      "lat": 33.334,
-      "lon": -116.361,
-      "place": "9 km N of Borrego Springs, CA",
-      "time": "2026-08-19T21:35:16.950Z"
-    },
-    {
-      "id": "uu80149471",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 42.545,
-      "lon": -111.446,
-      "place": "9 km NW of Georgetown, Idaho",
-      "time": "2026-08-19T21:17:23.950Z"
-    },
-    {
-      "id": "nc75421477",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.826,
-      "lon": -122.855,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": "2026-08-19T21:09:31.790Z"
-    },
-    {
-      "id": "aka2026qklhml",
-      "magnitude": 1.6,
-      "depth": 75,
-      "lat": 60.369,
-      "lon": -152.109,
-      "place": "42 km WNW of Clam Gulch, Alaska",
-      "time": "2026-08-19T21:07:14.651Z"
-    },
-    {
-      "id": "us6000tm08",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 66.907,
-      "lon": 13.218,
-      "place": "21 km W of Ørnes, Norway",
-      "time": "2026-08-19T21:06:49.154Z"
     }
   ]
 }
