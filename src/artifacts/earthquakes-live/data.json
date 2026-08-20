@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-20T10:53:38.303Z",
-  "count": 304,
+  "generated": "2026-08-20T11:15:43.468Z",
+  "count": 302,
   "events": [
+    {
+      "id": "ci41531072",
+      "magnitude": 1,
+      "depth": 15,
+      "lat": 33.659,
+      "lon": -116.719,
+      "place": "9 km S of Idyllwild, CA",
+      "time": "2026-08-20T11:13:05.100Z"
+    },
+    {
+      "id": "nc75421717",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.815,
+      "lon": -122.809,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-20T11:02:35.090Z"
+    },
+    {
+      "id": "ci41531064",
+      "magnitude": 0.5,
+      "depth": 2,
+      "lat": 34.102,
+      "lon": -116.644,
+      "place": "8 km NW of Morongo Valley, CA",
+      "time": "2026-08-20T11:01:14.770Z"
+    },
+    {
+      "id": "aka2026qlnaod",
+      "magnitude": 1.4,
+      "depth": 132,
+      "lat": 63.198,
+      "lon": -150.78,
+      "place": "60 km SE of Denali National Park, Alaska",
+      "time": "2026-08-20T10:58:54.951Z"
+    },
     {
       "id": "aka2026qlmqwu",
       "magnitude": 0.4,
@@ -865,6 +901,15 @@
       "lon": -118.146,
       "place": "2 km ESE of East Los Angeles, CA",
       "time": "2026-08-20T01:15:36.470Z"
+    },
+    {
+      "id": "tx2026qidedc",
+      "magnitude": 0.5,
+      "depth": 7,
+      "lat": 31.876,
+      "lon": -103.999,
+      "place": "39 km S of Malaga, New Mexico",
+      "time": "2026-08-20T01:12:49.379Z"
     },
     {
       "id": "ci41530760",
@@ -2674,69 +2719,6 @@
       "lon": -66.317,
       "place": "7 km NNE of Brenas, Puerto Rico",
       "time": "2026-08-19T11:16:28.470Z"
-    },
-    {
-      "id": "aka2026qjrjwb",
-      "magnitude": 2.9,
-      "depth": 6,
-      "lat": 51.881,
-      "lon": -171.337,
-      "place": "199 km E of Atka, Alaska",
-      "time": "2026-08-19T11:10:11.661Z"
-    },
-    {
-      "id": "aka2026qjrgxu",
-      "magnitude": 2.1,
-      "depth": 26,
-      "lat": 53.359,
-      "lon": -165.533,
-      "place": "87 km SE of Unalaska, Alaska",
-      "time": "2026-08-19T11:06:53.208Z"
-    },
-    {
-      "id": "aka2026qjrdvd",
-      "magnitude": 1.7,
-      "depth": 74,
-      "lat": 59.473,
-      "lon": -152.745,
-      "place": "48 km WNW of Nanwalek, Alaska",
-      "time": "2026-08-19T11:03:17.375Z"
-    },
-    {
-      "id": "us6000tlun",
-      "magnitude": 4.8,
-      "depth": 84,
-      "lat": 5.428,
-      "lon": 125.271,
-      "place": "18 km SSW of Balangonan, Philippines",
-      "time": "2026-08-19T11:01:37.358Z"
-    },
-    {
-      "id": "av94393133",
-      "magnitude": -0.2,
-      "depth": 2,
-      "lat": 58.172,
-      "lon": -155.381,
-      "place": "86 km NW of Karluk, Alaska",
-      "time": "2026-08-19T10:58:40.880Z"
-    },
-    {
-      "id": "aka2026qjqyyu",
-      "magnitude": 1.8,
-      "depth": 6,
-      "lat": 58.779,
-      "lon": -153.634,
-      "place": "90 km NNW of Aleneva, Alaska",
-      "time": "2026-08-19T10:57:40.301Z"
-    },
-    {
-      "id": "aka2026qjqwgv",
-      "magnitude": 1.8,
-      "depth": 4,
-      "lat": 57.086,
-      "lon": -156.253,
-      "place": "83 km SE of Ugashik, Alaska",
-      "time": "2026-08-19T10:54:35.060Z"
     }
   ]
 }
