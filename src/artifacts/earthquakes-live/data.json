@@ -1,15 +1,42 @@
 {
-  "generated": "2026-08-20T05:43:27.841Z",
-  "count": 337,
+  "generated": "2026-08-20T06:02:07.059Z",
+  "count": 338,
   "events": [
     {
+      "id": "nn00923558",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 38.274,
+      "lon": -116.859,
+      "place": "39 km NE of Tonopah, Nevada",
+      "time": "2026-08-20T05:52:52.864Z"
+    },
+    {
+      "id": "hv75021117",
+      "magnitude": 1.8,
+      "depth": 17,
+      "lat": 19.345,
+      "lon": -155.858,
+      "place": "12 km S of Honaunau-Napoopoo, Hawaii",
+      "time": "2026-08-20T05:49:40.560Z"
+    },
+    {
+      "id": "ci41530920",
+      "magnitude": 0.3,
+      "depth": 14,
+      "lat": 33.046,
+      "lon": -116.384,
+      "place": "21 km E of Julian, CA",
+      "time": "2026-08-20T05:45:20.660Z"
+    },
+    {
       "id": "ci41530912",
-      "magnitude": 1.1,
+      "magnitude": 0.9,
       "depth": 5,
-      "lat": 35.034,
-      "lon": -118.364,
+      "lat": 35.035,
+      "lon": -118.365,
       "place": "13 km SE of Tehachapi, CA",
-      "time": "2026-08-20T05:40:12.850Z"
+      "time": "2026-08-20T05:40:12.860Z"
     },
     {
       "id": "aka2026qlcjyh",
@@ -49,12 +76,12 @@
     },
     {
       "id": "tx2026qilssp",
-      "magnitude": 1.8,
+      "magnitude": 1.4,
       "depth": 0,
-      "lat": 31.83,
-      "lon": -104.111,
-      "place": "43 km S of Malaga, New Mexico",
-      "time": "2026-08-20T05:31:24.667Z"
+      "lat": 31.713,
+      "lon": -104.27,
+      "place": "52 km S of Whites City, New Mexico",
+      "time": "2026-08-20T05:31:28.027Z"
     },
     {
       "id": "ci41530888",
@@ -81,7 +108,7 @@
       "lat": 31.704,
       "lon": -104.294,
       "place": "52 km S of Whites City, New Mexico",
-      "time": "2026-08-20T05:17:53.824Z"
+      "time": "2026-08-20T05:17:53.805Z"
     },
     {
       "id": "aka2026qlblhb",
@@ -1099,6 +1126,24 @@
       "lon": -122.82,
       "place": "6 km WNW of The Geysers, CA",
       "time": "2026-08-19T19:01:28.980Z"
+    },
+    {
+      "id": "av93065994",
+      "magnitude": 0,
+      "depth": 22,
+      "lat": 56.175,
+      "lon": -159.427,
+      "place": "30 km N of Ivanof Bay, Alaska",
+      "time": "2026-08-19T18:57:34.190Z"
+    },
+    {
+      "id": "av93065999",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 52.835,
+      "lon": -169.708,
+      "place": "58 km WSW of Nikolski, Alaska",
+      "time": "2026-08-19T18:52:37.040Z"
     },
     {
       "id": "nc75421362",
@@ -2998,42 +3043,6 @@
       "lon": -150.467,
       "place": "16 km SSE of Manley Hot Springs, Alaska",
       "time": "2026-08-19T06:02:06.127Z"
-    },
-    {
-      "id": "av94392758",
-      "magnitude": 1.1,
-      "depth": 11,
-      "lat": 51.802,
-      "lon": -178.805,
-      "place": "149 km W of Adak, Alaska",
-      "time": "2026-08-19T06:01:38.380Z"
-    },
-    {
-      "id": "aka2026qjhblm",
-      "magnitude": 1.4,
-      "depth": 15,
-      "lat": 64.989,
-      "lon": -150.283,
-      "place": "16 km E of Manley Hot Springs, Alaska",
-      "time": "2026-08-19T06:00:40.272Z"
-    },
-    {
-      "id": "aka2026qjgxkl",
-      "magnitude": 1.5,
-      "depth": 34,
-      "lat": 61.494,
-      "lon": -145.8,
-      "place": "37 km WSW of Tonsina, Alaska",
-      "time": "2026-08-19T05:56:02.927Z"
-    },
-    {
-      "id": "ci41529864",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 35.313,
-      "lon": -117.799,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": "2026-08-19T05:48:35.540Z"
     }
   ]
 }
