@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-20T16:57:31.924Z",
-  "count": 286,
+  "generated": "2026-08-20T17:23:01.305Z",
+  "count": 278,
   "events": [
+    {
+      "id": "ci41531264",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.089,
+      "lon": -117.884,
+      "place": "8 km NE of Coso Junction, CA",
+      "time": "2026-08-20T17:09:40.500Z"
+    },
     {
       "id": "hv75021377",
       "magnitude": 1.7,
@@ -958,12 +967,12 @@
     },
     {
       "id": "nn00923551",
-      "magnitude": 2.6,
-      "depth": 4,
-      "lat": 36.732,
-      "lon": -115.74,
-      "place": "19 km NNW of Indian Springs, Nevada",
-      "time": "2026-08-20T05:37:25.330Z"
+      "magnitude": 2.7,
+      "depth": 7,
+      "lat": 36.712,
+      "lon": -115.745,
+      "place": "17 km NNW of Indian Springs, Nevada",
+      "time": "2026-08-20T05:37:25.830Z"
     },
     {
       "id": "ci41530904",
@@ -1210,12 +1219,12 @@
     },
     {
       "id": "uw714081862",
-      "magnitude": 1.6,
-      "depth": 22,
-      "lat": 46.471,
-      "lon": -122.417,
-      "place": "8 km SE of Mossyrock, Washington",
-      "time": "2026-08-20T03:52:00.140Z"
+      "magnitude": 1.4,
+      "depth": -1,
+      "lat": 46.497,
+      "lon": -122.394,
+      "place": "7 km ESE of Mossyrock, Washington",
+      "time": "2026-08-20T03:52:00.740Z"
     },
     {
       "id": "ci41530840",
@@ -1576,6 +1585,15 @@
       "lon": -152.527,
       "place": "54 km WNW of Ninilchik, Alaska",
       "time": "2026-08-19T23:39:41.208Z"
+    },
+    {
+      "id": "uw714081812",
+      "magnitude": 0,
+      "depth": -2,
+      "lat": 46.201,
+      "lon": -122.187,
+      "place": "38 km NNE of Amboy, Washington",
+      "time": "2026-08-19T23:39:08.280Z"
     },
     {
       "id": "aka2026qkqfkl",
@@ -2485,96 +2503,6 @@
       "lon": -152.041,
       "place": "38 km WNW of Skwentna, Alaska",
       "time": "2026-08-19T17:24:18.805Z"
-    },
-    {
-      "id": "ok2026qfoa",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 34.43,
-      "lon": -97.49,
-      "place": "2 km SE of Ratliff City, Oklahoma",
-      "time": "2026-08-19T17:20:11.650Z"
-    },
-    {
-      "id": "nc75421307",
-      "magnitude": 0.3,
-      "depth": 8,
-      "lat": 38.794,
-      "lon": -122.786,
-      "place": "3 km NW of The Geysers, CA",
-      "time": "2026-08-19T17:20:08.900Z"
-    },
-    {
-      "id": "us6000tlyi",
-      "magnitude": 4.8,
-      "depth": 10,
-      "lat": 5.892,
-      "lon": 126.664,
-      "place": "74 km SE of Pondaguitan, Philippines",
-      "time": "2026-08-19T17:19:34.166Z"
-    },
-    {
-      "id": "aka2026qkdqtt",
-      "magnitude": 2.7,
-      "depth": 88,
-      "lat": 57.906,
-      "lon": -154.991,
-      "place": "49 km NW of Karluk, Alaska",
-      "time": "2026-08-19T17:18:04.362Z"
-    },
-    {
-      "id": "aka2026qkdpdj",
-      "magnitude": 1.7,
-      "depth": 2,
-      "lat": 68.146,
-      "lon": -153.195,
-      "place": "60 km W of Anaktuvuk Pass, Alaska",
-      "time": "2026-08-19T17:16:09.904Z"
-    },
-    {
-      "id": "uu80149421",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.505,
-      "lon": -112.895,
-      "place": "15 km NE of Milford, Utah",
-      "time": "2026-08-19T17:15:19.570Z"
-    },
-    {
-      "id": "aka2026qkdmvi",
-      "magnitude": 1.2,
-      "depth": 62,
-      "lat": 57.725,
-      "lon": -154.739,
-      "place": "24 km NW of Karluk, Alaska",
-      "time": "2026-08-19T17:13:30.012Z"
-    },
-    {
-      "id": "uu80149416",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 38.511,
-      "lon": -112.891,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-19T17:13:08.450Z"
-    },
-    {
-      "id": "aka2026qkdjrq",
-      "magnitude": 1.7,
-      "depth": 3,
-      "lat": 68.138,
-      "lon": -153.182,
-      "place": "60 km W of Anaktuvuk Pass, Alaska",
-      "time": "2026-08-19T17:09:52.752Z"
-    },
-    {
-      "id": "hv75020857",
-      "magnitude": 1.8,
-      "depth": 26,
-      "lat": 19.186,
-      "lon": -155.352,
-      "place": "13 km E of Pāhala, Hawaii",
-      "time": "2026-08-19T17:05:10.270Z"
     }
   ]
 }
