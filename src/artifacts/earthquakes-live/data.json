@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-20T19:42:17.188Z",
-  "count": 265,
+  "generated": "2026-08-20T20:00:57.994Z",
+  "count": 266,
   "events": [
+    {
+      "id": "ci41531368",
+      "magnitude": 0.9,
+      "depth": 10,
+      "lat": 33.984,
+      "lon": -117.155,
+      "place": "8 km SSE of Redlands, CA",
+      "time": "2026-08-20T19:49:56.370Z"
+    },
+    {
+      "id": "ci41531360",
+      "magnitude": 1.6,
+      "depth": 2,
+      "lat": 33.712,
+      "lon": -117.347,
+      "place": "5 km NNW of Lake Elsinore, CA",
+      "time": "2026-08-20T19:45:52.490Z"
+    },
     {
       "id": "aka2026qmeind",
       "magnitude": 2.2,
@@ -15,10 +33,28 @@
       "id": "ci41531352",
       "magnitude": 0.5,
       "depth": 9,
-      "lat": 34.172,
-      "lon": -117.4,
-      "place": "5 km S of Devore, CA",
-      "time": "2026-08-20T19:37:38.180Z"
+      "lat": 34.173,
+      "lon": -117.396,
+      "place": "5 km WNW of Muscoy, CA",
+      "time": "2026-08-20T19:37:38.160Z"
+    },
+    {
+      "id": "uw714082322",
+      "magnitude": 0.5,
+      "depth": 4,
+      "lat": 46.195,
+      "lon": -122.16,
+      "place": "38 km NE of Amboy, Washington",
+      "time": "2026-08-20T19:36:18.380Z"
+    },
+    {
+      "id": "tx2026qjnqhh",
+      "magnitude": 2.1,
+      "depth": 4,
+      "lat": 29.002,
+      "lon": -97.892,
+      "place": "12 km E of Falls City, Texas",
+      "time": "2026-08-20T19:33:13.234Z"
     },
     {
       "id": "nc75421947",
@@ -37,6 +73,15 @@
       "lon": 121.271,
       "place": "63 km NW of Ende, Indonesia",
       "time": "2026-08-20T19:24:03.495Z"
+    },
+    {
+      "id": "uw714082292",
+      "magnitude": 2,
+      "depth": 9,
+      "lat": 45.048,
+      "lon": -117.938,
+      "place": "2 km NNW of North Powder, Oregon",
+      "time": "2026-08-20T19:15:35.350Z"
     },
     {
       "id": "uu80149596",
@@ -129,6 +174,15 @@
       "time": "2026-08-20T18:07:40.320Z"
     },
     {
+      "id": "uw714082262",
+      "magnitude": 0.9,
+      "depth": 12,
+      "lat": 47.326,
+      "lon": -123.718,
+      "place": "15 km SE of Neilton, Washington",
+      "time": "2026-08-20T18:06:28.640Z"
+    },
+    {
       "id": "ci41531288",
       "magnitude": 0.7,
       "depth": 9,
@@ -163,6 +217,15 @@
       "lon": -122.749,
       "place": "1 km NNE of The Geysers, CA",
       "time": "2026-08-20T17:58:14.450Z"
+    },
+    {
+      "id": "uw714082252",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 45.805,
+      "lon": -123.278,
+      "place": "8 km SW of Vernonia, Oregon",
+      "time": "2026-08-20T17:56:17.180Z"
     },
     {
       "id": "nc75421882",
@@ -247,12 +310,12 @@
     },
     {
       "id": "uw714082082",
-      "magnitude": 1.8,
-      "depth": -1,
+      "magnitude": 1.7,
+      "depth": 6,
       "lat": 47.821,
-      "lon": -120.114,
+      "lon": -120.113,
       "place": "7 km WSW of Chelan, Washington",
-      "time": "2026-08-20T15:10:46.460Z"
+      "time": "2026-08-20T15:10:46.200Z"
     },
     {
       "id": "aka2026qlvebe",
@@ -2332,60 +2395,6 @@
       "lon": -122.844,
       "place": "9 km NW of The Geysers, CA",
       "time": "2026-08-19T20:00:42.410Z"
-    },
-    {
-      "id": "aka2026qkiykx",
-      "magnitude": 2.2,
-      "depth": 40,
-      "lat": 53.165,
-      "lon": -166.596,
-      "place": "79 km S of Unalaska, Alaska",
-      "time": "2026-08-19T19:56:49.065Z"
-    },
-    {
-      "id": "nc75421417",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 37.248,
-      "lon": -122.029,
-      "place": "2 km SSW of Saratoga, CA",
-      "time": "2026-08-19T19:56:37.750Z"
-    },
-    {
-      "id": "ci41530560",
-      "magnitude": 0.2,
-      "depth": 7,
-      "lat": 33.417,
-      "lon": -116.636,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-19T19:55:33.080Z"
-    },
-    {
-      "id": "aka2026qkiuau",
-      "magnitude": 3.7,
-      "depth": 108,
-      "lat": 60.029,
-      "lon": -152.531,
-      "place": "45 km W of Happy Valley, Alaska",
-      "time": "2026-08-19T19:51:43.802Z"
-    },
-    {
-      "id": "hv75020937",
-      "magnitude": 1.8,
-      "depth": 31,
-      "lat": 19.302,
-      "lon": -155.312,
-      "place": "17 km SSW of Volcano, Hawaii",
-      "time": "2026-08-19T19:51:38.840Z"
-    },
-    {
-      "id": "nc75421407",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.806,
-      "lon": -122.819,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": "2026-08-19T19:43:18.140Z"
     }
   ]
 }
