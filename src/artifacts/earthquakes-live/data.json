@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T23:40:19.630Z",
-  "count": 275,
+  "generated": "2026-08-20T23:57:14.025Z",
+  "count": 273,
   "events": [
     {
       "id": "aka2026qmlukn",
@@ -175,12 +175,12 @@
     },
     {
       "id": "ci41531472",
-      "magnitude": 0.6,
-      "depth": 9,
-      "lat": 33.353,
-      "lon": -116.978,
-      "place": "9 km E of Pala, CA",
-      "time": "2026-08-20T21:08:48.200Z"
+      "magnitude": 0.1,
+      "depth": 4,
+      "lat": 33.532,
+      "lon": -116.726,
+      "place": "6 km WSW of Anza, CA",
+      "time": "2026-08-20T21:08:52.640Z"
     },
     {
       "id": "ci41531464",
@@ -210,13 +210,22 @@
       "time": "2026-08-20T20:48:12.920Z"
     },
     {
+      "id": "ci10249086",
+      "magnitude": 0.6,
+      "depth": 14,
+      "lat": 33.031,
+      "lon": -116.511,
+      "place": "10 km ESE of Julian, CA",
+      "time": "2026-08-20T20:47:11.510Z"
+    },
+    {
       "id": "ci41531432",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 33.197,
-      "lon": -116.725,
-      "place": "6 km SE of Lake Henshaw, CA",
-      "time": "2026-08-20T20:46:39.570Z"
+      "magnitude": 0.7,
+      "depth": 15,
+      "lat": 33.027,
+      "lon": -116.513,
+      "place": "10 km SE of Julian, CA",
+      "time": "2026-08-20T20:46:39.530Z"
     },
     {
       "id": "ci41531424",
@@ -793,6 +802,15 @@
       "lon": -122.811,
       "place": "8 km WNW of Cobb, CA",
       "time": "2026-08-20T13:29:19.240Z"
+    },
+    {
+      "id": "av94395298",
+      "magnitude": 0.9,
+      "depth": 9,
+      "lat": 52.807,
+      "lon": -169.74,
+      "place": "60 km WSW of Nikolski, Alaska",
+      "time": "2026-08-20T13:20:20.680Z"
     },
     {
       "id": "nc75421772",
@@ -2440,42 +2458,6 @@
       "lon": -101.843,
       "place": "18 km NNW of Stanton, Texas",
       "time": "2026-08-20T00:03:13.199Z"
-    },
-    {
-      "id": "us6000tm1f",
-      "magnitude": 2.7,
-      "depth": 10,
-      "lat": 51.853,
-      "lon": 176.978,
-      "place": "281 km ESE of Attu Station, Alaska",
-      "time": "2026-08-19T23:52:45.707Z"
-    },
-    {
-      "id": "hv75021047",
-      "magnitude": 1.8,
-      "depth": 28,
-      "lat": 19.347,
-      "lon": -155.243,
-      "place": "10 km S of Volcano, Hawaii",
-      "time": "2026-08-19T23:49:50.750Z"
-    },
-    {
-      "id": "ci41530720",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 32.937,
-      "lon": -116.332,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-19T23:47:49.140Z"
-    },
-    {
-      "id": "uu80149486",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.507,
-      "lon": -112.881,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-19T23:45:06.710Z"
     }
   ]
 }
