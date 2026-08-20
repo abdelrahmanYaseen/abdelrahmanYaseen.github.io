@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-20T14:05:49.853Z",
-  "count": 296,
+  "generated": "2026-08-20T14:51:49.117Z",
+  "count": 292,
   "events": [
+    {
+      "id": "nc75421817",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 38.826,
+      "lon": -122.898,
+      "place": "11 km ENE of Cloverdale, CA",
+      "time": "2026-08-20T14:38:57.640Z"
+    },
+    {
+      "id": "ci41531176",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.066,
+      "lon": -117.839,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-20T14:35:02.990Z"
+    },
+    {
+      "id": "nc75421807",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.788,
+      "lon": -122.744,
+      "place": "2 km NE of The Geysers, CA",
+      "time": "2026-08-20T14:31:36.280Z"
+    },
+    {
+      "id": "aka2026qltncf",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 58.285,
+      "lon": -154.962,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": "2026-08-20T14:13:14.064Z"
+    },
+    {
+      "id": "uw714082052",
+      "magnitude": 0.4,
+      "depth": 1,
+      "lat": 46.614,
+      "lon": -121.808,
+      "place": "10 km W of Packwood, Washington",
+      "time": "2026-08-20T14:04:22.310Z"
+    },
+    {
+      "id": "us6000tm42",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -1.166,
+      "lon": 148.536,
+      "place": "170 km NE of Lorengau, Papua New Guinea",
+      "time": "2026-08-20T13:55:00.053Z"
+    },
     {
       "id": "nc75421787",
       "magnitude": 0.3,
@@ -185,20 +239,20 @@
     {
       "id": "ci41531104",
       "magnitude": 0.4,
-      "depth": 14,
-      "lat": 33.634,
+      "depth": 15,
+      "lat": 33.635,
       "lon": -116.69,
       "place": "9 km N of Anza, CA",
-      "time": "2026-08-20T11:38:34.910Z"
+      "time": "2026-08-20T11:38:34.870Z"
     },
     {
       "id": "ci41531096",
       "magnitude": 1.4,
-      "depth": 8,
-      "lat": 34.368,
-      "lon": -117.655,
+      "depth": 9,
+      "lat": 34.367,
+      "lon": -117.656,
       "place": "2 km WNW of Wrightwood, CA",
-      "time": "2026-08-20T11:37:29.350Z"
+      "time": "2026-08-20T11:37:29.300Z"
     },
     {
       "id": "tx2026qixtdq",
@@ -528,10 +582,10 @@
       "id": "ci41531016",
       "magnitude": 1,
       "depth": 8,
-      "lat": 33.195,
-      "lon": -116.037,
-      "place": "11 km ENE of Ocotillo Wells, CA",
-      "time": "2026-08-20T08:24:43.670Z"
+      "lat": 33.197,
+      "lon": -116.041,
+      "place": "10 km NE of Ocotillo Wells, CA",
+      "time": "2026-08-20T08:24:43.560Z"
     },
     {
       "id": "ci41531008",
@@ -604,6 +658,15 @@
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-20T07:28:42.130Z"
+    },
+    {
+      "id": "uw714081912",
+      "magnitude": 1.5,
+      "depth": 11,
+      "lat": 46.242,
+      "lon": -122.081,
+      "place": "38 km SSE of Morton, Washington",
+      "time": "2026-08-20T07:27:58.290Z"
     },
     {
       "id": "ci41530976",
@@ -681,10 +744,10 @@
       "id": "ci41530928",
       "magnitude": 0.8,
       "depth": 12,
-      "lat": 32.943,
-      "lon": -116.27,
+      "lat": 32.944,
+      "lon": -116.268,
       "place": "26 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-20T06:15:56.060Z"
+      "time": "2026-08-20T06:15:56.020Z"
     },
     {
       "id": "nc75421687",
@@ -779,11 +842,11 @@
     {
       "id": "ci41530888",
       "magnitude": 2.1,
-      "depth": 7,
-      "lat": 35.319,
+      "depth": 8,
+      "lat": 35.321,
       "lon": -117.811,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-08-20T05:28:24.680Z"
+      "time": "2026-08-20T05:28:24.640Z"
     },
     {
       "id": "nc75421672",
@@ -984,6 +1047,15 @@
       "time": "2026-08-20T03:54:39.460Z"
     },
     {
+      "id": "ci41530848",
+      "magnitude": 1,
+      "depth": 6,
+      "lat": 33.762,
+      "lon": -117.517,
+      "place": "13 km NNE of Trabuco Canyon, CA",
+      "time": "2026-08-20T03:53:21.630Z"
+    },
+    {
       "id": "uw714081862",
       "magnitude": 1.6,
       "depth": 22,
@@ -996,10 +1068,10 @@
       "id": "ci41530840",
       "magnitude": 0.8,
       "depth": 7,
-      "lat": 33.417,
-      "lon": -116.641,
+      "lat": 33.416,
+      "lon": -116.64,
       "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-20T03:31:17.320Z"
+      "time": "2026-08-20T03:31:17.310Z"
     },
     {
       "id": "ci41530832",
@@ -1182,15 +1254,6 @@
       "time": "2026-08-20T01:31:15.158Z"
     },
     {
-      "id": "ci41530792",
-      "magnitude": 1.7,
-      "depth": 6,
-      "lat": 32.828,
-      "lon": -116.356,
-      "place": "16 km E of Pine Valley, CA",
-      "time": "2026-08-20T01:28:32.310Z"
-    },
-    {
       "id": "aka2026qktzzi",
       "magnitude": 1.4,
       "depth": 66,
@@ -1283,11 +1346,11 @@
     {
       "id": "ci41530744",
       "magnitude": 0.9,
-      "depth": 7,
-      "lat": 35.33,
-      "lon": -117.817,
+      "depth": 6,
+      "lat": 35.329,
+      "lon": -117.814,
       "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-08-20T01:00:03.610Z"
+      "time": "2026-08-20T01:00:03.590Z"
     },
     {
       "id": "nc75421577",
@@ -1455,10 +1518,10 @@
       "id": "ci41530688",
       "magnitude": 0.7,
       "depth": 11,
-      "lat": 33.359,
-      "lon": -116.338,
+      "lat": 33.358,
+      "lon": -116.335,
       "place": "12 km NNE of Borrego Springs, CA",
-      "time": "2026-08-19T22:20:33.220Z"
+      "time": "2026-08-19T22:20:33.180Z"
     },
     {
       "id": "ci41530680",
@@ -2100,13 +2163,13 @@
       "time": "2026-08-19T18:42:00.050Z"
     },
     {
-      "id": "aka2026qkgjub",
-      "magnitude": 3.5,
-      "depth": 5,
-      "lat": 51.05,
-      "lon": 174.383,
-      "place": "216 km SSE of Attu Station, Alaska",
-      "time": "2026-08-19T18:39:29.305Z"
+      "id": "us6000tlzs",
+      "magnitude": 3.4,
+      "depth": 10,
+      "lat": 51.169,
+      "lon": 174.493,
+      "place": "207 km SSE of Attu Station, Alaska",
+      "time": "2026-08-19T18:39:31.187Z"
     },
     {
       "id": "uw714082411",
@@ -2566,105 +2629,6 @@
       "lon": -112.887,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-08-19T14:57:41.310Z"
-    },
-    {
-      "id": "hv75020807",
-      "magnitude": 2.1,
-      "depth": 43,
-      "lat": 20.013,
-      "lon": -155.437,
-      "place": "7 km WSW of Pa‘auilo, Hawaii",
-      "time": "2026-08-19T14:48:26.850Z"
-    },
-    {
-      "id": "ci41530200",
-      "magnitude": 0.8,
-      "depth": 19,
-      "lat": 33.874,
-      "lon": -116.847,
-      "place": "6 km SSE of Banning, CA",
-      "time": "2026-08-19T14:47:02.050Z"
-    },
-    {
-      "id": "ci41530192",
-      "magnitude": 1.1,
-      "depth": 16,
-      "lat": 34.03,
-      "lon": -117.158,
-      "place": "4 km SE of Redlands, CA",
-      "time": "2026-08-19T14:41:39.430Z"
-    },
-    {
-      "id": "ci41530184",
-      "magnitude": 0.8,
-      "depth": -1,
-      "lat": 36.118,
-      "lon": -118.068,
-      "place": "13 km NW of Coso Junction, CA",
-      "time": "2026-08-19T14:41:07.940Z"
-    },
-    {
-      "id": "ci41530176",
-      "magnitude": 1.1,
-      "depth": 10,
-      "lat": 32.756,
-      "lon": -115.984,
-      "place": "2 km NNE of Ocotillo, CA",
-      "time": "2026-08-19T14:34:05.470Z"
-    },
-    {
-      "id": "us6000tlvn",
-      "magnitude": 4.9,
-      "depth": 538,
-      "lat": -5.17,
-      "lon": 125.536,
-      "place": "Banda Sea",
-      "time": "2026-08-19T14:32:22.495Z"
-    },
-    {
-      "id": "ci41530168",
-      "magnitude": 0.3,
-      "depth": 11,
-      "lat": 35.314,
-      "lon": -117.836,
-      "place": "19 km WSW of Johannesburg, CA",
-      "time": "2026-08-19T14:30:13.850Z"
-    },
-    {
-      "id": "ci41530152",
-      "magnitude": 0.9,
-      "depth": 5,
-      "lat": 36.093,
-      "lon": -117.866,
-      "place": "9 km NE of Coso Junction, CA",
-      "time": "2026-08-19T14:24:01.860Z"
-    },
-    {
-      "id": "ci41530144",
-      "magnitude": 2.3,
-      "depth": 11,
-      "lat": 33.468,
-      "lon": -116.573,
-      "place": "13 km SE of Anza, CA",
-      "time": "2026-08-19T14:16:23.420Z"
-    },
-    {
-      "id": "hv75020772",
-      "magnitude": 1.4,
-      "depth": 8,
-      "lat": 19.344,
-      "lon": -155.405,
-      "place": "17 km NNE of Pāhala, Hawaii",
-      "time": "2026-08-19T14:14:37.630Z"
-    },
-    {
-      "id": "tx2026qhhbhp",
-      "magnitude": 1.8,
-      "depth": 6,
-      "lat": 31.667,
-      "lon": -104.364,
-      "place": "56 km S of Whites City, New Mexico",
-      "time": "2026-08-19T14:06:06.395Z"
     }
   ]
 }
