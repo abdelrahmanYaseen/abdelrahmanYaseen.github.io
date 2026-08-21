@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-21T05:53:56.592Z",
+  "generated": "2026-08-21T06:24:09.781Z",
   "count": 279,
   "events": [
+    {
+      "id": "nc75422252",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.836,
+      "lon": -122.79,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-21T06:10:57.830Z"
+    },
+    {
+      "id": "tx2026qkigyv",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 31.581,
+      "lon": -104.096,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-08-21T05:56:00.054Z"
+    },
+    {
+      "id": "tx2026qkigpf",
+      "magnitude": 1.9,
+      "depth": 5,
+      "lat": 31.612,
+      "lon": -104.109,
+      "place": "44 km NW of Toyah, Texas",
+      "time": "2026-08-21T05:56:00.028Z"
+    },
+    {
+      "id": "aka2026qmyntn",
+      "magnitude": 1.6,
+      "depth": 14,
+      "lat": 60.385,
+      "lon": -147.793,
+      "place": "37 km NNE of Chenega, Alaska",
+      "time": "2026-08-21T05:43:34.623Z"
+    },
     {
       "id": "uw714082482",
       "magnitude": 1.8,
@@ -10,6 +46,15 @@
       "lon": -121.654,
       "place": "2 km NNE of May Creek, Washington",
       "time": "2026-08-21T05:36:46.090Z"
+    },
+    {
+      "id": "aka2026qmxwhm",
+      "magnitude": 2.6,
+      "depth": 4,
+      "lat": 52.359,
+      "lon": -168.259,
+      "place": "76 km SSE of Nikolski, Alaska",
+      "time": "2026-08-21T05:23:22.301Z"
     },
     {
       "id": "aka2026qmxvau",
@@ -2467,51 +2512,6 @@
       "lon": -168.462,
       "place": "69 km SSE of Nikolski, Alaska",
       "time": "2026-08-20T06:41:24.315Z"
-    },
-    {
-      "id": "av94394738",
-      "magnitude": 1.1,
-      "depth": 6,
-      "lat": 52.833,
-      "lon": -169.734,
-      "place": "59 km WSW of Nikolski, Alaska",
-      "time": "2026-08-20T06:20:57.120Z"
-    },
-    {
-      "id": "ci41530928",
-      "magnitude": 0.8,
-      "depth": 12,
-      "lat": 32.944,
-      "lon": -116.268,
-      "place": "26 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-20T06:15:56.020Z"
-    },
-    {
-      "id": "nc75421687",
-      "magnitude": 1.3,
-      "depth": 2,
-      "lat": 36.561,
-      "lon": -121.173,
-      "place": "4 km NW of Pinnacles, CA",
-      "time": "2026-08-20T06:11:36.740Z"
-    },
-    {
-      "id": "av94394713",
-      "magnitude": 1.4,
-      "depth": 1,
-      "lat": 52.851,
-      "lon": -169.714,
-      "place": "58 km W of Nikolski, Alaska",
-      "time": "2026-08-20T05:53:59.450Z"
-    },
-    {
-      "id": "av94394708",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 52.828,
-      "lon": -169.746,
-      "place": "60 km WSW of Nikolski, Alaska",
-      "time": "2026-08-20T05:53:06.230Z"
     }
   ]
 }
