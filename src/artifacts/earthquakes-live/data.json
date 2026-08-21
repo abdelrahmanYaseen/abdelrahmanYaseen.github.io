@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-21T20:38:54.023Z",
-  "count": 316,
+  "generated": "2026-08-21T20:57:41.567Z",
+  "count": 313,
   "events": [
+    {
+      "id": "hv75022127",
+      "magnitude": 1.8,
+      "depth": 29,
+      "lat": 19.203,
+      "lon": -155.486,
+      "place": "0 km W of Pāhala, Hawaii",
+      "time": "2026-08-21T20:50:21.660Z"
+    },
+    {
+      "id": "tx2026qlluwv",
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 31.728,
+      "lon": -104.249,
+      "place": "51 km SSE of Whites City, New Mexico",
+      "time": "2026-08-21T20:47:09.078Z"
+    },
+    {
+      "id": "uu80149696",
+      "magnitude": 2.2,
+      "depth": 2,
+      "lat": 38.511,
+      "lon": -112.889,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-21T20:34:02.960Z"
+    },
     {
       "id": "ci41532544",
       "magnitude": 0.6,
@@ -208,6 +235,15 @@
       "lon": -117.841,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T18:26:54.080Z"
+    },
+    {
+      "id": "av94397168",
+      "magnitude": -0.6,
+      "depth": 1,
+      "lat": 60.012,
+      "lon": -153.135,
+      "place": "59 km ENE of Pedro Bay, Alaska",
+      "time": "2026-08-21T18:26:04.790Z"
     },
     {
       "id": "nn00923643",
@@ -525,15 +561,6 @@
       "time": "2026-08-21T16:01:06.200Z"
     },
     {
-      "id": "aka2026qnsyet",
-      "magnitude": 1,
-      "depth": 5,
-      "lat": 64.985,
-      "lon": -147.383,
-      "place": "11 km ENE of Fox, Alaska",
-      "time": "2026-08-21T15:55:20.283Z"
-    },
-    {
       "id": "ci41532136",
       "magnitude": 0.5,
       "depth": 7,
@@ -651,13 +678,31 @@
       "time": "2026-08-21T14:17:56.620Z"
     },
     {
+      "id": "aka2026qnpqie",
+      "magnitude": 1.6,
+      "depth": 32,
+      "lat": 60.124,
+      "lon": -148.795,
+      "place": "33 km E of Bear Creek, Alaska",
+      "time": "2026-08-21T14:16:25.396Z"
+    },
+    {
+      "id": "av94396913",
+      "magnitude": 0.9,
+      "depth": -2,
+      "lat": 61.33,
+      "lon": -152.257,
+      "place": "66 km WNW of Beluga, Alaska",
+      "time": "2026-08-21T14:12:00.450Z"
+    },
+    {
       "id": "aka2026qnpjtz",
-      "magnitude": 0.8,
+      "magnitude": 1.1,
       "depth": 93,
-      "lat": 57.655,
-      "lon": -155.746,
-      "place": "77 km W of Karluk, Alaska",
-      "time": "2026-08-21T14:08:45.341Z"
+      "lat": 57.688,
+      "lon": -155.788,
+      "place": "80 km W of Karluk, Alaska",
+      "time": "2026-08-21T14:08:45.429Z"
     },
     {
       "id": "ci41532072",
@@ -751,12 +796,12 @@
     },
     {
       "id": "aka2026qnnnum",
-      "magnitude": 1.7,
+      "magnitude": 2,
       "depth": 113,
-      "lat": 61.037,
-      "lon": -152.303,
+      "lat": 61.042,
+      "lon": -152.31,
       "place": "63 km W of Tyonek, Alaska",
-      "time": "2026-08-21T13:13:34.294Z"
+      "time": "2026-08-21T13:13:34.127Z"
     },
     {
       "id": "us6000tmfv",
@@ -769,12 +814,12 @@
     },
     {
       "id": "aka2026qnnkpc",
-      "magnitude": 1.4,
-      "depth": 0,
-      "lat": 64.801,
-      "lon": -147.454,
-      "place": "3 km E of Badger, Alaska",
-      "time": "2026-08-21T13:09:51.626Z"
+      "magnitude": 1.5,
+      "depth": 1,
+      "lat": 64.787,
+      "lon": -147.464,
+      "place": "3 km ESE of Badger, Alaska",
+      "time": "2026-08-21T13:09:51.698Z"
     },
     {
       "id": "aka2026qnnkqb",
@@ -795,13 +840,22 @@
       "time": "2026-08-21T13:08:36.689Z"
     },
     {
+      "id": "ci10249142",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 36.061,
+      "lon": -117.838,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-21T13:08:33.100Z"
+    },
+    {
       "id": "ci41532016",
       "magnitude": 0.7,
       "depth": 3,
-      "lat": 36.066,
-      "lon": -117.836,
+      "lat": 36.064,
+      "lon": -117.837,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T13:08:29.480Z"
+      "time": "2026-08-21T13:08:29.460Z"
     },
     {
       "id": "us6000tmft",
@@ -2764,87 +2818,6 @@
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-20T21:01:45.540Z"
-    },
-    {
-      "id": "uu80149621",
-      "magnitude": 1.2,
-      "depth": 2,
-      "lat": 38.514,
-      "lon": -112.886,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-20T20:48:27.500Z"
-    },
-    {
-      "id": "ci41531440",
-      "magnitude": 0.6,
-      "depth": 15,
-      "lat": 33.031,
-      "lon": -116.517,
-      "place": "10 km SE of Julian, CA",
-      "time": "2026-08-20T20:48:12.710Z"
-    },
-    {
-      "id": "ci10249086",
-      "magnitude": 0.6,
-      "depth": 14,
-      "lat": 33.031,
-      "lon": -116.511,
-      "place": "10 km ESE of Julian, CA",
-      "time": "2026-08-20T20:47:11.510Z"
-    },
-    {
-      "id": "ci41531432",
-      "magnitude": 0.7,
-      "depth": 15,
-      "lat": 33.027,
-      "lon": -116.513,
-      "place": "10 km SE of Julian, CA",
-      "time": "2026-08-20T20:46:39.530Z"
-    },
-    {
-      "id": "tx2026qjqbbc",
-      "magnitude": 0.3,
-      "depth": 7,
-      "lat": 32.359,
-      "lon": -102.049,
-      "place": "35 km NW of Stanton, Texas",
-      "time": "2026-08-20T20:46:15.008Z"
-    },
-    {
-      "id": "ci41531424",
-      "magnitude": 1.9,
-      "depth": 13,
-      "lat": 33.024,
-      "lon": -116.527,
-      "place": "9 km SE of Julian, CA",
-      "time": "2026-08-20T20:45:17.940Z"
-    },
-    {
-      "id": "nc75422017",
-      "magnitude": 0.8,
-      "depth": 2,
-      "lat": 38.807,
-      "lon": -122.778,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": "2026-08-20T20:44:56.460Z"
-    },
-    {
-      "id": "ci41531416",
-      "magnitude": 0.9,
-      "depth": 13,
-      "lat": 33.028,
-      "lon": -116.523,
-      "place": "9 km SE of Julian, CA",
-      "time": "2026-08-20T20:41:45.240Z"
-    },
-    {
-      "id": "av94395748",
-      "magnitude": -0.1,
-      "depth": 10,
-      "lat": 51.797,
-      "lon": -178.792,
-      "place": "149 km W of Adak, Alaska",
-      "time": "2026-08-20T20:40:47.790Z"
     }
   ]
 }
