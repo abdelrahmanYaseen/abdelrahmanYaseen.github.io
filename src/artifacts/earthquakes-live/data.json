@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-20T23:57:14.025Z",
-  "count": 273,
+  "generated": "2026-08-21T00:53:55.285Z",
+  "count": 281,
   "events": [
+    {
+      "id": "ci41531640",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.063,
+      "lon": -117.838,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T00:45:38.970Z"
+    },
+    {
+      "id": "aka2026qmolil",
+      "magnitude": 2.3,
+      "depth": 2,
+      "lat": 64.266,
+      "lon": -151.153,
+      "place": "70 km NE of Lake Minchumina, Alaska",
+      "time": "2026-08-21T00:40:54.680Z"
+    },
+    {
+      "id": "hv75021572",
+      "magnitude": 2.3,
+      "depth": 30,
+      "lat": 19.161,
+      "lon": -155.487,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": "2026-08-21T00:36:36.420Z"
+    },
+    {
+      "id": "ci41531632",
+      "magnitude": 0.6,
+      "depth": 6,
+      "lat": 33.528,
+      "lon": -116.729,
+      "place": "6 km WSW of Anza, CA",
+      "time": "2026-08-21T00:32:45.380Z"
+    },
+    {
+      "id": "ci41531624",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 35.526,
+      "lon": -117.461,
+      "place": "22 km ESE of Ridgecrest, CA",
+      "time": "2026-08-21T00:22:26.360Z"
+    },
+    {
+      "id": "aka2026qmnkgl",
+      "magnitude": 1.9,
+      "depth": 13,
+      "lat": 61.162,
+      "lon": -149.68,
+      "place": "10 km SSW of Elmendorf Air Force Base, Alaska",
+      "time": "2026-08-21T00:09:41.139Z"
+    },
+    {
+      "id": "hv75021547",
+      "magnitude": 1.8,
+      "depth": 34,
+      "lat": 19.032,
+      "lon": -155.424,
+      "place": "16 km ESE of Naalehu, Hawaii",
+      "time": "2026-08-20T23:55:48.800Z"
+    },
+    {
+      "id": "us6000tmbw",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -56.592,
+      "lon": -141.454,
+      "place": "Pacific-Antarctic Ridge",
+      "time": "2026-08-20T23:36:41.054Z"
+    },
     {
       "id": "aka2026qmlukn",
       "magnitude": 1.5,
@@ -18,16 +90,25 @@
       "lat": 36.063,
       "lon": -117.841,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-20T23:19:03.450Z"
+      "time": "2026-08-20T23:19:03.420Z"
     },
     {
       "id": "ci41531576",
-      "magnitude": 0.8,
+      "magnitude": 0.6,
       "depth": 4,
       "lat": 36.066,
-      "lon": -117.836,
+      "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-20T23:17:36.250Z"
+      "time": "2026-08-20T23:17:36.230Z"
+    },
+    {
+      "id": "us6000tmbl",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": -8.047,
+      "lon": 120.008,
+      "place": "51 km NNE of Labuan Bajo, Indonesia",
+      "time": "2026-08-20T23:01:37.175Z"
     },
     {
       "id": "ci41531536",
@@ -82,15 +163,6 @@
       "lon": -112.888,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-08-20T22:26:55.820Z"
-    },
-    {
-      "id": "ci41531520",
-      "magnitude": 1.7,
-      "depth": 2,
-      "lat": 33.817,
-      "lon": -117.483,
-      "place": "8 km SSE of Home Gardens, CA",
-      "time": "2026-08-20T22:19:50.670Z"
     },
     {
       "id": "uu80149631",
@@ -185,11 +257,11 @@
     {
       "id": "ci41531464",
       "magnitude": 0.7,
-      "depth": 1,
-      "lat": 36.07,
-      "lon": -117.833,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": "2026-08-20T21:01:45.720Z"
+      "depth": 4,
+      "lat": 36.068,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-20T21:01:45.540Z"
     },
     {
       "id": "uu80149621",
@@ -202,12 +274,12 @@
     },
     {
       "id": "ci41531440",
-      "magnitude": 0.5,
-      "depth": 13,
-      "lat": 33.027,
-      "lon": -116.512,
+      "magnitude": 0.6,
+      "depth": 15,
+      "lat": 33.031,
+      "lon": -116.517,
       "place": "10 km SE of Julian, CA",
-      "time": "2026-08-20T20:48:12.920Z"
+      "time": "2026-08-20T20:48:12.710Z"
     },
     {
       "id": "ci10249086",
@@ -329,11 +401,11 @@
     {
       "id": "ci41531376",
       "magnitude": 1.7,
-      "depth": 4,
-      "lat": 34.538,
-      "lon": -120.47,
-      "place": "11 km S of Lompoc, CA",
-      "time": "2026-08-20T20:12:11.630Z"
+      "depth": 6,
+      "lat": 34.532,
+      "lon": -120.485,
+      "place": "12 km SSW of Lompoc, CA",
+      "time": "2026-08-20T20:12:11.390Z"
     },
     {
       "id": "nc75421967",
@@ -361,15 +433,6 @@
       "lon": -117.155,
       "place": "8 km SSE of Redlands, CA",
       "time": "2026-08-20T19:49:56.370Z"
-    },
-    {
-      "id": "ci41531360",
-      "magnitude": 1.6,
-      "depth": 2,
-      "lat": 33.712,
-      "lon": -117.347,
-      "place": "5 km NNW of Lake Elsinore, CA",
-      "time": "2026-08-20T19:45:52.490Z"
     },
     {
       "id": "aka2026qmeind",
@@ -588,6 +651,15 @@
       "time": "2026-08-20T17:56:17.180Z"
     },
     {
+      "id": "av94395543",
+      "magnitude": 0.1,
+      "depth": 15,
+      "lat": 56.125,
+      "lon": -159.347,
+      "place": "26 km NNE of Ivanof Bay, Alaska",
+      "time": "2026-08-20T17:50:31.170Z"
+    },
+    {
       "id": "nc75421882",
       "magnitude": 0.3,
       "depth": 2,
@@ -597,6 +669,24 @@
       "time": "2026-08-20T17:43:26.400Z"
     },
     {
+      "id": "av94395523",
+      "magnitude": -0.5,
+      "depth": 0,
+      "lat": 53.388,
+      "lon": -168.181,
+      "place": "67 km NE of Nikolski, Alaska",
+      "time": "2026-08-20T17:21:19.300Z"
+    },
+    {
+      "id": "av93066094",
+      "magnitude": 0.2,
+      "depth": 7,
+      "lat": 53.261,
+      "lon": -168.189,
+      "place": "57 km NE of Nikolski, Alaska",
+      "time": "2026-08-20T17:10:03.020Z"
+    },
+    {
       "id": "ci41531264",
       "magnitude": 0.8,
       "depth": 3,
@@ -604,6 +694,15 @@
       "lon": -117.884,
       "place": "8 km NE of Coso Junction, CA",
       "time": "2026-08-20T17:09:40.500Z"
+    },
+    {
+      "id": "av94395493",
+      "magnitude": -0.6,
+      "depth": 2,
+      "lat": 59.999,
+      "lon": -153.089,
+      "place": "61 km ENE of Pedro Bay, Alaska",
+      "time": "2026-08-20T16:50:12.550Z"
     },
     {
       "id": "hv75021377",
@@ -631,6 +730,24 @@
       "lon": -117.539,
       "place": "6 km NE of Rancho Cucamonga, CA",
       "time": "2026-08-20T16:34:18.980Z"
+    },
+    {
+      "id": "av93066089",
+      "magnitude": -0.4,
+      "depth": 5,
+      "lat": 53.377,
+      "lon": -168.144,
+      "place": "68 km NE of Nikolski, Alaska",
+      "time": "2026-08-20T16:22:59.920Z"
+    },
+    {
+      "id": "av93066084",
+      "magnitude": -0.2,
+      "depth": 8,
+      "lat": 53.362,
+      "lon": -168.216,
+      "place": "63 km NE of Nikolski, Alaska",
+      "time": "2026-08-20T16:18:53.340Z"
     },
     {
       "id": "aka2026qlxomk",
@@ -730,6 +847,15 @@
       "lon": 107.811,
       "place": "85 km SSW of Singaparna, Indonesia",
       "time": "2026-08-20T14:31:33.917Z"
+    },
+    {
+      "id": "av94395343",
+      "magnitude": 0.2,
+      "depth": 3,
+      "lat": 58.293,
+      "lon": -154.983,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": "2026-08-20T14:13:13.460Z"
     },
     {
       "id": "uw714082052",
@@ -2404,60 +2530,6 @@
       "lon": -117.814,
       "place": "17 km WSW of Johannesburg, CA",
       "time": "2026-08-20T01:00:03.590Z"
-    },
-    {
-      "id": "av94394308",
-      "magnitude": -0.5,
-      "depth": 3,
-      "lat": 61.318,
-      "lon": -152.264,
-      "place": "66 km WNW of Beluga, Alaska",
-      "time": "2026-08-20T00:46:58.820Z"
-    },
-    {
-      "id": "av94394273",
-      "magnitude": 0.1,
-      "depth": 2,
-      "lat": 61.469,
-      "lon": -152.602,
-      "place": "86 km SW of Skwentna, Alaska",
-      "time": "2026-08-20T00:31:38.250Z"
-    },
-    {
-      "id": "nc75421577",
-      "magnitude": 0.7,
-      "depth": 1,
-      "lat": 38.849,
-      "lon": -122.847,
-      "place": "11 km WNW of Cobb, CA",
-      "time": "2026-08-20T00:24:36.370Z"
-    },
-    {
-      "id": "us6000tm16",
-      "magnitude": 5,
-      "depth": 73,
-      "lat": -20.324,
-      "lon": 169.151,
-      "place": "87 km S of Isangel, Vanuatu",
-      "time": "2026-08-20T00:20:24.938Z"
-    },
-    {
-      "id": "aka2026qkrfis",
-      "magnitude": 2.1,
-      "depth": 25,
-      "lat": 55.461,
-      "lon": -156.669,
-      "place": "142 km SE of Chignik, Alaska",
-      "time": "2026-08-20T00:04:32.094Z"
-    },
-    {
-      "id": "tx2026qiawbm",
-      "magnitude": 0.6,
-      "depth": 7,
-      "lat": 32.293,
-      "lon": -101.843,
-      "place": "18 km NNW of Stanton, Texas",
-      "time": "2026-08-20T00:03:13.199Z"
     }
   ]
 }
