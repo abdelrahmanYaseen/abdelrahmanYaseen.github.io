@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-21T17:52:24.811Z",
-  "count": 305,
+  "generated": "2026-08-21T18:19:32.072Z",
+  "count": 302,
   "events": [
+    {
+      "id": "ci41532336",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.063,
+      "lon": -117.839,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T18:07:54.330Z"
+    },
+    {
+      "id": "ci41532328",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 36.066,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T18:07:25.940Z"
+    },
+    {
+      "id": "nc75422542",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.836,
+      "lon": -122.81,
+      "place": "8 km WNW of Cobb, CA",
+      "time": "2026-08-21T18:02:25.510Z"
+    },
+    {
+      "id": "ci41532320",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 36.064,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:59:00.930Z"
+    },
+    {
+      "id": "ci41532304",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 36.064,
+      "lon": -117.843,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:53:57.490Z"
+    },
+    {
+      "id": "us6000tmlu",
+      "magnitude": 5.7,
+      "depth": 10,
+      "lat": -7.584,
+      "lon": 104.55,
+      "place": "194 km SW of Labuan, Indonesia",
+      "time": "2026-08-21T17:41:44.453Z"
+    },
     {
       "id": "ci41532280",
       "magnitude": 0.4,
@@ -32,11 +86,11 @@
     {
       "id": "nn00923636",
       "magnitude": 1.6,
-      "depth": 16,
-      "lat": 37.302,
-      "lon": -115.009,
-      "place": "15 km ESE of Alamo, Nevada",
-      "time": "2026-08-21T17:31:43.931Z"
+      "depth": 0,
+      "lat": 37.242,
+      "lon": -115.136,
+      "place": "13 km S of Alamo, Nevada",
+      "time": "2026-08-21T17:31:45.607Z"
     },
     {
       "id": "ci41532264",
@@ -869,11 +923,11 @@
     {
       "id": "ci41531920",
       "magnitude": 0.8,
-      "depth": 3,
+      "depth": 4,
       "lat": 35.084,
-      "lon": -118.337,
+      "lon": -118.334,
       "place": "12 km ESE of Tehachapi, CA",
-      "time": "2026-08-21T10:33:58.930Z"
+      "time": "2026-08-21T10:33:58.890Z"
     },
     {
       "id": "tx2026qkrjso",
@@ -905,20 +959,20 @@
     {
       "id": "ci41531904",
       "magnitude": 0.6,
-      "depth": 12,
+      "depth": 13,
       "lat": 33.511,
       "lon": -116.508,
       "place": "16 km ESE of Anza, CA",
-      "time": "2026-08-21T10:03:09.760Z"
+      "time": "2026-08-21T10:03:09.650Z"
     },
     {
       "id": "ci41531896",
       "magnitude": 1.2,
       "depth": 6,
-      "lat": 34.125,
-      "lon": -117.777,
+      "lat": 34.123,
+      "lon": -117.778,
       "place": "3 km NNW of La Verne, CA",
-      "time": "2026-08-21T09:54:44.870Z"
+      "time": "2026-08-21T09:54:44.820Z"
     },
     {
       "id": "nc75422322",
@@ -1362,6 +1416,15 @@
       "time": "2026-08-21T06:10:57.830Z"
     },
     {
+      "id": "uw714082492",
+      "magnitude": 0.9,
+      "depth": 17,
+      "lat": 47.92,
+      "lon": -122.528,
+      "place": "1 km E of Hansville, Washington",
+      "time": "2026-08-21T06:07:13.330Z"
+    },
+    {
       "id": "us6000tme0",
       "magnitude": 4.6,
       "depth": 10,
@@ -1399,12 +1462,12 @@
     },
     {
       "id": "uw714082482",
-      "magnitude": 1.8,
-      "depth": 0,
-      "lat": 47.87,
-      "lon": -121.654,
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 47.873,
+      "lon": -121.65,
       "place": "2 km NNE of May Creek, Washington",
-      "time": "2026-08-21T05:36:46.090Z"
+      "time": "2026-08-21T05:36:46.300Z"
     },
     {
       "id": "aka2026qmxwhm",
@@ -2656,96 +2719,6 @@
       "lon": -122.524,
       "place": "5 km NNE of Kenwood, CA",
       "time": "2026-08-20T18:24:54.580Z"
-    },
-    {
-      "id": "us6000tm8h",
-      "magnitude": 5.6,
-      "depth": 10,
-      "lat": -8.288,
-      "lon": 121.398,
-      "place": "67 km NNW of Ende, Indonesia",
-      "time": "2026-08-20T18:12:51.721Z"
-    },
-    {
-      "id": "aka2026qmbman",
-      "magnitude": 1.6,
-      "depth": 118,
-      "lat": 60.048,
-      "lon": -152.89,
-      "place": "65 km W of Happy Valley, Alaska",
-      "time": "2026-08-20T18:11:54.553Z"
-    },
-    {
-      "id": "hv75021407",
-      "magnitude": 2,
-      "depth": 30,
-      "lat": 19.182,
-      "lon": -155.495,
-      "place": "2 km SW of Pāhala, Hawaii",
-      "time": "2026-08-20T18:07:40.350Z"
-    },
-    {
-      "id": "uw714082262",
-      "magnitude": 0.9,
-      "depth": 12,
-      "lat": 47.326,
-      "lon": -123.718,
-      "place": "15 km SE of Neilton, Washington",
-      "time": "2026-08-20T18:06:28.640Z"
-    },
-    {
-      "id": "ci41531288",
-      "magnitude": 0.7,
-      "depth": 9,
-      "lat": 32.92,
-      "lon": -116.339,
-      "place": "21 km ENE of Pine Valley, CA",
-      "time": "2026-08-20T18:03:40.590Z"
-    },
-    {
-      "id": "av94395558",
-      "magnitude": -0.5,
-      "depth": 6,
-      "lat": 60.025,
-      "lon": -153.098,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-20T18:02:02.960Z"
-    },
-    {
-      "id": "us6000tm81",
-      "magnitude": 6.7,
-      "depth": 99,
-      "lat": -14.641,
-      "lon": -73.524,
-      "place": "31 km NW of Aniso, Peru",
-      "time": "2026-08-20T18:00:18.626Z"
-    },
-    {
-      "id": "aka2026qmbais",
-      "magnitude": 3.5,
-      "depth": 12,
-      "lat": 61.566,
-      "lon": -148.103,
-      "place": "31 km SE of Chickaloon, Alaska",
-      "time": "2026-08-20T17:58:27.739Z"
-    },
-    {
-      "id": "nc75421887",
-      "magnitude": 0.9,
-      "depth": 1,
-      "lat": 38.788,
-      "lon": -122.749,
-      "place": "1 km NNE of The Geysers, CA",
-      "time": "2026-08-20T17:58:14.450Z"
-    },
-    {
-      "id": "uw714082252",
-      "magnitude": 1.6,
-      "depth": 0,
-      "lat": 45.805,
-      "lon": -123.278,
-      "place": "8 km SW of Vernonia, Oregon",
-      "time": "2026-08-20T17:56:17.180Z"
     }
   ]
 }
