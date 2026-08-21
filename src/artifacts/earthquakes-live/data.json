@@ -1,15 +1,24 @@
 {
-  "generated": "2026-08-21T09:57:08.068Z",
-  "count": 266,
+  "generated": "2026-08-21T10:22:28.979Z",
+  "count": 261,
   "events": [
+    {
+      "id": "ci41531904",
+      "magnitude": 0.6,
+      "depth": 12,
+      "lat": 33.511,
+      "lon": -116.508,
+      "place": "16 km ESE of Anza, CA",
+      "time": "2026-08-21T10:03:09.760Z"
+    },
     {
       "id": "ci41531896",
       "magnitude": 1.2,
-      "depth": 5,
-      "lat": 34.124,
-      "lon": -117.774,
+      "depth": 6,
+      "lat": 34.125,
+      "lon": -117.777,
       "place": "3 km NNW of La Verne, CA",
-      "time": "2026-08-21T09:54:44.890Z"
+      "time": "2026-08-21T09:54:44.870Z"
     },
     {
       "id": "nc75422322",
@@ -24,10 +33,10 @@
       "id": "tx2026qkpxsy",
       "magnitude": 1.6,
       "depth": 3,
-      "lat": 31.631,
+      "lat": 31.632,
       "lon": -104.452,
       "place": "60 km S of Whites City, New Mexico",
-      "time": "2026-08-21T09:46:39.820Z"
+      "time": "2026-08-21T09:46:39.818Z"
     },
     {
       "id": "ci41531888",
@@ -1480,12 +1489,12 @@
     },
     {
       "id": "tx2026qjnqhh",
-      "magnitude": 2.1,
-      "depth": 4,
-      "lat": 29.002,
-      "lon": -97.892,
-      "place": "12 km E of Falls City, Texas",
-      "time": "2026-08-20T19:33:13.234Z"
+      "magnitude": 2,
+      "depth": 9,
+      "lat": 29.016,
+      "lon": -97.907,
+      "place": "11 km ENE of Falls City, Texas",
+      "time": "2026-08-20T19:33:11.560Z"
     },
     {
       "id": "nc75421947",
@@ -2341,60 +2350,6 @@
       "lon": -121.129,
       "place": "17 km WSW of Nile, Washington",
       "time": "2026-08-20T10:30:06.000Z"
-    },
-    {
-      "id": "us6000tm31",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -7.94,
-      "lon": 120.869,
-      "place": "86 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-20T10:08:26.207Z"
-    },
-    {
-      "id": "ci41531048",
-      "magnitude": 0.3,
-      "depth": 8,
-      "lat": 33.422,
-      "lon": -116.619,
-      "place": "16 km N of Warner Springs, CA",
-      "time": "2026-08-20T10:04:44.570Z"
-    },
-    {
-      "id": "uu80149551",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.512,
-      "lon": -112.888,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-20T10:03:26.820Z"
-    },
-    {
-      "id": "aka2026qlldoe",
-      "magnitude": 2.3,
-      "depth": 31,
-      "lat": 53.907,
-      "lon": -163.715,
-      "place": "107 km S of False Pass, Alaska",
-      "time": "2026-08-20T10:02:21.882Z"
-    },
-    {
-      "id": "nc75421712",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.789,
-      "lon": -122.749,
-      "place": "1 km NNE of The Geysers, CA",
-      "time": "2026-08-20T10:01:15.560Z"
-    },
-    {
-      "id": "aka2026qllcju",
-      "magnitude": 2.1,
-      "depth": 77,
-      "lat": 56.831,
-      "lon": -155.719,
-      "place": "95 km W of Akhiok, Alaska",
-      "time": "2026-08-20T10:01:00.020Z"
     }
   ]
 }
