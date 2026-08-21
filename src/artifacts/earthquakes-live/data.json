@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-21T17:18:05.420Z",
-  "count": 298,
+  "generated": "2026-08-21T17:52:24.811Z",
+  "count": 305,
   "events": [
+    {
+      "id": "ci41532280",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 36.069,
+      "lon": -117.837,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:40:22.230Z"
+    },
+    {
+      "id": "aka2026qnwkjn",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 63.272,
+      "lon": -151.059,
+      "place": "44 km SE of Denali National Park, Alaska",
+      "time": "2026-08-21T17:39:21.279Z"
+    },
+    {
+      "id": "ci41532272",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.065,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:36:26.400Z"
+    },
+    {
+      "id": "nn00923636",
+      "magnitude": 1.6,
+      "depth": 16,
+      "lat": 37.302,
+      "lon": -115.009,
+      "place": "15 km ESE of Alamo, Nevada",
+      "time": "2026-08-21T17:31:43.931Z"
+    },
+    {
+      "id": "ci41532264",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.069,
+      "lon": -117.838,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:30:41.890Z"
+    },
+    {
+      "id": "nc75422517",
+      "magnitude": 1,
+      "depth": 18,
+      "lat": 38.802,
+      "lon": -122.824,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": "2026-08-21T17:29:56.950Z"
+    },
+    {
+      "id": "ci41532256",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 36.069,
+      "lon": -117.843,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:27:59.570Z"
+    },
+    {
+      "id": "ci41532248",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 36.069,
+      "lon": -117.841,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:27:38.970Z"
+    },
+    {
+      "id": "ci41532240",
+      "magnitude": 3.3,
+      "depth": 3,
+      "lat": 36.069,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T17:26:17.660Z"
+    },
     {
       "id": "aka2026qnvpmo",
       "magnitude": 2.3,
@@ -19,6 +100,15 @@
       "lon": -117.838,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T17:14:06.490Z"
+    },
+    {
+      "id": "us6000tmlk",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -7.765,
+      "lon": 120.458,
+      "place": "93 km N of Ruteng, Indonesia",
+      "time": "2026-08-21T17:06:37.647Z"
     },
     {
       "id": "ci41532224",
@@ -428,11 +518,11 @@
     {
       "id": "ci41532000",
       "magnitude": 2.1,
-      "depth": 6,
-      "lat": 33.315,
-      "lon": -115.456,
+      "depth": 5,
+      "lat": 33.316,
+      "lon": -115.455,
       "place": "10 km NE of Niland, CA",
-      "time": "2026-08-21T12:55:06.990Z"
+      "time": "2026-08-21T12:55:06.890Z"
     },
     {
       "id": "ci41531992",
@@ -877,12 +967,12 @@
     },
     {
       "id": "ci41531880",
-      "magnitude": -0.1,
-      "depth": 8,
-      "lat": 33.412,
-      "lon": -116.634,
+      "magnitude": 0.2,
+      "depth": 7,
+      "lat": 33.411,
+      "lon": -116.637,
       "place": "14 km N of Warner Springs, CA",
-      "time": "2026-08-21T09:39:27.160Z"
+      "time": "2026-08-21T09:39:27.140Z"
     },
     {
       "id": "ci41531872",
@@ -967,12 +1057,12 @@
     },
     {
       "id": "ci41531848",
-      "magnitude": 0.3,
+      "magnitude": 0.2,
       "depth": 13,
-      "lat": 33.63,
-      "lon": -116.673,
+      "lat": 33.631,
+      "lon": -116.672,
       "place": "8 km N of Anza, CA",
-      "time": "2026-08-21T08:42:23.470Z"
+      "time": "2026-08-21T08:42:23.450Z"
     },
     {
       "id": "aka2026qnemsz",
@@ -1747,6 +1837,15 @@
       "lon": 176.312,
       "place": "232 km ESE of Attu Station, Alaska",
       "time": "2026-08-21T01:13:27.127Z"
+    },
+    {
+      "id": "uw714082432",
+      "magnitude": 1.2,
+      "depth": 13,
+      "lat": 49.001,
+      "lon": -122.387,
+      "place": "7 km NE of Lynden, Washington",
+      "time": "2026-08-21T01:12:06.940Z"
     },
     {
       "id": "us6000tmcf",
@@ -2647,42 +2746,6 @@
       "lon": -123.278,
       "place": "8 km SW of Vernonia, Oregon",
       "time": "2026-08-20T17:56:17.180Z"
-    },
-    {
-      "id": "av93066099",
-      "magnitude": 0.1,
-      "depth": 13,
-      "lat": 56.156,
-      "lon": -159.356,
-      "place": "29 km NNE of Ivanof Bay, Alaska",
-      "time": "2026-08-20T17:50:31.180Z"
-    },
-    {
-      "id": "av94395543",
-      "magnitude": 0.1,
-      "depth": 15,
-      "lat": 56.125,
-      "lon": -159.347,
-      "place": "26 km NNE of Ivanof Bay, Alaska",
-      "time": "2026-08-20T17:50:31.170Z"
-    },
-    {
-      "id": "nc75421882",
-      "magnitude": 0.3,
-      "depth": 2,
-      "lat": 38.85,
-      "lon": -122.849,
-      "place": "11 km WNW of Cobb, CA",
-      "time": "2026-08-20T17:43:26.400Z"
-    },
-    {
-      "id": "av94395523",
-      "magnitude": -0.5,
-      "depth": 0,
-      "lat": 53.388,
-      "lon": -168.181,
-      "place": "67 km NE of Nikolski, Alaska",
-      "time": "2026-08-20T17:21:19.300Z"
     }
   ]
 }
