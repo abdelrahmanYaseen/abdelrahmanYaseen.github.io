@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-21T19:03:50.798Z",
-  "count": 309,
+  "generated": "2026-08-21T19:34:34.075Z",
+  "count": 307,
   "events": [
+    {
+      "id": "hv75022097",
+      "magnitude": 1.8,
+      "depth": 7,
+      "lat": 18.74,
+      "lon": -155.243,
+      "place": "50 km SE of Naalehu, Hawaii",
+      "time": "2026-08-21T19:25:55.250Z"
+    },
+    {
+      "id": "ci41532432",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 36.064,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T19:09:32.300Z"
+    },
+    {
+      "id": "aka2026qnzjam",
+      "magnitude": 1.1,
+      "depth": 5,
+      "lat": 59.364,
+      "lon": -153.439,
+      "place": "60 km SE of Pedro Bay, Alaska",
+      "time": "2026-08-21T19:07:47.698Z"
+    },
     {
       "id": "nc75422597",
       "magnitude": 0.8,
@@ -66,6 +93,15 @@
       "time": "2026-08-21T18:26:54.130Z"
     },
     {
+      "id": "nn00923643",
+      "magnitude": 1.6,
+      "depth": 6,
+      "lat": 39.339,
+      "lon": -119.015,
+      "place": "19 km ESE of Silver Springs, Nevada",
+      "time": "2026-08-21T18:23:28.971Z"
+    },
+    {
       "id": "aka2026qnxvey",
       "magnitude": 1.4,
       "depth": 80,
@@ -88,18 +124,18 @@
       "magnitude": 0.8,
       "depth": 3,
       "lat": 36.063,
-      "lon": -117.839,
+      "lon": -117.838,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T18:07:54.330Z"
+      "time": "2026-08-21T18:07:54.320Z"
     },
     {
       "id": "ci41532328",
       "magnitude": 1.1,
       "depth": 3,
       "lat": 36.066,
-      "lon": -117.842,
+      "lon": -117.841,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T18:07:25.940Z"
+      "time": "2026-08-21T18:07:25.900Z"
     },
     {
       "id": "us6000tmm3",
@@ -123,19 +159,19 @@
       "id": "ci41532320",
       "magnitude": 0.9,
       "depth": 3,
-      "lat": 36.064,
+      "lat": 36.066,
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:59:00.930Z"
+      "time": "2026-08-21T17:59:00.890Z"
     },
     {
       "id": "ci41532304",
       "magnitude": 1,
-      "depth": 2,
+      "depth": 3,
       "lat": 36.064,
-      "lon": -117.843,
+      "lon": -117.842,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:53:57.490Z"
+      "time": "2026-08-21T17:53:57.470Z"
     },
     {
       "id": "us6000tmlu",
@@ -150,10 +186,10 @@
       "id": "ci41532280",
       "magnitude": 0.4,
       "depth": 3,
-      "lat": 36.069,
-      "lon": -117.837,
+      "lat": 36.068,
+      "lon": -117.835,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:40:22.230Z"
+      "time": "2026-08-21T17:40:22.240Z"
     },
     {
       "id": "aka2026qnwkjn",
@@ -276,19 +312,19 @@
       "id": "ci41532208",
       "magnitude": 0.6,
       "depth": 13,
-      "lat": 33.584,
-      "lon": -116.614,
+      "lat": 33.587,
+      "lon": -116.615,
       "place": "6 km ENE of Anza, CA",
-      "time": "2026-08-21T16:55:11.550Z"
+      "time": "2026-08-21T16:55:11.540Z"
     },
     {
       "id": "ci41532192",
       "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.066,
-      "lon": -117.842,
+      "depth": 4,
+      "lat": 36.065,
+      "lon": -117.843,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T16:47:50.810Z"
+      "time": "2026-08-21T16:47:50.770Z"
     },
     {
       "id": "us6000tmlh",
@@ -302,11 +338,11 @@
     {
       "id": "ci41532184",
       "magnitude": 0.8,
-      "depth": 16,
-      "lat": 34,
-      "lon": -117.032,
-      "place": "2 km ENE of Calimesa, CA",
-      "time": "2026-08-21T16:45:24.780Z"
+      "depth": 18,
+      "lat": 34.005,
+      "lon": -117.03,
+      "place": "3 km NE of Calimesa, CA",
+      "time": "2026-08-21T16:45:24.540Z"
     },
     {
       "id": "ok2026qjdj",
@@ -316,6 +352,15 @@
       "lon": -97.608,
       "place": "8 km SE of Loco, Oklahoma",
       "time": "2026-08-21T16:29:46.799Z"
+    },
+    {
+      "id": "tx2026qlctff",
+      "magnitude": 1.2,
+      "depth": 4,
+      "lat": 30.983,
+      "lon": -103.524,
+      "place": "21 km E of Balmorhea, Texas",
+      "time": "2026-08-21T16:13:46.861Z"
     },
     {
       "id": "ci41532152",
@@ -1266,19 +1311,19 @@
       "id": "aka2026qndmmh",
       "magnitude": 1.6,
       "depth": 17,
-      "lat": 57.888,
-      "lon": -155.841,
-      "place": "89 km WNW of Karluk, Alaska",
-      "time": "2026-08-21T08:12:01.891Z"
+      "lat": 57.882,
+      "lon": -155.86,
+      "place": "90 km WNW of Karluk, Alaska",
+      "time": "2026-08-21T08:12:08.188Z"
     },
     {
       "id": "aka2026qndlbq",
-      "magnitude": 2.1,
-      "depth": 5,
-      "lat": 57.878,
-      "lon": -155.837,
-      "place": "89 km WNW of Karluk, Alaska",
-      "time": "2026-08-21T08:10:25.739Z"
+      "magnitude": 2.3,
+      "depth": 4,
+      "lat": 57.894,
+      "lon": -155.854,
+      "place": "90 km WNW of Karluk, Alaska",
+      "time": "2026-08-21T08:10:25.851Z"
     },
     {
       "id": "nc75422297",
@@ -1320,10 +1365,10 @@
       "id": "aka2026qndeac",
       "magnitude": 1.7,
       "depth": 27,
-      "lat": 61.815,
-      "lon": -149.799,
-      "place": "14 km ENE of Willow, Alaska",
-      "time": "2026-08-21T08:02:32.632Z"
+      "lat": 61.812,
+      "lon": -149.786,
+      "place": "15 km ENE of Willow, Alaska",
+      "time": "2026-08-21T08:02:32.566Z"
     },
     {
       "id": "ci41531832",
@@ -2719,69 +2764,6 @@
       "lon": -122.16,
       "place": "38 km NE of Amboy, Washington",
       "time": "2026-08-20T19:36:18.380Z"
-    },
-    {
-      "id": "tx2026qjnqhh",
-      "magnitude": 2,
-      "depth": 9,
-      "lat": 29.016,
-      "lon": -97.907,
-      "place": "11 km ENE of Falls City, Texas",
-      "time": "2026-08-20T19:33:11.560Z"
-    },
-    {
-      "id": "nc75421947",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.829,
-      "lon": -122.817,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-08-20T19:32:57.590Z"
-    },
-    {
-      "id": "us6000tm93",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -8.423,
-      "lon": 121.271,
-      "place": "63 km NW of Ende, Indonesia",
-      "time": "2026-08-20T19:24:03.495Z"
-    },
-    {
-      "id": "uu80149601",
-      "magnitude": 1.7,
-      "depth": 7,
-      "lat": 37.821,
-      "lon": -113.097,
-      "place": "8 km NW of Enoch, Utah",
-      "time": "2026-08-20T19:18:39.120Z"
-    },
-    {
-      "id": "tx2026qjncdd",
-      "magnitude": 0.3,
-      "depth": 6,
-      "lat": 32.444,
-      "lon": -102.106,
-      "place": "35 km SSW of Los Ybanez, Texas",
-      "time": "2026-08-20T19:17:03.343Z"
-    },
-    {
-      "id": "uw714082292",
-      "magnitude": 2,
-      "depth": 9,
-      "lat": 45.048,
-      "lon": -117.938,
-      "place": "2 km NNW of North Powder, Oregon",
-      "time": "2026-08-20T19:15:35.350Z"
-    },
-    {
-      "id": "uu80149596",
-      "magnitude": 0.4,
-      "depth": 3,
-      "lat": 38.508,
-      "lon": -112.886,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-20T19:03:56.600Z"
     }
   ]
 }
