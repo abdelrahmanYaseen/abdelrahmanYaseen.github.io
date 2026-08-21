@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-21T10:54:25.536Z",
-  "count": 263,
+  "generated": "2026-08-21T11:15:08.312Z",
+  "count": 262,
   "events": [
+    {
+      "id": "nc75422337",
+      "magnitude": 2.6,
+      "depth": 13,
+      "lat": 40.56,
+      "lon": -124.233,
+      "place": "3 km SE of Ferndale, CA",
+      "time": "2026-08-21T11:10:57.000Z"
+    },
+    {
+      "id": "nc75422332",
+      "magnitude": 0.6,
+      "depth": 2,
+      "lat": 35.722,
+      "lon": -120.309,
+      "place": "1 km W of Cholame, CA",
+      "time": "2026-08-21T11:07:45.210Z"
+    },
+    {
+      "id": "nc75422327",
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 36.775,
+      "lon": -121.495,
+      "place": "9 km SSE of San Juan Bautista, CA",
+      "time": "2026-08-21T11:06:35.830Z"
+    },
     {
       "id": "ci41531928",
       "magnitude": 1.3,
@@ -676,6 +703,15 @@
       "lon": -155.503,
       "place": "4 km SW of Pāhala, Hawaii",
       "time": "2026-08-21T02:47:49.070Z"
+    },
+    {
+      "id": "pr71529188",
+      "magnitude": 3.4,
+      "depth": 73,
+      "lat": 19.275,
+      "lon": -64.814,
+      "place": "104 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-08-21T02:41:18.750Z"
     },
     {
       "id": "nc75422187",
@@ -2323,51 +2359,6 @@
       "lon": -112.901,
       "place": "14 km NE of Milford, Utah",
       "time": "2026-08-20T11:15:55.010Z"
-    },
-    {
-      "id": "ci41531072",
-      "magnitude": 0.4,
-      "depth": 15,
-      "lat": 33.657,
-      "lon": -116.719,
-      "place": "9 km S of Idyllwild, CA",
-      "time": "2026-08-20T11:13:05.070Z"
-    },
-    {
-      "id": "nc75421717",
-      "magnitude": 1.3,
-      "depth": 2,
-      "lat": 38.815,
-      "lon": -122.809,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-08-20T11:02:35.090Z"
-    },
-    {
-      "id": "ci41531064",
-      "magnitude": 0.5,
-      "depth": 2,
-      "lat": 34.102,
-      "lon": -116.644,
-      "place": "8 km NW of Morongo Valley, CA",
-      "time": "2026-08-20T11:01:14.770Z"
-    },
-    {
-      "id": "tx2026qiwqyx",
-      "magnitude": 1.4,
-      "depth": 3,
-      "lat": 32.181,
-      "lon": -101.404,
-      "place": "8 km NNW of Forsan, Texas",
-      "time": "2026-08-20T11:01:03.118Z"
-    },
-    {
-      "id": "aka2026qlnaod",
-      "magnitude": 1.4,
-      "depth": 132,
-      "lat": 63.198,
-      "lon": -150.78,
-      "place": "60 km SE of Denali National Park, Alaska",
-      "time": "2026-08-20T10:58:54.951Z"
     }
   ]
 }
