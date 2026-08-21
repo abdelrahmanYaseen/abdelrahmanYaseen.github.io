@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-21T22:46:44.162Z",
-  "count": 312,
+  "generated": "2026-08-21T23:12:41.331Z",
+  "count": 310,
   "events": [
+    {
+      "id": "aka2026qohixf",
+      "magnitude": 1.9,
+      "depth": 0,
+      "lat": 64.618,
+      "lon": -149.435,
+      "place": "15 km W of Four Mile Road, Alaska",
+      "time": "2026-08-21T23:07:29.579Z"
+    },
     {
       "id": "aka2026qogfxc",
       "magnitude": 0.9,
@@ -10,6 +19,15 @@
       "lon": -155.336,
       "place": "85 km NW of Karluk, Alaska",
       "time": "2026-08-21T22:34:02.911Z"
+    },
+    {
+      "id": "us6000tmnz",
+      "magnitude": 4.7,
+      "depth": 102,
+      "lat": -25.567,
+      "lon": -68.882,
+      "place": "147 km NE of Diego de Almagro, Chile",
+      "time": "2026-08-21T22:26:03.081Z"
     },
     {
       "id": "ci41532624",
@@ -2773,42 +2791,6 @@
       "lon": -117.847,
       "place": "9 km ENE of Coso Junction, CA",
       "time": "2026-08-20T23:17:17.990Z"
-    },
-    {
-      "id": "av94395958",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 52.822,
-      "lon": -169.729,
-      "place": "59 km WSW of Nikolski, Alaska",
-      "time": "2026-08-20T23:04:56.200Z"
-    },
-    {
-      "id": "us6000tmbl",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": -8.047,
-      "lon": 120.008,
-      "place": "51 km NNE of Labuan Bajo, Indonesia",
-      "time": "2026-08-20T23:01:37.175Z"
-    },
-    {
-      "id": "ci41531536",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 36.065,
-      "lon": -117.841,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-20T22:52:15.860Z"
-    },
-    {
-      "id": "hv75021527",
-      "magnitude": 2,
-      "depth": 33,
-      "lat": 19.177,
-      "lon": -155.494,
-      "place": "3 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-20T22:49:31.020Z"
     }
   ]
 }
