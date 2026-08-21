@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-21T14:59:43.617Z",
-  "count": 285,
+  "generated": "2026-08-21T15:33:07.521Z",
+  "count": 280,
   "events": [
+    {
+      "id": "ci41532104",
+      "magnitude": 3,
+      "depth": 2,
+      "lat": 36.066,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-21T15:16:58.210Z"
+    },
     {
       "id": "ci41532096",
       "magnitude": 1.2,
@@ -32,11 +41,11 @@
     {
       "id": "us6000tmip",
       "magnitude": 4.3,
-      "depth": 577,
-      "lat": -24.422,
-      "lon": 179.597,
+      "depth": 524,
+      "lat": -24.479,
+      "lon": 179.787,
       "place": "south of the Fiji Islands",
-      "time": "2026-08-21T14:27:43.224Z"
+      "time": "2026-08-21T14:27:38.711Z"
     },
     {
       "id": "uw714082622",
@@ -298,15 +307,6 @@
       "lon": -116.755,
       "place": "5 km SW of Idyllwild, CA",
       "time": "2026-08-21T12:29:37.420Z"
-    },
-    {
-      "id": "tx2026qkvcpk",
-      "magnitude": 1.5,
-      "depth": 0,
-      "lat": 32.31,
-      "lon": -102.767,
-      "place": "20 km W of Andrews, Texas",
-      "time": "2026-08-21T12:23:10.326Z"
     },
     {
       "id": "tx2026qkvcfe",
@@ -2521,51 +2521,6 @@
       "lon": -136.351,
       "place": "50 km SSW of Covenant Life, Alaska",
       "time": "2026-08-20T16:14:41.207Z"
-    },
-    {
-      "id": "tx2026qjfmty",
-      "magnitude": 1.6,
-      "depth": 6,
-      "lat": 31.651,
-      "lon": -104.366,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": "2026-08-20T15:30:25.239Z"
-    },
-    {
-      "id": "tx2026qjfbuk",
-      "magnitude": 1.1,
-      "depth": 8,
-      "lat": 32.353,
-      "lon": -102.097,
-      "place": "38 km NW of Stanton, Texas",
-      "time": "2026-08-20T15:15:03.614Z"
-    },
-    {
-      "id": "aka2026qlvoej",
-      "magnitude": 1.5,
-      "depth": 25,
-      "lat": 60.396,
-      "lon": -147.795,
-      "place": "38 km NNE of Chenega, Alaska",
-      "time": "2026-08-20T15:14:27.342Z"
-    },
-    {
-      "id": "uw714082082",
-      "magnitude": 1.7,
-      "depth": 6,
-      "lat": 47.821,
-      "lon": -120.113,
-      "place": "7 km WSW of Chelan, Washington",
-      "time": "2026-08-20T15:10:46.200Z"
-    },
-    {
-      "id": "aka2026qlvebe",
-      "magnitude": 2.5,
-      "depth": 3,
-      "lat": 58.532,
-      "lon": -135.787,
-      "place": "13 km NNW of Gustavus, Alaska",
-      "time": "2026-08-20T15:02:44.796Z"
     }
   ]
 }
