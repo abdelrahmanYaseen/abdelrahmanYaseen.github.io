@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-21T07:14:40.474Z",
-  "count": 273,
+  "generated": "2026-08-21T07:57:05.598Z",
+  "count": 275,
   "events": [
+    {
+      "id": "ci41531824",
+      "magnitude": 0.9,
+      "depth": 8,
+      "lat": 34.817,
+      "lon": -119.018,
+      "place": "7 km W of Frazier Park, CA",
+      "time": "2026-08-21T07:36:56.550Z"
+    },
+    {
+      "id": "ci41531816",
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 32.568,
+      "lon": -115.649,
+      "place": "6 km WSW of Progreso, B.C., MX",
+      "time": "2026-08-21T07:32:09.700Z"
+    },
+    {
+      "id": "tx2026qklkko",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 31.18,
+      "lon": -103.336,
+      "place": "26 km WSW of Coyanosa, Texas",
+      "time": "2026-08-21T07:30:32.126Z"
+    },
+    {
+      "id": "aka2026qnbzbv",
+      "magnitude": 1.8,
+      "depth": 13,
+      "lat": 56.855,
+      "lon": -154.671,
+      "place": "32 km WSW of Akhiok, Alaska",
+      "time": "2026-08-21T07:26:36.187Z"
+    },
+    {
+      "id": "aka2026qnbqki",
+      "magnitude": 1.6,
+      "depth": 13,
+      "lat": 58.903,
+      "lon": -153.824,
+      "place": "80 km SE of Kokhanok, Alaska",
+      "time": "2026-08-21T07:16:56.766Z"
+    },
+    {
+      "id": "nc75422272",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.838,
+      "lon": -122.786,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-21T07:16:08.140Z"
+    },
+    {
+      "id": "uu80149666",
+      "magnitude": 3.1,
+      "depth": -3,
+      "lat": 41.576,
+      "lon": -109.888,
+      "place": "4 km NNW of Little America, Wyoming",
+      "time": "2026-08-21T07:09:25.300Z"
+    },
     {
       "id": "aka2026qnazdn",
       "magnitude": 1.8,
@@ -226,6 +289,15 @@
       "lon": -155.209,
       "place": "12 km SSE of Volcano, Hawaii",
       "time": "2026-08-21T03:57:14.630Z"
+    },
+    {
+      "id": "tx2026qkedth",
+      "magnitude": 0.6,
+      "depth": 7,
+      "lat": 32.264,
+      "lon": -101.898,
+      "place": "18 km NW of Stanton, Texas",
+      "time": "2026-08-21T03:51:43.181Z"
     },
     {
       "id": "ci41531752",
@@ -2235,13 +2307,13 @@
       "time": "2026-08-20T08:53:58.760Z"
     },
     {
-      "id": "aka2026qliwfq",
-      "magnitude": 2.4,
-      "depth": 13,
-      "lat": 53.52,
-      "lon": -163.52,
-      "place": "148 km S of False Pass, Alaska",
-      "time": "2026-08-20T08:53:53.969Z"
+      "id": "us6000tmcx",
+      "magnitude": 2.6,
+      "depth": 35,
+      "lat": 53.451,
+      "lon": -163.5,
+      "place": "156 km S of False Pass, Alaska",
+      "time": "2026-08-20T08:53:55.266Z"
     },
     {
       "id": "tx2026qisjql",
@@ -2404,60 +2476,6 @@
       "lon": -103.239,
       "place": "12 km SSW of Jal, New Mexico",
       "time": "2026-08-20T07:57:00.002Z"
-    },
-    {
-      "id": "us6000tm2j",
-      "magnitude": 5,
-      "depth": 10,
-      "lat": -8.287,
-      "lon": 120.377,
-      "place": "37 km NNW of Ruteng, Indonesia",
-      "time": "2026-08-20T07:55:03.208Z"
-    },
-    {
-      "id": "us6000tm2i",
-      "magnitude": 4.1,
-      "depth": 124,
-      "lat": -21.262,
-      "lon": -68.858,
-      "place": "62 km W of Ollagüe, Chile",
-      "time": "2026-08-20T07:48:15.326Z"
-    },
-    {
-      "id": "ci41531000",
-      "magnitude": 0.7,
-      "depth": 5,
-      "lat": 33.415,
-      "lon": -116.646,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-20T07:40:02.120Z"
-    },
-    {
-      "id": "av94394808",
-      "magnitude": 1.4,
-      "depth": 7,
-      "lat": 52.828,
-      "lon": -169.742,
-      "place": "60 km WSW of Nikolski, Alaska",
-      "time": "2026-08-20T07:36:42.070Z"
-    },
-    {
-      "id": "ci41530992",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.065,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-20T07:28:42.130Z"
-    },
-    {
-      "id": "uw714081912",
-      "magnitude": 1,
-      "depth": 13,
-      "lat": 46.229,
-      "lon": -122.068,
-      "place": "39 km SSE of Morton, Washington",
-      "time": "2026-08-20T07:27:57.940Z"
     }
   ]
 }
