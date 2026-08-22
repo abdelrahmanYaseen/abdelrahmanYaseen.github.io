@@ -1,15 +1,24 @@
 {
-  "generated": "2026-08-22T17:35:24.820Z",
-  "count": 212,
+  "generated": "2026-08-22T17:55:38.771Z",
+  "count": 208,
   "events": [
+    {
+      "id": "ci41533048",
+      "magnitude": 0.5,
+      "depth": 10,
+      "lat": 33.374,
+      "lon": -116.379,
+      "place": "13 km N of Borrego Springs, CA",
+      "time": "2026-08-22T17:51:16.100Z"
+    },
     {
       "id": "ci41533040",
       "magnitude": 1.5,
-      "depth": 14,
-      "lat": 34,
-      "lon": -117.193,
+      "depth": 15,
+      "lat": 33.999,
+      "lon": -117.192,
       "place": "6 km S of Redlands, CA",
-      "time": "2026-08-22T17:32:24.070Z"
+      "time": "2026-08-22T17:32:24.040Z"
     },
     {
       "id": "ci41533032",
@@ -77,11 +86,11 @@
     {
       "id": "us6000tmta",
       "magnitude": 5.8,
-      "depth": 78,
-      "lat": 35.934,
-      "lon": 140.063,
-      "place": "4 km NNW of Toride, Japan",
-      "time": "2026-08-22T17:00:41.199Z"
+      "depth": 61,
+      "lat": 35.938,
+      "lon": 140.078,
+      "place": "4 km N of Toride, Japan",
+      "time": "2026-08-22T17:00:39.472Z"
     },
     {
       "id": "ci41533000",
@@ -100,6 +109,15 @@
       "lon": -116.644,
       "place": "15 km N of Warner Springs, CA",
       "time": "2026-08-22T16:42:15.210Z"
+    },
+    {
+      "id": "us6000tmt7",
+      "magnitude": 4.7,
+      "depth": 26,
+      "lat": -3.297,
+      "lon": 100.488,
+      "place": "170 km SW of Sungai Penuh, Indonesia",
+      "time": "2026-08-22T16:33:04.780Z"
     },
     {
       "id": "nc75423022",
@@ -478,6 +496,15 @@
       "lon": -103.518,
       "place": "32 km NNE of Mentone, Texas",
       "time": "2026-08-22T10:20:29.254Z"
+    },
+    {
+      "id": "uw714083042",
+      "magnitude": -0.1,
+      "depth": -1,
+      "lat": 46.86,
+      "lon": -121.742,
+      "place": "24 km ENE of Ashford, Washington",
+      "time": "2026-08-22T10:19:57.240Z"
     },
     {
       "id": "us6000tms8",
@@ -1317,6 +1344,15 @@
       "time": "2026-08-21T22:43:42.615Z"
     },
     {
+      "id": "av94397358",
+      "magnitude": 0.3,
+      "depth": 2,
+      "lat": 58.174,
+      "lon": -155.331,
+      "place": "85 km NW of Karluk, Alaska",
+      "time": "2026-08-21T22:34:02.300Z"
+    },
+    {
       "id": "us6000tmnz",
       "magnitude": 4.7,
       "depth": 102,
@@ -1837,78 +1873,6 @@
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T17:59:00.890Z"
-    },
-    {
-      "id": "ci41532304",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 36.064,
-      "lon": -117.842,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:53:57.470Z"
-    },
-    {
-      "id": "us6000tmlu",
-      "magnitude": 5.7,
-      "depth": 10,
-      "lat": -7.584,
-      "lon": 104.55,
-      "place": "194 km SW of Labuan, Indonesia",
-      "time": "2026-08-21T17:41:44.453Z"
-    },
-    {
-      "id": "ci41532280",
-      "magnitude": 0.4,
-      "depth": 3,
-      "lat": 36.068,
-      "lon": -117.835,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:40:22.240Z"
-    },
-    {
-      "id": "aka2026qnwkjn",
-      "magnitude": 1.6,
-      "depth": 1,
-      "lat": 63.257,
-      "lon": -151.044,
-      "place": "46 km SE of Denali National Park, Alaska",
-      "time": "2026-08-21T17:39:21.106Z"
-    },
-    {
-      "id": "av93066139",
-      "magnitude": -0.2,
-      "depth": 7,
-      "lat": 53.836,
-      "lon": -166.98,
-      "place": "29 km WSW of Dutch Harbor, Alaska",
-      "time": "2026-08-21T17:37:12.210Z"
-    },
-    {
-      "id": "ci10249134",
-      "magnitude": 0.2,
-      "depth": 3,
-      "lat": 36.068,
-      "lon": -117.836,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:37:00.510Z"
-    },
-    {
-      "id": "ci41532272",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 36.066,
-      "lon": -117.839,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:36:26.360Z"
-    },
-    {
-      "id": "ci10249126",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 36.066,
-      "lon": -117.841,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T17:35:57.080Z"
     }
   ]
 }
