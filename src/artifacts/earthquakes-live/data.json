@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T21:15:09.016Z",
-  "count": 194,
+  "generated": "2026-08-22T21:35:43.302Z",
+  "count": 192,
   "events": [
+    {
+      "id": "nc75423157",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 38.831,
+      "lon": -122.815,
+      "place": "8 km NW of The Geysers, CA",
+      "time": "2026-08-22T21:28:45.290Z"
+    },
+    {
+      "id": "ci41533152",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 36.069,
+      "lon": -117.844,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-22T21:18:57.110Z"
+    },
     {
       "id": "tx2026qnhief",
       "magnitude": 1.7,
@@ -1711,42 +1729,6 @@
       "lon": -119.032,
       "place": "3 km N of Bakersfield, CA",
       "time": "2026-08-21T21:40:46.580Z"
-    },
-    {
-      "id": "av94397318",
-      "magnitude": -0.7,
-      "depth": 0,
-      "lat": 60.044,
-      "lon": -153.06,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-21T21:33:54.060Z"
-    },
-    {
-      "id": "tx2026qlngsu",
-      "magnitude": 1.7,
-      "depth": 12,
-      "lat": 31.6,
-      "lon": -103.989,
-      "place": "36 km NNW of Toyah, Texas",
-      "time": "2026-08-21T21:31:05.755Z"
-    },
-    {
-      "id": "hv75022157",
-      "magnitude": 1.8,
-      "depth": 44,
-      "lat": 19.482,
-      "lon": -155.135,
-      "place": "1 km N of Fern Forest, Hawaii",
-      "time": "2026-08-21T21:30:57.980Z"
-    },
-    {
-      "id": "nc75422652",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 38.84,
-      "lon": -122.843,
-      "place": "10 km NW of The Geysers, CA",
-      "time": "2026-08-21T21:16:42.740Z"
     }
   ]
 }
