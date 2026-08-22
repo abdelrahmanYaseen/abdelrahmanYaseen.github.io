@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T15:55:09.577Z",
-  "count": 220,
+  "generated": "2026-08-22T16:10:17.991Z",
+  "count": 219,
   "events": [
+    {
+      "id": "tx2026qmxyjt",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 30.892,
+      "lon": -103.523,
+      "place": "23 km ESE of Balmorhea, Texas",
+      "time": "2026-08-22T15:57:45.048Z"
+    },
+    {
+      "id": "nc75423002",
+      "magnitude": 0.9,
+      "depth": 1,
+      "lat": 38.773,
+      "lon": -122.735,
+      "place": "2 km ESE of The Geysers, CA",
+      "time": "2026-08-22T15:53:51.940Z"
+    },
     {
       "id": "ci41532944",
       "magnitude": 2.1,
@@ -811,6 +829,15 @@
       "lon": -149.985,
       "place": "41 km W of Four Mile Road, Alaska",
       "time": "2026-08-22T03:44:05.373Z"
+    },
+    {
+      "id": "ci41532792",
+      "magnitude": 0.8,
+      "depth": 6,
+      "lat": 34.149,
+      "lon": -117.426,
+      "place": "6 km NNE of Fontana, CA",
+      "time": "2026-08-22T03:42:30.390Z"
     },
     {
       "id": "us6000tmqf",
@@ -1945,42 +1972,6 @@
       "lon": -117.841,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T16:10:14.720Z"
-    },
-    {
-      "id": "us6000tmkv",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -8.381,
-      "lon": 120.271,
-      "place": "33 km NW of Ruteng, Indonesia",
-      "time": "2026-08-21T16:05:28.869Z"
-    },
-    {
-      "id": "nc75422472",
-      "magnitude": 0.4,
-      "depth": 2,
-      "lat": 38.827,
-      "lon": -122.851,
-      "place": "10 km NW of The Geysers, CA",
-      "time": "2026-08-21T16:01:40.660Z"
-    },
-    {
-      "id": "ci41532144",
-      "magnitude": 0.5,
-      "depth": 4,
-      "lat": 36.069,
-      "lon": -117.845,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T16:01:06.200Z"
-    },
-    {
-      "id": "aka2026qntaio",
-      "magnitude": 1.1,
-      "depth": 23,
-      "lat": 61.042,
-      "lon": -148.158,
-      "place": "41 km NE of Whittier, Alaska",
-      "time": "2026-08-21T15:57:48.094Z"
     }
   ]
 }
