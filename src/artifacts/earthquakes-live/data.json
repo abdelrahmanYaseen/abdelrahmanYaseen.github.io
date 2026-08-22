@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T21:55:17.610Z",
-  "count": 192,
+  "generated": "2026-08-22T22:09:38.194Z",
+  "count": 189,
   "events": [
+    {
+      "id": "nc75423167",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 38.809,
+      "lon": -122.814,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-22T22:00:01.810Z"
+    },
     {
       "id": "pr71529418",
       "magnitude": 2.6,
@@ -1693,42 +1702,6 @@
       "lon": -68.882,
       "place": "147 km NE of Diego de Almagro, Chile",
       "time": "2026-08-21T22:26:03.081Z"
-    },
-    {
-      "id": "us6000tmny",
-      "magnitude": 4.4,
-      "depth": 75,
-      "lat": 51.917,
-      "lon": 158.349,
-      "place": "112 km S of Vilyuchinsk, Russia",
-      "time": "2026-08-21T22:00:04.478Z"
-    },
-    {
-      "id": "ci41532624",
-      "magnitude": 1.1,
-      "depth": 9,
-      "lat": 35.313,
-      "lon": -117.816,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-08-21T21:59:11.560Z"
-    },
-    {
-      "id": "av94397333",
-      "magnitude": -0.5,
-      "depth": 1,
-      "lat": 58.173,
-      "lon": -155.327,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": "2026-08-21T21:58:29.660Z"
-    },
-    {
-      "id": "us6000tmnw",
-      "magnitude": 4.1,
-      "depth": 10,
-      "lat": 34.616,
-      "lon": 69.669,
-      "place": "26 km S of Tagāb, Afghanistan",
-      "time": "2026-08-21T21:54:47.902Z"
     }
   ]
 }
