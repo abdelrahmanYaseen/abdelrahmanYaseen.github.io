@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T09:48:05.899Z",
-  "count": 269,
+  "generated": "2026-08-22T10:11:08.431Z",
+  "count": 267,
   "events": [
+    {
+      "id": "nc75422897",
+      "magnitude": 2.3,
+      "depth": 7,
+      "lat": 36.727,
+      "lon": -121.42,
+      "place": "11 km SSW of Ridgemark, CA",
+      "time": "2026-08-22T10:07:01.460Z"
+    },
+    {
+      "id": "tx2026qmlyez",
+      "magnitude": 1.2,
+      "depth": 2,
+      "lat": 32.116,
+      "lon": -101.501,
+      "place": "12 km W of Forsan, Texas",
+      "time": "2026-08-22T09:55:29.158Z"
+    },
     {
       "id": "ci41532864",
       "magnitude": 0.6,
@@ -32,11 +50,11 @@
     {
       "id": "tx2026qmknhp",
       "magnitude": 1.5,
-      "depth": 5,
-      "lat": 31.206,
-      "lon": -103.264,
-      "place": "19 km WSW of Coyanosa, Texas",
-      "time": "2026-08-22T09:12:38.671Z"
+      "depth": 6,
+      "lat": 31.208,
+      "lon": -103.256,
+      "place": "18 km WSW of Coyanosa, Texas",
+      "time": "2026-08-22T09:12:38.770Z"
     },
     {
       "id": "ci41532848",
@@ -865,6 +883,15 @@
       "lon": -116.803,
       "place": "12 km W of Anza, CA",
       "time": "2026-08-21T20:29:46.540Z"
+    },
+    {
+      "id": "av94397263",
+      "magnitude": 0.3,
+      "depth": 13,
+      "lat": 57.903,
+      "lon": -155.852,
+      "place": "91 km WNW of Karluk, Alaska",
+      "time": "2026-08-21T20:24:06.960Z"
     },
     {
       "id": "hv75022117",
@@ -2377,51 +2404,6 @@
       "lon": -151.975,
       "place": "9 km SW of Anchor Point, Alaska",
       "time": "2026-08-21T10:17:17.185Z"
-    },
-    {
-      "id": "ci41531904",
-      "magnitude": 0.6,
-      "depth": 13,
-      "lat": 33.511,
-      "lon": -116.508,
-      "place": "16 km ESE of Anza, CA",
-      "time": "2026-08-21T10:03:09.650Z"
-    },
-    {
-      "id": "aka2026qnhclx",
-      "magnitude": 1.5,
-      "depth": 28,
-      "lat": 61.537,
-      "lon": -146.686,
-      "place": "48 km NNW of Valdez, Alaska",
-      "time": "2026-08-21T10:01:40.513Z"
-    },
-    {
-      "id": "aka2026qngzac",
-      "magnitude": 2.9,
-      "depth": 1,
-      "lat": 54.518,
-      "lon": -160.128,
-      "place": "94 km SSE of Sand Point, Alaska",
-      "time": "2026-08-21T09:56:26.668Z"
-    },
-    {
-      "id": "ci41531896",
-      "magnitude": 1.2,
-      "depth": 6,
-      "lat": 34.123,
-      "lon": -117.778,
-      "place": "3 km NNW of La Verne, CA",
-      "time": "2026-08-21T09:54:44.820Z"
-    },
-    {
-      "id": "nc75422322",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 38.797,
-      "lon": -122.805,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": "2026-08-21T09:51:59.530Z"
     }
   ]
 }
