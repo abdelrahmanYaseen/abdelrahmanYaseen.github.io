@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T11:55:02.764Z",
-  "count": 257,
+  "generated": "2026-08-22T12:15:13.608Z",
+  "count": 251,
   "events": [
+    {
+      "id": "nc75422932",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 38.794,
+      "lon": -122.8,
+      "place": "4 km WNW of The Geysers, CA",
+      "time": "2026-08-22T12:03:41.390Z"
+    },
+    {
+      "id": "hv75022437",
+      "magnitude": 2.1,
+      "depth": 3,
+      "lat": 19.308,
+      "lon": -155.256,
+      "place": "15 km S of Volcano, Hawaii",
+      "time": "2026-08-22T11:52:31.500Z"
+    },
     {
       "id": "hv75022432",
       "magnitude": 2.1,
@@ -129,6 +147,15 @@
       "time": "2026-08-22T09:55:28.976Z"
     },
     {
+      "id": "pr71529363",
+      "magnitude": 2.3,
+      "depth": 40,
+      "lat": 18.021,
+      "lon": -66.717,
+      "place": "2 km N of Tallaboa, Puerto Rico",
+      "time": "2026-08-22T09:36:31.280Z"
+    },
+    {
       "id": "ci41532864",
       "magnitude": 0.6,
       "depth": 7,
@@ -172,6 +199,15 @@
       "lon": -117.672,
       "place": "21 km E of Little Lake, CA",
       "time": "2026-08-22T09:06:54.390Z"
+    },
+    {
+      "id": "pr71529353",
+      "magnitude": 3.4,
+      "depth": 15,
+      "lat": 19.389,
+      "lon": -64.828,
+      "place": "116 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "time": "2026-08-22T09:06:50.820Z"
     },
     {
       "id": "aka2026qpayfy",
@@ -2224,96 +2260,6 @@
       "lon": -122.825,
       "place": "9 km WNW of Cobb, CA",
       "time": "2026-08-21T12:16:05.920Z"
-    },
-    {
-      "id": "ci41531968",
-      "magnitude": 0.1,
-      "depth": 7,
-      "lat": 33.415,
-      "lon": -116.634,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-21T12:13:21.690Z"
-    },
-    {
-      "id": "ci41531960",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.066,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T12:07:02.220Z"
-    },
-    {
-      "id": "av94396798",
-      "magnitude": 0.1,
-      "depth": 3,
-      "lat": 58.305,
-      "lon": -154.994,
-      "place": "87 km NNW of Karluk, Alaska",
-      "time": "2026-08-21T12:05:15.070Z"
-    },
-    {
-      "id": "ci41531952",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 35.82,
-      "lon": -117.646,
-      "place": "22 km N of Ridgecrest, CA",
-      "time": "2026-08-21T12:02:40.770Z"
-    },
-    {
-      "id": "us6000tmfe",
-      "magnitude": 5.4,
-      "depth": 62,
-      "lat": 33.717,
-      "lon": 140.38,
-      "place": "148 km SSE of Tateyama, Japan",
-      "time": "2026-08-21T12:02:07.072Z"
-    },
-    {
-      "id": "nc75422362",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 38.82,
-      "lon": -122.812,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-21T12:00:52.370Z"
-    },
-    {
-      "id": "us6000tmfc",
-      "magnitude": 4.6,
-      "depth": 170,
-      "lat": -6.483,
-      "lon": 129.89,
-      "place": "Banda Sea",
-      "time": "2026-08-21T11:55:28.424Z"
-    },
-    {
-      "id": "uw714082552",
-      "magnitude": 1.1,
-      "depth": 24,
-      "lat": 48.293,
-      "lon": -122.601,
-      "place": "3 km E of Oak Harbor, Washington",
-      "time": "2026-08-21T11:55:19.060Z"
-    },
-    {
-      "id": "nc75422357",
-      "magnitude": 1.4,
-      "depth": 6,
-      "lat": 39.227,
-      "lon": -120.081,
-      "place": "3 km WSW of Tahoe Vista, CA",
-      "time": "2026-08-21T11:55:14.350Z"
-    },
-    {
-      "id": "us6000tmfd",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -8.309,
-      "lon": 120.94,
-      "place": "62 km ENE of Ruteng, Indonesia",
-      "time": "2026-08-21T11:54:49.678Z"
     }
   ]
 }
