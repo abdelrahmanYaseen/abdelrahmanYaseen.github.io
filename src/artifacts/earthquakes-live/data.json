@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-22T07:42:35.108Z",
-  "count": 279,
+  "generated": "2026-08-22T07:59:23.137Z",
+  "count": 282,
   "events": [
+    {
+      "id": "nn00923683",
+      "magnitude": 2.5,
+      "depth": 10,
+      "lat": 39.354,
+      "lon": -118.992,
+      "place": "21 km ESE of Silver Springs, Nevada",
+      "time": "2026-08-22T07:51:44.411Z"
+    },
+    {
+      "id": "aka2026qoynpe",
+      "magnitude": 3.9,
+      "depth": 31,
+      "lat": 60.911,
+      "lon": -149.666,
+      "place": "1 km WSW of Hope, Alaska",
+      "time": "2026-08-22T07:42:40.939Z"
+    },
+    {
+      "id": "aka2026qoyltz",
+      "magnitude": 2.3,
+      "depth": 129,
+      "lat": 60.271,
+      "lon": -152.923,
+      "place": "73 km WNW of Ninilchik, Alaska",
+      "time": "2026-08-22T07:41:06.738Z"
+    },
+    {
+      "id": "us6000tmrn",
+      "magnitude": 5.7,
+      "depth": 10,
+      "lat": -60.265,
+      "lon": -47.259,
+      "place": "Scotia Sea",
+      "time": "2026-08-22T07:40:12.697Z"
+    },
     {
       "id": "nc75422842",
       "magnitude": 0.8,
@@ -1407,6 +1443,15 @@
       "time": "2026-08-21T14:50:15.620Z"
     },
     {
+      "id": "av94396953",
+      "magnitude": 0,
+      "depth": 7,
+      "lat": 53.897,
+      "lon": -166.647,
+      "place": "6 km W of Dutch Harbor, Alaska",
+      "time": "2026-08-21T14:49:14.110Z"
+    },
+    {
       "id": "nc75422442",
       "magnitude": 0.7,
       "depth": 2,
@@ -1441,6 +1486,15 @@
       "lon": -121.764,
       "place": "22 km ENE of Ashford, Washington",
       "time": "2026-08-21T14:17:56.620Z"
+    },
+    {
+      "id": "av94396923",
+      "magnitude": 0,
+      "depth": 5,
+      "lat": 60.397,
+      "lon": -152.828,
+      "place": "74 km WNW of Ninilchik, Alaska",
+      "time": "2026-08-21T14:17:43.820Z"
     },
     {
       "id": "aka2026qnpqie",
@@ -2485,33 +2539,6 @@
       "lon": -117.839,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T08:02:08.430Z"
-    },
-    {
-      "id": "aka2026qncylv",
-      "magnitude": 3.2,
-      "depth": 36,
-      "lat": 54.731,
-      "lon": -156.848,
-      "place": "196 km SE of Perryville, Alaska",
-      "time": "2026-08-21T07:55:55.920Z"
-    },
-    {
-      "id": "aka2026qncubw",
-      "magnitude": 1.5,
-      "depth": 42,
-      "lat": 60.951,
-      "lon": -150.698,
-      "place": "3 km N of Point Possession, Alaska",
-      "time": "2026-08-21T07:50:49.918Z"
-    },
-    {
-      "id": "pr71529203",
-      "magnitude": 2.4,
-      "depth": 8,
-      "lat": 18.639,
-      "lon": -66.643,
-      "place": "19 km NNE of Arecibo, Puerto Rico",
-      "time": "2026-08-21T07:49:44.280Z"
     }
   ]
 }
