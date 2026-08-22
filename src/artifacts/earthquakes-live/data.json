@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-22T04:55:45.945Z",
-  "count": 291,
+  "generated": "2026-08-22T05:17:24.490Z",
+  "count": 297,
   "events": [
+    {
+      "id": "ci41532824",
+      "magnitude": 1.1,
+      "depth": 13,
+      "lat": 33.061,
+      "lon": -116.616,
+      "place": "2 km SSW of Julian, CA",
+      "time": "2026-08-22T05:11:06.150Z"
+    },
+    {
+      "id": "hv75022307",
+      "magnitude": 1.8,
+      "depth": 26,
+      "lat": 18.983,
+      "lon": -155.454,
+      "place": "16 km SE of Naalehu, Hawaii",
+      "time": "2026-08-22T05:09:27.580Z"
+    },
+    {
+      "id": "aka2026qotctl",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 63.905,
+      "lon": -149.482,
+      "place": "21 km SW of Ferry, Alaska",
+      "time": "2026-08-22T05:00:14.437Z"
+    },
+    {
+      "id": "aka2026qotbci",
+      "magnitude": 2.2,
+      "depth": 5,
+      "lat": 55.308,
+      "lon": -159.346,
+      "place": "66 km S of Ivanof Bay, Alaska",
+      "time": "2026-08-22T04:58:27.589Z"
+    },
+    {
+      "id": "ci41532816",
+      "magnitude": 0.4,
+      "depth": 8,
+      "lat": 35.792,
+      "lon": -117.614,
+      "place": "19 km W of Searles Valley, CA",
+      "time": "2026-08-22T04:57:25.170Z"
+    },
+    {
+      "id": "us6000tmr2",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": 9.398,
+      "lon": 125.581,
+      "place": "6 km S of Kitcharao, Philippines",
+      "time": "2026-08-22T04:44:08.744Z"
+    },
     {
       "id": "ci41532808",
       "magnitude": 0.1,
@@ -28,6 +82,15 @@
       "lon": -116.066,
       "place": "12 km WSW of Salton City, CA",
       "time": "2026-08-22T04:01:42.580Z"
+    },
+    {
+      "id": "aka2026qoqwmh",
+      "magnitude": 3,
+      "depth": 25,
+      "lat": 51.803,
+      "lon": 176.234,
+      "place": "238 km ESE of Attu Station, Alaska",
+      "time": "2026-08-22T03:52:54.510Z"
     },
     {
       "id": "aka2026qoqopv",
@@ -473,11 +536,11 @@
     {
       "id": "tx2026qlluwv",
       "magnitude": 1.7,
-      "depth": 5,
-      "lat": 31.728,
-      "lon": -104.249,
-      "place": "51 km SSE of Whites City, New Mexico",
-      "time": "2026-08-21T20:47:09.078Z"
+      "depth": 4,
+      "lat": 31.73,
+      "lon": -104.255,
+      "place": "50 km SSE of Whites City, New Mexico",
+      "time": "2026-08-21T20:47:09.005Z"
     },
     {
       "id": "uu80149696",
@@ -2352,13 +2415,13 @@
       "time": "2026-08-21T07:25:33.998Z"
     },
     {
-      "id": "aka2026qnbusc",
-      "magnitude": 3.5,
-      "depth": 26,
-      "lat": 51.877,
-      "lon": 176.224,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": "2026-08-21T07:21:32.034Z"
+      "id": "us6000tmlc",
+      "magnitude": 3.4,
+      "depth": 10,
+      "lat": 52.044,
+      "lon": 176.328,
+      "place": "231 km ESE of Attu Station, Alaska",
+      "time": "2026-08-21T07:21:30.624Z"
     },
     {
       "id": "aka2026qnbslz",
@@ -2611,15 +2674,6 @@
       "lon": -153.089,
       "place": "75 km WSW of Nanwalek, Alaska",
       "time": "2026-08-21T05:18:05.459Z"
-    },
-    {
-      "id": "aka2026qmxnfg",
-      "magnitude": 2.4,
-      "depth": 23,
-      "lat": 53.939,
-      "lon": -163.154,
-      "place": "103 km S of False Pass, Alaska",
-      "time": "2026-08-21T05:13:03.306Z"
     }
   ]
 }
