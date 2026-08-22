@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T10:37:23.138Z",
-  "count": 266,
+  "generated": "2026-08-22T10:56:33.814Z",
+  "count": 264,
   "events": [
+    {
+      "id": "aka2026qpexkh",
+      "magnitude": 2.2,
+      "depth": 5,
+      "lat": 56.562,
+      "lon": -156.448,
+      "place": "120 km SSE of Ugashik, Alaska",
+      "time": "2026-08-22T10:53:54.629Z"
+    },
     {
       "id": "nc75422907",
       "magnitude": 2,
@@ -2368,33 +2377,6 @@
       "lon": -101.776,
       "place": "16 km SSW of Ackerly, Texas",
       "time": "2026-08-21T11:01:32.144Z"
-    },
-    {
-      "id": "aka2026qnilok",
-      "magnitude": 1.3,
-      "depth": 103,
-      "lat": 57.77,
-      "lon": -156.031,
-      "place": "86 km ENE of Ugashik, Alaska",
-      "time": "2026-08-21T10:40:54.501Z"
-    },
-    {
-      "id": "ci41531928",
-      "magnitude": 1.3,
-      "depth": 5,
-      "lat": 33.9,
-      "lon": -116.167,
-      "place": "20 km NNE of Indio, CA",
-      "time": "2026-08-21T10:39:05.450Z"
-    },
-    {
-      "id": "us6000tmf2",
-      "magnitude": 4.5,
-      "depth": 351,
-      "lat": 47.219,
-      "lon": 146.783,
-      "place": "237 km NNW of Kuril’sk, Russia",
-      "time": "2026-08-21T10:38:57.051Z"
     }
   ]
 }
