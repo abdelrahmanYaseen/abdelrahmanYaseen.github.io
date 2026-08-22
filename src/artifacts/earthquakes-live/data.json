@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-22T20:09:37.942Z",
-  "count": 199,
+  "generated": "2026-08-22T20:36:24.652Z",
+  "count": 195,
   "events": [
+    {
+      "id": "ci41533128",
+      "magnitude": 1.6,
+      "depth": 6,
+      "lat": 33.149,
+      "lon": -116.535,
+      "place": "10 km NE of Julian, CA",
+      "time": "2026-08-22T20:30:19.970Z"
+    },
+    {
+      "id": "ci41533120",
+      "magnitude": 0.9,
+      "depth": 12,
+      "lat": 33.289,
+      "lon": -116.743,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-22T20:28:22.800Z"
+    },
+    {
+      "id": "ci41533112",
+      "magnitude": 1,
+      "depth": 1,
+      "lat": 34.547,
+      "lon": -116.249,
+      "place": "21 km SSW of Ludlow, CA",
+      "time": "2026-08-22T20:23:49.530Z"
+    },
+    {
+      "id": "aka2026qpxvau",
+      "magnitude": 2.4,
+      "depth": 22,
+      "lat": 61.387,
+      "lon": -150.039,
+      "place": "4 km NW of Point MacKenzie, Alaska",
+      "time": "2026-08-22T20:20:56.863Z"
+    },
     {
       "id": "ci41533096",
       "magnitude": 0.9,
@@ -19,6 +55,15 @@
       "lon": -116.485,
       "place": "20 km ESE of Anza, CA",
       "time": "2026-08-22T20:00:49.420Z"
+    },
+    {
+      "id": "us6000tmtu",
+      "magnitude": 4.9,
+      "depth": 116,
+      "lat": -0.171,
+      "lon": 123.01,
+      "place": "78 km S of Gorontalo, Indonesia",
+      "time": "2026-08-22T19:54:07.957Z"
     },
     {
       "id": "nn00923723",
@@ -1711,87 +1756,6 @@
       "lon": -104.255,
       "place": "50 km SSE of Whites City, New Mexico",
       "time": "2026-08-21T20:47:09.005Z"
-    },
-    {
-      "id": "av94397278",
-      "magnitude": -0.6,
-      "depth": 4,
-      "lat": 61.164,
-      "lon": -152.217,
-      "place": "59 km W of Tyonek, Alaska",
-      "time": "2026-08-21T20:34:44.480Z"
-    },
-    {
-      "id": "uu80149696",
-      "magnitude": 2.2,
-      "depth": 2,
-      "lat": 38.511,
-      "lon": -112.889,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-21T20:34:02.960Z"
-    },
-    {
-      "id": "tx2026qllgwq",
-      "magnitude": 1.9,
-      "depth": 0,
-      "lat": 31.88,
-      "lon": -104.266,
-      "place": "34 km SSE of Whites City, New Mexico",
-      "time": "2026-08-21T20:30:50.212Z"
-    },
-    {
-      "id": "ci41532544",
-      "magnitude": 0.5,
-      "depth": 6,
-      "lat": 33.571,
-      "lon": -116.803,
-      "place": "12 km W of Anza, CA",
-      "time": "2026-08-21T20:29:46.540Z"
-    },
-    {
-      "id": "av94397263",
-      "magnitude": 0.3,
-      "depth": 13,
-      "lat": 57.903,
-      "lon": -155.852,
-      "place": "91 km WNW of Karluk, Alaska",
-      "time": "2026-08-21T20:24:06.960Z"
-    },
-    {
-      "id": "us6000tmn5",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": -7.878,
-      "lon": 120.637,
-      "place": "83 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-21T20:21:53.693Z"
-    },
-    {
-      "id": "hv75022117",
-      "magnitude": 1.9,
-      "depth": 28,
-      "lat": 19.182,
-      "lon": -155.354,
-      "place": "13 km E of Pāhala, Hawaii",
-      "time": "2026-08-21T20:21:20.260Z"
-    },
-    {
-      "id": "ci10249166",
-      "magnitude": 0.3,
-      "depth": 5,
-      "lat": 35.47,
-      "lon": -118.411,
-      "place": "15 km SSE of Bodfish, CA",
-      "time": "2026-08-21T20:17:59.490Z"
-    },
-    {
-      "id": "ci41532512",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 36.068,
-      "lon": -117.838,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T20:17:39.980Z"
     }
   ]
 }
