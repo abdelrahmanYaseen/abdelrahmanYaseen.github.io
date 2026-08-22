@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T14:38:26.809Z",
-  "count": 221,
+  "generated": "2026-08-22T14:55:49.763Z",
+  "count": 220,
   "events": [
+    {
+      "id": "nc75422977",
+      "magnitude": 1.7,
+      "depth": 20,
+      "lat": 40.275,
+      "lon": -124.516,
+      "place": "20 km WSW of Petrolia, CA",
+      "time": "2026-08-22T14:40:11.140Z"
+    },
+    {
+      "id": "hv75022477",
+      "magnitude": 1.7,
+      "depth": 3,
+      "lat": 19.311,
+      "lon": -155.256,
+      "place": "14 km S of Volcano, Hawaii",
+      "time": "2026-08-22T14:39:16.610Z"
+    },
     {
       "id": "aka2026qpmdug",
       "magnitude": 2,
@@ -1963,33 +1981,6 @@
       "lon": 142.636,
       "place": "Bonin Islands, Japan region",
       "time": "2026-08-21T15:08:30.808Z"
-    },
-    {
-      "id": "ci41532096",
-      "magnitude": 1.2,
-      "depth": 3,
-      "lat": 36.064,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T14:50:15.620Z"
-    },
-    {
-      "id": "av94396953",
-      "magnitude": 0,
-      "depth": 7,
-      "lat": 53.897,
-      "lon": -166.647,
-      "place": "6 km W of Dutch Harbor, Alaska",
-      "time": "2026-08-21T14:49:14.110Z"
-    },
-    {
-      "id": "nc75422442",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.831,
-      "lon": -122.817,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-08-21T14:48:55.750Z"
     }
   ]
 }
