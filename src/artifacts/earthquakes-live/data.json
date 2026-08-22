@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-22T22:35:41.040Z",
-  "count": 192,
+  "generated": "2026-08-22T22:56:01.048Z",
+  "count": 197,
   "events": [
+    {
+      "id": "nc75423207",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 36.846,
+      "lon": -121.42,
+      "place": "2 km W of Hollister, CA",
+      "time": "2026-08-22T22:48:46.220Z"
+    },
+    {
+      "id": "ci41533200",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.07,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-22T22:48:33.310Z"
+    },
+    {
+      "id": "uw714083612",
+      "magnitude": 0.4,
+      "depth": 0,
+      "lat": 46.764,
+      "lon": -121.918,
+      "place": "8 km E of Ashford, Washington",
+      "time": "2026-08-22T22:38:09.900Z"
+    },
+    {
+      "id": "ci41533192",
+      "magnitude": 1.7,
+      "depth": 3,
+      "lat": 36.071,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-22T22:37:40.580Z"
+    },
     {
       "id": "aka2026qqcbgn",
       "magnitude": 1.7,
@@ -28,6 +64,24 @@
       "lon": -120.598,
       "place": "22 km NW of Parkfield, CA",
       "time": "2026-08-22T22:17:03.910Z"
+    },
+    {
+      "id": "us6000tmuw",
+      "magnitude": 4.4,
+      "depth": 176,
+      "lat": 36.71,
+      "lon": 71.342,
+      "place": "17 km W of Ashkāsham, Afghanistan",
+      "time": "2026-08-22T22:14:43.323Z"
+    },
+    {
+      "id": "us6000tmut",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": -8.121,
+      "lon": 120.741,
+      "place": "62 km NNE of Ruteng, Indonesia",
+      "time": "2026-08-22T22:01:02.600Z"
     },
     {
       "id": "nc75423167",
@@ -1720,15 +1774,6 @@
       "lon": -149.455,
       "place": "16 km W of Four Mile Road, Alaska",
       "time": "2026-08-21T23:07:29.514Z"
-    },
-    {
-      "id": "aka2026qogoex",
-      "magnitude": 2.2,
-      "depth": 74,
-      "lat": 54.053,
-      "lon": -164.788,
-      "place": "65 km E of Akutan, Alaska",
-      "time": "2026-08-21T22:43:42.615Z"
     }
   ]
 }
