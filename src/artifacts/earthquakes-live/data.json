@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T04:20:33.931Z",
-  "count": 293,
+  "generated": "2026-08-22T04:55:45.945Z",
+  "count": 291,
   "events": [
+    {
+      "id": "ci41532808",
+      "magnitude": 0.1,
+      "depth": 5,
+      "lat": 33.54,
+      "lon": -116.706,
+      "place": "3 km WSW of Anza, CA",
+      "time": "2026-08-22T04:43:42.380Z"
+    },
     {
       "id": "nn00923672",
       "magnitude": 2,
@@ -23,11 +32,11 @@
     {
       "id": "aka2026qoqopv",
       "magnitude": 2.3,
-      "depth": 5,
-      "lat": 64.669,
-      "lon": -149.14,
-      "place": "7 km N of Four Mile Road, Alaska",
-      "time": "2026-08-22T03:44:05.010Z"
+      "depth": 18,
+      "lat": 64.564,
+      "lon": -149.985,
+      "place": "41 km W of Four Mile Road, Alaska",
+      "time": "2026-08-22T03:44:05.373Z"
     },
     {
       "id": "us6000tmqf",
@@ -40,12 +49,12 @@
     },
     {
       "id": "aka2026qopztw",
-      "magnitude": 1.6,
+      "magnitude": 1.8,
       "depth": 6,
-      "lat": 56.909,
-      "lon": -154.903,
-      "place": "44 km W of Akhiok, Alaska",
-      "time": "2026-08-22T03:26:50.653Z"
+      "lat": 56.91,
+      "lon": -154.923,
+      "place": "45 km W of Akhiok, Alaska",
+      "time": "2026-08-22T03:26:50.290Z"
     },
     {
       "id": "hv75022247",
@@ -73,6 +82,15 @@
       "lon": -117.838,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-22T02:36:20.310Z"
+    },
+    {
+      "id": "aka2026qoocuh",
+      "magnitude": 1.6,
+      "depth": 69,
+      "lat": 59.49,
+      "lon": -151.769,
+      "place": "6 km NNW of Seldovia, Alaska",
+      "time": "2026-08-22T02:30:20.060Z"
     },
     {
       "id": "nc75422772",
@@ -127,6 +145,15 @@
       "lon": -64.778,
       "place": "130 km N of Charlotte Amalie, U.S. Virgin Islands",
       "time": "2026-08-22T01:53:56.120Z"
+    },
+    {
+      "id": "aka2026qomlvp",
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 63.534,
+      "lon": -147.573,
+      "place": "70 km ESE of Denali Park, Alaska",
+      "time": "2026-08-22T01:40:49.211Z"
     },
     {
       "id": "aka2026qomjcl",
@@ -2118,6 +2145,15 @@
       "time": "2026-08-21T08:32:45.310Z"
     },
     {
+      "id": "us6000tmek",
+      "magnitude": 4.5,
+      "depth": 9,
+      "lat": -8.106,
+      "lon": 120.525,
+      "place": "56 km N of Ruteng, Indonesia",
+      "time": "2026-08-21T08:30:16.137Z"
+    },
+    {
       "id": "aka2026qnebcx",
       "magnitude": 1.5,
       "depth": 88,
@@ -2584,60 +2620,6 @@
       "lon": -163.154,
       "place": "103 km S of False Pass, Alaska",
       "time": "2026-08-21T05:13:03.306Z"
-    },
-    {
-      "id": "ci41531784",
-      "magnitude": 0.5,
-      "depth": 7,
-      "lat": 33.413,
-      "lon": -116.642,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-21T04:51:42.350Z"
-    },
-    {
-      "id": "ci41531776",
-      "magnitude": 1.4,
-      "depth": 0,
-      "lat": 32.954,
-      "lon": -117.829,
-      "place": "50 km WSW of Carlsbad, CA",
-      "time": "2026-08-21T04:50:10.800Z"
-    },
-    {
-      "id": "ci41531768",
-      "magnitude": 1.8,
-      "depth": 10,
-      "lat": 32.979,
-      "lon": -117.818,
-      "place": "48 km WSW of Carlsbad, CA",
-      "time": "2026-08-21T04:48:27.780Z"
-    },
-    {
-      "id": "ci41531760",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 35.47,
-      "lon": -118.429,
-      "place": "14 km SSE of Bodfish, CA",
-      "time": "2026-08-21T04:40:58.220Z"
-    },
-    {
-      "id": "aka2026qmwggt",
-      "magnitude": 2,
-      "depth": 184,
-      "lat": 60.408,
-      "lon": -153.452,
-      "place": "52 km ENE of Port Alsworth, Alaska",
-      "time": "2026-08-21T04:34:56.707Z"
-    },
-    {
-      "id": "aka2026qmvtsc",
-      "magnitude": 1.5,
-      "depth": 11,
-      "lat": 67.862,
-      "lon": -156.127,
-      "place": "111 km NNE of Kobuk, Alaska",
-      "time": "2026-08-21T04:20:28.635Z"
     }
   ]
 }
