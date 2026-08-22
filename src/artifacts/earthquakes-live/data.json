@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T10:56:33.814Z",
-  "count": 264,
+  "generated": "2026-08-22T11:13:30.008Z",
+  "count": 262,
   "events": [
+    {
+      "id": "nc75422912",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 38.83,
+      "lon": -122.809,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-22T11:05:34.500Z"
+    },
+    {
+      "id": "uw714083092",
+      "magnitude": 2.5,
+      "depth": -1,
+      "lat": 46.764,
+      "lon": -121.934,
+      "place": "7 km E of Ashford, Washington",
+      "time": "2026-08-22T10:54:24.200Z"
+    },
     {
       "id": "aka2026qpexkh",
       "magnitude": 2.2,
@@ -478,6 +496,15 @@
       "lon": 122.081,
       "place": "49 km SE of Yilan, Taiwan",
       "time": "2026-08-22T03:40:14.817Z"
+    },
+    {
+      "id": "pr71529288",
+      "magnitude": 2.2,
+      "depth": 13,
+      "lat": 18.009,
+      "lon": -66.828,
+      "place": "1 km NNW of Indios, Puerto Rico",
+      "time": "2026-08-22T03:38:59.340Z"
     },
     {
       "id": "aka2026qopztw",
@@ -2332,51 +2359,6 @@
       "lon": 120.533,
       "place": "47 km N of Ruteng, Indonesia",
       "time": "2026-08-21T11:16:52.056Z"
-    },
-    {
-      "id": "nc75422337",
-      "magnitude": 2.6,
-      "depth": 13,
-      "lat": 40.56,
-      "lon": -124.233,
-      "place": "3 km SE of Ferndale, CA",
-      "time": "2026-08-21T11:10:57.000Z"
-    },
-    {
-      "id": "nc75422332",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 35.722,
-      "lon": -120.309,
-      "place": "1 km W of Cholame, CA",
-      "time": "2026-08-21T11:07:45.210Z"
-    },
-    {
-      "id": "nc75422327",
-      "magnitude": 1.7,
-      "depth": 4,
-      "lat": 36.775,
-      "lon": -121.495,
-      "place": "9 km SSE of San Juan Bautista, CA",
-      "time": "2026-08-21T11:06:35.830Z"
-    },
-    {
-      "id": "us6000tmf5",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -8.213,
-      "lon": 120.54,
-      "place": "44 km N of Ruteng, Indonesia",
-      "time": "2026-08-21T11:03:03.763Z"
-    },
-    {
-      "id": "tx2026qksiys",
-      "magnitude": 0.7,
-      "depth": 9,
-      "lat": 32.39,
-      "lon": -101.776,
-      "place": "16 km SSW of Ackerly, Texas",
-      "time": "2026-08-21T11:01:32.144Z"
     }
   ]
 }
