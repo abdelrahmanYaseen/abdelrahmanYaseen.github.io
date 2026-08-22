@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T11:34:18.997Z",
-  "count": 262,
+  "generated": "2026-08-22T11:55:02.764Z",
+  "count": 257,
   "events": [
+    {
+      "id": "hv75022432",
+      "magnitude": 2.1,
+      "depth": 34,
+      "lat": 19.206,
+      "lon": -155.483,
+      "place": "0 km WNW of Pāhala, Hawaii",
+      "time": "2026-08-22T11:37:11.020Z"
+    },
     {
       "id": "nc75422922",
       "magnitude": 0.8,
@@ -228,6 +237,15 @@
       "time": "2026-08-22T08:22:37.740Z"
     },
     {
+      "id": "pr71529338",
+      "magnitude": 2.4,
+      "depth": 14,
+      "lat": 18.283,
+      "lon": -66.886,
+      "place": "1 km SW of Lares, Puerto Rico",
+      "time": "2026-08-22T08:02:52.640Z"
+    },
+    {
       "id": "hv75022342",
       "magnitude": 1.8,
       "depth": 30,
@@ -325,6 +343,15 @@
       "lon": -119.675,
       "place": "14 km SE of Markleeville, CA",
       "time": "2026-08-22T06:54:34.670Z"
+    },
+    {
+      "id": "pr71529323",
+      "magnitude": 1.9,
+      "depth": 10,
+      "lat": 18.012,
+      "lon": -66.983,
+      "place": "5 km SW of Liborio Negron Torres, Puerto Rico",
+      "time": "2026-08-22T06:51:09.460Z"
     },
     {
       "id": "ci41532832",
@@ -2287,78 +2314,6 @@
       "lon": 120.94,
       "place": "62 km ENE of Ruteng, Indonesia",
       "time": "2026-08-21T11:54:49.678Z"
-    },
-    {
-      "id": "ci41531944",
-      "magnitude": 0.3,
-      "depth": 10,
-      "lat": 34.045,
-      "lon": -117.126,
-      "place": "3 km SSE of Mentone, CA",
-      "time": "2026-08-21T11:52:59.940Z"
-    },
-    {
-      "id": "aka2026qnkpgp",
-      "magnitude": 1.8,
-      "depth": 10,
-      "lat": 59.498,
-      "lon": -155.486,
-      "place": "29 km NE of Igiugig, Alaska",
-      "time": "2026-08-21T11:45:08.757Z"
-    },
-    {
-      "id": "hv75021877",
-      "magnitude": 1.8,
-      "depth": 43,
-      "lat": 19.209,
-      "lon": -155.248,
-      "place": "24 km E of Pāhala, Hawaii",
-      "time": "2026-08-21T11:45:04.290Z"
-    },
-    {
-      "id": "hv75021872",
-      "magnitude": 1.8,
-      "depth": 44,
-      "lat": 19.206,
-      "lon": -155.272,
-      "place": "21 km E of Pāhala, Hawaii",
-      "time": "2026-08-21T11:43:48.990Z"
-    },
-    {
-      "id": "nc75422347",
-      "magnitude": 1.7,
-      "depth": 3,
-      "lat": 36.571,
-      "lon": -121.199,
-      "place": "7 km NW of Pinnacles, CA",
-      "time": "2026-08-21T11:42:42.520Z"
-    },
-    {
-      "id": "uw714082542",
-      "magnitude": 0.6,
-      "depth": 19,
-      "lat": 45.008,
-      "lon": -122.532,
-      "place": "11 km ESE of Scotts Mills, Oregon",
-      "time": "2026-08-21T11:40:50.090Z"
-    },
-    {
-      "id": "nc75422342",
-      "magnitude": 2.3,
-      "depth": 18,
-      "lat": 37.725,
-      "lon": -122.261,
-      "place": "5 km SSW of Alameda, CA",
-      "time": "2026-08-21T11:38:49.380Z"
-    },
-    {
-      "id": "ci41531936",
-      "magnitude": 0.5,
-      "depth": 4,
-      "lat": 36.067,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T11:34:51.970Z"
     }
   ]
 }
