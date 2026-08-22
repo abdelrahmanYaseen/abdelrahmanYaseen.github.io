@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T13:57:21.644Z",
-  "count": 226,
+  "generated": "2026-08-22T14:14:53.136Z",
+  "count": 223,
   "events": [
+    {
+      "id": "nc75422962",
+      "magnitude": 0.6,
+      "depth": 1,
+      "lat": 36.032,
+      "lon": -120.601,
+      "place": "21 km NW of Parkfield, CA",
+      "time": "2026-08-22T14:07:39.550Z"
+    },
     {
       "id": "hv75022467",
       "magnitude": 1.8,
@@ -157,12 +166,12 @@
     },
     {
       "id": "uw714083092",
-      "magnitude": 2.5,
-      "depth": -1,
-      "lat": 46.764,
-      "lon": -121.934,
-      "place": "7 km E of Ashford, Washington",
-      "time": "2026-08-22T10:54:24.200Z"
+      "magnitude": 2.4,
+      "depth": 4,
+      "lat": 46.761,
+      "lon": -121.925,
+      "place": "8 km E of Ashford, Washington",
+      "time": "2026-08-22T10:54:24.220Z"
     },
     {
       "id": "aka2026qpexkh",
@@ -1999,42 +2008,6 @@
       "lon": -148.795,
       "place": "33 km E of Bear Creek, Alaska",
       "time": "2026-08-21T14:16:25.396Z"
-    },
-    {
-      "id": "av94396913",
-      "magnitude": 0.9,
-      "depth": -2,
-      "lat": 61.33,
-      "lon": -152.257,
-      "place": "66 km WNW of Beluga, Alaska",
-      "time": "2026-08-21T14:12:00.450Z"
-    },
-    {
-      "id": "aka2026qnpjtz",
-      "magnitude": 1.1,
-      "depth": 93,
-      "lat": 57.688,
-      "lon": -155.788,
-      "place": "80 km W of Karluk, Alaska",
-      "time": "2026-08-21T14:08:45.429Z"
-    },
-    {
-      "id": "ci41532072",
-      "magnitude": 0.4,
-      "depth": 10,
-      "lat": 33.317,
-      "lon": -116.319,
-      "place": "9 km NE of Borrego Springs, CA",
-      "time": "2026-08-21T14:05:49.680Z"
-    },
-    {
-      "id": "ci41532064",
-      "magnitude": 1.4,
-      "depth": 2,
-      "lat": 33.769,
-      "lon": -115.658,
-      "place": "25 km WNW of Desert Center, CA",
-      "time": "2026-08-21T14:04:48.170Z"
     }
   ]
 }
