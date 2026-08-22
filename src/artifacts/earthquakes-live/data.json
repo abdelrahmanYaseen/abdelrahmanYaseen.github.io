@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T19:53:35.141Z",
-  "count": 203,
+  "generated": "2026-08-22T20:09:37.942Z",
+  "count": 199,
   "events": [
+    {
+      "id": "ci41533096",
+      "magnitude": 0.9,
+      "depth": 9,
+      "lat": 34.056,
+      "lon": -117.46,
+      "place": "5 km S of Fontana, CA",
+      "time": "2026-08-22T20:03:49.560Z"
+    },
+    {
+      "id": "ci41533088",
+      "magnitude": 0.5,
+      "depth": 12,
+      "lat": 33.477,
+      "lon": -116.485,
+      "place": "20 km ESE of Anza, CA",
+      "time": "2026-08-22T20:00:49.420Z"
+    },
     {
       "id": "nn00923723",
       "magnitude": 1.6,
@@ -1774,60 +1792,6 @@
       "lon": -117.838,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T20:17:39.980Z"
-    },
-    {
-      "id": "av94397248",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 58.172,
-      "lon": -155.332,
-      "place": "84 km NW of Karluk, Alaska",
-      "time": "2026-08-21T20:06:53.920Z"
-    },
-    {
-      "id": "ci41532480",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 36.066,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T20:02:58.330Z"
-    },
-    {
-      "id": "ci41532472",
-      "magnitude": 1.1,
-      "depth": 7,
-      "lat": 35.314,
-      "lon": -117.799,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": "2026-08-21T20:01:13.490Z"
-    },
-    {
-      "id": "us6000tmms",
-      "magnitude": 3.4,
-      "depth": 5,
-      "lat": 32.114,
-      "lon": -93.358,
-      "place": "7 km NNW of Edgefield, Louisiana",
-      "time": "2026-08-21T20:00:37.001Z"
-    },
-    {
-      "id": "ci10249158",
-      "magnitude": 0.6,
-      "depth": 5,
-      "lat": 36.067,
-      "lon": -117.839,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T19:59:27.570Z"
-    },
-    {
-      "id": "ci41532464",
-      "magnitude": 0.8,
-      "depth": 4,
-      "lat": 36.065,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-21T19:58:54.270Z"
     }
   ]
 }
