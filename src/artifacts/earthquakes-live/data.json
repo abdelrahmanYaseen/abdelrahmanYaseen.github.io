@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-22T19:34:34.431Z",
-  "count": 206,
+  "generated": "2026-08-22T19:53:35.141Z",
+  "count": 203,
   "events": [
+    {
+      "id": "nn00923723",
+      "magnitude": 1.6,
+      "depth": 16,
+      "lat": 39.704,
+      "lon": -117.492,
+      "place": "43 km WNW of Austin, Nevada",
+      "time": "2026-08-22T19:32:18.465Z"
+    },
     {
       "id": "tx2026qnemtr",
       "magnitude": 1,
@@ -64,6 +73,15 @@
       "lon": -155.834,
       "place": "88 km WNW of Karluk, Alaska",
       "time": "2026-08-22T18:45:35.405Z"
+    },
+    {
+      "id": "us6000tmtp",
+      "magnitude": 4.4,
+      "depth": 91,
+      "lat": 28.19,
+      "lon": 128.614,
+      "place": "50 km NW of Amagi, Japan",
+      "time": "2026-08-22T18:44:57.000Z"
     },
     {
       "id": "nc75423092",
@@ -1810,51 +1828,6 @@
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-21T19:58:54.270Z"
-    },
-    {
-      "id": "nc75422607",
-      "magnitude": 2.1,
-      "depth": 4,
-      "lat": 36.037,
-      "lon": -120.601,
-      "place": "22 km NW of Parkfield, CA",
-      "time": "2026-08-21T19:51:35.050Z"
-    },
-    {
-      "id": "nc75422602",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.77,
-      "lon": -122.735,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": "2026-08-21T19:51:24.770Z"
-    },
-    {
-      "id": "aka2026qoaorw",
-      "magnitude": 1.7,
-      "depth": 90,
-      "lat": 60.256,
-      "lon": -152.19,
-      "place": "36 km NW of Ninilchik, Alaska",
-      "time": "2026-08-21T19:44:16.987Z"
-    },
-    {
-      "id": "ok2026qjjo",
-      "magnitude": 2,
-      "depth": 6,
-      "lat": 34.293,
-      "lon": -97.6,
-      "place": "8 km ESE of Loco, Oklahoma",
-      "time": "2026-08-21T19:37:46.859Z"
-    },
-    {
-      "id": "uw714082832",
-      "magnitude": 0.4,
-      "depth": 8,
-      "lat": 46.854,
-      "lon": -121.932,
-      "place": "13 km NE of Ashford, Washington",
-      "time": "2026-08-21T19:35:59.750Z"
     }
   ]
 }
