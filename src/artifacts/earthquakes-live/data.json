@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-22T19:14:15.280Z",
-  "count": 201,
+  "generated": "2026-08-22T19:34:34.431Z",
+  "count": 206,
   "events": [
+    {
+      "id": "tx2026qnemtr",
+      "magnitude": 1,
+      "depth": 4,
+      "lat": 31.908,
+      "lon": -102.057,
+      "place": "10 km SSE of Midland, Texas",
+      "time": "2026-08-22T19:15:28.327Z"
+    },
+    {
+      "id": "nc75423102",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 38.783,
+      "lon": -122.764,
+      "place": "1 km NW of The Geysers, CA",
+      "time": "2026-08-22T19:13:56.050Z"
+    },
     {
       "id": "nc75423097",
       "magnitude": 0.9,
@@ -28,6 +46,15 @@
       "lon": -151.079,
       "place": "6 km N of Beluga, Alaska",
       "time": "2026-08-22T18:50:12.195Z"
+    },
+    {
+      "id": "us6000tmtm",
+      "magnitude": 4.6,
+      "depth": 105,
+      "lat": -22.193,
+      "lon": -68.793,
+      "place": "32 km NNE of Calama, Chile",
+      "time": "2026-08-22T18:46:27.765Z"
     },
     {
       "id": "aka2026qpuqjg",
@@ -100,6 +127,24 @@
       "lon": -158.484,
       "place": "43 km ESE of Perryville, Alaska",
       "time": "2026-08-22T18:19:18.592Z"
+    },
+    {
+      "id": "uw714083422",
+      "magnitude": 0.1,
+      "depth": 7,
+      "lat": 46.204,
+      "lon": -122.151,
+      "place": "39 km NE of Amboy, Washington",
+      "time": "2026-08-22T18:15:36.950Z"
+    },
+    {
+      "id": "pr71529413",
+      "magnitude": 2.1,
+      "depth": 16,
+      "lat": 17.923,
+      "lon": -66.911,
+      "place": "5 km S of Guánica, Puerto Rico",
+      "time": "2026-08-22T17:56:22.680Z"
     },
     {
       "id": "ci41533048",
@@ -226,6 +271,15 @@
       "lon": -116.644,
       "place": "15 km N of Warner Springs, CA",
       "time": "2026-08-22T16:42:15.210Z"
+    },
+    {
+      "id": "uw714083352",
+      "magnitude": -0.4,
+      "depth": 3,
+      "lat": 46.75,
+      "lon": -121.947,
+      "place": "6 km E of Ashford, Washington",
+      "time": "2026-08-22T16:34:41.550Z"
     },
     {
       "id": "us6000tmt7",
@@ -1801,15 +1855,6 @@
       "lon": -121.932,
       "place": "13 km NE of Ashford, Washington",
       "time": "2026-08-21T19:35:59.750Z"
-    },
-    {
-      "id": "hv75022097",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 18.74,
-      "lon": -155.243,
-      "place": "50 km SE of Naalehu, Hawaii",
-      "time": "2026-08-21T19:25:55.250Z"
     }
   ]
 }
