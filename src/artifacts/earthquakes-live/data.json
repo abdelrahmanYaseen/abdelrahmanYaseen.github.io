@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-23T21:55:32.493Z",
-  "count": 320,
+  "generated": "2026-08-23T22:10:23.246Z",
+  "count": 321,
   "events": [
+    {
+      "id": "ci41534584",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 36.067,
+      "lon": -117.835,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T22:07:16.410Z"
+    },
+    {
+      "id": "nc75423827",
+      "magnitude": 1.4,
+      "depth": 10,
+      "lat": 35.957,
+      "lon": -120.51,
+      "place": "10 km NW of Parkfield, CA",
+      "time": "2026-08-23T21:55:51.360Z"
+    },
+    {
+      "id": "ci41534576",
+      "magnitude": 1.1,
+      "depth": 13,
+      "lat": 35.079,
+      "lon": -119.047,
+      "place": "18 km NW of Grapevine, CA",
+      "time": "2026-08-23T21:55:37.140Z"
+    },
     {
       "id": "tx2026qpfgkl",
       "magnitude": 1.8,
@@ -9,7 +36,7 @@
       "lat": 31.593,
       "lon": -104.583,
       "place": "65 km NNE of Van Horn, Texas",
-      "time": "2026-08-23T21:47:13.223Z"
+      "time": "2026-08-23T21:47:13.216Z"
     },
     {
       "id": "ci41534568",
@@ -2863,24 +2890,6 @@
       "lon": 71.342,
       "place": "17 km W of Ashkāsham, Afghanistan",
       "time": "2026-08-22T22:14:43.323Z"
-    },
-    {
-      "id": "us6000tmut",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -8.121,
-      "lon": 120.741,
-      "place": "62 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-22T22:01:02.600Z"
-    },
-    {
-      "id": "nc75423167",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 38.809,
-      "lon": -122.814,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-08-22T22:00:01.810Z"
     }
   ]
 }
