@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-23T06:20:17.115Z",
-  "count": 202,
+  "generated": "2026-08-23T07:08:15.757Z",
+  "count": 203,
   "events": [
+    {
+      "id": "nn00923730",
+      "magnitude": 1.7,
+      "depth": 9,
+      "lat": 37.679,
+      "lon": -118.121,
+      "place": "4 km WNW of Dyer, Nevada",
+      "time": "2026-08-23T07:04:22.568Z"
+    },
+    {
+      "id": "nc75423412",
+      "magnitude": 0.8,
+      "depth": 0,
+      "lat": 38.775,
+      "lon": -122.741,
+      "place": "1 km E of The Geysers, CA",
+      "time": "2026-08-23T07:02:19.270Z"
+    },
+    {
+      "id": "ci41533360",
+      "magnitude": 0.6,
+      "depth": 3,
+      "lat": 36.07,
+      "lon": -117.838,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T06:42:05.230Z"
+    },
+    {
+      "id": "aka2026qqsfuw",
+      "magnitude": 1.9,
+      "depth": 5,
+      "lat": 61.559,
+      "lon": -141.057,
+      "place": "100 km E of McCarthy, Alaska",
+      "time": "2026-08-23T06:33:04.449Z"
+    },
+    {
+      "id": "nc75423397",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.825,
+      "lon": -122.805,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-23T06:27:07.330Z"
+    },
+    {
+      "id": "tx2026qoankn",
+      "magnitude": 1.6,
+      "depth": 5,
+      "lat": 31.524,
+      "lon": -104.003,
+      "place": "30 km NW of Toyah, Texas",
+      "time": "2026-08-23T06:22:38.446Z"
+    },
+    {
+      "id": "tx2026qoadpr",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 31.615,
+      "lon": -104.154,
+      "place": "47 km NW of Toyah, Texas",
+      "time": "2026-08-23T06:08:59.200Z"
+    },
     {
       "id": "aka2026qqrjri",
       "magnitude": 1.2,
@@ -28,6 +91,15 @@
       "lon": -147.29,
       "place": "21 km ESE of Glacier View, Alaska",
       "time": "2026-08-23T05:51:43.042Z"
+    },
+    {
+      "id": "us6000tmx3",
+      "magnitude": 4,
+      "depth": 10,
+      "lat": 10.674,
+      "lon": -65.342,
+      "place": "60 km N of Boca de Uchire, Venezuela",
+      "time": "2026-08-23T05:47:51.452Z"
     },
     {
       "id": "us6000tmww",
@@ -1756,69 +1828,6 @@
       "lon": -119.677,
       "place": "14 km SE of Markleeville, CA",
       "time": "2026-08-22T07:14:59.420Z"
-    },
-    {
-      "id": "nc75422822",
-      "magnitude": 1.4,
-      "depth": 2,
-      "lat": 38.613,
-      "lon": -119.678,
-      "place": "13 km SE of Markleeville, CA",
-      "time": "2026-08-22T06:55:50.720Z"
-    },
-    {
-      "id": "nc75422817",
-      "magnitude": 2.2,
-      "depth": 1,
-      "lat": 38.606,
-      "lon": -119.675,
-      "place": "14 km SE of Markleeville, CA",
-      "time": "2026-08-22T06:54:34.670Z"
-    },
-    {
-      "id": "pr71529323",
-      "magnitude": 1.9,
-      "depth": 10,
-      "lat": 18.012,
-      "lon": -66.983,
-      "place": "5 km SW of Liborio Negron Torres, Puerto Rico",
-      "time": "2026-08-22T06:51:09.460Z"
-    },
-    {
-      "id": "ci41532832",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 36.068,
-      "lon": -117.835,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-22T06:50:37.930Z"
-    },
-    {
-      "id": "nc75422812",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.837,
-      "lon": -122.794,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-08-22T06:49:02.190Z"
-    },
-    {
-      "id": "us6000tmrf",
-      "magnitude": 5,
-      "depth": 108,
-      "lat": 6.74,
-      "lon": 126.736,
-      "place": "45 km SE of Lukatan, Philippines",
-      "time": "2026-08-22T06:43:39.032Z"
-    },
-    {
-      "id": "pr71529313",
-      "magnitude": 3.2,
-      "depth": 17,
-      "lat": 18.84,
-      "lon": -67.566,
-      "place": "62 km NW of San Antonio, Puerto Rico",
-      "time": "2026-08-22T06:22:40.370Z"
     }
   ]
 }
