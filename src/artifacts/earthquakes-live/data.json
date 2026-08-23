@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-23T10:46:28.817Z",
-  "count": 261,
+  "generated": "2026-08-23T11:10:58.186Z",
+  "count": 268,
   "events": [
+    {
+      "id": "ci41533992",
+      "magnitude": 1.3,
+      "depth": 12,
+      "lat": 32.758,
+      "lon": -115.448,
+      "place": "8 km ENE of Heber, CA",
+      "time": "2026-08-23T11:06:58.550Z"
+    },
+    {
+      "id": "ci41533984",
+      "magnitude": 0.3,
+      "depth": 7,
+      "lat": 33.154,
+      "lon": -116.519,
+      "place": "11 km NE of Julian, CA",
+      "time": "2026-08-23T11:06:36.750Z"
+    },
+    {
+      "id": "ci41533976",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 36.064,
+      "lon": -117.836,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T11:05:34.800Z"
+    },
+    {
+      "id": "ci41533968",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.063,
+      "lon": -117.838,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T11:05:00.130Z"
+    },
+    {
+      "id": "nc75423572",
+      "magnitude": 0.3,
+      "depth": 3,
+      "lat": 38.814,
+      "lon": -122.82,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-23T11:03:36.380Z"
+    },
+    {
+      "id": "ci41533960",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.071,
+      "lon": -117.839,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T11:01:51.560Z"
+    },
+    {
+      "id": "ci41533952",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.058,
+      "lon": -117.843,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-23T11:01:19.340Z"
+    },
+    {
+      "id": "ci41533944",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.061,
+      "lon": -117.844,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-23T10:56:43.960Z"
+    },
+    {
+      "id": "ci41533936",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 36.059,
+      "lon": -117.843,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-23T10:54:59.040Z"
+    },
     {
       "id": "ci41533928",
       "magnitude": 0.7,
@@ -127,6 +208,15 @@
       "lon": -117.838,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-23T10:18:22.070Z"
+    },
+    {
+      "id": "us6000tmy7",
+      "magnitude": 4.1,
+      "depth": 41,
+      "lat": 16.777,
+      "lon": -61.08,
+      "place": "52 km N of Beauséjour, Guadeloupe",
+      "time": "2026-08-23T10:16:38.297Z"
     },
     {
       "id": "us6000tmy3",
@@ -397,6 +487,15 @@
       "lon": -122.775,
       "place": "3 km NW of The Geysers, CA",
       "time": "2026-08-23T09:01:38.030Z"
+    },
+    {
+      "id": "pr71529488",
+      "magnitude": 3.1,
+      "depth": 5,
+      "lat": 18.789,
+      "lon": -67.372,
+      "place": "43 km NW of San Antonio, Puerto Rico",
+      "time": "2026-08-23T08:57:13.730Z"
     },
     {
       "id": "aka2026qqwwby",
@@ -2314,42 +2413,6 @@
       "lon": -115.63,
       "place": "9 km NW of Imperial, CA",
       "time": "2026-08-22T11:12:22.530Z"
-    },
-    {
-      "id": "uw714083102",
-      "magnitude": 0.9,
-      "depth": 6,
-      "lat": 46.825,
-      "lon": -121.932,
-      "place": "10 km NE of Ashford, Washington",
-      "time": "2026-08-22T11:08:31.740Z"
-    },
-    {
-      "id": "nc75422912",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.83,
-      "lon": -122.809,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-22T11:05:34.500Z"
-    },
-    {
-      "id": "uw714083092",
-      "magnitude": 2.4,
-      "depth": 4,
-      "lat": 46.761,
-      "lon": -121.925,
-      "place": "8 km E of Ashford, Washington",
-      "time": "2026-08-22T10:54:24.220Z"
-    },
-    {
-      "id": "aka2026qpexkh",
-      "magnitude": 2.2,
-      "depth": 5,
-      "lat": 56.562,
-      "lon": -156.448,
-      "place": "120 km SSE of Ugashik, Alaska",
-      "time": "2026-08-22T10:53:54.629Z"
     }
   ]
 }
