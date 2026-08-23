@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-23T20:09:10.382Z",
-  "count": 308,
+  "generated": "2026-08-23T20:36:11.099Z",
+  "count": 314,
   "events": [
+    {
+      "id": "ci41534504",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 36.066,
+      "lon": -117.836,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T20:33:18.130Z"
+    },
+    {
+      "id": "ci41534496",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 36.061,
+      "lon": -117.84,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-23T20:29:27.300Z"
+    },
+    {
+      "id": "ci41534488",
+      "magnitude": 1.1,
+      "depth": 14,
+      "lat": 33.637,
+      "lon": -116.73,
+      "place": "11 km NNW of Anza, CA",
+      "time": "2026-08-23T20:29:22.100Z"
+    },
+    {
+      "id": "ci41534480",
+      "magnitude": 1.1,
+      "depth": 12,
+      "lat": 34.148,
+      "lon": -117.478,
+      "place": "6 km NNW of Fontana, CA",
+      "time": "2026-08-23T20:27:03.850Z"
+    },
+    {
+      "id": "ci41534456",
+      "magnitude": 0.6,
+      "depth": 3,
+      "lat": 36.068,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T20:12:09.870Z"
+    },
+    {
+      "id": "ci41534448",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.065,
+      "lon": -117.834,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T20:09:26.740Z"
+    },
+    {
+      "id": "ci41534440",
+      "magnitude": 0.3,
+      "depth": 13,
+      "lat": 33.656,
+      "lon": -116.716,
+      "place": "9 km S of Idyllwild, CA",
+      "time": "2026-08-23T20:06:35.560Z"
+    },
+    {
+      "id": "us6000tn0j",
+      "magnitude": 4.4,
+      "depth": 61,
+      "lat": -2.071,
+      "lon": 100.651,
+      "place": "82 km W of Sungai Penuh, Indonesia",
+      "time": "2026-08-23T19:56:47.314Z"
+    },
     {
       "id": "aka2026qrszer",
       "magnitude": 2.4,
@@ -194,11 +266,11 @@
     {
       "id": "ci41534360",
       "magnitude": 1.7,
-      "depth": 5,
-      "lat": 34.531,
-      "lon": -120.477,
-      "place": "12 km S of Lompoc, CA",
-      "time": "2026-08-23T18:25:19.710Z"
+      "depth": 6,
+      "lat": 34.527,
+      "lon": -120.479,
+      "place": "13 km S of Lompoc, CA",
+      "time": "2026-08-23T18:25:19.670Z"
     },
     {
       "id": "ci41534352",
@@ -1533,6 +1605,24 @@
       "time": "2026-08-23T08:28:55.200Z"
     },
     {
+      "id": "ci10249550",
+      "magnitude": 0.1,
+      "depth": 3,
+      "lat": 36.067,
+      "lon": -117.831,
+      "place": "11 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T08:27:27.670Z"
+    },
+    {
+      "id": "ci10249382",
+      "magnitude": 0.1,
+      "depth": 0,
+      "lat": 36.075,
+      "lon": -117.823,
+      "place": "12 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T08:27:18.930Z"
+    },
+    {
       "id": "ci41533584",
       "magnitude": 0.8,
       "depth": 1,
@@ -2732,47 +2822,11 @@
     {
       "id": "ci41533144",
       "magnitude": 1.7,
-      "depth": 3,
-      "lat": 34.542,
-      "lon": -120.465,
-      "place": "11 km S of Lompoc, CA",
-      "time": "2026-08-22T20:39:49.300Z"
-    },
-    {
-      "id": "ci41533128",
-      "magnitude": 1.6,
       "depth": 6,
-      "lat": 33.149,
-      "lon": -116.535,
-      "place": "10 km NE of Julian, CA",
-      "time": "2026-08-22T20:30:19.970Z"
-    },
-    {
-      "id": "ci41533120",
-      "magnitude": 0.9,
-      "depth": 12,
-      "lat": 33.289,
-      "lon": -116.743,
-      "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-22T20:28:22.800Z"
-    },
-    {
-      "id": "ci41533112",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 34.547,
-      "lon": -116.249,
-      "place": "21 km SSW of Ludlow, CA",
-      "time": "2026-08-22T20:23:49.530Z"
-    },
-    {
-      "id": "aka2026qpxvau",
-      "magnitude": 2.4,
-      "depth": 22,
-      "lat": 61.387,
-      "lon": -150.039,
-      "place": "4 km NW of Point MacKenzie, Alaska",
-      "time": "2026-08-22T20:20:56.863Z"
+      "lat": 34.537,
+      "lon": -120.48,
+      "place": "12 km S of Lompoc, CA",
+      "time": "2026-08-22T20:39:49.150Z"
     }
   ]
 }
