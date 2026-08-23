@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-23T17:55:17.259Z",
-  "count": 297,
+  "generated": "2026-08-23T18:12:34.697Z",
+  "count": 298,
   "events": [
+    {
+      "id": "ci41534336",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.064,
+      "lon": -117.838,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T18:02:54.570Z"
+    },
+    {
+      "id": "ci41534328",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.059,
+      "lon": -117.846,
+      "place": "9 km E of Coso Junction, CA",
+      "time": "2026-08-23T17:56:45.430Z"
+    },
     {
       "id": "ci41534320",
       "magnitude": 0.7,
@@ -2665,15 +2683,6 @@
       "lon": -122.151,
       "place": "39 km NE of Amboy, Washington",
       "time": "2026-08-22T18:15:36.950Z"
-    },
-    {
-      "id": "pr71529413",
-      "magnitude": 2.1,
-      "depth": 16,
-      "lat": 17.923,
-      "lon": -66.911,
-      "place": "5 km S of Guánica, Puerto Rico",
-      "time": "2026-08-22T17:56:22.680Z"
     }
   ]
 }
