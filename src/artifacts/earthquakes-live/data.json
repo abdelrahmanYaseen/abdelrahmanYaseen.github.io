@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-23T11:33:15.941Z",
-  "count": 271,
+  "generated": "2026-08-23T11:54:51.057Z",
+  "count": 275,
   "events": [
+    {
+      "id": "ci41534040",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 36.064,
+      "lon": -117.839,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T11:41:31.630Z"
+    },
+    {
+      "id": "ci41534032",
+      "magnitude": 1.4,
+      "depth": 22,
+      "lat": 34.117,
+      "lon": -119.268,
+      "place": "8 km WSW of Port Hueneme, CA",
+      "time": "2026-08-23T11:39:24.820Z"
+    },
+    {
+      "id": "ci41534024",
+      "magnitude": 0.7,
+      "depth": 9,
+      "lat": 34.858,
+      "lon": -119.601,
+      "place": "29 km SW of Maricopa, CA",
+      "time": "2026-08-23T11:37:09.950Z"
+    },
+    {
+      "id": "hv75022837",
+      "magnitude": 2,
+      "depth": 29,
+      "lat": 19.187,
+      "lon": -155.48,
+      "place": "1 km S of Pāhala, Hawaii",
+      "time": "2026-08-23T11:32:00.650Z"
+    },
+    {
+      "id": "nc75423582",
+      "magnitude": 0.7,
+      "depth": 4,
+      "lat": 38.795,
+      "lon": -122.799,
+      "place": "4 km WNW of The Geysers, CA",
+      "time": "2026-08-23T11:30:44.900Z"
+    },
+    {
+      "id": "us6000tmyk",
+      "magnitude": 5.3,
+      "depth": 10,
+      "lat": -12.83,
+      "lon": -14.852,
+      "place": "southern Mid-Atlantic Ridge",
+      "time": "2026-08-23T11:22:41.913Z"
+    },
     {
       "id": "nc75423577",
       "magnitude": 1.2,
@@ -2422,24 +2476,6 @@
       "lon": -104.435,
       "place": "60 km S of Whites City, New Mexico",
       "time": "2026-08-22T11:59:57.733Z"
-    },
-    {
-      "id": "hv75022437",
-      "magnitude": 2.1,
-      "depth": 3,
-      "lat": 19.308,
-      "lon": -155.256,
-      "place": "15 km S of Volcano, Hawaii",
-      "time": "2026-08-22T11:52:31.500Z"
-    },
-    {
-      "id": "hv75022432",
-      "magnitude": 2.1,
-      "depth": 34,
-      "lat": 19.206,
-      "lon": -155.483,
-      "place": "0 km WNW of Pāhala, Hawaii",
-      "time": "2026-08-22T11:37:11.020Z"
     }
   ]
 }
