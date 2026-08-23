@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-23T16:59:01.283Z",
-  "count": 302,
+  "generated": "2026-08-23T17:18:37.254Z",
+  "count": 297,
   "events": [
+    {
+      "id": "ci41534288",
+      "magnitude": 1.3,
+      "depth": 6,
+      "lat": 33.418,
+      "lon": -116.646,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-23T17:16:11.070Z"
+    },
     {
       "id": "ci41534280",
       "magnitude": 0.9,
@@ -1660,12 +1669,12 @@
     },
     {
       "id": "tx2026qoadpr",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 31.615,
-      "lon": -104.154,
-      "place": "47 km NW of Toyah, Texas",
-      "time": "2026-08-23T06:08:59.200Z"
+      "magnitude": 0.9,
+      "depth": 4,
+      "lat": 31.608,
+      "lon": -104.13,
+      "place": "45 km NW of Toyah, Texas",
+      "time": "2026-08-23T06:08:59.389Z"
     },
     {
       "id": "aka2026qqrjri",
@@ -1758,6 +1767,15 @@
       "time": "2026-08-23T05:06:00.170Z"
     },
     {
+      "id": "tx2026qnybdm",
+      "magnitude": 1.5,
+      "depth": 4,
+      "lat": 31.515,
+      "lon": -104.005,
+      "place": "29 km NW of Toyah, Texas",
+      "time": "2026-08-23T05:05:58.593Z"
+    },
+    {
       "id": "tx2026qnxyyk",
       "magnitude": 1.7,
       "depth": 5,
@@ -1765,15 +1783,6 @@
       "lon": -104.002,
       "place": "30 km NW of Toyah, Texas",
       "time": "2026-08-23T05:05:58.414Z"
-    },
-    {
-      "id": "tx2026qnybdm",
-      "magnitude": 1.6,
-      "depth": 0,
-      "lat": 31.529,
-      "lon": -104.506,
-      "place": "62 km NNE of Van Horn, Texas",
-      "time": "2026-08-23T05:05:52.530Z"
     },
     {
       "id": "aka2026qqpfaq",
@@ -2665,60 +2674,6 @@
       "lon": -116.737,
       "place": "7 km SW of Anza, CA",
       "time": "2026-08-22T17:18:22.960Z"
-    },
-    {
-      "id": "aka2026qprsfk",
-      "magnitude": 1.3,
-      "depth": 97,
-      "lat": 59.737,
-      "lon": -152.717,
-      "place": "49 km W of Anchor Point, Alaska",
-      "time": "2026-08-22T17:17:43.862Z"
-    },
-    {
-      "id": "nn00923718",
-      "magnitude": 1.6,
-      "depth": 0,
-      "lat": 38.145,
-      "lon": -117.988,
-      "place": "29 km SSE of Mina, Nevada",
-      "time": "2026-08-22T17:13:20.193Z"
-    },
-    {
-      "id": "aka2026qprmwb",
-      "magnitude": 2,
-      "depth": 79,
-      "lat": 57.09,
-      "lon": -156.292,
-      "place": "81 km SE of Ugashik, Alaska",
-      "time": "2026-08-22T17:11:35.078Z"
-    },
-    {
-      "id": "ci41533008",
-      "magnitude": 0.4,
-      "depth": 7,
-      "lat": 33.576,
-      "lon": -116.8,
-      "place": "12 km W of Anza, CA",
-      "time": "2026-08-22T17:02:24.670Z"
-    },
-    {
-      "id": "us6000tmta",
-      "magnitude": 5.8,
-      "depth": 61,
-      "lat": 35.938,
-      "lon": 140.078,
-      "place": "4 km N of Toride, Japan",
-      "time": "2026-08-22T17:00:39.472Z"
-    },
-    {
-      "id": "ci41533000",
-      "magnitude": 0.8,
-      "depth": 12,
-      "lat": 33.515,
-      "lon": -116.508,
-      "place": "16 km ESE of Anza, CA",
-      "time": "2026-08-22T16:59:31.320Z"
     }
   ]
 }
