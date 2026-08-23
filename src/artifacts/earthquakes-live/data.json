@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-23T19:13:37.515Z",
-  "count": 303,
+  "generated": "2026-08-23T19:34:00.412Z",
+  "count": 307,
   "events": [
+    {
+      "id": "aka2026qrryrf",
+      "magnitude": 1.6,
+      "depth": 60,
+      "lat": 61.327,
+      "lon": -150.888,
+      "place": "23 km NNE of Beluga, Alaska",
+      "time": "2026-08-23T19:24:30.180Z"
+    },
+    {
+      "id": "ci41534424",
+      "magnitude": 0.5,
+      "depth": 7,
+      "lat": 33.156,
+      "lon": -116.518,
+      "place": "12 km NE of Julian, CA",
+      "time": "2026-08-23T19:15:21.650Z"
+    },
     {
       "id": "hv75022932",
       "magnitude": 1.8,
@@ -37,6 +55,15 @@
       "lon": -156.187,
       "place": "99 km SE of Ugashik, Alaska",
       "time": "2026-08-23T18:58:19.652Z"
+    },
+    {
+      "id": "us6000tn0a",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": 5.789,
+      "lon": 126.194,
+      "place": "61 km ESE of Mangili, Philippines",
+      "time": "2026-08-23T18:57:38.731Z"
     },
     {
       "id": "hv75022927",
@@ -2235,6 +2262,24 @@
       "time": "2026-08-23T02:15:07.970Z"
     },
     {
+      "id": "aka2026qqjesw",
+      "magnitude": 2.6,
+      "depth": 10,
+      "lat": 53.875,
+      "lon": -162.997,
+      "place": "112 km SSE of False Pass, Alaska",
+      "time": "2026-08-23T02:02:03.745Z"
+    },
+    {
+      "id": "aka2026qqizeb",
+      "magnitude": 2.7,
+      "depth": 5,
+      "lat": 50.182,
+      "lon": -179.399,
+      "place": "270 km SW of Adak, Alaska",
+      "time": "2026-08-23T01:55:12.971Z"
+    },
+    {
       "id": "ci41533272",
       "magnitude": 1.4,
       "depth": 10,
@@ -2242,6 +2287,15 @@
       "lon": -115.532,
       "place": "6 km S of Brawley, CA",
       "time": "2026-08-23T01:54:29.490Z"
+    },
+    {
+      "id": "aka2026qqigsw",
+      "magnitude": 1.7,
+      "depth": 77,
+      "lat": 51.676,
+      "lon": -176.692,
+      "place": "22 km S of Adak, Alaska",
+      "time": "2026-08-23T01:34:16.855Z"
     },
     {
       "id": "pr71529443",
@@ -2263,12 +2317,12 @@
     },
     {
       "id": "aka2026qqhsvr",
-      "magnitude": 2,
-      "depth": 107,
-      "lat": 58.076,
-      "lon": -155.158,
-      "place": "70 km NW of Karluk, Alaska",
-      "time": "2026-08-23T01:18:17.082Z"
+      "magnitude": 2.4,
+      "depth": 108,
+      "lat": 58.069,
+      "lon": -155.134,
+      "place": "68 km NW of Karluk, Alaska",
+      "time": "2026-08-23T01:18:16.897Z"
     },
     {
       "id": "nc75423277",
@@ -2305,6 +2359,24 @@
       "lon": -101.528,
       "place": "9 km SSW of Big Spring, Texas",
       "time": "2026-08-23T00:56:47.014Z"
+    },
+    {
+      "id": "aka2026qqgwoh",
+      "magnitude": 2.6,
+      "depth": 26,
+      "lat": 51.324,
+      "lon": -176.091,
+      "place": "71 km SSE of Adak, Alaska",
+      "time": "2026-08-23T00:52:38.602Z"
+    },
+    {
+      "id": "aka2026qqgvvo",
+      "magnitude": 1.5,
+      "depth": 134,
+      "lat": 60.162,
+      "lon": -153.222,
+      "place": "60 km E of Port Alsworth, Alaska",
+      "time": "2026-08-23T00:51:40.388Z"
     },
     {
       "id": "nc75423267",
@@ -2692,42 +2764,6 @@
       "lon": -74.737,
       "place": "6 km SW of Chester, New Jersey",
       "time": "2026-08-22T19:50:47.593Z"
-    },
-    {
-      "id": "nn00923723",
-      "magnitude": 1.6,
-      "depth": 16,
-      "lat": 39.704,
-      "lon": -117.492,
-      "place": "43 km WNW of Austin, Nevada",
-      "time": "2026-08-22T19:32:18.465Z"
-    },
-    {
-      "id": "us6000tmwj",
-      "magnitude": 4,
-      "depth": 10,
-      "lat": 52.01,
-      "lon": 176.326,
-      "place": "232 km ESE of Attu Station, Alaska",
-      "time": "2026-08-22T19:19:42.572Z"
-    },
-    {
-      "id": "tx2026qnemtr",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 31.912,
-      "lon": -102.055,
-      "place": "9 km SSE of Midland, Texas",
-      "time": "2026-08-22T19:15:28.405Z"
-    },
-    {
-      "id": "nc75423102",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 38.783,
-      "lon": -122.764,
-      "place": "1 km NW of The Geysers, CA",
-      "time": "2026-08-22T19:13:56.050Z"
     }
   ]
 }
