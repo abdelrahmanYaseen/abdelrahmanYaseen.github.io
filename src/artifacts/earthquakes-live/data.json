@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-23T16:40:49.667Z",
-  "count": 297,
+  "generated": "2026-08-23T16:59:01.283Z",
+  "count": 302,
   "events": [
+    {
+      "id": "ci41534280",
+      "magnitude": 0.9,
+      "depth": 5,
+      "lat": 33.902,
+      "lon": -116.166,
+      "place": "21 km NNE of Indio, CA",
+      "time": "2026-08-23T16:53:27.080Z"
+    },
+    {
+      "id": "ci41534272",
+      "magnitude": 1.1,
+      "depth": 9,
+      "lat": 35.308,
+      "lon": -117.818,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-08-23T16:51:45.770Z"
+    },
+    {
+      "id": "ci41534264",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 36.066,
+      "lon": -117.838,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T16:51:03.450Z"
+    },
+    {
+      "id": "ci41534256",
+      "magnitude": 1.1,
+      "depth": 9,
+      "lat": 35.307,
+      "lon": -117.82,
+      "place": "18 km WSW of Johannesburg, CA",
+      "time": "2026-08-23T16:47:33.080Z"
+    },
+    {
+      "id": "aka2026qrmocf",
+      "magnitude": 1.7,
+      "depth": 1,
+      "lat": 61.792,
+      "lon": -149.557,
+      "place": "17 km WNW of Fishhook, Alaska",
+      "time": "2026-08-23T16:42:20.896Z"
+    },
     {
       "id": "nc75423657",
       "magnitude": 0.8,
@@ -22,12 +67,12 @@
     },
     {
       "id": "ci41534248",
-      "magnitude": 1,
-      "depth": 4,
-      "lat": 36.071,
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.068,
       "lon": -117.84,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T16:37:30.870Z"
+      "time": "2026-08-23T16:37:30.880Z"
     },
     {
       "id": "ci41534240",
@@ -73,6 +118,15 @@
       "lon": -152.475,
       "place": "46 km WNW of Ninilchik, Alaska",
       "time": "2026-08-23T15:51:48.648Z"
+    },
+    {
+      "id": "uw714084372",
+      "magnitude": 0.8,
+      "depth": 12,
+      "lat": 48.123,
+      "lon": -121.61,
+      "place": "13 km ENE of Verlot, Washington",
+      "time": "2026-08-23T15:31:45.100Z"
     },
     {
       "id": "aka2026qrjkdx",
@@ -145,6 +199,15 @@
       "lon": -116.413,
       "place": "3 km SSE of Yucca Valley, CA",
       "time": "2026-08-23T14:06:23.710Z"
+    },
+    {
+      "id": "uw714084222",
+      "magnitude": 0.8,
+      "depth": 17,
+      "lat": 46.032,
+      "lon": -122.427,
+      "place": "13 km N of Amboy, Washington",
+      "time": "2026-08-23T13:54:54.600Z"
     },
     {
       "id": "us6000tmz6",
@@ -1256,11 +1319,11 @@
     {
       "id": "ci41533512",
       "magnitude": 2.7,
-      "depth": 2,
-      "lat": 36.06,
-      "lon": -117.838,
+      "depth": 3,
+      "lat": 36.061,
+      "lon": -117.837,
       "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-23T08:15:17.860Z"
+      "time": "2026-08-23T08:15:17.820Z"
     },
     {
       "id": "nn00923740",
@@ -1354,12 +1417,12 @@
     },
     {
       "id": "ci41533448",
-      "magnitude": 2.4,
-      "depth": 3,
-      "lat": 36.064,
-      "lon": -117.84,
+      "magnitude": 2.3,
+      "depth": 4,
+      "lat": 36.066,
+      "lon": -117.839,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T08:06:06.810Z"
+      "time": "2026-08-23T08:06:06.790Z"
     },
     {
       "id": "ci10249350",
@@ -2656,24 +2719,6 @@
       "lon": -116.508,
       "place": "16 km ESE of Anza, CA",
       "time": "2026-08-22T16:59:31.320Z"
-    },
-    {
-      "id": "us6000tmt8",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -7.894,
-      "lon": 120.599,
-      "place": "80 km N of Ruteng, Indonesia",
-      "time": "2026-08-22T16:42:56.593Z"
-    },
-    {
-      "id": "ci41532976",
-      "magnitude": 0.8,
-      "depth": 6,
-      "lat": 33.414,
-      "lon": -116.644,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-22T16:42:15.210Z"
     }
   ]
 }
