@@ -1,12 +1,30 @@
 {
-  "generated": "2026-08-23T20:36:11.099Z",
-  "count": 314,
+  "generated": "2026-08-23T20:56:13.906Z",
+  "count": 315,
   "events": [
     {
-      "id": "ci41534504",
-      "magnitude": 1.1,
+      "id": "nc75423792",
+      "magnitude": 1.3,
+      "depth": 7,
+      "lat": 37.125,
+      "lon": -121.549,
+      "place": "7 km NE of San Martin, CA",
+      "time": "2026-08-23T20:41:45.280Z"
+    },
+    {
+      "id": "ci41534512",
+      "magnitude": 1.3,
       "depth": 3,
-      "lat": 36.066,
+      "lat": 36.061,
+      "lon": -117.84,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-23T20:40:44.780Z"
+    },
+    {
+      "id": "ci41534504",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.064,
       "lon": -117.836,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-23T20:33:18.130Z"
@@ -28,6 +46,15 @@
       "lon": -116.73,
       "place": "11 km NNW of Anza, CA",
       "time": "2026-08-23T20:29:22.100Z"
+    },
+    {
+      "id": "pr71529548",
+      "magnitude": 2.4,
+      "depth": 50,
+      "lat": 18.1,
+      "lon": -66.917,
+      "place": "5 km ENE of Sabana Grande, Puerto Rico",
+      "time": "2026-08-23T20:28:20.460Z"
     },
     {
       "id": "ci41534480",
@@ -132,7 +159,7 @@
       "id": "ci41534424",
       "magnitude": 0.5,
       "depth": 7,
-      "lat": 33.156,
+      "lat": 33.16,
       "lon": -116.518,
       "place": "12 km NE of Julian, CA",
       "time": "2026-08-23T19:15:21.650Z"
@@ -203,11 +230,11 @@
     {
       "id": "ci41534400",
       "magnitude": 1.6,
-      "depth": 16,
+      "depth": 17,
       "lat": 33.959,
-      "lon": -117.145,
+      "lon": -117.147,
       "place": "8 km ENE of Moreno Valley, CA",
-      "time": "2026-08-23T18:30:55.110Z"
+      "time": "2026-08-23T18:30:55.040Z"
     },
     {
       "id": "ci41534392",
@@ -2809,24 +2836,6 @@
       "lon": 176.361,
       "place": "234 km ESE of Attu Station, Alaska",
       "time": "2026-08-22T21:04:16.350Z"
-    },
-    {
-      "id": "tx2026qnhief",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 31.682,
-      "lon": -104.307,
-      "place": "55 km S of Whites City, New Mexico",
-      "time": "2026-08-22T20:41:53.613Z"
-    },
-    {
-      "id": "ci41533144",
-      "magnitude": 1.7,
-      "depth": 6,
-      "lat": 34.537,
-      "lon": -120.48,
-      "place": "12 km S of Lompoc, CA",
-      "time": "2026-08-22T20:39:49.150Z"
     }
   ]
 }
