@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-23T09:57:15.334Z",
-  "count": 249,
+  "generated": "2026-08-23T10:16:53.078Z",
+  "count": 251,
   "events": [
+    {
+      "id": "ci41533840",
+      "magnitude": 1.4,
+      "depth": 3,
+      "lat": 36.067,
+      "lon": -117.837,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T10:00:48.800Z"
+    },
+    {
+      "id": "ci41533832",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.066,
+      "lon": -117.833,
+      "place": "11 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T10:00:03.240Z"
+    },
+    {
+      "id": "ci41533824",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 36.064,
+      "lon": -117.834,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T09:57:50.540Z"
+    },
+    {
+      "id": "ci41533816",
+      "magnitude": 0.4,
+      "depth": 13,
+      "lat": 33.504,
+      "lon": -116.491,
+      "place": "18 km ESE of Anza, CA",
+      "time": "2026-08-23T09:56:54.480Z"
+    },
     {
       "id": "ci41533808",
       "magnitude": 0.6,
@@ -2224,24 +2260,6 @@
       "lon": -107.533,
       "place": "10 km ESE of San Mateo, New Mexico",
       "time": "2026-08-22T10:19:13.862Z"
-    },
-    {
-      "id": "nc75422897",
-      "magnitude": 2.3,
-      "depth": 7,
-      "lat": 36.727,
-      "lon": -121.42,
-      "place": "11 km SSW of Ridgemark, CA",
-      "time": "2026-08-22T10:07:01.460Z"
-    },
-    {
-      "id": "tx2026qmlzzz",
-      "magnitude": 1,
-      "depth": 4,
-      "lat": 31.674,
-      "lon": -101.995,
-      "place": "36 km SSE of Midland, Texas",
-      "time": "2026-08-22T09:57:36.805Z"
     }
   ]
 }
