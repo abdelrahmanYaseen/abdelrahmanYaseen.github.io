@@ -1,15 +1,42 @@
 {
-  "generated": "2026-08-23T07:44:32.942Z",
-  "count": 204,
+  "generated": "2026-08-23T08:01:09.591Z",
+  "count": 205,
   "events": [
     {
+      "id": "ew1787472000",
+      "magnitude": 4.1,
+      "depth": 9,
+      "lat": 36.077,
+      "lon": -117.847,
+      "place": "27 km SSE of Olancha, California",
+      "time": "2026-08-23T07:59:55.000Z"
+    },
+    {
+      "id": "ci41533400",
+      "magnitude": 0.4,
+      "depth": 13,
+      "lat": 33.519,
+      "lon": -116.502,
+      "place": "16 km ESE of Anza, CA",
+      "time": "2026-08-23T07:56:22.990Z"
+    },
+    {
+      "id": "ci41533392",
+      "magnitude": 0.5,
+      "depth": 13,
+      "lat": 33.499,
+      "lon": -116.488,
+      "place": "18 km ESE of Anza, CA",
+      "time": "2026-08-23T07:53:22.590Z"
+    },
+    {
       "id": "aka2026qqunxm",
-      "magnitude": 3.9,
-      "depth": 63,
-      "lat": 58.044,
-      "lon": -153.579,
-      "place": "39 km W of Aleneva, Alaska",
-      "time": "2026-08-23T07:42:22.742Z"
+      "magnitude": 3.8,
+      "depth": 60,
+      "lat": 58.061,
+      "lon": -153.478,
+      "place": "33 km W of Aleneva, Alaska",
+      "time": "2026-08-23T07:42:22.479Z"
     },
     {
       "id": "ci41533384",
@@ -1819,24 +1846,6 @@
       "lon": -66.886,
       "place": "1 km SW of Lares, Puerto Rico",
       "time": "2026-08-22T08:02:52.640Z"
-    },
-    {
-      "id": "hv75022342",
-      "magnitude": 1.8,
-      "depth": 30,
-      "lat": 19.134,
-      "lon": -155.491,
-      "place": "7 km S of Pāhala, Hawaii",
-      "time": "2026-08-22T07:56:38.640Z"
-    },
-    {
-      "id": "nn00923683",
-      "magnitude": 2.5,
-      "depth": 10,
-      "lat": 39.354,
-      "lon": -118.992,
-      "place": "21 km ESE of Silver Springs, Nevada",
-      "time": "2026-08-22T07:51:44.411Z"
     }
   ]
 }
