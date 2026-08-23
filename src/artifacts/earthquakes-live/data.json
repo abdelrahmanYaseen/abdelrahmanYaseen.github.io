@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-23T16:11:37.908Z",
+  "generated": "2026-08-23T16:40:49.667Z",
   "count": 297,
   "events": [
+    {
+      "id": "nc75423657",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.816,
+      "lon": -122.817,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-23T16:37:45.870Z"
+    },
+    {
+      "id": "nc75423652",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 38.815,
+      "lon": -122.817,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-23T16:37:41.130Z"
+    },
+    {
+      "id": "ci41534248",
+      "magnitude": 1,
+      "depth": 4,
+      "lat": 36.071,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-23T16:37:30.870Z"
+    },
+    {
+      "id": "ci41534240",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 36.06,
+      "lon": -117.85,
+      "place": "9 km E of Coso Junction, CA",
+      "time": "2026-08-23T16:35:14.190Z"
+    },
     {
       "id": "ci41534232",
       "magnitude": 0.6,
@@ -852,10 +888,10 @@
       "id": "ci41533752",
       "magnitude": 3.5,
       "depth": 3,
-      "lat": 36.068,
+      "lat": 36.066,
       "lon": -117.842,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T09:16:58.730Z"
+      "time": "2026-08-23T09:16:58.750Z"
     },
     {
       "id": "ci41533744",
@@ -2638,42 +2674,6 @@
       "lon": -116.644,
       "place": "15 km N of Warner Springs, CA",
       "time": "2026-08-22T16:42:15.210Z"
-    },
-    {
-      "id": "uw714083352",
-      "magnitude": -0.4,
-      "depth": 3,
-      "lat": 46.75,
-      "lon": -121.947,
-      "place": "6 km E of Ashford, Washington",
-      "time": "2026-08-22T16:34:41.550Z"
-    },
-    {
-      "id": "us6000tmt7",
-      "magnitude": 4.7,
-      "depth": 26,
-      "lat": -3.297,
-      "lon": 100.488,
-      "place": "170 km SW of Sungai Penuh, Indonesia",
-      "time": "2026-08-22T16:33:04.780Z"
-    },
-    {
-      "id": "nc75423022",
-      "magnitude": 1.3,
-      "depth": 3,
-      "lat": 38.81,
-      "lon": -122.783,
-      "place": "4 km NNW of The Geysers, CA",
-      "time": "2026-08-22T16:28:30.970Z"
-    },
-    {
-      "id": "uw714083332",
-      "magnitude": 1.1,
-      "depth": 9,
-      "lat": 46.207,
-      "lon": -122.144,
-      "place": "40 km SSE of Morton, Washington",
-      "time": "2026-08-22T16:16:56.470Z"
     }
   ]
 }
