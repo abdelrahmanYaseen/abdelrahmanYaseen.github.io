@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-23T18:46:36.910Z",
-  "count": 299,
+  "generated": "2026-08-23T19:13:37.515Z",
+  "count": 303,
   "events": [
+    {
+      "id": "hv75022932",
+      "magnitude": 1.8,
+      "depth": 28,
+      "lat": 19.153,
+      "lon": -155.508,
+      "place": "6 km SSW of Pāhala, Hawaii",
+      "time": "2026-08-23T19:08:17.990Z"
+    },
+    {
+      "id": "aka2026qrrjdw",
+      "magnitude": 1.2,
+      "depth": 23,
+      "lat": 62.429,
+      "lon": -148.137,
+      "place": "72 km NNE of Chickaloon, Alaska",
+      "time": "2026-08-23T19:06:35.269Z"
+    },
+    {
+      "id": "aka2026qrrdlm",
+      "magnitude": 1.6,
+      "depth": 81,
+      "lat": 62.26,
+      "lon": -151.138,
+      "place": "32 km SW of Petersville, Alaska",
+      "time": "2026-08-23T18:59:59.284Z"
+    },
+    {
+      "id": "aka2026qrrbzt",
+      "magnitude": 2,
+      "depth": 5,
+      "lat": 56.903,
+      "lon": -156.187,
+      "place": "99 km SE of Ugashik, Alaska",
+      "time": "2026-08-23T18:58:19.652Z"
+    },
+    {
+      "id": "hv75022927",
+      "magnitude": 2.3,
+      "depth": 0,
+      "lat": 19.196,
+      "lon": -155.537,
+      "place": "6 km W of Pāhala, Hawaii",
+      "time": "2026-08-23T18:56:07.620Z"
+    },
     {
       "id": "ci41534416",
       "magnitude": 0.9,
@@ -30,6 +75,15 @@
       "time": "2026-08-23T18:30:27.680Z"
     },
     {
+      "id": "uw714084542",
+      "magnitude": 1.1,
+      "depth": 8,
+      "lat": 46.21,
+      "lon": -122.139,
+      "place": "40 km SSE of Morton, Washington",
+      "time": "2026-08-23T18:29:00.850Z"
+    },
+    {
       "id": "ci41534384",
       "magnitude": 2,
       "depth": 3,
@@ -37,6 +91,15 @@
       "lon": -117.841,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-23T18:27:28.530Z"
+    },
+    {
+      "id": "us6000tn01",
+      "magnitude": 2.7,
+      "depth": 10,
+      "lat": 43.414,
+      "lon": -127.242,
+      "place": "232 km W of Bandon, Oregon",
+      "time": "2026-08-23T18:26:39.779Z"
     },
     {
       "id": "ci41534376",
@@ -1704,6 +1767,15 @@
       "time": "2026-08-23T07:53:22.590Z"
     },
     {
+      "id": "aka2026qquvkq",
+      "magnitude": 4.3,
+      "depth": 16,
+      "lat": 51.751,
+      "lon": 176.572,
+      "place": "261 km ESE of Attu Station, Alaska",
+      "time": "2026-08-23T07:51:03.662Z"
+    },
+    {
       "id": "aka2026qqunxm",
       "magnitude": 3.8,
       "depth": 65,
@@ -2317,12 +2389,12 @@
     },
     {
       "id": "aka2026qqfdwb",
-      "magnitude": 1.6,
-      "depth": 71,
-      "lat": 59.385,
-      "lon": -152.636,
-      "place": "40 km W of Nanwalek, Alaska",
-      "time": "2026-08-23T00:01:17.565Z"
+      "magnitude": 1.7,
+      "depth": 72,
+      "lat": 59.388,
+      "lon": -152.64,
+      "place": "41 km W of Nanwalek, Alaska",
+      "time": "2026-08-23T00:01:17.363Z"
     },
     {
       "id": "ci41533216",
@@ -2656,42 +2728,6 @@
       "lon": -122.764,
       "place": "1 km NW of The Geysers, CA",
       "time": "2026-08-22T19:13:56.050Z"
-    },
-    {
-      "id": "nc75423097",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.827,
-      "lon": -122.854,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": "2026-08-22T19:12:26.940Z"
-    },
-    {
-      "id": "us6000tmwg",
-      "magnitude": 3.4,
-      "depth": 10,
-      "lat": 52.037,
-      "lon": 176.351,
-      "place": "233 km ESE of Attu Station, Alaska",
-      "time": "2026-08-22T18:55:56.073Z"
-    },
-    {
-      "id": "aka2026qpuujt",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 61.197,
-      "lon": -151.079,
-      "place": "6 km N of Beluga, Alaska",
-      "time": "2026-08-22T18:50:12.195Z"
-    },
-    {
-      "id": "us6000tmtm",
-      "magnitude": 4.6,
-      "depth": 105,
-      "lat": -22.193,
-      "lon": -68.793,
-      "place": "32 km NNE of Calama, Chile",
-      "time": "2026-08-22T18:46:27.765Z"
     }
   ]
 }
