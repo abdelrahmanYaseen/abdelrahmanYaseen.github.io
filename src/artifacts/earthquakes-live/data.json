@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-23T23:33:06.477Z",
-  "count": 328,
+  "generated": "2026-08-23T23:54:54.129Z",
+  "count": 329,
   "events": [
+    {
+      "id": "ci41534680",
+      "magnitude": 0.8,
+      "depth": 12,
+      "lat": 33.927,
+      "lon": -116.884,
+      "place": "1 km W of Banning, CA",
+      "time": "2026-08-23T23:39:50.320Z"
+    },
+    {
+      "id": "tx2026qpitux",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 32.397,
+      "lon": -101.616,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": "2026-08-23T23:33:21.058Z"
+    },
+    {
+      "id": "ci41534672",
+      "magnitude": 0.9,
+      "depth": 12,
+      "lat": 33.166,
+      "lon": -116.487,
+      "place": "14 km NE of Julian, CA",
+      "time": "2026-08-23T23:31:35.980Z"
+    },
     {
       "id": "ci41534664",
       "magnitude": 1.3,
@@ -21,13 +48,13 @@
       "time": "2026-08-23T23:23:03.254Z"
     },
     {
-      "id": "attk8wu7",
-      "magnitude": 5.1,
-      "depth": 12,
-      "lat": 51.914,
-      "lon": 175.834,
-      "place": "208 km ESE of Attu Station, Alaska",
-      "time": "2026-08-23T23:20:31.000Z"
+      "id": "us6000tn19",
+      "magnitude": 5,
+      "depth": 8,
+      "lat": 52.078,
+      "lon": 176.48,
+      "place": "239 km ESE of Attu Station, Alaska",
+      "time": "2026-08-23T23:20:35.049Z"
     },
     {
       "id": "tx2026qpifff",
@@ -49,12 +76,12 @@
     },
     {
       "id": "tx2026qphxaj",
-      "magnitude": 2.8,
-      "depth": 3,
-      "lat": 32.4,
-      "lon": -101.602,
+      "magnitude": 3,
+      "depth": 5,
+      "lat": 32.401,
+      "lon": -101.605,
       "place": "17 km SE of Ackerly, Texas",
-      "time": "2026-08-23T23:06:54.771Z"
+      "time": "2026-08-23T23:06:55.061Z"
     },
     {
       "id": "ci41534656",
@@ -2935,24 +2962,6 @@
       "lon": -116.364,
       "place": "24 km ESE of Julian, CA",
       "time": "2026-08-22T23:55:09.570Z"
-    },
-    {
-      "id": "ci41533208",
-      "magnitude": 0.5,
-      "depth": 11,
-      "lat": 33.374,
-      "lon": -116.556,
-      "place": "13 km NE of Warner Springs, CA",
-      "time": "2026-08-22T23:53:08.450Z"
-    },
-    {
-      "id": "nn00923725",
-      "magnitude": 1.6,
-      "depth": 4,
-      "lat": 36.718,
-      "lon": -116.064,
-      "place": "38 km WNW of Indian Springs, Nevada",
-      "time": "2026-08-22T23:39:12.219Z"
     }
   ]
 }
