@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-23T05:51:39.717Z",
-  "count": 201,
+  "generated": "2026-08-23T06:20:17.115Z",
+  "count": 202,
   "events": [
+    {
+      "id": "aka2026qqrjri",
+      "magnitude": 1.2,
+      "depth": 7,
+      "lat": 64.485,
+      "lon": -146.917,
+      "place": "4 km S of Salcha, Alaska",
+      "time": "2026-08-23T06:07:32.679Z"
+    },
+    {
+      "id": "aka2026qqqyhs",
+      "magnitude": 1.7,
+      "depth": 120,
+      "lat": 61.038,
+      "lon": -152.286,
+      "place": "62 km W of Tyonek, Alaska",
+      "time": "2026-08-23T05:54:27.562Z"
+    },
+    {
+      "id": "aka2026qqqvym",
+      "magnitude": 1.7,
+      "depth": 25,
+      "lat": 61.715,
+      "lon": -147.29,
+      "place": "21 km ESE of Glacier View, Alaska",
+      "time": "2026-08-23T05:51:43.042Z"
+    },
+    {
+      "id": "us6000tmww",
+      "magnitude": 4.6,
+      "depth": 571,
+      "lat": -18.35,
+      "lon": -178.118,
+      "place": "273 km E of Levuka, Fiji",
+      "time": "2026-08-23T05:39:21.468Z"
+    },
     {
       "id": "aka2026qqpykq",
       "magnitude": 1.6,
@@ -46,6 +82,15 @@
       "lon": -104.002,
       "place": "30 km NW of Toyah, Texas",
       "time": "2026-08-23T05:05:58.414Z"
+    },
+    {
+      "id": "tx2026qnybdm",
+      "magnitude": 1.6,
+      "depth": 0,
+      "lat": 31.529,
+      "lon": -104.506,
+      "place": "62 km NNE of Van Horn, Texas",
+      "time": "2026-08-23T05:05:52.530Z"
     },
     {
       "id": "aka2026qqpfaq",
@@ -1774,42 +1819,6 @@
       "lon": -67.566,
       "place": "62 km NW of San Antonio, Puerto Rico",
       "time": "2026-08-22T06:22:40.370Z"
-    },
-    {
-      "id": "tx2026qmethi",
-      "magnitude": 1.9,
-      "depth": 3,
-      "lat": 32.102,
-      "lon": -101.931,
-      "place": "13 km WSW of Stanton, Texas",
-      "time": "2026-08-22T06:19:16.021Z"
-    },
-    {
-      "id": "tx2026qmetup",
-      "magnitude": 2,
-      "depth": 5,
-      "lat": 32.104,
-      "lon": -101.934,
-      "place": "14 km WSW of Stanton, Texas",
-      "time": "2026-08-22T06:19:15.678Z"
-    },
-    {
-      "id": "aka2026qovkoq",
-      "magnitude": 1.3,
-      "depth": 59,
-      "lat": 61.471,
-      "lon": -149.93,
-      "place": "5 km SSE of Big Lake, Alaska",
-      "time": "2026-08-22T06:09:28.244Z"
-    },
-    {
-      "id": "nc75422807",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.823,
-      "lon": -122.853,
-      "place": "10 km WNW of The Geysers, CA",
-      "time": "2026-08-22T06:00:27.710Z"
     }
   ]
 }
