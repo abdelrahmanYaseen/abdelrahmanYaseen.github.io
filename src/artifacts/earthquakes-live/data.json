@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-23T15:34:16.304Z",
-  "count": 298,
+  "generated": "2026-08-23T15:55:32.185Z",
+  "count": 297,
   "events": [
+    {
+      "id": "aka2026qrkwgd",
+      "magnitude": 1.1,
+      "depth": 103,
+      "lat": 60.141,
+      "lon": -152.475,
+      "place": "46 km WNW of Ninilchik, Alaska",
+      "time": "2026-08-23T15:51:48.648Z"
+    },
     {
       "id": "aka2026qrjkdx",
       "magnitude": 2.8,
@@ -1355,11 +1364,11 @@
     {
       "id": "ci41533416",
       "magnitude": 4,
-      "depth": 2,
-      "lat": 36.07,
-      "lon": -117.841,
+      "depth": 3,
+      "lat": 36.067,
+      "lon": -117.839,
       "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T07:59:55.870Z"
+      "time": "2026-08-23T07:59:55.920Z"
     },
     {
       "id": "ci41533408",
@@ -2665,24 +2674,6 @@
       "lon": -103.523,
       "place": "23 km ESE of Balmorhea, Texas",
       "time": "2026-08-22T15:57:45.048Z"
-    },
-    {
-      "id": "nc75423002",
-      "magnitude": 0.9,
-      "depth": 1,
-      "lat": 38.773,
-      "lon": -122.735,
-      "place": "2 km ESE of The Geysers, CA",
-      "time": "2026-08-22T15:53:51.940Z"
-    },
-    {
-      "id": "ci41532944",
-      "magnitude": 2.1,
-      "depth": 7,
-      "lat": 33.575,
-      "lon": -116.798,
-      "place": "12 km W of Anza, CA",
-      "time": "2026-08-22T15:47:52.950Z"
     }
   ]
 }
