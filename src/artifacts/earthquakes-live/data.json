@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-24T18:56:38.245Z",
-  "count": 263,
+  "generated": "2026-08-24T19:22:24.974Z",
+  "count": 258,
   "events": [
+    {
+      "id": "ci41535472",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.064,
+      "lon": -117.839,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T19:08:14.240Z"
+    },
+    {
+      "id": "nc75424337",
+      "magnitude": 0.8,
+      "depth": 2,
+      "lat": 38.836,
+      "lon": -122.79,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-24T18:54:34.310Z"
+    },
     {
       "id": "aka2026qtmxia",
       "magnitude": 2.1,
@@ -67,12 +85,12 @@
     },
     {
       "id": "tx2026qqtkdz",
-      "magnitude": 1.2,
-      "depth": 0,
-      "lat": 31.304,
-      "lon": -103.969,
-      "place": "16 km W of Toyah, Texas",
-      "time": "2026-08-24T17:58:53.639Z"
+      "magnitude": 0.6,
+      "depth": 9,
+      "lat": 31.633,
+      "lon": -103.951,
+      "place": "34 km WSW of Mentone, Texas",
+      "time": "2026-08-24T17:58:54.722Z"
     },
     {
       "id": "ci41535416",
@@ -919,15 +937,6 @@
       "lon": 129.687,
       "place": "207 km SSE of Amahai, Indonesia",
       "time": "2026-08-24T10:02:58.888Z"
-    },
-    {
-      "id": "tx2026qqdmsz",
-      "magnitude": 1.2,
-      "depth": 5,
-      "lat": 32.003,
-      "lon": -102.359,
-      "place": "2 km SE of Gardendale, Texas",
-      "time": "2026-08-24T09:58:41.488Z"
     },
     {
       "id": "uu80150081",
@@ -2314,60 +2323,6 @@
       "lon": -150.888,
       "place": "23 km NNE of Beluga, Alaska",
       "time": "2026-08-23T19:24:30.180Z"
-    },
-    {
-      "id": "ci41534424",
-      "magnitude": 0.5,
-      "depth": 7,
-      "lat": 33.16,
-      "lon": -116.518,
-      "place": "12 km NE of Julian, CA",
-      "time": "2026-08-23T19:15:21.650Z"
-    },
-    {
-      "id": "hv75022932",
-      "magnitude": 1.8,
-      "depth": 28,
-      "lat": 19.153,
-      "lon": -155.508,
-      "place": "6 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-23T19:08:17.990Z"
-    },
-    {
-      "id": "aka2026qrrjdw",
-      "magnitude": 1.2,
-      "depth": 23,
-      "lat": 62.429,
-      "lon": -148.137,
-      "place": "72 km NNE of Chickaloon, Alaska",
-      "time": "2026-08-23T19:06:35.269Z"
-    },
-    {
-      "id": "aka2026qrrdlm",
-      "magnitude": 1.6,
-      "depth": 81,
-      "lat": 62.26,
-      "lon": -151.138,
-      "place": "32 km SW of Petersville, Alaska",
-      "time": "2026-08-23T18:59:59.284Z"
-    },
-    {
-      "id": "aka2026qrrbzt",
-      "magnitude": 2,
-      "depth": 5,
-      "lat": 56.903,
-      "lon": -156.187,
-      "place": "99 km SE of Ugashik, Alaska",
-      "time": "2026-08-23T18:58:19.652Z"
-    },
-    {
-      "id": "us6000tn0a",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": 5.789,
-      "lon": 126.194,
-      "place": "61 km ESE of Mangili, Philippines",
-      "time": "2026-08-23T18:57:38.731Z"
     }
   ]
 }
