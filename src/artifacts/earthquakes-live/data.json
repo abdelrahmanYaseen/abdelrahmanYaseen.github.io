@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-24T15:52:48.022Z",
-  "count": 259,
+  "generated": "2026-08-24T16:21:50.517Z",
+  "count": 264,
   "events": [
+    {
+      "id": "ci41535336",
+      "magnitude": 1.5,
+      "depth": 6,
+      "lat": 35.316,
+      "lon": -117.795,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": "2026-08-24T16:18:47.740Z"
+    },
+    {
+      "id": "pr71529648",
+      "magnitude": 2.3,
+      "depth": 8,
+      "lat": 17.972,
+      "lon": -66.991,
+      "place": "5 km E of La Parguera, Puerto Rico",
+      "time": "2026-08-24T16:05:07.310Z"
+    },
+    {
+      "id": "ci41535304",
+      "magnitude": 2.1,
+      "depth": 6,
+      "lat": 35.321,
+      "lon": -117.805,
+      "place": "16 km WSW of Johannesburg, CA",
+      "time": "2026-08-24T16:03:39.200Z"
+    },
+    {
+      "id": "ci41535312",
+      "magnitude": 1.4,
+      "depth": -1,
+      "lat": 35.099,
+      "lon": -118.006,
+      "place": "3 km SSW of California City, CA",
+      "time": "2026-08-24T16:03:37.130Z"
+    },
+    {
+      "id": "ci41535296",
+      "magnitude": 1.3,
+      "depth": 2,
+      "lat": 36.069,
+      "lon": -117.845,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T15:58:49.640Z"
+    },
+    {
+      "id": "us6000tn4t",
+      "magnitude": 2.6,
+      "depth": 7,
+      "lat": 31.842,
+      "lon": -93.39,
+      "place": "11 km ENE of Pleasant Hill, Louisiana",
+      "time": "2026-08-24T15:58:24.573Z"
+    },
+    {
+      "id": "ci41535280",
+      "magnitude": 0.7,
+      "depth": 15,
+      "lat": 33.235,
+      "lon": -116.71,
+      "place": "5 km E of Lake Henshaw, CA",
+      "time": "2026-08-24T15:51:37.510Z"
+    },
     {
       "id": "nc75424232",
       "magnitude": 0.7,
@@ -13,12 +76,12 @@
     },
     {
       "id": "tx2026qqpcbh",
-      "magnitude": 1.9,
-      "depth": 0,
-      "lat": 31.202,
-      "lon": -104.133,
-      "place": "34 km WSW of Toyah, Texas",
-      "time": "2026-08-24T15:48:21.756Z"
+      "magnitude": 0.5,
+      "depth": 5,
+      "lat": 31.518,
+      "lon": -104.16,
+      "place": "41 km WNW of Toyah, Texas",
+      "time": "2026-08-24T15:48:26.405Z"
     },
     {
       "id": "ci41535272",
@@ -100,6 +163,15 @@
       "lon": 120.454,
       "place": "91 km N of Ruteng, Indonesia",
       "time": "2026-08-24T15:12:14.584Z"
+    },
+    {
+      "id": "uu80150191",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 38.516,
+      "lon": -112.891,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-24T15:04:31.460Z"
     },
     {
       "id": "ci41535176",
@@ -1453,12 +1525,12 @@
     },
     {
       "id": "tx2026qpjiqg",
-      "magnitude": 1.8,
-      "depth": 4,
+      "magnitude": 1.9,
+      "depth": 8,
       "lat": 32.396,
-      "lon": -101.605,
+      "lon": -101.607,
       "place": "17 km SE of Ackerly, Texas",
-      "time": "2026-08-23T23:51:15.228Z"
+      "time": "2026-08-23T23:51:15.724Z"
     },
     {
       "id": "ci41534680",
@@ -2305,33 +2377,6 @@
       "lon": -117.85,
       "place": "9 km E of Coso Junction, CA",
       "time": "2026-08-23T16:35:14.190Z"
-    },
-    {
-      "id": "ci41534232",
-      "magnitude": 0.6,
-      "depth": 5,
-      "lat": 33.411,
-      "lon": -116.644,
-      "place": "14 km N of Warner Springs, CA",
-      "time": "2026-08-23T16:07:30.870Z"
-    },
-    {
-      "id": "nc75423632",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.835,
-      "lon": -122.783,
-      "place": "5 km WNW of Cobb, CA",
-      "time": "2026-08-23T15:54:47.490Z"
-    },
-    {
-      "id": "ci41534224",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 32.916,
-      "lon": -116.242,
-      "place": "27 km SSW of Ocotillo Wells, CA",
-      "time": "2026-08-23T15:54:28.340Z"
     }
   ]
 }
