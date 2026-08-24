@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-24T19:22:24.974Z",
-  "count": 258,
+  "generated": "2026-08-24T19:50:42.366Z",
+  "count": 264,
   "events": [
+    {
+      "id": "ci41535496",
+      "magnitude": 0.9,
+      "depth": 10,
+      "lat": 33.998,
+      "lon": -116.979,
+      "place": "7 km E of Calimesa, CA",
+      "time": "2026-08-24T19:41:26.730Z"
+    },
+    {
+      "id": "ci41535488",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.062,
+      "lon": -117.843,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-24T19:40:58.480Z"
+    },
+    {
+      "id": "nc75424352",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.781,
+      "lon": -122.722,
+      "place": "3 km WNW of Anderson Springs, CA",
+      "time": "2026-08-24T19:39:21.460Z"
+    },
+    {
+      "id": "aka2026qtokvg",
+      "magnitude": 1.5,
+      "depth": 48,
+      "lat": 60.624,
+      "lon": -148.52,
+      "place": "19 km SSE of Whittier, Alaska",
+      "time": "2026-08-24T19:37:50.796Z"
+    },
+    {
+      "id": "ci41535480",
+      "magnitude": 1.3,
+      "depth": 8,
+      "lat": 35.312,
+      "lon": -117.809,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-24T19:35:11.720Z"
+    },
     {
       "id": "ci41535472",
       "magnitude": 0.7,
@@ -1155,6 +1200,15 @@
       "time": "2026-08-24T08:27:04.620Z"
     },
     {
+      "id": "uu80150041",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.521,
+      "lon": -112.89,
+      "place": "17 km NE of Milford, Utah",
+      "time": "2026-08-24T08:16:36.700Z"
+    },
+    {
       "id": "ci41534920",
       "magnitude": 1.1,
       "depth": 7,
@@ -1342,6 +1396,15 @@
       "lon": -117.837,
       "place": "10 km E of Coso Junction, CA",
       "time": "2026-08-24T06:00:20.590Z"
+    },
+    {
+      "id": "uu80150026",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.519,
+      "lon": -112.892,
+      "place": "17 km NE of Milford, Utah",
+      "time": "2026-08-24T05:56:03.180Z"
     },
     {
       "id": "us6000tn2d",
@@ -2145,6 +2208,24 @@
       "time": "2026-08-23T21:12:22.700Z"
     },
     {
+      "id": "uu80149951",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 38.505,
+      "lon": -112.889,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-23T21:09:19.940Z"
+    },
+    {
+      "id": "uu80149946",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.509,
+      "lon": -112.888,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-23T21:06:30.380Z"
+    },
+    {
       "id": "aka2026qrvhrf",
       "magnitude": 2.1,
       "depth": 5,
@@ -2296,33 +2377,6 @@
       "lon": -114.862,
       "place": "27 km E of Alamo, Nevada",
       "time": "2026-08-23T19:53:14.013Z"
-    },
-    {
-      "id": "aka2026qrstxg",
-      "magnitude": 1.8,
-      "depth": 65,
-      "lat": 57.287,
-      "lon": -155.487,
-      "place": "69 km WSW of Karluk, Alaska",
-      "time": "2026-08-23T19:49:11.351Z"
-    },
-    {
-      "id": "aka2026qrskeg",
-      "magnitude": 1.5,
-      "depth": 1,
-      "lat": 61.022,
-      "lon": -150.693,
-      "place": "11 km N of Point Possession, Alaska",
-      "time": "2026-08-23T19:37:44.711Z"
-    },
-    {
-      "id": "aka2026qrryrf",
-      "magnitude": 1.6,
-      "depth": 60,
-      "lat": 61.327,
-      "lon": -150.888,
-      "place": "23 km NNE of Beluga, Alaska",
-      "time": "2026-08-23T19:24:30.180Z"
     }
   ]
 }
