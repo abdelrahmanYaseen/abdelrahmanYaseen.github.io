@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-24T20:54:33.911Z",
-  "count": 264,
+  "generated": "2026-08-24T21:17:32.135Z",
+  "count": 260,
   "events": [
+    {
+      "id": "nn00923826",
+      "magnitude": 1.5,
+      "depth": 14,
+      "lat": 37.319,
+      "lon": -114.875,
+      "place": "26 km E of Alamo, Nevada",
+      "time": "2026-08-24T21:11:59.101Z"
+    },
+    {
+      "id": "ci41535544",
+      "magnitude": 0.9,
+      "depth": 3,
+      "lat": 36.058,
+      "lon": -117.843,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-24T21:03:58.890Z"
+    },
     {
       "id": "tx2026qqyzir",
       "magnitude": 2.1,
@@ -68,11 +86,11 @@
     {
       "id": "ci41535496",
       "magnitude": 0.9,
-      "depth": 10,
-      "lat": 33.998,
-      "lon": -116.979,
-      "place": "7 km E of Calimesa, CA",
-      "time": "2026-08-24T19:41:26.730Z"
+      "depth": 11,
+      "lat": 34.001,
+      "lon": -116.978,
+      "place": "7 km ESE of Yucaipa, CA",
+      "time": "2026-08-24T19:41:26.650Z"
     },
     {
       "id": "ci41535488",
@@ -2323,60 +2341,6 @@
       "lon": 120.835,
       "place": "61 km NE of Ruteng, Indonesia",
       "time": "2026-08-23T21:20:15.767Z"
-    },
-    {
-      "id": "uu80149956",
-      "magnitude": 1.2,
-      "depth": 3,
-      "lat": 38.51,
-      "lon": -112.885,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-23T21:12:22.700Z"
-    },
-    {
-      "id": "uu80149951",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.505,
-      "lon": -112.889,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-23T21:09:19.940Z"
-    },
-    {
-      "id": "uu80149946",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.509,
-      "lon": -112.888,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-23T21:06:30.380Z"
-    },
-    {
-      "id": "aka2026qrvhrf",
-      "magnitude": 2.1,
-      "depth": 5,
-      "lat": 56.444,
-      "lon": -155.387,
-      "place": "93 km SW of Akhiok, Alaska",
-      "time": "2026-08-23T21:04:48.675Z"
-    },
-    {
-      "id": "ci41534520",
-      "magnitude": 0.9,
-      "depth": 16,
-      "lat": 33.787,
-      "lon": -116.991,
-      "place": "3 km W of San Jacinto, CA",
-      "time": "2026-08-23T21:04:14.520Z"
-    },
-    {
-      "id": "tx2026qpdmpe",
-      "magnitude": 2.2,
-      "depth": 7,
-      "lat": 32.13,
-      "lon": -101.5,
-      "place": "12 km W of Forsan, Texas",
-      "time": "2026-08-23T20:57:06.459Z"
     }
   ]
 }
