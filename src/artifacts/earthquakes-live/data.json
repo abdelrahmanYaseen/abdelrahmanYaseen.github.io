@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-24T17:02:05.216Z",
-  "count": 260,
+  "generated": "2026-08-24T17:42:59.371Z",
+  "count": 263,
   "events": [
+    {
+      "id": "nc75424287",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.838,
+      "lon": -122.808,
+      "place": "8 km WNW of Cobb, CA",
+      "time": "2026-08-24T17:29:22.250Z"
+    },
+    {
+      "id": "ci41535392",
+      "magnitude": 0.9,
+      "depth": 9,
+      "lat": 33.187,
+      "lon": -116.023,
+      "place": "11 km ENE of Ocotillo Wells, CA",
+      "time": "2026-08-24T17:29:03.440Z"
+    },
+    {
+      "id": "ci41535376",
+      "magnitude": 0.9,
+      "depth": 11,
+      "lat": 35.615,
+      "lon": -117.849,
+      "place": "5 km SW of Inyokern, CA",
+      "time": "2026-08-24T17:23:05.100Z"
+    },
+    {
+      "id": "pr71529668",
+      "magnitude": 2.9,
+      "depth": 9,
+      "lat": 18.79,
+      "lon": -67.529,
+      "place": "56 km NW of San Antonio, Puerto Rico",
+      "time": "2026-08-24T17:16:39.470Z"
+    },
+    {
+      "id": "nc75424272",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.827,
+      "lon": -122.764,
+      "place": "4 km W of Cobb, CA",
+      "time": "2026-08-24T17:09:05.300Z"
+    },
     {
       "id": "nc75424262",
       "magnitude": 1.3,
@@ -37,6 +82,15 @@
       "lon": -147.883,
       "place": "50 km WSW of Salcha, Alaska",
       "time": "2026-08-24T16:27:59.134Z"
+    },
+    {
+      "id": "us6000tn6z",
+      "magnitude": 4.7,
+      "depth": 206,
+      "lat": 18.644,
+      "lon": 145.667,
+      "place": "Pagan region, Northern Mariana Islands",
+      "time": "2026-08-24T16:25:24.020Z"
     },
     {
       "id": "ci41535336",
@@ -444,6 +498,15 @@
       "time": "2026-08-24T12:08:37.740Z"
     },
     {
+      "id": "aka2026qszhpu",
+      "magnitude": 3.6,
+      "depth": 18,
+      "lat": 51.953,
+      "lon": 176.292,
+      "place": "233 km ESE of Attu Station, Alaska",
+      "time": "2026-08-24T12:04:21.453Z"
+    },
+    {
       "id": "uu80150141",
       "magnitude": 0,
       "depth": 3,
@@ -696,6 +759,15 @@
       "time": "2026-08-24T10:19:43.962Z"
     },
     {
+      "id": "uu80150101",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 38.521,
+      "lon": -112.893,
+      "place": "17 km NE of Milford, Utah",
+      "time": "2026-08-24T10:17:14.380Z"
+    },
+    {
       "id": "aka2026qsvnyk",
       "magnitude": 1.9,
       "depth": 15,
@@ -840,15 +912,6 @@
       "time": "2026-08-24T09:19:30.260Z"
     },
     {
-      "id": "aka2026qstulq",
-      "magnitude": 0.7,
-      "depth": 17,
-      "lat": 57.936,
-      "lon": -155.839,
-      "place": "91 km WNW of Karluk, Alaska",
-      "time": "2026-08-24T09:19:14.399Z"
-    },
-    {
       "id": "ci41534952",
       "magnitude": 1.8,
       "depth": 2,
@@ -894,6 +957,24 @@
       "time": "2026-08-24T08:54:53.810Z"
     },
     {
+      "id": "uu80150056",
+      "magnitude": 1.6,
+      "depth": 2,
+      "lat": 38.519,
+      "lon": -112.894,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-24T08:47:37.260Z"
+    },
+    {
+      "id": "uu80150051",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.516,
+      "lon": -112.891,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-24T08:46:06.250Z"
+    },
+    {
       "id": "ci41534944",
       "magnitude": 0.6,
       "depth": 10,
@@ -910,6 +991,15 @@
       "lon": -150.863,
       "place": "49 km NW of Rampart, Alaska",
       "time": "2026-08-24T08:39:14.193Z"
+    },
+    {
+      "id": "uu80150046",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 38.518,
+      "lon": -112.892,
+      "place": "17 km NE of Milford, Utah",
+      "time": "2026-08-24T08:37:06.950Z"
     },
     {
       "id": "ci41534936",
@@ -1724,11 +1814,11 @@
     {
       "id": "tx2026qpgvcz",
       "magnitude": 1.8,
-      "depth": 5,
-      "lat": 31.615,
-      "lon": -104.107,
-      "place": "44 km NW of Toyah, Texas",
-      "time": "2026-08-23T22:35:58.981Z"
+      "depth": 7,
+      "lat": 31.613,
+      "lon": -104.094,
+      "place": "43 km NW of Toyah, Texas",
+      "time": "2026-08-23T22:35:58.966Z"
     },
     {
       "id": "ci41534640",
@@ -1823,11 +1913,11 @@
     {
       "id": "tx2026qpfgkl",
       "magnitude": 1.7,
-      "depth": 3,
-      "lat": 31.601,
-      "lon": -104.577,
-      "place": "66 km SSW of Whites City, New Mexico",
-      "time": "2026-08-23T21:47:13.188Z"
+      "depth": 8,
+      "lat": 31.626,
+      "lon": -104.534,
+      "place": "62 km SSW of Whites City, New Mexico",
+      "time": "2026-08-23T21:47:13.486Z"
     },
     {
       "id": "ci41534568",
@@ -2278,69 +2368,6 @@
       "lon": -117.842,
       "place": "10 km E of Coso Junction, CA",
       "time": "2026-08-23T17:45:38.450Z"
-    },
-    {
-      "id": "nc75423667",
-      "magnitude": 1.5,
-      "depth": 2,
-      "lat": 38.836,
-      "lon": -122.79,
-      "place": "6 km WNW of Cobb, CA",
-      "time": "2026-08-23T17:25:49.890Z"
-    },
-    {
-      "id": "us6000tmzw",
-      "magnitude": 4.9,
-      "depth": 35,
-      "lat": -58.748,
-      "lon": -25.264,
-      "place": "South Sandwich Islands region",
-      "time": "2026-08-23T17:23:29.822Z"
-    },
-    {
-      "id": "hv75022887",
-      "magnitude": 2.6,
-      "depth": 29,
-      "lat": 19.239,
-      "lon": -155.354,
-      "place": "13 km ENE of Pāhala, Hawaii",
-      "time": "2026-08-23T17:23:23.930Z"
-    },
-    {
-      "id": "ci41534304",
-      "magnitude": 0.6,
-      "depth": 3,
-      "lat": 36.065,
-      "lon": -117.842,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T17:23:22.860Z"
-    },
-    {
-      "id": "ci41534296",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.059,
-      "lon": -117.841,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-23T17:19:13.880Z"
-    },
-    {
-      "id": "ci41534288",
-      "magnitude": 0.3,
-      "depth": 7,
-      "lat": 33.418,
-      "lon": -116.642,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-23T17:16:11.050Z"
-    },
-    {
-      "id": "us6000tmzs",
-      "magnitude": 2.2,
-      "depth": 5,
-      "lat": 43.537,
-      "lon": -110.757,
-      "place": "6 km N of Jackson, Wyoming",
-      "time": "2026-08-23T17:08:15.432Z"
     }
   ]
 }
