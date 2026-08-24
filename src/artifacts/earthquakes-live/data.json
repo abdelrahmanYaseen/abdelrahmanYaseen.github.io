@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-24T11:59:44.512Z",
-  "count": 246,
+  "generated": "2026-08-24T12:50:02.640Z",
+  "count": 244,
   "events": [
+    {
+      "id": "us6000tn3t",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -17.704,
+      "lon": -13.837,
+      "place": "southern Mid-Atlantic Ridge",
+      "time": "2026-08-24T12:29:31.627Z"
+    },
+    {
+      "id": "ci41535088",
+      "magnitude": 2.1,
+      "depth": 2,
+      "lat": 36.071,
+      "lon": -117.843,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T12:11:19.470Z"
+    },
+    {
+      "id": "nc75424127",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 38.819,
+      "lon": -122.788,
+      "place": "5 km NNW of The Geysers, CA",
+      "time": "2026-08-24T12:09:41.410Z"
+    },
+    {
+      "id": "ci41535080",
+      "magnitude": 0.6,
+      "depth": 3,
+      "lat": 36.072,
+      "lon": -117.835,
+      "place": "11 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T12:09:39.690Z"
+    },
+    {
+      "id": "ci41535072",
+      "magnitude": 0.6,
+      "depth": 5,
+      "lat": 35.982,
+      "lon": -117.561,
+      "place": "28 km NNW of Searles Valley, CA",
+      "time": "2026-08-24T12:08:37.740Z"
+    },
     {
       "id": "ci41535064",
       "magnitude": 0.1,
@@ -88,9 +133,9 @@
       "magnitude": 2,
       "depth": 8,
       "lat": 32.058,
-      "lon": -103.707,
+      "lon": -103.708,
       "place": "39 km ESE of Malaga, New Mexico",
-      "time": "2026-08-24T11:14:17.767Z"
+      "time": "2026-08-24T11:14:17.772Z"
     },
     {
       "id": "aka2026qsxksj",
@@ -534,6 +579,15 @@
       "time": "2026-08-24T06:35:24.440Z"
     },
     {
+      "id": "se60506178",
+      "magnitude": 2.1,
+      "depth": 11,
+      "lat": 34.551,
+      "lon": -85.319,
+      "place": "1 km NW of Trion, Georgia",
+      "time": "2026-08-24T06:34:33.240Z"
+    },
+    {
       "id": "nc75424017",
       "magnitude": 0.7,
       "depth": 3,
@@ -705,6 +759,15 @@
       "time": "2026-08-24T03:50:57.683Z"
     },
     {
+      "id": "tx2026qpqvdr",
+      "magnitude": 0.3,
+      "depth": 7,
+      "lat": 32.129,
+      "lon": -102.196,
+      "place": "18 km NW of Midland, Texas",
+      "time": "2026-08-24T03:36:13.919Z"
+    },
+    {
       "id": "us6000tn20",
       "magnitude": 4.1,
       "depth": 10,
@@ -721,6 +784,15 @@
       "lon": -103.761,
       "place": "35 km ESE of Malaga, New Mexico",
       "time": "2026-08-24T03:28:06.574Z"
+    },
+    {
+      "id": "tx2026qpqghg",
+      "magnitude": 0.3,
+      "depth": 3,
+      "lat": 32.244,
+      "lon": -102.201,
+      "place": "29 km NNW of Midland, Texas",
+      "time": "2026-08-24T03:18:58.687Z"
     },
     {
       "id": "ci41534776",
@@ -901,6 +973,15 @@
       "lon": -67.732,
       "place": "91 km NE of Punta Cana, Dominican Republic",
       "time": "2026-08-24T01:43:04.030Z"
+    },
+    {
+      "id": "ok2026qnmj",
+      "magnitude": 1.5,
+      "depth": 8,
+      "lat": 34.679,
+      "lon": -95.993,
+      "place": "4 km NE of Wardville, Oklahoma",
+      "time": "2026-08-24T01:34:44.969Z"
     },
     {
       "id": "nc75423937",
@@ -2116,105 +2197,6 @@
       "lon": -150.854,
       "place": "45 km N of Petersville, Alaska",
       "time": "2026-08-23T12:50:29.363Z"
-    },
-    {
-      "id": "aka2026qretql",
-      "magnitude": 0.9,
-      "depth": 10,
-      "lat": 58.376,
-      "lon": -156.055,
-      "place": "49 km SE of King Salmon, Alaska",
-      "time": "2026-08-23T12:48:51.615Z"
-    },
-    {
-      "id": "aka2026qrelyl",
-      "magnitude": 1.3,
-      "depth": 29,
-      "lat": 61.834,
-      "lon": -149.575,
-      "place": "20 km WNW of Fishhook, Alaska",
-      "time": "2026-08-23T12:39:59.555Z"
-    },
-    {
-      "id": "ci41534080",
-      "magnitude": 1.4,
-      "depth": 6,
-      "lat": 33.418,
-      "lon": -116.639,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-23T12:28:13.070Z"
-    },
-    {
-      "id": "hv75022847",
-      "magnitude": 3.2,
-      "depth": 8,
-      "lat": 19.367,
-      "lon": -155.497,
-      "place": "18 km N of Pāhala, Hawaii",
-      "time": "2026-08-23T12:25:17.190Z"
-    },
-    {
-      "id": "nc75423597",
-      "magnitude": 1.8,
-      "depth": 0,
-      "lat": 39.718,
-      "lon": -124.022,
-      "place": "16 km W of Cape Vizcaino, CA",
-      "time": "2026-08-23T12:22:54.980Z"
-    },
-    {
-      "id": "aka2026qrdwhl",
-      "magnitude": 1.9,
-      "depth": 74,
-      "lat": 60.317,
-      "lon": -151.812,
-      "place": "25 km WNW of Clam Gulch, Alaska",
-      "time": "2026-08-23T12:21:51.821Z"
-    },
-    {
-      "id": "ci41534072",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.06,
-      "lon": -117.842,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-23T12:19:31.450Z"
-    },
-    {
-      "id": "ci41534064",
-      "magnitude": 1.3,
-      "depth": 7,
-      "lat": 35.314,
-      "lon": -117.81,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-08-23T12:15:02.710Z"
-    },
-    {
-      "id": "ci41534056",
-      "magnitude": 0.5,
-      "depth": 3,
-      "lat": 36.062,
-      "lon": -117.843,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T12:09:48.430Z"
-    },
-    {
-      "id": "ci41534048",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.064,
-      "lon": -117.837,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T12:08:03.990Z"
-    },
-    {
-      "id": "aka2026qrdhim",
-      "magnitude": 2.9,
-      "depth": 38,
-      "lat": 60.121,
-      "lon": -150.388,
-      "place": "43 km NE of Fox River, Alaska",
-      "time": "2026-08-23T12:04:41.317Z"
     }
   ]
 }
