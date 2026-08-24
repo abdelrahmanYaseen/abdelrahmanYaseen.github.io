@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-24T11:40:47.025Z",
-  "count": 244,
+  "generated": "2026-08-24T11:59:44.512Z",
+  "count": 246,
   "events": [
+    {
+      "id": "ci41535064",
+      "magnitude": 0.1,
+      "depth": 7,
+      "lat": 33.419,
+      "lon": -116.64,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-24T11:55:29.770Z"
+    },
+    {
+      "id": "hv75023142",
+      "magnitude": 1.9,
+      "depth": 29,
+      "lat": 19.338,
+      "lon": -155.319,
+      "place": "14 km SW of Volcano, Hawaii",
+      "time": "2026-08-24T11:52:34.570Z"
+    },
+    {
+      "id": "nc75424122",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.85,
+      "lon": -122.85,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-08-24T11:38:55.530Z"
+    },
     {
       "id": "nc75424117",
       "magnitude": 0.3,
@@ -714,6 +741,15 @@
       "time": "2026-08-24T03:15:48.110Z"
     },
     {
+      "id": "tx2026qppzmp",
+      "magnitude": 0.1,
+      "depth": 7,
+      "lat": 32.404,
+      "lon": -102.084,
+      "place": "37 km WSW of Ackerly, Texas",
+      "time": "2026-08-24T03:11:05.596Z"
+    },
+    {
       "id": "ci41534760",
       "magnitude": 0.7,
       "depth": 3,
@@ -730,6 +766,15 @@
       "lon": -122.786,
       "place": "6 km WNW of Cobb, CA",
       "time": "2026-08-24T03:09:39.870Z"
+    },
+    {
+      "id": "tx2026qppxox",
+      "magnitude": 0.2,
+      "depth": 8,
+      "lat": 32.273,
+      "lon": -102.209,
+      "place": "30 km E of McKinney Acres, Texas",
+      "time": "2026-08-24T03:08:54.512Z"
     },
     {
       "id": "ci41534744",
@@ -2170,33 +2215,6 @@
       "lon": -150.388,
       "place": "43 km NE of Fox River, Alaska",
       "time": "2026-08-23T12:04:41.317Z"
-    },
-    {
-      "id": "se60506173",
-      "magnitude": 2,
-      "depth": 4,
-      "lat": 35.718,
-      "lon": -82.476,
-      "place": "8 km ENE of Weaverville, North Carolina",
-      "time": "2026-08-23T11:57:18.760Z"
-    },
-    {
-      "id": "aka2026qrcyeq",
-      "magnitude": 1.5,
-      "depth": 5,
-      "lat": 61.85,
-      "lon": -142.909,
-      "place": "46 km N of McCarthy, Alaska",
-      "time": "2026-08-23T11:54:08.004Z"
-    },
-    {
-      "id": "ci41534040",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 36.064,
-      "lon": -117.839,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T11:41:31.630Z"
     }
   ]
 }
