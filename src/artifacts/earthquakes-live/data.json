@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-24T04:58:07.223Z",
-  "count": 325,
+  "generated": "2026-08-24T05:34:23.033Z",
+  "count": 319,
   "events": [
+    {
+      "id": "nc75424007",
+      "magnitude": 1.2,
+      "depth": 3,
+      "lat": 38.822,
+      "lon": -122.804,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-24T05:12:50.850Z"
+    },
     {
       "id": "nc75423997",
       "magnitude": 0.8,
@@ -401,11 +410,11 @@
     {
       "id": "us6000tn19",
       "magnitude": 5,
-      "depth": 8,
-      "lat": 52.078,
-      "lon": 176.48,
-      "place": "239 km ESE of Attu Station, Alaska",
-      "time": "2026-08-23T23:20:35.049Z"
+      "depth": 13,
+      "lat": 52.194,
+      "lon": 176.383,
+      "place": "228 km ESE of Attu Station, Alaska",
+      "time": "2026-08-23T23:20:35.668Z"
     },
     {
       "id": "tx2026qpifff",
@@ -589,12 +598,12 @@
     },
     {
       "id": "tx2026qpfgkl",
-      "magnitude": 1.8,
+      "magnitude": 1.7,
       "depth": 3,
-      "lat": 31.593,
-      "lon": -104.583,
-      "place": "65 km NNE of Van Horn, Texas",
-      "time": "2026-08-23T21:47:13.216Z"
+      "lat": 31.601,
+      "lon": -104.577,
+      "place": "66 km SSW of Whites City, New Mexico",
+      "time": "2026-08-23T21:47:13.188Z"
     },
     {
       "id": "ci41534568",
@@ -2863,69 +2872,6 @@
       "lon": -178.118,
       "place": "273 km E of Levuka, Fiji",
       "time": "2026-08-23T05:39:21.468Z"
-    },
-    {
-      "id": "aka2026qqpykq",
-      "magnitude": 1.6,
-      "depth": 13,
-      "lat": 61.459,
-      "lon": -146.608,
-      "place": "39 km NNW of Valdez, Alaska",
-      "time": "2026-08-23T05:24:34.439Z"
-    },
-    {
-      "id": "ci41533352",
-      "magnitude": 0.1,
-      "depth": 7,
-      "lat": 33.418,
-      "lon": -116.642,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-23T05:12:57.160Z"
-    },
-    {
-      "id": "aka2026qqpiix",
-      "magnitude": 3.4,
-      "depth": 49,
-      "lat": 60.691,
-      "lon": -150.52,
-      "place": "21 km NE of Sterling, Alaska",
-      "time": "2026-08-23T05:06:04.556Z"
-    },
-    {
-      "id": "ci41533344",
-      "magnitude": 0.5,
-      "depth": 12,
-      "lat": 33.661,
-      "lon": -117.009,
-      "place": "9 km SE of Winchester, CA",
-      "time": "2026-08-23T05:06:00.170Z"
-    },
-    {
-      "id": "tx2026qnybdm",
-      "magnitude": 1.5,
-      "depth": 4,
-      "lat": 31.515,
-      "lon": -104.005,
-      "place": "29 km NW of Toyah, Texas",
-      "time": "2026-08-23T05:05:58.593Z"
-    },
-    {
-      "id": "tx2026qnxyyk",
-      "magnitude": 1.7,
-      "depth": 5,
-      "lat": 31.52,
-      "lon": -104.002,
-      "place": "30 km NW of Toyah, Texas",
-      "time": "2026-08-23T05:05:58.414Z"
-    },
-    {
-      "id": "aka2026qqpfaq",
-      "magnitude": 3.3,
-      "depth": 62,
-      "lat": 61.569,
-      "lon": -150.271,
-      "place": "13 km ENE of Susitna, Alaska",
-      "time": "2026-08-23T05:02:35.495Z"
     }
   ]
 }
