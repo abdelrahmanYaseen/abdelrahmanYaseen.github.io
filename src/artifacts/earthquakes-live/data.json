@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-24T22:43:42.201Z",
+  "generated": "2026-08-24T23:01:10.870Z",
   "count": 258,
   "events": [
+    {
+      "id": "aka2026qtuxwd",
+      "magnitude": 3,
+      "depth": 87,
+      "lat": 56.404,
+      "lon": -158,
+      "place": "27 km ENE of Chignik, Alaska",
+      "time": "2026-08-24T22:52:46.383Z"
+    },
     {
       "id": "aka2026qtugaw",
       "magnitude": 0.9,
@@ -31,12 +40,12 @@
     },
     {
       "id": "ok2026qpbo",
-      "magnitude": 2.5,
-      "depth": 2,
-      "lat": 36.818,
-      "lon": -97.694,
+      "magnitude": 2.4,
+      "depth": 7,
+      "lat": 36.823,
+      "lon": -97.696,
       "place": "3 km ENE of Medford, Oklahoma",
-      "time": "2026-08-24T22:23:28.071Z"
+      "time": "2026-08-24T22:23:27.699Z"
     },
     {
       "id": "ci41535616",
@@ -2073,6 +2082,15 @@
       "time": "2026-08-24T02:00:44.343Z"
     },
     {
+      "id": "av94400528",
+      "magnitude": -0.5,
+      "depth": 3,
+      "lat": 61.348,
+      "lon": -152.259,
+      "place": "67 km WNW of Beluga, Alaska",
+      "time": "2026-08-24T01:55:16.680Z"
+    },
+    {
       "id": "pr71529588",
       "magnitude": 3.4,
       "depth": 40,
@@ -2107,6 +2125,15 @@
       "lon": -122.85,
       "place": "11 km WNW of Cobb, CA",
       "time": "2026-08-24T01:22:05.040Z"
+    },
+    {
+      "id": "av94400488",
+      "magnitude": 0.3,
+      "depth": 12,
+      "lat": 60.641,
+      "lon": -152.709,
+      "place": "76 km W of Salamatof, Alaska",
+      "time": "2026-08-24T01:18:01.090Z"
     },
     {
       "id": "ci41534712",
@@ -2296,33 +2323,6 @@
       "lon": -101.607,
       "place": "17 km SE of Ackerly, Texas",
       "time": "2026-08-23T23:06:54.978Z"
-    },
-    {
-      "id": "ci41534656",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 36.07,
-      "lon": -117.841,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T22:58:39.610Z"
-    },
-    {
-      "id": "us6000tn15",
-      "magnitude": 4.2,
-      "depth": 183,
-      "lat": -24.1,
-      "lon": -66.852,
-      "place": "55 km WNW of San Antonio de los Cobres, Argentina",
-      "time": "2026-08-23T22:58:07.446Z"
-    },
-    {
-      "id": "us6000tn14",
-      "magnitude": 4.7,
-      "depth": 35,
-      "lat": -8.043,
-      "lon": 120.694,
-      "place": "67 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-23T22:57:34.074Z"
     }
   ]
 }
