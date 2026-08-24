@@ -1,7 +1,97 @@
 {
-  "generated": "2026-08-24T10:00:12.776Z",
-  "count": 255,
+  "generated": "2026-08-24T10:37:55.565Z",
+  "count": 250,
   "events": [
+    {
+      "id": "ci41535008",
+      "magnitude": 2,
+      "depth": 3,
+      "lat": 36.068,
+      "lon": -117.839,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T10:32:55.290Z"
+    },
+    {
+      "id": "ci41535000",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 36.065,
+      "lon": -117.834,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T10:29:41.800Z"
+    },
+    {
+      "id": "ci41534992",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 36.07,
+      "lon": -117.842,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T10:26:41.650Z"
+    },
+    {
+      "id": "nc75424097",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.827,
+      "lon": -122.765,
+      "place": "4 km W of Cobb, CA",
+      "time": "2026-08-24T10:25:37.660Z"
+    },
+    {
+      "id": "aka2026qsvnyk",
+      "magnitude": 1.9,
+      "depth": 15,
+      "lat": 62.354,
+      "lon": -148.562,
+      "place": "62 km N of Chickaloon, Alaska",
+      "time": "2026-08-24T10:11:45.404Z"
+    },
+    {
+      "id": "nc75424092",
+      "magnitude": 1.1,
+      "depth": 2,
+      "lat": 38.819,
+      "lon": -122.803,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-24T10:11:44.060Z"
+    },
+    {
+      "id": "ci41534984",
+      "magnitude": 1.6,
+      "depth": 3,
+      "lat": 36.068,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-24T10:08:22.940Z"
+    },
+    {
+      "id": "aka2026qsvhsc",
+      "magnitude": 1.6,
+      "depth": 82,
+      "lat": 62.899,
+      "lon": -150.065,
+      "place": "50 km N of Chase, Alaska",
+      "time": "2026-08-24T10:04:30.527Z"
+    },
+    {
+      "id": "us6000tn33",
+      "magnitude": 5.5,
+      "depth": 10,
+      "lat": -5.052,
+      "lon": 129.687,
+      "place": "207 km SSE of Amahai, Indonesia",
+      "time": "2026-08-24T10:02:58.888Z"
+    },
+    {
+      "id": "tx2026qqdmsz",
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 32.003,
+      "lon": -102.359,
+      "place": "2 km SE of Gardendale, Texas",
+      "time": "2026-08-24T09:58:41.488Z"
+    },
     {
       "id": "ci41534976",
       "magnitude": 0.3,
@@ -361,6 +451,15 @@
       "lon": -67.154,
       "place": "41 km ESE of Tinogasta, Argentina",
       "time": "2026-08-24T05:04:04.171Z"
+    },
+    {
+      "id": "pr71529603",
+      "magnitude": 2.6,
+      "depth": 13,
+      "lat": 18.332,
+      "lon": -67.376,
+      "place": "13 km W of Rincón, Puerto Rico",
+      "time": "2026-08-24T04:52:49.800Z"
     },
     {
       "id": "nc75423997",
@@ -2152,150 +2251,6 @@
       "lon": -117.837,
       "place": "10 km E of Coso Junction, CA",
       "time": "2026-08-23T10:38:21.100Z"
-    },
-    {
-      "id": "ci41533896",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 36.063,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:36:48.090Z"
-    },
-    {
-      "id": "hv75022812",
-      "magnitude": 2.6,
-      "depth": 41,
-      "lat": 19.138,
-      "lon": -155.506,
-      "place": "7 km SSW of Pāhala, Hawaii",
-      "time": "2026-08-23T10:35:29.110Z"
-    },
-    {
-      "id": "nc75423557",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 38.814,
-      "lon": -122.818,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-23T10:34:13.630Z"
-    },
-    {
-      "id": "ci10249446",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.063,
-      "lon": -117.841,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:33:59.420Z"
-    },
-    {
-      "id": "ci41533888",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 36.064,
-      "lon": -117.839,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:32:51.280Z"
-    },
-    {
-      "id": "ci41533880",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 36.06,
-      "lon": -117.84,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-23T10:32:37.850Z"
-    },
-    {
-      "id": "ci41533872",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.069,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:28:34.710Z"
-    },
-    {
-      "id": "nc75423552",
-      "magnitude": 1.7,
-      "depth": 12,
-      "lat": 39.493,
-      "lon": -122.948,
-      "place": "9 km N of Lake Pillsbury, CA",
-      "time": "2026-08-23T10:28:26.990Z"
-    },
-    {
-      "id": "hv75022797",
-      "magnitude": 2.3,
-      "depth": 39,
-      "lat": 19.086,
-      "lon": -155.473,
-      "place": "11 km E of Naalehu, Hawaii",
-      "time": "2026-08-23T10:27:18.550Z"
-    },
-    {
-      "id": "ci41533864",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.06,
-      "lon": -117.838,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-23T10:25:29.530Z"
-    },
-    {
-      "id": "ci41533856",
-      "magnitude": 0.6,
-      "depth": 4,
-      "lat": 36.066,
-      "lon": -117.834,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:19:39.890Z"
-    },
-    {
-      "id": "ci41533848",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.067,
-      "lon": -117.838,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:18:22.070Z"
-    },
-    {
-      "id": "us6000tmy7",
-      "magnitude": 4.1,
-      "depth": 41,
-      "lat": 16.777,
-      "lon": -61.08,
-      "place": "52 km N of Beauséjour, Guadeloupe",
-      "time": "2026-08-23T10:16:38.297Z"
-    },
-    {
-      "id": "us6000tmy3",
-      "magnitude": 4.6,
-      "depth": 45,
-      "lat": 36.76,
-      "lon": 74.477,
-      "place": "52 km NNW of Barishal, Pakistan",
-      "time": "2026-08-23T10:04:42.433Z"
-    },
-    {
-      "id": "ci41533840",
-      "magnitude": 1.4,
-      "depth": 3,
-      "lat": 36.067,
-      "lon": -117.837,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:00:48.800Z"
-    },
-    {
-      "id": "ci41533832",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.066,
-      "lon": -117.833,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": "2026-08-23T10:00:03.240Z"
     }
   ]
 }
