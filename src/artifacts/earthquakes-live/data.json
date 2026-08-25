@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-25T23:34:58.048Z",
-  "count": 276,
+  "generated": "2026-08-25T23:57:18.516Z",
+  "count": 275,
   "events": [
+    {
+      "id": "tx2026qtasew",
+      "magnitude": 2.2,
+      "depth": 3,
+      "lat": 32.249,
+      "lon": -101.766,
+      "place": "13 km N of Stanton, Texas",
+      "time": "2026-08-25T23:47:56.158Z"
+    },
+    {
+      "id": "tx2026qtarzk",
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 31.651,
+      "lon": -104.521,
+      "place": "59 km SSW of Whites City, New Mexico",
+      "time": "2026-08-25T23:47:40.860Z"
+    },
+    {
+      "id": "tx2026qtapkt",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 30.916,
+      "lon": -103.668,
+      "place": "10 km SE of Balmorhea, Texas",
+      "time": "2026-08-25T23:45:03.237Z"
+    },
     {
       "id": "ci41536552",
       "magnitude": 0.9,
@@ -922,12 +949,12 @@
     },
     {
       "id": "ci41536072",
-      "magnitude": 1,
-      "depth": 8,
-      "lat": 33.075,
+      "magnitude": 0,
+      "depth": 5,
+      "lat": 33.078,
       "lon": -116.468,
-      "place": "12 km E of Julian, CA",
-      "time": "2026-08-25T13:00:00.720Z"
+      "place": "13 km E of Julian, CA",
+      "time": "2026-08-25T13:00:00.780Z"
     },
     {
       "id": "ci41536064",
@@ -967,12 +994,12 @@
     },
     {
       "id": "ci41536048",
-      "magnitude": 1.2,
-      "depth": 9,
-      "lat": 34.082,
-      "lon": -118.082,
-      "place": "1 km WNW of Rosemead, CA",
-      "time": "2026-08-25T12:26:57.270Z"
+      "magnitude": 0.8,
+      "depth": 10,
+      "lat": 34.078,
+      "lon": -118.087,
+      "place": "1 km WSW of Rosemead, CA",
+      "time": "2026-08-25T12:26:57.110Z"
     },
     {
       "id": "av93066239",
@@ -1103,8 +1130,8 @@
     {
       "id": "ci41536032",
       "magnitude": 0.8,
-      "depth": 2,
-      "lat": 36.066,
+      "depth": 3,
+      "lat": 36.063,
       "lon": -117.846,
       "place": "9 km ENE of Coso Junction, CA",
       "time": "2026-08-25T11:41:02.440Z"
@@ -2449,42 +2476,6 @@
       "lon": -156.871,
       "place": "47 km NE of Ugashik, Alaska",
       "time": "2026-08-24T23:57:12.200Z"
-    },
-    {
-      "id": "nc75424537",
-      "magnitude": 1.3,
-      "depth": 0,
-      "lat": 38.795,
-      "lon": -122.753,
-      "place": "2 km N of The Geysers, CA",
-      "time": "2026-08-24T23:54:46.540Z"
-    },
-    {
-      "id": "ci41535656",
-      "magnitude": 0.5,
-      "depth": 14,
-      "lat": 33.485,
-      "lon": -116.502,
-      "place": "18 km ESE of Anza, CA",
-      "time": "2026-08-24T23:51:10.270Z"
-    },
-    {
-      "id": "nc75424527",
-      "magnitude": 0.9,
-      "depth": 1,
-      "lat": 38.793,
-      "lon": -122.753,
-      "place": "2 km N of The Geysers, CA",
-      "time": "2026-08-24T23:42:06.540Z"
-    },
-    {
-      "id": "nc75424522",
-      "magnitude": 0.3,
-      "depth": 2,
-      "lat": 38.822,
-      "lon": -122.759,
-      "place": "3 km W of Cobb, CA",
-      "time": "2026-08-24T23:38:50.990Z"
     }
   ]
 }
