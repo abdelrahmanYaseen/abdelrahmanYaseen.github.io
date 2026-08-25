@@ -1,7 +1,88 @@
 {
-  "generated": "2026-08-25T19:21:43.724Z",
-  "count": 252,
+  "generated": "2026-08-25T19:51:53.932Z",
+  "count": 267,
   "events": [
+    {
+      "id": "ci41536400",
+      "magnitude": 1,
+      "depth": 7,
+      "lat": 33.002,
+      "lon": -116.233,
+      "place": "18 km SSW of Ocotillo Wells, CA",
+      "time": "2026-08-25T19:47:53.610Z"
+    },
+    {
+      "id": "tx2026qssrhj",
+      "magnitude": 1.5,
+      "depth": 5,
+      "lat": 31.603,
+      "lon": -103.977,
+      "place": "36 km NNW of Toyah, Texas",
+      "time": "2026-08-25T19:46:50.676Z"
+    },
+    {
+      "id": "ci41536384",
+      "magnitude": 1.9,
+      "depth": 13,
+      "lat": 33.29,
+      "lon": -116.741,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-25T19:40:28.650Z"
+    },
+    {
+      "id": "uu80150341",
+      "magnitude": 0.6,
+      "depth": 3,
+      "lat": 38.516,
+      "lon": -112.892,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-25T19:26:59.000Z"
+    },
+    {
+      "id": "ci41536376",
+      "magnitude": 1,
+      "depth": -1,
+      "lat": 35.053,
+      "lon": -118.323,
+      "place": "14 km W of Mojave, CA",
+      "time": "2026-08-25T19:26:39.110Z"
+    },
+    {
+      "id": "hv75023852",
+      "magnitude": 2.4,
+      "depth": 32,
+      "lat": 19.188,
+      "lon": -155.471,
+      "place": "1 km SSE of Pāhala, Hawaii",
+      "time": "2026-08-25T19:24:58.480Z"
+    },
+    {
+      "id": "nc75424987",
+      "magnitude": 0.4,
+      "depth": 2,
+      "lat": 38.837,
+      "lon": -122.786,
+      "place": "6 km WNW of Cobb, CA",
+      "time": "2026-08-25T19:19:42.870Z"
+    },
+    {
+      "id": "ci41536352",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 36.068,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T19:17:55.930Z"
+    },
+    {
+      "id": "uu80150336",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.514,
+      "lon": -112.888,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-25T19:16:30.100Z"
+    },
     {
       "id": "ci41536344",
       "magnitude": 1.3,
@@ -55,6 +136,15 @@
       "lon": -153.368,
       "place": "52 km SE of Pedro Bay, Alaska",
       "time": "2026-08-25T18:46:39.954Z"
+    },
+    {
+      "id": "us7000tbta",
+      "magnitude": 4.2,
+      "depth": 10,
+      "lat": 38.105,
+      "lon": 38.394,
+      "place": "16 km ENE of Çelikhan, Turkey",
+      "time": "2026-08-25T18:43:54.134Z"
     },
     {
       "id": "ci41536320",
@@ -174,31 +264,22 @@
       "time": "2026-08-25T17:48:10.200Z"
     },
     {
+      "id": "us7000tbsx",
+      "magnitude": 4.3,
+      "depth": 166,
+      "lat": 46.251,
+      "lon": 149.684,
+      "place": "180 km NE of Kuril’sk, Russia",
+      "time": "2026-08-25T17:44:51.336Z"
+    },
+    {
       "id": "tx2026qsohrj",
       "magnitude": 1.9,
-      "depth": 3,
-      "lat": 31.626,
-      "lon": -104.455,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": "2026-08-25T17:35:56.719Z"
-    },
-    {
-      "id": "tx2026qsoity",
-      "magnitude": 1.8,
-      "depth": 0,
-      "lat": 31.606,
-      "lon": -104.279,
-      "place": "56 km NW of Toyah, Texas",
-      "time": "2026-08-25T17:34:58.179Z"
-    },
-    {
-      "id": "tx2026qsoiot",
-      "magnitude": 1.5,
-      "depth": 0,
-      "lat": 31.797,
-      "lon": -102.089,
-      "place": "22 km S of Midland, Texas",
-      "time": "2026-08-25T17:34:45.029Z"
+      "depth": 6,
+      "lat": 31.652,
+      "lon": -104.425,
+      "place": "58 km S of Whites City, New Mexico",
+      "time": "2026-08-25T17:35:56.527Z"
     },
     {
       "id": "uu80150321",
@@ -418,12 +499,12 @@
     },
     {
       "id": "ci41536096",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 34.408,
+      "magnitude": 1.4,
+      "depth": 8,
+      "lat": 34.406,
       "lon": -117.75,
       "place": "10 km WSW of Pinon Hills, CA",
-      "time": "2026-08-25T14:31:59.030Z"
+      "time": "2026-08-25T14:31:58.980Z"
     },
     {
       "id": "tx2026qshxcb",
@@ -607,12 +688,21 @@
     },
     {
       "id": "ci41536024",
-      "magnitude": 2.1,
-      "depth": 7,
-      "lat": 33.569,
-      "lon": -116.804,
-      "place": "12 km W of Anza, CA",
-      "time": "2026-08-25T11:36:29.270Z"
+      "magnitude": 0.2,
+      "depth": 8,
+      "lat": 33.579,
+      "lon": -116.798,
+      "place": "12 km WNW of Anza, CA",
+      "time": "2026-08-25T11:36:29.230Z"
+    },
+    {
+      "id": "ci10250630",
+      "magnitude": 0.3,
+      "depth": 14,
+      "lat": 33.908,
+      "lon": -116.678,
+      "place": "10 km E of Cabazon, CA",
+      "time": "2026-08-25T11:36:22.280Z"
     },
     {
       "id": "ci41536016",
@@ -658,6 +748,15 @@
       "lon": -150.805,
       "place": "47 km NW of Rampart, Alaska",
       "time": "2026-08-25T11:28:13.140Z"
+    },
+    {
+      "id": "aka2026qutvdl",
+      "magnitude": 1.9,
+      "depth": 0,
+      "lat": 60.485,
+      "lon": -140.689,
+      "place": "117 km NNW of Yakutat, Alaska",
+      "time": "2026-08-25T11:19:09.160Z"
     },
     {
       "id": "ci41536000",
@@ -820,6 +919,15 @@
       "lon": -116.402,
       "place": "14 km N of Borrego Springs, CA",
       "time": "2026-08-25T09:04:58.130Z"
+    },
+    {
+      "id": "ci41535944",
+      "magnitude": 0.6,
+      "depth": 4,
+      "lat": 36.067,
+      "lon": -117.836,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T08:44:36.730Z"
     },
     {
       "id": "tx2026qrweeb",
@@ -1371,6 +1479,15 @@
       "time": "2026-08-25T04:11:15.480Z"
     },
     {
+      "id": "av94402138",
+      "magnitude": 0.7,
+      "depth": 17,
+      "lat": 61.312,
+      "lon": -151.603,
+      "place": "33 km NW of Beluga, Alaska",
+      "time": "2026-08-25T04:08:15.310Z"
+    },
+    {
       "id": "pr71529708",
       "magnitude": 2.3,
       "depth": 14,
@@ -1434,6 +1551,15 @@
       "time": "2026-08-25T03:38:10.923Z"
     },
     {
+      "id": "av94402113",
+      "magnitude": -0.3,
+      "depth": -2,
+      "lat": 60.033,
+      "lon": -153.084,
+      "place": "63 km ENE of Pedro Bay, Alaska",
+      "time": "2026-08-25T03:30:39.770Z"
+    },
+    {
       "id": "pr2026237000",
       "magnitude": 4.1,
       "depth": 90,
@@ -1450,6 +1576,15 @@
       "lon": -151.416,
       "place": "14 km ENE of Ninilchik, Alaska",
       "time": "2026-08-25T03:23:38.691Z"
+    },
+    {
+      "id": "av94402088",
+      "magnitude": 0.8,
+      "depth": 17,
+      "lat": 61.306,
+      "lon": -151.611,
+      "place": "33 km WNW of Beluga, Alaska",
+      "time": "2026-08-25T03:16:17.510Z"
     },
     {
       "id": "us6000tnam",
@@ -1497,6 +1632,15 @@
       "time": "2026-08-25T03:03:49.283Z"
     },
     {
+      "id": "av94402078",
+      "magnitude": -0.5,
+      "depth": 7,
+      "lat": 60.005,
+      "lon": -153.075,
+      "place": "62 km ENE of Pedro Bay, Alaska",
+      "time": "2026-08-25T03:02:00.220Z"
+    },
+    {
       "id": "tx2026qrlhxt",
       "magnitude": 1.5,
       "depth": 7,
@@ -1540,6 +1684,15 @@
       "lon": -97.9,
       "place": "12 km ENE of Falls City, Texas",
       "time": "2026-08-25T02:44:17.199Z"
+    },
+    {
+      "id": "av94402043",
+      "magnitude": 0,
+      "depth": 6,
+      "lat": 61.151,
+      "lon": -152.293,
+      "place": "63 km W of Tyonek, Alaska",
+      "time": "2026-08-25T02:42:36.720Z"
     },
     {
       "id": "ci41535752",
@@ -2013,10 +2166,10 @@
       "id": "ci41535616",
       "magnitude": 1.8,
       "depth": 2,
-      "lat": 36.068,
+      "lat": 36.069,
       "lon": -117.847,
       "place": "9 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T22:22:55.190Z"
+      "time": "2026-08-24T22:22:55.170Z"
     },
     {
       "id": "ci41535608",
@@ -2082,6 +2235,15 @@
       "time": "2026-08-24T21:42:23.150Z"
     },
     {
+      "id": "tx2026qratju",
+      "magnitude": 0.2,
+      "depth": 7,
+      "lat": 32.411,
+      "lon": -102.113,
+      "place": "38 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-24T21:40:22.193Z"
+    },
+    {
       "id": "tx2026qrarfq",
       "magnitude": 0.6,
       "depth": 6,
@@ -2091,6 +2253,15 @@
       "time": "2026-08-24T21:37:51.905Z"
     },
     {
+      "id": "tx2026qraqat",
+      "magnitude": 0.2,
+      "depth": 6,
+      "lat": 32.409,
+      "lon": -102.115,
+      "place": "39 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-24T21:36:31.022Z"
+    },
+    {
       "id": "tx2026qranvd",
       "magnitude": 0.5,
       "depth": 6,
@@ -2098,6 +2269,15 @@
       "lon": -102.117,
       "place": "39 km SSW of Los Ybanez, Texas",
       "time": "2026-08-24T21:34:35.221Z"
+    },
+    {
+      "id": "tx2026qraojz",
+      "magnitude": 0.5,
+      "depth": 6,
+      "lat": 32.411,
+      "lon": -102.119,
+      "place": "39 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-24T21:34:35.158Z"
     },
     {
       "id": "nc75424412",
@@ -2224,51 +2404,6 @@
       "lon": -104.395,
       "place": "58 km S of Whites City, New Mexico",
       "time": "2026-08-24T19:57:10.346Z"
-    },
-    {
-      "id": "ci41535496",
-      "magnitude": 0.9,
-      "depth": 11,
-      "lat": 34.001,
-      "lon": -116.978,
-      "place": "7 km ESE of Yucaipa, CA",
-      "time": "2026-08-24T19:41:26.650Z"
-    },
-    {
-      "id": "ci41535488",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.062,
-      "lon": -117.843,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-24T19:40:58.480Z"
-    },
-    {
-      "id": "nc75424352",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.781,
-      "lon": -122.722,
-      "place": "3 km WNW of Anderson Springs, CA",
-      "time": "2026-08-24T19:39:21.460Z"
-    },
-    {
-      "id": "ci41535480",
-      "magnitude": 1.3,
-      "depth": 8,
-      "lat": 35.312,
-      "lon": -117.809,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": "2026-08-24T19:35:11.720Z"
-    },
-    {
-      "id": "av93066204",
-      "magnitude": 0.2,
-      "depth": 5,
-      "lat": 58.527,
-      "lon": -154.32,
-      "place": "97 km WNW of Aleneva, Alaska",
-      "time": "2026-08-24T19:24:54.790Z"
     }
   ]
 }
