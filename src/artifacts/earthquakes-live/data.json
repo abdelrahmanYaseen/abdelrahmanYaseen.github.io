@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-25T20:46:14.458Z",
-  "count": 272,
+  "generated": "2026-08-25T21:15:57.535Z",
+  "count": 275,
   "events": [
+    {
+      "id": "nc75425052",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 38.811,
+      "lon": -122.809,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-25T21:08:14.100Z"
+    },
+    {
+      "id": "aka2026qvnhuj",
+      "magnitude": 0.5,
+      "depth": 5,
+      "lat": 64.923,
+      "lon": -147.789,
+      "place": "4 km WNW of Farmers Loop, Alaska",
+      "time": "2026-08-25T21:03:38.899Z"
+    },
+    {
+      "id": "tx2026qsvfqi",
+      "magnitude": 1.6,
+      "depth": 4,
+      "lat": 31.52,
+      "lon": -104.152,
+      "place": "41 km WNW of Toyah, Texas",
+      "time": "2026-08-25T21:02:49.579Z"
+    },
+    {
+      "id": "uu80150376",
+      "magnitude": -0.1,
+      "depth": 3,
+      "lat": 38.516,
+      "lon": -112.891,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-25T20:57:11.250Z"
+    },
+    {
+      "id": "nc75425037",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.833,
+      "lon": -122.809,
+      "place": "8 km W of Cobb, CA",
+      "time": "2026-08-25T20:52:42.070Z"
+    },
     {
       "id": "ci41536424",
       "magnitude": 1.2,
@@ -31,12 +76,12 @@
     },
     {
       "id": "ci41536408",
-      "magnitude": 3,
-      "depth": 3,
+      "magnitude": 3.1,
+      "depth": 4,
       "lat": 33.239,
-      "lon": -116.069,
-      "place": "12 km NNE of Ocotillo Wells, CA",
-      "time": "2026-08-25T20:17:07.090Z"
+      "lon": -116.067,
+      "place": "12 km WSW of Salton City, CA",
+      "time": "2026-08-25T20:17:07.170Z"
     },
     {
       "id": "aka2026qvlgrk",
@@ -94,12 +139,12 @@
     },
     {
       "id": "ci41536384",
-      "magnitude": 1.9,
+      "magnitude": 0.3,
       "depth": 13,
       "lat": 33.29,
-      "lon": -116.741,
+      "lon": -116.743,
       "place": "6 km NNE of Lake Henshaw, CA",
-      "time": "2026-08-25T19:40:28.650Z"
+      "time": "2026-08-25T19:40:28.630Z"
     },
     {
       "id": "us7000tbtn",
@@ -181,6 +226,15 @@
       "lon": -116.715,
       "place": "10 km NNW of Anza, CA",
       "time": "2026-08-25T19:09:54.270Z"
+    },
+    {
+      "id": "ci41536336",
+      "magnitude": 0.4,
+      "depth": 12,
+      "lat": 33.316,
+      "lon": -116.326,
+      "place": "8 km NE of Borrego Springs, CA",
+      "time": "2026-08-25T19:07:57.470Z"
     },
     {
       "id": "ci41536328",
@@ -1135,6 +1189,15 @@
       "lon": -150.724,
       "place": "49 km E of Denali National Park, Alaska",
       "time": "2026-08-25T07:20:03.497Z"
+    },
+    {
+      "id": "av94402283",
+      "magnitude": 0.1,
+      "depth": 4,
+      "lat": 58.29,
+      "lon": -154.991,
+      "place": "86 km NNW of Karluk, Alaska",
+      "time": "2026-08-25T07:07:03.170Z"
     },
     {
       "id": "tx2026qrtkba",
@@ -2413,42 +2476,6 @@
       "lon": -117.674,
       "place": "23 km N of Ridgecrest, CA",
       "time": "2026-08-24T21:19:26.550Z"
-    },
-    {
-      "id": "nn00923826",
-      "magnitude": 1.5,
-      "depth": 6,
-      "lat": 37.292,
-      "lon": -114.823,
-      "place": "31 km ESE of Alamo, Nevada",
-      "time": "2026-08-24T21:11:59.436Z"
-    },
-    {
-      "id": "ci41535544",
-      "magnitude": 0.9,
-      "depth": 3,
-      "lat": 36.058,
-      "lon": -117.843,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-24T21:03:58.890Z"
-    },
-    {
-      "id": "tx2026qqzlwf",
-      "magnitude": 0.3,
-      "depth": 6,
-      "lat": 32.367,
-      "lon": -102.068,
-      "place": "37 km NW of Stanton, Texas",
-      "time": "2026-08-24T21:03:38.816Z"
-    },
-    {
-      "id": "us6000tn8w",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": -6.495,
-      "lon": 152.053,
-      "place": "236 km ESE of Kimbe, Papua New Guinea",
-      "time": "2026-08-24T21:02:14.533Z"
     }
   ]
 }
