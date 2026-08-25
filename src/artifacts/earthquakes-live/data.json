@@ -1,7 +1,151 @@
 {
-  "generated": "2026-08-25T06:03:52.405Z",
-  "count": 275,
+  "generated": "2026-08-25T07:05:49.950Z",
+  "count": 283,
   "events": [
+    {
+      "id": "tx2026qrtkba",
+      "magnitude": 1.5,
+      "depth": 4,
+      "lat": 31.626,
+      "lon": -104.477,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": "2026-08-25T07:02:51.535Z"
+    },
+    {
+      "id": "ci41535904",
+      "magnitude": 1.3,
+      "depth": 15,
+      "lat": 33.417,
+      "lon": -116.606,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-25T06:51:02.230Z"
+    },
+    {
+      "id": "us6000tnbk",
+      "magnitude": 4.6,
+      "depth": 323,
+      "lat": 3.418,
+      "lon": 124.453,
+      "place": "218 km NNW of Manado, Indonesia",
+      "time": "2026-08-25T06:48:20.910Z"
+    },
+    {
+      "id": "tx2026qrsrxl",
+      "magnitude": 1.3,
+      "depth": 3,
+      "lat": 31.636,
+      "lon": -104.499,
+      "place": "60 km S of Whites City, New Mexico",
+      "time": "2026-08-25T06:41:44.684Z"
+    },
+    {
+      "id": "ci41535880",
+      "magnitude": 0.6,
+      "depth": 18,
+      "lat": 33.999,
+      "lon": -116.821,
+      "place": "10 km NNW of Cabazon, CA",
+      "time": "2026-08-25T06:37:15.420Z"
+    },
+    {
+      "id": "nc75424777",
+      "magnitude": 0.5,
+      "depth": 1,
+      "lat": 38.847,
+      "lon": -122.848,
+      "place": "11 km NW of The Geysers, CA",
+      "time": "2026-08-25T06:31:43.560Z"
+    },
+    {
+      "id": "aka2026qukclv",
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 62.898,
+      "lon": -148.82,
+      "place": "55 km S of Cantwell, Alaska",
+      "time": "2026-08-25T06:27:48.818Z"
+    },
+    {
+      "id": "hv75023607",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 19.376,
+      "lon": -155.543,
+      "place": "20 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T06:27:47.490Z"
+    },
+    {
+      "id": "us6000tnbh",
+      "magnitude": 4.2,
+      "depth": 10,
+      "lat": 33.101,
+      "lon": 47.398,
+      "place": "5 km SSE of Darreh Shahr, Iran",
+      "time": "2026-08-25T06:19:52.919Z"
+    },
+    {
+      "id": "hv75023602",
+      "magnitude": 1.9,
+      "depth": 10,
+      "lat": 19.372,
+      "lon": -155.405,
+      "place": "19 km WSW of Volcano, Hawaii",
+      "time": "2026-08-25T06:14:48.980Z"
+    },
+    {
+      "id": "aka2026qujnli",
+      "magnitude": 1.6,
+      "depth": 99,
+      "lat": 60.05,
+      "lon": -152.643,
+      "place": "52 km WNW of Happy Valley, Alaska",
+      "time": "2026-08-25T06:10:35.649Z"
+    },
+    {
+      "id": "aka2026qujldz",
+      "magnitude": 2.2,
+      "depth": 19,
+      "lat": 61.703,
+      "lon": -149.631,
+      "place": "8 km N of Meadow Lakes, Alaska",
+      "time": "2026-08-25T06:07:57.070Z"
+    },
+    {
+      "id": "ci41535864",
+      "magnitude": 1.2,
+      "depth": 14,
+      "lat": 33.278,
+      "lon": -117.511,
+      "place": "13 km WNW of Camp Pendleton South, CA",
+      "time": "2026-08-25T06:05:20.570Z"
+    },
+    {
+      "id": "uw714085652",
+      "magnitude": 2.3,
+      "depth": 3,
+      "lat": 47.673,
+      "lon": -120.118,
+      "place": "4 km NW of Waterville, Washington",
+      "time": "2026-08-25T06:05:04.400Z"
+    },
+    {
+      "id": "hv75023587",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 19.388,
+      "lon": -155.547,
+      "place": "21 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T05:56:42.340Z"
+    },
+    {
+      "id": "uu80150281",
+      "magnitude": 2.1,
+      "depth": 1,
+      "lat": 38.512,
+      "lon": -112.886,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-25T05:55:05.750Z"
+    },
     {
       "id": "ci41535848",
       "magnitude": 1,
@@ -10,6 +154,24 @@
       "lon": -118.939,
       "place": "2 km SSE of Frazier Park, CA",
       "time": "2026-08-25T05:49:00.400Z"
+    },
+    {
+      "id": "us6000tnbf",
+      "magnitude": 4.2,
+      "depth": 10,
+      "lat": 63.845,
+      "lon": -23.234,
+      "place": "33 km SW of Sandgerði, Iceland",
+      "time": "2026-08-25T05:46:08.079Z"
+    },
+    {
+      "id": "hv74000229",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 19.375,
+      "lon": -155.547,
+      "place": "20 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T05:46:05.430Z"
     },
     {
       "id": "ci41535840",
@@ -2386,96 +2548,6 @@
       "lon": -112.895,
       "place": "16 km NE of Milford, Utah",
       "time": "2026-08-24T07:09:09.370Z"
-    },
-    {
-      "id": "ci41534864",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 36.072,
-      "lon": -117.836,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T07:02:04.850Z"
-    },
-    {
-      "id": "ci41534856",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.068,
-      "lon": -117.837,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T06:51:27.060Z"
-    },
-    {
-      "id": "av93066189",
-      "magnitude": 0.5,
-      "depth": 2,
-      "lat": 55.925,
-      "lon": -159.759,
-      "place": "17 km W of Ivanof Bay, Alaska",
-      "time": "2026-08-24T06:40:33.090Z"
-    },
-    {
-      "id": "av94400858",
-      "magnitude": -0.7,
-      "depth": 4,
-      "lat": 61.249,
-      "lon": -152.253,
-      "place": "63 km WNW of Tyonek, Alaska",
-      "time": "2026-08-24T06:39:42.610Z"
-    },
-    {
-      "id": "ci41534848",
-      "magnitude": 0.6,
-      "depth": 3,
-      "lat": 36.071,
-      "lon": -117.836,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T06:35:24.440Z"
-    },
-    {
-      "id": "se60506178",
-      "magnitude": 2.1,
-      "depth": 11,
-      "lat": 34.551,
-      "lon": -85.319,
-      "place": "1 km NW of Trion, Georgia",
-      "time": "2026-08-24T06:34:33.240Z"
-    },
-    {
-      "id": "nc75424017",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 38.804,
-      "lon": -122.765,
-      "place": "3 km NNW of The Geysers, CA",
-      "time": "2026-08-24T06:33:41.970Z"
-    },
-    {
-      "id": "ci41534840",
-      "magnitude": 0.7,
-      "depth": 4,
-      "lat": 34.033,
-      "lon": -117.17,
-      "place": "3 km SSE of Redlands, CA",
-      "time": "2026-08-24T06:31:16.850Z"
-    },
-    {
-      "id": "av94400843",
-      "magnitude": 0.1,
-      "depth": 5,
-      "lat": 61.145,
-      "lon": -152.251,
-      "place": "60 km W of Tyonek, Alaska",
-      "time": "2026-08-24T06:18:08.470Z"
-    },
-    {
-      "id": "ci41534824",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 36.063,
-      "lon": -117.838,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T06:09:55.300Z"
     }
   ]
 }
