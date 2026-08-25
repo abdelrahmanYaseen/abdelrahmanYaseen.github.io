@@ -1,15 +1,69 @@
 {
-  "generated": "2026-08-24T23:54:57.311Z",
-  "count": 263,
+  "generated": "2026-08-25T00:33:46.302Z",
+  "count": 267,
   "events": [
     {
+      "id": "nc75424562",
+      "magnitude": 2.4,
+      "depth": 2,
+      "lat": 38.821,
+      "lon": -122.843,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": "2026-08-25T00:22:31.250Z"
+    },
+    {
+      "id": "ci41535680",
+      "magnitude": 0.3,
+      "depth": 11,
+      "lat": 33.472,
+      "lon": -116.583,
+      "place": "12 km SE of Anza, CA",
+      "time": "2026-08-25T00:21:17.130Z"
+    },
+    {
+      "id": "us6000tn9w",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -8.424,
+      "lon": 120.217,
+      "place": "34 km NW of Ruteng, Indonesia",
+      "time": "2026-08-25T00:05:24.229Z"
+    },
+    {
+      "id": "ci41535672",
+      "magnitude": 1.9,
+      "depth": 2,
+      "lat": 36.068,
+      "lon": -117.848,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T00:02:45.010Z"
+    },
+    {
+      "id": "ci41535664",
+      "magnitude": 1.1,
+      "depth": 7,
+      "lat": 35.316,
+      "lon": -117.81,
+      "place": "17 km WSW of Johannesburg, CA",
+      "time": "2026-08-25T00:01:44.500Z"
+    },
+    {
+      "id": "nc75424537",
+      "magnitude": 1.3,
+      "depth": 0,
+      "lat": 38.795,
+      "lon": -122.753,
+      "place": "2 km N of The Geysers, CA",
+      "time": "2026-08-24T23:54:46.540Z"
+    },
+    {
       "id": "ci41535656",
-      "magnitude": 1.2,
+      "magnitude": 0.5,
       "depth": 14,
-      "lat": 33.485,
+      "lat": 33.484,
       "lon": -116.501,
       "place": "18 km ESE of Anza, CA",
-      "time": "2026-08-24T23:51:10.290Z"
+      "time": "2026-08-24T23:51:10.310Z"
     },
     {
       "id": "nc75424527",
@@ -1497,6 +1551,15 @@
       "time": "2026-08-24T08:46:06.250Z"
     },
     {
+      "id": "mb90205918",
+      "magnitude": 2.4,
+      "depth": 4,
+      "lat": 46.89,
+      "lon": -111.886,
+      "place": "21 km SSE of Craig, Montana",
+      "time": "2026-08-24T08:42:47.390Z"
+    },
+    {
       "id": "ci41534944",
       "magnitude": 0.6,
       "depth": 10,
@@ -1711,6 +1774,24 @@
       "lon": -117.837,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-24T06:51:27.060Z"
+    },
+    {
+      "id": "av93066189",
+      "magnitude": 0.5,
+      "depth": 2,
+      "lat": 55.925,
+      "lon": -159.759,
+      "place": "17 km W of Ivanof Bay, Alaska",
+      "time": "2026-08-24T06:40:33.090Z"
+    },
+    {
+      "id": "av94400858",
+      "magnitude": -0.7,
+      "depth": 4,
+      "lat": 61.249,
+      "lon": -152.253,
+      "place": "63 km WNW of Tyonek, Alaska",
+      "time": "2026-08-24T06:39:42.610Z"
     },
     {
       "id": "ci41534848",
@@ -2323,51 +2404,6 @@
       "lon": -101.603,
       "place": "17 km SE of Ackerly, Texas",
       "time": "2026-08-24T00:46:23.610Z"
-    },
-    {
-      "id": "ci41534696",
-      "magnitude": 0.5,
-      "depth": 18,
-      "lat": 33.715,
-      "lon": -116.734,
-      "place": "3 km SSW of Idyllwild, CA",
-      "time": "2026-08-24T00:29:03.050Z"
-    },
-    {
-      "id": "us6000tn1h",
-      "magnitude": 4.9,
-      "depth": 45,
-      "lat": 28.379,
-      "lon": 105.069,
-      "place": "8 km NNE of Bowangshan, China",
-      "time": "2026-08-24T00:26:26.410Z"
-    },
-    {
-      "id": "ci41534688",
-      "magnitude": 0.9,
-      "depth": 5,
-      "lat": 36.069,
-      "lon": -117.84,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T00:12:43.920Z"
-    },
-    {
-      "id": "hv75023002",
-      "magnitude": 2.1,
-      "depth": 30,
-      "lat": 19.148,
-      "lon": -155.458,
-      "place": "6 km SSE of Pāhala, Hawaii",
-      "time": "2026-08-24T00:11:53.350Z"
-    },
-    {
-      "id": "nc75423907",
-      "magnitude": 1.2,
-      "depth": 6,
-      "lat": 38,
-      "lon": -122.287,
-      "place": "1 km ESE of Pinole, CA",
-      "time": "2026-08-24T00:05:20.860Z"
     }
   ]
 }
