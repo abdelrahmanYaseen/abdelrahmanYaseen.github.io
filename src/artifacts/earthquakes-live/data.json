@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-25T08:28:28.960Z",
-  "count": 275,
+  "generated": "2026-08-25T09:07:07.412Z",
+  "count": 266,
   "events": [
+    {
+      "id": "ci41535952",
+      "magnitude": 1.1,
+      "depth": 12,
+      "lat": 33.372,
+      "lon": -116.394,
+      "place": "13 km N of Borrego Springs, CA",
+      "time": "2026-08-25T09:04:57.920Z"
+    },
+    {
+      "id": "tx2026qrweeb",
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 31.682,
+      "lon": -104.309,
+      "place": "55 km S of Whites City, New Mexico",
+      "time": "2026-08-25T08:27:47.089Z"
+    },
     {
       "id": "ci41535936",
       "magnitude": 0.4,
@@ -280,6 +298,15 @@
       "lon": -155.541,
       "place": "18 km NNW of Pāhala, Hawaii",
       "time": "2026-08-25T05:44:51.510Z"
+    },
+    {
+      "id": "tx2026qrqplr",
+      "magnitude": 0.2,
+      "depth": 8,
+      "lat": 32.365,
+      "lon": -102.111,
+      "place": "39 km E of McKinney Acres, Texas",
+      "time": "2026-08-25T05:38:34.131Z"
     },
     {
       "id": "ci41535832",
@@ -599,11 +626,11 @@
     {
       "id": "tx2026qrlhxt",
       "magnitude": 1.5,
-      "depth": 4,
-      "lat": 31.684,
-      "lon": -104.309,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": "2026-08-25T02:58:57.405Z"
+      "depth": 7,
+      "lat": 31.693,
+      "lon": -104.303,
+      "place": "53 km S of Whites City, New Mexico",
+      "time": "2026-08-25T02:58:57.171Z"
     },
     {
       "id": "ci41535760",
@@ -2368,114 +2395,6 @@
       "lon": -117.845,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-24T09:17:05.590Z"
-    },
-    {
-      "id": "aka2026qsthvd",
-      "magnitude": 1.8,
-      "depth": 27,
-      "lat": 61.001,
-      "lon": -147.414,
-      "place": "42 km WNW of Tatitlek, Alaska",
-      "time": "2026-08-24T09:04:40.657Z"
-    },
-    {
-      "id": "nc75424047",
-      "magnitude": 2.3,
-      "depth": 3,
-      "lat": 37.449,
-      "lon": -118.834,
-      "place": "19 km SW of Toms Place, CA",
-      "time": "2026-08-24T08:57:38.290Z"
-    },
-    {
-      "id": "nc75424042",
-      "magnitude": 2.2,
-      "depth": 2,
-      "lat": 37.449,
-      "lon": -118.832,
-      "place": "18 km SW of Toms Place, CA",
-      "time": "2026-08-24T08:56:14.310Z"
-    },
-    {
-      "id": "nc75424037",
-      "magnitude": 2.7,
-      "depth": 6,
-      "lat": 38.519,
-      "lon": -119.522,
-      "place": "4 km W of Walker, CA",
-      "time": "2026-08-24T08:54:53.810Z"
-    },
-    {
-      "id": "tx2026qqbeux",
-      "magnitude": 1.2,
-      "depth": 7,
-      "lat": 31.967,
-      "lon": -104.036,
-      "place": "28 km S of Malaga, New Mexico",
-      "time": "2026-08-24T08:49:08.399Z"
-    },
-    {
-      "id": "uu80150056",
-      "magnitude": 1.6,
-      "depth": 2,
-      "lat": 38.519,
-      "lon": -112.894,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-24T08:47:37.260Z"
-    },
-    {
-      "id": "uu80150051",
-      "magnitude": 1.5,
-      "depth": 2,
-      "lat": 38.516,
-      "lon": -112.891,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-24T08:46:06.250Z"
-    },
-    {
-      "id": "mb90205918",
-      "magnitude": 2.4,
-      "depth": 4,
-      "lat": 46.89,
-      "lon": -111.886,
-      "place": "21 km SSE of Craig, Montana",
-      "time": "2026-08-24T08:42:47.390Z"
-    },
-    {
-      "id": "ci41534944",
-      "magnitude": 0.6,
-      "depth": 10,
-      "lat": 33.26,
-      "lon": -116.203,
-      "place": "15 km NNW of Ocotillo Wells, CA",
-      "time": "2026-08-24T08:39:34.320Z"
-    },
-    {
-      "id": "aka2026qssltt",
-      "magnitude": 2.3,
-      "depth": 6,
-      "lat": 65.849,
-      "lon": -150.863,
-      "place": "49 km NW of Rampart, Alaska",
-      "time": "2026-08-24T08:39:14.193Z"
-    },
-    {
-      "id": "tx2026qqauux",
-      "magnitude": 0.5,
-      "depth": 7,
-      "lat": 32.121,
-      "lon": -102.186,
-      "place": "17 km NW of Midland, Texas",
-      "time": "2026-08-24T08:38:05.711Z"
-    },
-    {
-      "id": "uu80150046",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.518,
-      "lon": -112.892,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-24T08:37:06.950Z"
     }
   ]
 }
