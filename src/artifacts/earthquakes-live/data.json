@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-25T07:05:49.950Z",
-  "count": 283,
+  "generated": "2026-08-25T07:55:24.882Z",
+  "count": 281,
   "events": [
+    {
+      "id": "ci41535920",
+      "magnitude": 0.6,
+      "depth": 2,
+      "lat": 36.072,
+      "lon": -117.84,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T07:47:59.540Z"
+    },
+    {
+      "id": "nc75424792",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.823,
+      "lon": -122.845,
+      "place": "9 km WNW of The Geysers, CA",
+      "time": "2026-08-25T07:47:23.410Z"
+    },
+    {
+      "id": "ci41535912",
+      "magnitude": 0.7,
+      "depth": 10,
+      "lat": 33.3,
+      "lon": -116.202,
+      "place": "17 km ENE of Borrego Springs, CA",
+      "time": "2026-08-25T07:38:10.510Z"
+    },
+    {
+      "id": "aka2026qulxwz",
+      "magnitude": 2.6,
+      "depth": 2,
+      "lat": 65.599,
+      "lon": -149.187,
+      "place": "30 km WNW of Livengood, Alaska",
+      "time": "2026-08-25T07:22:36.103Z"
+    },
+    {
+      "id": "aka2026qulvrq",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 63.556,
+      "lon": -150.724,
+      "place": "49 km E of Denali National Park, Alaska",
+      "time": "2026-08-25T07:20:03.497Z"
+    },
     {
       "id": "tx2026qrtkba",
       "magnitude": 1.5,
@@ -10,6 +55,15 @@
       "lon": -104.477,
       "place": "61 km S of Whites City, New Mexico",
       "time": "2026-08-25T07:02:51.535Z"
+    },
+    {
+      "id": "us6000tnbm",
+      "magnitude": 5.5,
+      "depth": 15,
+      "lat": 22.605,
+      "lon": 121.571,
+      "place": "108 km NE of Hengchun, Taiwan",
+      "time": "2026-08-25T07:00:10.853Z"
     },
     {
       "id": "ci41535904",
@@ -293,11 +347,11 @@
     {
       "id": "tx2026qrpave",
       "magnitude": 2.4,
-      "depth": 5,
-      "lat": 31.687,
-      "lon": -104.31,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": "2026-08-25T04:51:24.189Z"
+      "depth": 7,
+      "lat": 31.693,
+      "lon": -104.311,
+      "place": "53 km S of Whites City, New Mexico",
+      "time": "2026-08-25T04:51:24.077Z"
     },
     {
       "id": "nc75424747",
@@ -382,12 +436,12 @@
     },
     {
       "id": "tx2026qrnekv",
-      "magnitude": 1.9,
-      "depth": 7,
-      "lat": 31.691,
-      "lon": -104.305,
+      "magnitude": 1.8,
+      "depth": 8,
+      "lat": 31.689,
+      "lon": -104.309,
       "place": "54 km S of Whites City, New Mexico",
-      "time": "2026-08-25T03:58:52.188Z"
+      "time": "2026-08-25T03:58:52.565Z"
     },
     {
       "id": "ci41535768",
@@ -633,13 +687,13 @@
       "time": "2026-08-25T01:45:19.950Z"
     },
     {
-      "id": "tx2026qrinai",
+      "id": "tx2026qrinrd",
       "magnitude": 1.7,
       "depth": 5,
       "lat": 31.426,
-      "lon": -103.604,
+      "lon": -103.605,
       "place": "8 km NW of Lindsay, Texas",
-      "time": "2026-08-25T01:35:11.974Z"
+      "time": "2026-08-25T01:35:12.001Z"
     },
     {
       "id": "nc75424637",
@@ -2476,78 +2530,6 @@
       "lon": -117.841,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-24T07:56:27.170Z"
-    },
-    {
-      "id": "ci41534888",
-      "magnitude": 1,
-      "depth": 3,
-      "lat": 36.07,
-      "lon": -117.845,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T07:53:07.330Z"
-    },
-    {
-      "id": "ci41534880",
-      "magnitude": 2.7,
-      "depth": 2,
-      "lat": 36.067,
-      "lon": -117.843,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T07:51:44.630Z"
-    },
-    {
-      "id": "nc75424022",
-      "magnitude": 0.8,
-      "depth": 1,
-      "lat": 38.812,
-      "lon": -122.804,
-      "place": "6 km NW of The Geysers, CA",
-      "time": "2026-08-24T07:42:13.000Z"
-    },
-    {
-      "id": "us6000tn2j",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": 9.985,
-      "lon": -83.913,
-      "place": "10 km NNW of Cot, Costa Rica",
-      "time": "2026-08-24T07:37:17.435Z"
-    },
-    {
-      "id": "ci41534872",
-      "magnitude": 0.6,
-      "depth": 3,
-      "lat": 36.073,
-      "lon": -117.836,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": "2026-08-24T07:31:43.030Z"
-    },
-    {
-      "id": "uu80150036",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.516,
-      "lon": -112.891,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-24T07:24:53.580Z"
-    },
-    {
-      "id": "aka2026qsprqs",
-      "magnitude": 2,
-      "depth": 124,
-      "lat": 59.671,
-      "lon": -153.33,
-      "place": "45 km ESE of Pedro Bay, Alaska",
-      "time": "2026-08-24T07:16:03.816Z"
-    },
-    {
-      "id": "uu80150031",
-      "magnitude": 1.5,
-      "depth": 2,
-      "lat": 38.516,
-      "lon": -112.895,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-24T07:09:09.370Z"
     }
   ]
 }
