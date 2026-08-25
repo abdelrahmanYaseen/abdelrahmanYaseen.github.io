@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-25T22:44:06.241Z",
-  "count": 274,
+  "generated": "2026-08-25T23:02:58.199Z",
+  "count": 276,
   "events": [
+    {
+      "id": "nc75425127",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.822,
+      "lon": -122.8,
+      "place": "6 km NW of The Geysers, CA",
+      "time": "2026-08-25T22:59:01.800Z"
+    },
+    {
+      "id": "aka2026qvqscr",
+      "magnitude": 1.6,
+      "depth": 131,
+      "lat": 60.077,
+      "lon": -153.017,
+      "place": "68 km ENE of Pedro Bay, Alaska",
+      "time": "2026-08-25T22:45:25.967Z"
+    },
     {
       "id": "nc75425117",
       "magnitude": 1.9,
@@ -22,12 +40,12 @@
     },
     {
       "id": "tx2026qsxyaj",
-      "magnitude": 1.1,
+      "magnitude": 1,
       "depth": 5,
-      "lat": 31.951,
-      "lon": -102.318,
-      "place": "9 km SE of Gardendale, Texas",
-      "time": "2026-08-25T22:24:26.188Z"
+      "lat": 31.972,
+      "lon": -102.336,
+      "place": "6 km SE of Gardendale, Texas",
+      "time": "2026-08-25T22:24:26.145Z"
     },
     {
       "id": "tx2026qsxsiu",
@@ -813,6 +831,15 @@
       "time": "2026-08-25T13:33:00.840Z"
     },
     {
+      "id": "av94402753",
+      "magnitude": -0.2,
+      "depth": 2,
+      "lat": 58.188,
+      "lon": -155.35,
+      "place": "87 km NW of Karluk, Alaska",
+      "time": "2026-08-25T13:20:18.860Z"
+    },
+    {
       "id": "hv75023722",
       "magnitude": 1.8,
       "depth": 31,
@@ -883,6 +910,15 @@
       "lon": -118.082,
       "place": "1 km WNW of Rosemead, CA",
       "time": "2026-08-25T12:26:57.270Z"
+    },
+    {
+      "id": "av93066239",
+      "magnitude": 0.8,
+      "depth": 6,
+      "lat": 52.806,
+      "lon": -169.781,
+      "place": "63 km WSW of Nikolski, Alaska",
+      "time": "2026-08-25T12:21:31.270Z"
     },
     {
       "id": "av94402673",
@@ -2449,24 +2485,6 @@
       "lon": -101.611,
       "place": "17 km SE of Ackerly, Texas",
       "time": "2026-08-24T23:10:21.299Z"
-    },
-    {
-      "id": "aka2026qtuxwd",
-      "magnitude": 3,
-      "depth": 87,
-      "lat": 56.404,
-      "lon": -158,
-      "place": "27 km ENE of Chignik, Alaska",
-      "time": "2026-08-24T22:52:46.383Z"
-    },
-    {
-      "id": "us6000tn9b",
-      "magnitude": 2.7,
-      "depth": 8,
-      "lat": 35.264,
-      "lon": -107.551,
-      "place": "11 km SE of San Mateo, New Mexico",
-      "time": "2026-08-24T22:51:23.883Z"
     }
   ]
 }
