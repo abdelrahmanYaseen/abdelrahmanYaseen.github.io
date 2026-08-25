@@ -1,24 +1,69 @@
 {
-  "generated": "2026-08-25T17:03:27.944Z",
-  "count": 231,
+  "generated": "2026-08-25T17:42:51.261Z",
+  "count": 233,
   "events": [
     {
+      "id": "tx2026qsohrj",
+      "magnitude": 1.9,
+      "depth": 3,
+      "lat": 31.626,
+      "lon": -104.454,
+      "place": "61 km S of Whites City, New Mexico",
+      "time": "2026-08-25T17:35:56.728Z"
+    },
+    {
+      "id": "tx2026qsoiot",
+      "magnitude": 1.5,
+      "depth": 0,
+      "lat": 31.797,
+      "lon": -102.089,
+      "place": "22 km S of Midland, Texas",
+      "time": "2026-08-25T17:34:45.029Z"
+    },
+    {
+      "id": "ci41536208",
+      "magnitude": 0.6,
+      "depth": 1,
+      "lat": 35.979,
+      "lon": -117.441,
+      "place": "24 km N of Searles Valley, CA",
+      "time": "2026-08-25T17:25:32.450Z"
+    },
+    {
+      "id": "ok2026qqnc",
+      "magnitude": 1.5,
+      "depth": 7,
+      "lat": 36.74,
+      "lon": -98.029,
+      "place": "8 km NNE of Nash, Oklahoma",
+      "time": "2026-08-25T17:22:04.389Z"
+    },
+    {
+      "id": "ci41536176",
+      "magnitude": 0.5,
+      "depth": 7,
+      "lat": 33.413,
+      "lon": -116.638,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-25T17:02:56.720Z"
+    },
+    {
       "id": "ci41536168",
-      "magnitude": 1,
-      "depth": 13,
-      "lat": 33.991,
-      "lon": -117.01,
-      "place": "4 km E of Calimesa, CA",
-      "time": "2026-08-25T17:00:32.300Z"
+      "magnitude": 0.6,
+      "depth": 15,
+      "lat": 33.997,
+      "lon": -116.995,
+      "place": "5 km E of Calimesa, CA",
+      "time": "2026-08-25T17:00:32.200Z"
     },
     {
       "id": "nn00923880",
       "magnitude": 1.7,
-      "depth": 1,
-      "lat": 37.467,
-      "lon": -115.619,
-      "place": "22 km SSE of Rachel, Nevada",
-      "time": "2026-08-25T16:38:15.687Z"
+      "depth": 13,
+      "lat": 37.358,
+      "lon": -115.793,
+      "place": "32 km S of Rachel, Nevada",
+      "time": "2026-08-25T16:38:19.181Z"
     },
     {
       "id": "nc75424887",
@@ -145,6 +190,15 @@
       "lon": -122.854,
       "place": "10 km NW of The Geysers, CA",
       "time": "2026-08-25T15:10:14.380Z"
+    },
+    {
+      "id": "us6000tnd4",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -8.136,
+      "lon": 120.582,
+      "place": "54 km NNE of Ruteng, Indonesia",
+      "time": "2026-08-25T14:58:54.206Z"
     },
     {
       "id": "aka2026qvawly",
@@ -589,12 +643,12 @@
     },
     {
       "id": "hv75023647",
-      "magnitude": 1.7,
-      "depth": 3,
-      "lat": 19.331,
-      "lon": -155.174,
+      "magnitude": 1.4,
+      "depth": 6,
+      "lat": 19.335,
+      "lon": -155.176,
       "place": "13 km SSE of Volcano, Hawaii",
-      "time": "2026-08-25T08:06:06.590Z"
+      "time": "2026-08-25T08:06:06.620Z"
     },
     {
       "id": "ci41535928",
@@ -697,12 +751,12 @@
     },
     {
       "id": "ci41535896",
-      "magnitude": 2.2,
+      "magnitude": 0.4,
       "depth": 15,
-      "lat": 33.65,
-      "lon": -116.729,
+      "lat": 33.649,
+      "lon": -116.73,
       "place": "10 km S of Idyllwild, CA",
-      "time": "2026-08-25T06:43:27.860Z"
+      "time": "2026-08-25T06:43:27.900Z"
     },
     {
       "id": "tx2026qrsrxl",
@@ -1758,6 +1812,15 @@
       "time": "2026-08-24T21:44:19.300Z"
     },
     {
+      "id": "tx2026qrarfq",
+      "magnitude": 0.6,
+      "depth": 6,
+      "lat": 32.407,
+      "lon": -102.119,
+      "place": "39 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-24T21:37:51.905Z"
+    },
+    {
       "id": "nc75424412",
       "magnitude": 0.9,
       "depth": 4,
@@ -2035,51 +2098,6 @@
       "lon": -152.703,
       "place": "76 km NW of Ninilchik, Alaska",
       "time": "2026-08-24T17:54:16.080Z"
-    },
-    {
-      "id": "nc75424287",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.838,
-      "lon": -122.808,
-      "place": "8 km WNW of Cobb, CA",
-      "time": "2026-08-24T17:29:22.250Z"
-    },
-    {
-      "id": "ci41535392",
-      "magnitude": 0.9,
-      "depth": 9,
-      "lat": 33.187,
-      "lon": -116.023,
-      "place": "11 km ENE of Ocotillo Wells, CA",
-      "time": "2026-08-24T17:29:03.440Z"
-    },
-    {
-      "id": "ci41535376",
-      "magnitude": 0.9,
-      "depth": 11,
-      "lat": 35.615,
-      "lon": -117.849,
-      "place": "5 km SW of Inyokern, CA",
-      "time": "2026-08-24T17:23:05.100Z"
-    },
-    {
-      "id": "pr71529668",
-      "magnitude": 2.9,
-      "depth": 9,
-      "lat": 18.79,
-      "lon": -67.529,
-      "place": "56 km NW of San Antonio, Puerto Rico",
-      "time": "2026-08-24T17:16:39.470Z"
-    },
-    {
-      "id": "nc75424272",
-      "magnitude": 0.7,
-      "depth": 1,
-      "lat": 38.827,
-      "lon": -122.764,
-      "place": "4 km W of Cobb, CA",
-      "time": "2026-08-24T17:09:05.300Z"
     }
   ]
 }
