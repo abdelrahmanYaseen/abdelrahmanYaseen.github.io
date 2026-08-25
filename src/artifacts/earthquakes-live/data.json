@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-25T03:56:18.733Z",
-  "count": 266,
+  "generated": "2026-08-25T04:30:14.640Z",
+  "count": 265,
   "events": [
+    {
+      "id": "ci41535784",
+      "magnitude": 0.5,
+      "depth": 15,
+      "lat": 33.569,
+      "lon": -116.772,
+      "place": "9 km W of Anza, CA",
+      "time": "2026-08-25T04:23:25.140Z"
+    },
+    {
+      "id": "ci41535776",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 36.068,
+      "lon": -117.847,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T04:21:06.770Z"
+    },
+    {
+      "id": "nc75424722",
+      "magnitude": 0.5,
+      "depth": 2,
+      "lat": 38.832,
+      "lon": -122.814,
+      "place": "8 km NW of The Geysers, CA",
+      "time": "2026-08-25T04:18:52.780Z"
+    },
+    {
+      "id": "nc75424717",
+      "magnitude": 0.8,
+      "depth": 4,
+      "lat": 38.795,
+      "lon": -122.8,
+      "place": "4 km WNW of The Geysers, CA",
+      "time": "2026-08-25T04:11:15.480Z"
+    },
+    {
+      "id": "tx2026qrnekv",
+      "magnitude": 1.9,
+      "depth": 7,
+      "lat": 31.691,
+      "lon": -104.305,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": "2026-08-25T03:58:52.188Z"
+    },
+    {
+      "id": "ci41535768",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 35.306,
+      "lon": -118.547,
+      "place": "21 km NNW of Tehachapi, CA",
+      "time": "2026-08-25T03:56:21.810Z"
+    },
     {
       "id": "nc75424712",
       "magnitude": 1,
@@ -28,6 +82,15 @@
       "lon": -147.735,
       "place": "4 km NNW of Farmers Loop, Alaska",
       "time": "2026-08-25T03:41:15.164Z"
+    },
+    {
+      "id": "us6000tnav",
+      "magnitude": 4.4,
+      "depth": 10,
+      "lat": 63.747,
+      "lon": -23.419,
+      "place": "47 km SW of Sandgerði, Iceland",
+      "time": "2026-08-25T03:38:10.923Z"
     },
     {
       "id": "us6000tnas",
@@ -85,12 +148,12 @@
     },
     {
       "id": "tx2026qrlnfk",
-      "magnitude": 1.4,
-      "depth": 0,
-      "lat": 31.699,
-      "lon": -104.481,
-      "place": "53 km S of Whites City, New Mexico",
-      "time": "2026-08-25T03:05:07.535Z"
+      "magnitude": 1.2,
+      "depth": 5,
+      "lat": 31.688,
+      "lon": -104.3,
+      "place": "54 km S of Whites City, New Mexico",
+      "time": "2026-08-25T03:05:09.271Z"
     },
     {
       "id": "tx2026qrllwv",
@@ -829,6 +892,15 @@
       "lon": -118.835,
       "place": "18 km SW of Toms Place, CA",
       "time": "2026-08-24T18:13:18.110Z"
+    },
+    {
+      "id": "av94401523",
+      "magnitude": -0.1,
+      "depth": 5,
+      "lat": 58.283,
+      "lon": -154.78,
+      "place": "81 km NNW of Karluk, Alaska",
+      "time": "2026-08-24T18:07:53.090Z"
     },
     {
       "id": "ci41535416",
@@ -2314,87 +2386,6 @@
       "lon": -84.394,
       "place": "8 km E of Englewood, Tennessee",
       "time": "2026-08-24T04:30:32.720Z"
-    },
-    {
-      "id": "aka2026qskafj",
-      "magnitude": 2,
-      "depth": 84,
-      "lat": 56.353,
-      "lon": -157.764,
-      "place": "40 km E of Chignik, Alaska",
-      "time": "2026-08-24T04:26:19.280Z"
-    },
-    {
-      "id": "ci41534800",
-      "magnitude": 1.1,
-      "depth": 3,
-      "lat": 33.503,
-      "lon": -116.455,
-      "place": "21 km ESE of Anza, CA",
-      "time": "2026-08-24T04:19:47.860Z"
-    },
-    {
-      "id": "av94400688",
-      "magnitude": -0.6,
-      "depth": 5,
-      "lat": 60.478,
-      "lon": -152.824,
-      "place": "79 km NW of Ninilchik, Alaska",
-      "time": "2026-08-24T04:11:45.890Z"
-    },
-    {
-      "id": "tx2026qprzes",
-      "magnitude": 1.6,
-      "depth": 8,
-      "lat": 31.609,
-      "lon": -103.964,
-      "place": "36 km WSW of Mentone, Texas",
-      "time": "2026-08-24T04:11:10.958Z"
-    },
-    {
-      "id": "uu80150011",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 44.238,
-      "lon": -110.784,
-      "place": "45 km ENE of Warm River, Idaho",
-      "time": "2026-08-24T04:02:45.090Z"
-    },
-    {
-      "id": "nn00923787",
-      "magnitude": 2.3,
-      "depth": 9,
-      "lat": 41.194,
-      "lon": -116.737,
-      "place": "55 km NE of Valmy, Nevada",
-      "time": "2026-08-24T04:01:45.938Z"
-    },
-    {
-      "id": "us6000tn25",
-      "magnitude": 4.8,
-      "depth": 68,
-      "lat": 5.331,
-      "lon": 125.229,
-      "place": "27 km WSW of Sarangani, Philippines",
-      "time": "2026-08-24T03:59:33.162Z"
-    },
-    {
-      "id": "ci41534792",
-      "magnitude": 0.9,
-      "depth": 8,
-      "lat": 33.847,
-      "lon": -116.867,
-      "place": "9 km S of Banning, CA",
-      "time": "2026-08-24T03:59:28.900Z"
-    },
-    {
-      "id": "ci41534784",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 35.315,
-      "lon": -117.798,
-      "place": "16 km WSW of Johannesburg, CA",
-      "time": "2026-08-24T03:58:48.240Z"
     }
   ]
 }
