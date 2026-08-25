@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-25T05:44:50.450Z",
-  "count": 273,
+  "generated": "2026-08-25T06:03:52.405Z",
+  "count": 275,
   "events": [
+    {
+      "id": "ci41535848",
+      "magnitude": 1,
+      "depth": 12,
+      "lat": 34.804,
+      "lon": -118.939,
+      "place": "2 km SSE of Frazier Park, CA",
+      "time": "2026-08-25T05:49:00.400Z"
+    },
+    {
+      "id": "ci41535840",
+      "magnitude": -0.1,
+      "depth": 7,
+      "lat": 33.416,
+      "lon": -116.64,
+      "place": "15 km N of Warner Springs, CA",
+      "time": "2026-08-25T05:45:40.440Z"
+    },
+    {
+      "id": "hv75023582",
+      "magnitude": 0.8,
+      "depth": -1,
+      "lat": 19.36,
+      "lon": -155.541,
+      "place": "18 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T05:44:51.510Z"
+    },
     {
       "id": "ci41535832",
       "magnitude": 0.9,
@@ -10,6 +37,15 @@
       "lon": -117.846,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-25T05:27:49.880Z"
+    },
+    {
+      "id": "hv75023562",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 19.376,
+      "lon": -155.543,
+      "place": "20 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T05:23:59.510Z"
     },
     {
       "id": "ci41535824",
@@ -2440,24 +2476,6 @@
       "lon": -117.838,
       "place": "10 km ENE of Coso Junction, CA",
       "time": "2026-08-24T06:09:55.300Z"
-    },
-    {
-      "id": "ci41534816",
-      "magnitude": 0.8,
-      "depth": 3,
-      "lat": 36.063,
-      "lon": -117.837,
-      "place": "10 km E of Coso Junction, CA",
-      "time": "2026-08-24T06:00:20.590Z"
-    },
-    {
-      "id": "uu80150026",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.519,
-      "lon": -112.892,
-      "place": "17 km NE of Milford, Utah",
-      "time": "2026-08-24T05:56:03.180Z"
     }
   ]
 }
