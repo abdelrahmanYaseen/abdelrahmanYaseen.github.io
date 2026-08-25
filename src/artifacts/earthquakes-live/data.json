@@ -1,15 +1,51 @@
 {
-  "generated": "2026-08-25T17:42:51.261Z",
-  "count": 233,
+  "generated": "2026-08-25T18:02:44.379Z",
+  "count": 238,
   "events": [
+    {
+      "id": "ci41536248",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 36.07,
+      "lon": -117.843,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T17:59:48.280Z"
+    },
+    {
+      "id": "aka2026qvhdjx",
+      "magnitude": 1.9,
+      "depth": 109,
+      "lat": 60.506,
+      "lon": -152.373,
+      "place": "59 km WSW of Salamatof, Alaska",
+      "time": "2026-08-25T17:58:38.820Z"
+    },
+    {
+      "id": "ci41536240",
+      "magnitude": 1,
+      "depth": 3,
+      "lat": 36.061,
+      "lon": -117.838,
+      "place": "10 km E of Coso Junction, CA",
+      "time": "2026-08-25T17:48:10.200Z"
+    },
     {
       "id": "tx2026qsohrj",
       "magnitude": 1.9,
       "depth": 3,
       "lat": 31.626,
-      "lon": -104.454,
+      "lon": -104.455,
       "place": "61 km S of Whites City, New Mexico",
-      "time": "2026-08-25T17:35:56.728Z"
+      "time": "2026-08-25T17:35:56.719Z"
+    },
+    {
+      "id": "tx2026qsoity",
+      "magnitude": 1.8,
+      "depth": 0,
+      "lat": 31.606,
+      "lon": -104.279,
+      "place": "56 km NW of Toyah, Texas",
+      "time": "2026-08-25T17:34:58.179Z"
     },
     {
       "id": "tx2026qsoiot",
@@ -1731,6 +1767,15 @@
       "time": "2026-08-24T22:31:48.220Z"
     },
     {
+      "id": "uw714085562",
+      "magnitude": 0.8,
+      "depth": 28,
+      "lat": 48.513,
+      "lon": -123.244,
+      "place": "8 km NNE of Oak Bay, Canada",
+      "time": "2026-08-24T22:29:26.350Z"
+    },
+    {
       "id": "aka2026qtucdk",
       "magnitude": 1.6,
       "depth": 9,
@@ -1812,6 +1857,15 @@
       "time": "2026-08-24T21:44:19.300Z"
     },
     {
+      "id": "uw714085512",
+      "magnitude": 0.3,
+      "depth": 7,
+      "lat": 46.206,
+      "lon": -122.152,
+      "place": "40 km NE of Amboy, Washington",
+      "time": "2026-08-24T21:42:23.150Z"
+    },
+    {
       "id": "tx2026qrarfq",
       "magnitude": 0.6,
       "depth": 6,
@@ -1819,6 +1873,15 @@
       "lon": -102.119,
       "place": "39 km SSW of Los Ybanez, Texas",
       "time": "2026-08-24T21:37:51.905Z"
+    },
+    {
+      "id": "tx2026qranvd",
+      "magnitude": 0.5,
+      "depth": 6,
+      "lat": 32.407,
+      "lon": -102.117,
+      "place": "39 km SSW of Los Ybanez, Texas",
+      "time": "2026-08-24T21:34:35.221Z"
     },
     {
       "id": "nc75424412",
@@ -2080,24 +2143,6 @@
       "lon": -154.78,
       "place": "81 km NNW of Karluk, Alaska",
       "time": "2026-08-24T18:07:53.090Z"
-    },
-    {
-      "id": "ci41535416",
-      "magnitude": 0.5,
-      "depth": 5,
-      "lat": 33.063,
-      "lon": -116.408,
-      "place": "18 km E of Julian, CA",
-      "time": "2026-08-24T17:57:25.930Z"
-    },
-    {
-      "id": "av94401508",
-      "magnitude": -0.4,
-      "depth": 6,
-      "lat": 60.509,
-      "lon": -152.703,
-      "place": "76 km NW of Ninilchik, Alaska",
-      "time": "2026-08-24T17:54:16.080Z"
     }
   ]
 }
