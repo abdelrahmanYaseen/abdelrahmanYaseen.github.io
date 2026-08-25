@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-25T05:05:33.601Z",
+  "generated": "2026-08-25T05:44:50.450Z",
   "count": 273,
   "events": [
+    {
+      "id": "ci41535832",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 36.07,
+      "lon": -117.846,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T05:27:49.880Z"
+    },
+    {
+      "id": "ci41535824",
+      "magnitude": 2.1,
+      "depth": 3,
+      "lat": 36.07,
+      "lon": -117.845,
+      "place": "10 km ENE of Coso Junction, CA",
+      "time": "2026-08-25T05:17:46.090Z"
+    },
+    {
+      "id": "hv75023547",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 19.377,
+      "lon": -155.541,
+      "place": "20 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T05:16:11.520Z"
+    },
+    {
+      "id": "ci41535816",
+      "magnitude": 0.6,
+      "depth": 10,
+      "lat": 33.255,
+      "lon": -116.382,
+      "place": "1 km W of Borrego Springs, CA",
+      "time": "2026-08-25T05:14:37.010Z"
+    },
     {
       "id": "nc75424757",
       "magnitude": 0.3,
@@ -75,6 +111,15 @@
       "time": "2026-08-25T04:50:44.690Z"
     },
     {
+      "id": "hv75023502",
+      "magnitude": 1.9,
+      "depth": -1,
+      "lat": 19.366,
+      "lon": -155.551,
+      "place": "19 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T04:49:04.920Z"
+    },
+    {
       "id": "nc75424737",
       "magnitude": 1.1,
       "depth": 3,
@@ -85,12 +130,12 @@
     },
     {
       "id": "hv75023492",
-      "magnitude": 2.2,
-      "depth": 1,
-      "lat": 19.37,
-      "lon": -155.547,
-      "place": "19 km NNW of Pāhala, Hawaii",
-      "time": "2026-08-25T04:45:29.120Z"
+      "magnitude": 1.9,
+      "depth": 3,
+      "lat": 19.375,
+      "lon": -155.542,
+      "place": "20 km NNW of Pāhala, Hawaii",
+      "time": "2026-08-25T04:45:29.050Z"
     },
     {
       "id": "ci41535792",
@@ -613,6 +658,15 @@
       "lon": -122.76,
       "place": "3 km W of Cobb, CA",
       "time": "2026-08-24T23:21:03.640Z"
+    },
+    {
+      "id": "av94401853",
+      "magnitude": 0.2,
+      "depth": 10,
+      "lat": 53.945,
+      "lon": -166.589,
+      "place": "6 km NNW of Dutch Harbor, Alaska",
+      "time": "2026-08-24T23:20:16.150Z"
     },
     {
       "id": "ci41535632",
@@ -2404,60 +2458,6 @@
       "lon": -112.892,
       "place": "17 km NE of Milford, Utah",
       "time": "2026-08-24T05:56:03.180Z"
-    },
-    {
-      "id": "us6000tn2d",
-      "magnitude": 4.5,
-      "depth": 209,
-      "lat": -20.987,
-      "lon": -176.289,
-      "place": "104 km WNW of Houma, Tonga",
-      "time": "2026-08-24T05:40:47.930Z"
-    },
-    {
-      "id": "ci41534808",
-      "magnitude": 0.5,
-      "depth": 6,
-      "lat": 35.662,
-      "lon": -117.444,
-      "place": "12 km SSW of Searles Valley, CA",
-      "time": "2026-08-24T05:38:42.480Z"
-    },
-    {
-      "id": "tx2026qpuqci",
-      "magnitude": 1.4,
-      "depth": 3,
-      "lat": 31.752,
-      "lon": -104.523,
-      "place": "48 km SSW of Whites City, New Mexico",
-      "time": "2026-08-24T05:31:02.070Z"
-    },
-    {
-      "id": "uu80150021",
-      "magnitude": 0.7,
-      "depth": 7,
-      "lat": 44.586,
-      "lon": -110.729,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": "2026-08-24T05:21:36.020Z"
-    },
-    {
-      "id": "uu80007913",
-      "magnitude": 0.2,
-      "depth": 9,
-      "lat": 44.594,
-      "lon": -110.725,
-      "place": "30 km ESE of West Yellowstone, Montana",
-      "time": "2026-08-24T05:20:54.790Z"
-    },
-    {
-      "id": "nc75424007",
-      "magnitude": 1.2,
-      "depth": 3,
-      "lat": 38.822,
-      "lon": -122.804,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-24T05:12:50.850Z"
     }
   ]
 }
