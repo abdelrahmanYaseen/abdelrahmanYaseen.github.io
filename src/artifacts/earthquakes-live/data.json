@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-26T04:52:39.808Z",
-  "count": 247,
+  "generated": "2026-08-26T05:21:55.980Z",
+  "count": 243,
   "events": [
+    {
+      "id": "nc75425237",
+      "magnitude": 0.4,
+      "depth": 3,
+      "lat": 38.806,
+      "lon": -122.818,
+      "place": "6 km WNW of The Geysers, CA",
+      "time": "2026-08-26T05:15:38.690Z"
+    },
+    {
+      "id": "hv75024012",
+      "magnitude": 1.9,
+      "depth": 0,
+      "lat": 19.419,
+      "lon": -155.272,
+      "place": "4 km WSW of Volcano, Hawaii",
+      "time": "2026-08-26T05:05:34.450Z"
+    },
+    {
+      "id": "nc75425232",
+      "magnitude": 2.5,
+      "depth": 21,
+      "lat": 36.173,
+      "lon": -119.613,
+      "place": "10 km NNW of Corcoran, CA",
+      "time": "2026-08-26T05:02:20.870Z"
+    },
+    {
+      "id": "tx2026qtlcaf",
+      "magnitude": 1.9,
+      "depth": 2,
+      "lat": 31.578,
+      "lon": -103.087,
+      "place": "6 km NE of Pyote, Texas",
+      "time": "2026-08-26T05:01:05.467Z"
+    },
+    {
+      "id": "tx2026qtlaoj",
+      "magnitude": 3.1,
+      "depth": 8,
+      "lat": 31.793,
+      "lon": -103.74,
+      "place": "16 km NW of Mentone, Texas",
+      "time": "2026-08-26T04:59:26.800Z"
+    },
     {
       "id": "ci41536624",
       "magnitude": -0.1,
@@ -280,6 +325,15 @@
       "lon": -101.524,
       "place": "10 km NNW of Big Spring, Texas",
       "time": "2026-08-26T00:25:39.611Z"
+    },
+    {
+      "id": "us7000tbvm",
+      "magnitude": 4,
+      "depth": 49,
+      "lat": 31.749,
+      "lon": 78.089,
+      "place": "38 km NE of Sarāhan, India",
+      "time": "2026-08-26T00:16:55.088Z"
     },
     {
       "id": "tx2026qtbbsm",
@@ -2134,96 +2188,6 @@
       "lon": -155.543,
       "place": "20 km NNW of Pāhala, Hawaii",
       "time": "2026-08-25T05:23:59.510Z"
-    },
-    {
-      "id": "ci41535824",
-      "magnitude": 2.1,
-      "depth": 3,
-      "lat": 36.07,
-      "lon": -117.845,
-      "place": "10 km ENE of Coso Junction, CA",
-      "time": "2026-08-25T05:17:46.090Z"
-    },
-    {
-      "id": "hv75023547",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 19.377,
-      "lon": -155.541,
-      "place": "20 km NNW of Pāhala, Hawaii",
-      "time": "2026-08-25T05:16:11.520Z"
-    },
-    {
-      "id": "ci41535816",
-      "magnitude": 0.6,
-      "depth": 10,
-      "lat": 33.255,
-      "lon": -116.382,
-      "place": "1 km W of Borrego Springs, CA",
-      "time": "2026-08-25T05:14:37.010Z"
-    },
-    {
-      "id": "pr71529718",
-      "magnitude": 2.3,
-      "depth": 19,
-      "lat": 18.177,
-      "lon": -67.36,
-      "place": "20 km SW of Stella, Puerto Rico",
-      "time": "2026-08-25T05:09:22.210Z"
-    },
-    {
-      "id": "uu80150276",
-      "magnitude": 1.2,
-      "depth": 3,
-      "lat": 38.515,
-      "lon": -112.892,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-25T05:03:53.060Z"
-    },
-    {
-      "id": "nc75424757",
-      "magnitude": 0.3,
-      "depth": 3,
-      "lat": 38.794,
-      "lon": -122.81,
-      "place": "5 km WNW of The Geysers, CA",
-      "time": "2026-08-25T05:00:30.620Z"
-    },
-    {
-      "id": "nc75424752",
-      "magnitude": 0.7,
-      "depth": 1,
-      "lat": 38.818,
-      "lon": -122.842,
-      "place": "9 km WNW of The Geysers, CA",
-      "time": "2026-08-25T04:58:59.350Z"
-    },
-    {
-      "id": "ci41535808",
-      "magnitude": 0.5,
-      "depth": 13,
-      "lat": 33.585,
-      "lon": -116.615,
-      "place": "6 km ENE of Anza, CA",
-      "time": "2026-08-25T04:57:52.600Z"
-    },
-    {
-      "id": "ci41535800",
-      "magnitude": 1.1,
-      "depth": 15,
-      "lat": 33.583,
-      "lon": -117.228,
-      "place": "3 km NNW of Murrieta, CA",
-      "time": "2026-08-25T04:53:17.080Z"
-    },
-    {
-      "id": "aka2026qugxyb",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 65.665,
-      "lon": -145.133,
-      "place": "18 km NW of Central, Alaska",
-      "time": "2026-08-25T04:52:43.047Z"
     }
   ]
 }
