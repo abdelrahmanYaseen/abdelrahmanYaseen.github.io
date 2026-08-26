@@ -1,7 +1,52 @@
 {
-  "generated": "2026-08-26T10:57:33.945Z",
-  "count": 234,
+  "generated": "2026-08-26T11:23:24.519Z",
+  "count": 240,
   "events": [
+    {
+      "id": "nc75425362",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.824,
+      "lon": -122.804,
+      "place": "7 km NW of The Geysers, CA",
+      "time": "2026-08-26T11:14:57.230Z"
+    },
+    {
+      "id": "hv75024197",
+      "magnitude": 1.9,
+      "depth": 28,
+      "lat": 19.183,
+      "lon": -155.495,
+      "place": "2 km SW of Pāhala, Hawaii",
+      "time": "2026-08-26T11:11:07.760Z"
+    },
+    {
+      "id": "ci41536752",
+      "magnitude": 0.6,
+      "depth": 13,
+      "lat": 33.289,
+      "lon": -116.741,
+      "place": "6 km NNE of Lake Henshaw, CA",
+      "time": "2026-08-26T11:09:14.780Z"
+    },
+    {
+      "id": "tx2026qtxbuw",
+      "magnitude": 1.7,
+      "depth": 0,
+      "lat": 30.962,
+      "lon": -103.459,
+      "place": "27 km E of Balmorhea, Texas",
+      "time": "2026-08-26T11:02:51.745Z"
+    },
+    {
+      "id": "ci41536744",
+      "magnitude": 0.6,
+      "depth": 17,
+      "lat": 33.683,
+      "lon": -116.771,
+      "place": "8 km SW of Idyllwild, CA",
+      "time": "2026-08-26T10:56:29.740Z"
+    },
     {
       "id": "nc75425357",
       "magnitude": 1,
@@ -73,6 +118,15 @@
       "lon": -115.283,
       "place": "7 km ENE of Puebla, B.C., MX",
       "time": "2026-08-26T09:53:25.480Z"
+    },
+    {
+      "id": "us7000tby1",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": 21.537,
+      "lon": 122.327,
+      "place": "126 km NNE of Basco, Philippines",
+      "time": "2026-08-26T09:51:22.122Z"
     },
     {
       "id": "ci41536712",
@@ -192,6 +246,15 @@
       "time": "2026-08-26T08:15:43.959Z"
     },
     {
+      "id": "pr71529828",
+      "magnitude": 2.9,
+      "depth": 4,
+      "lat": 17.959,
+      "lon": -65.418,
+      "place": "16 km SSE of Esperanza, Puerto Rico",
+      "time": "2026-08-26T07:58:53.690Z"
+    },
+    {
       "id": "nc75425322",
       "magnitude": 0.7,
       "depth": 1,
@@ -292,12 +355,12 @@
     },
     {
       "id": "tx2026qtpfyy",
-      "magnitude": 1.9,
-      "depth": 4,
-      "lat": 32.107,
-      "lon": -101.957,
+      "magnitude": 2,
+      "depth": 5,
+      "lat": 32.109,
+      "lon": -101.959,
       "place": "16 km W of Stanton, Texas",
-      "time": "2026-08-26T07:06:19.831Z"
+      "time": "2026-08-26T07:06:19.552Z"
     },
     {
       "id": "nc75425277",
@@ -570,6 +633,15 @@
       "time": "2026-08-26T03:37:38.583Z"
     },
     {
+      "id": "tx2026qthsxe",
+      "magnitude": 1,
+      "depth": 9,
+      "lat": 32.105,
+      "lon": -101.922,
+      "place": "12 km WSW of Stanton, Texas",
+      "time": "2026-08-26T03:19:54.704Z"
+    },
+    {
       "id": "aka2026qvzbwa",
       "magnitude": 3.2,
       "depth": 132,
@@ -775,6 +847,15 @@
       "lon": -101.536,
       "place": "11 km NNW of Big Spring, Texas",
       "time": "2026-08-26T00:25:40.537Z"
+    },
+    {
+      "id": "tx2026qtbvak",
+      "magnitude": 0.7,
+      "depth": 5,
+      "lat": 32.392,
+      "lon": -101.615,
+      "place": "17 km SSE of Ackerly, Texas",
+      "time": "2026-08-26T00:21:23.703Z"
     },
     {
       "id": "us7000tbvm",
@@ -2080,33 +2161,6 @@
       "lon": -150.805,
       "place": "47 km NW of Rampart, Alaska",
       "time": "2026-08-25T11:28:13.140Z"
-    },
-    {
-      "id": "aka2026qutvdl",
-      "magnitude": 1.9,
-      "depth": 0,
-      "lat": 60.485,
-      "lon": -140.689,
-      "place": "117 km NNW of Yakutat, Alaska",
-      "time": "2026-08-25T11:19:09.160Z"
-    },
-    {
-      "id": "ci41536000",
-      "magnitude": 0.7,
-      "depth": 10,
-      "lat": 34.577,
-      "lon": -118.033,
-      "place": "6 km E of Palmdale, CA",
-      "time": "2026-08-25T11:16:19.740Z"
-    },
-    {
-      "id": "aka2026qutily",
-      "magnitude": 2,
-      "depth": 104,
-      "lat": 62.843,
-      "lon": -150.93,
-      "place": "39 km NNW of Petersville, Alaska",
-      "time": "2026-08-25T11:04:47.806Z"
     }
   ]
 }
