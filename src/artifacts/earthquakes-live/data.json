@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-26T02:17:32.252Z",
-  "count": 268,
+  "generated": "2026-08-26T03:29:41.770Z",
+  "count": 258,
   "events": [
+    {
+      "id": "aka2026qvzbwa",
+      "magnitude": 3.2,
+      "depth": 132,
+      "lat": 59.943,
+      "lon": -153.194,
+      "place": "53 km ENE of Pedro Bay, Alaska",
+      "time": "2026-08-26T02:56:41.953Z"
+    },
+    {
+      "id": "us7000tbw6",
+      "magnitude": 4.5,
+      "depth": 94,
+      "lat": 36.489,
+      "lon": 71.363,
+      "place": "26 km SW of Ashkāsham, Afghanistan",
+      "time": "2026-08-26T02:24:09.415Z"
+    },
+    {
+      "id": "us7000tbw5",
+      "magnitude": 4.5,
+      "depth": 10,
+      "lat": -6.619,
+      "lon": 127.547,
+      "place": "218 km NNE of Lospalos, Timor Leste",
+      "time": "2026-08-26T02:05:46.773Z"
+    },
     {
       "id": "nc75425177",
       "magnitude": 0.7,
@@ -21,13 +48,31 @@
       "time": "2026-08-26T01:57:48.740Z"
     },
     {
+      "id": "us7000tbw3",
+      "magnitude": 4.8,
+      "depth": 12,
+      "lat": -6.641,
+      "lon": 127.493,
+      "place": "215 km NNE of Lospalos, Timor Leste",
+      "time": "2026-08-26T01:48:11.757Z"
+    },
+    {
       "id": "hv75023967",
-      "magnitude": 2.2,
-      "depth": 6,
-      "lat": 20.153,
-      "lon": -156.342,
-      "place": "54 km W of Hāwī, Hawaii",
-      "time": "2026-08-26T01:44:33.400Z"
+      "magnitude": 2.5,
+      "depth": 5,
+      "lat": 20.162,
+      "lon": -156.367,
+      "place": "55 km S of Mākena, Hawaii",
+      "time": "2026-08-26T01:44:33.060Z"
+    },
+    {
+      "id": "us7000tbw0",
+      "magnitude": 4.2,
+      "depth": 32,
+      "lat": -25.521,
+      "lon": -70.925,
+      "place": "45 km WSW of Taltal, Chile",
+      "time": "2026-08-26T01:37:01.106Z"
     },
     {
       "id": "aka2026qvwgup",
@@ -37,6 +82,15 @@
       "lon": -151.562,
       "place": "46 km NNW of Beluga, Alaska",
       "time": "2026-08-26T01:32:22.839Z"
+    },
+    {
+      "id": "us7000tbw1",
+      "magnitude": 4.6,
+      "depth": 10,
+      "lat": -7.813,
+      "lon": 120.286,
+      "place": "87 km NNE of Labuan Bajo, Indonesia",
+      "time": "2026-08-26T01:31:55.012Z"
     },
     {
       "id": "ci41536584",
@@ -163,6 +217,15 @@
       "lon": -104.523,
       "place": "60 km SSW of Whites City, New Mexico",
       "time": "2026-08-25T23:58:58.642Z"
+    },
+    {
+      "id": "hv75023942",
+      "magnitude": 2.6,
+      "depth": 8,
+      "lat": 19.175,
+      "lon": -155.584,
+      "place": "11 km WSW of Pāhala, Hawaii",
+      "time": "2026-08-25T23:58:02.870Z"
     },
     {
       "id": "tx2026qtasew",
@@ -318,6 +381,15 @@
       "time": "2026-08-25T22:10:44.683Z"
     },
     {
+      "id": "us7000tbv0",
+      "magnitude": 4.4,
+      "depth": 54,
+      "lat": 36.783,
+      "lon": 74.419,
+      "place": "56 km NNW of Barishal, Pakistan",
+      "time": "2026-08-25T22:00:24.458Z"
+    },
+    {
       "id": "aka2026qvomwx",
       "magnitude": 2,
       "depth": 14,
@@ -352,6 +424,15 @@
       "lon": -122.814,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-08-25T21:31:15.500Z"
+    },
+    {
+      "id": "us7000tbup",
+      "magnitude": 4.8,
+      "depth": 16,
+      "lat": -8.255,
+      "lon": 120.712,
+      "place": "47 km NE of Ruteng, Indonesia",
+      "time": "2026-08-25T21:24:00.192Z"
     },
     {
       "id": "nc75425052",
@@ -490,12 +571,12 @@
     },
     {
       "id": "hv75023872",
-      "magnitude": 2.3,
-      "depth": 16,
-      "lat": 20.269,
+      "magnitude": 2.6,
+      "depth": 44,
+      "lat": 20.261,
       "lon": -155.582,
-      "place": "16 km N of Kukuihaele, Hawaii",
-      "time": "2026-08-25T19:52:39.360Z"
+      "place": "15 km N of Kukuihaele, Hawaii",
+      "time": "2026-08-25T19:52:38.830Z"
     },
     {
       "id": "ci41536400",
@@ -2242,177 +2323,6 @@
       "lon": -153.084,
       "place": "63 km ENE of Pedro Bay, Alaska",
       "time": "2026-08-25T03:30:39.770Z"
-    },
-    {
-      "id": "pr2026237000",
-      "magnitude": 4.1,
-      "depth": 90,
-      "lat": 18.839,
-      "lon": -68.184,
-      "place": "36 km NE of Punta Cana, Dominican Republic",
-      "time": "2026-08-25T03:25:52.460Z"
-    },
-    {
-      "id": "aka2026qudyre",
-      "magnitude": 2,
-      "depth": 53,
-      "lat": 60.093,
-      "lon": -151.416,
-      "place": "14 km ENE of Ninilchik, Alaska",
-      "time": "2026-08-25T03:23:38.691Z"
-    },
-    {
-      "id": "av94402088",
-      "magnitude": 0.8,
-      "depth": 17,
-      "lat": 61.306,
-      "lon": -151.611,
-      "place": "33 km WNW of Beluga, Alaska",
-      "time": "2026-08-25T03:16:17.510Z"
-    },
-    {
-      "id": "us6000tnam",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 16.851,
-      "lon": -85.655,
-      "place": "48 km NNE of Savannah Bight, Honduras",
-      "time": "2026-08-25T03:13:28.048Z"
-    },
-    {
-      "id": "nc75424692",
-      "magnitude": 0.2,
-      "depth": 2,
-      "lat": 38.832,
-      "lon": -122.818,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-08-25T03:10:14.780Z"
-    },
-    {
-      "id": "nc75424687",
-      "magnitude": 0.7,
-      "depth": 1,
-      "lat": 38.831,
-      "lon": -122.819,
-      "place": "8 km NW of The Geysers, CA",
-      "time": "2026-08-25T03:09:11.310Z"
-    },
-    {
-      "id": "us6000tnal",
-      "magnitude": 4.7,
-      "depth": 10,
-      "lat": -6.615,
-      "lon": 127.559,
-      "place": "219 km NNE of Lospalos, Timor Leste",
-      "time": "2026-08-25T03:06:19.912Z"
-    },
-    {
-      "id": "tx2026qrllwv",
-      "magnitude": 1.5,
-      "depth": 8,
-      "lat": 31.685,
-      "lon": -104.304,
-      "place": "54 km S of Whites City, New Mexico",
-      "time": "2026-08-25T03:03:49.283Z"
-    },
-    {
-      "id": "av94402078",
-      "magnitude": -0.5,
-      "depth": 7,
-      "lat": 60.005,
-      "lon": -153.075,
-      "place": "62 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-25T03:02:00.220Z"
-    },
-    {
-      "id": "tx2026qrlhxt",
-      "magnitude": 1.5,
-      "depth": 7,
-      "lat": 31.693,
-      "lon": -104.303,
-      "place": "53 km S of Whites City, New Mexico",
-      "time": "2026-08-25T02:58:57.171Z"
-    },
-    {
-      "id": "pr71529733",
-      "magnitude": 3.1,
-      "depth": 14,
-      "lat": 18.549,
-      "lon": -64.641,
-      "place": "29 km NE of Cruz Bay, U.S. Virgin Islands",
-      "time": "2026-08-25T02:56:45.200Z"
-    },
-    {
-      "id": "ci41535760",
-      "magnitude": 0.9,
-      "depth": 11,
-      "lat": 33.998,
-      "lon": -116.979,
-      "place": "7 km E of Calimesa, CA",
-      "time": "2026-08-25T02:55:25.690Z"
-    },
-    {
-      "id": "aka2026qucyci",
-      "magnitude": 1.3,
-      "depth": 82,
-      "lat": 61.248,
-      "lon": -151.663,
-      "place": "33 km WNW of Beluga, Alaska",
-      "time": "2026-08-25T02:52:58.558Z"
-    },
-    {
-      "id": "tx2026qrkvgq",
-      "magnitude": 0.6,
-      "depth": 7,
-      "lat": 29.018,
-      "lon": -97.9,
-      "place": "12 km ENE of Falls City, Texas",
-      "time": "2026-08-25T02:44:17.199Z"
-    },
-    {
-      "id": "av94402043",
-      "magnitude": 0,
-      "depth": 6,
-      "lat": 61.151,
-      "lon": -152.293,
-      "place": "63 km W of Tyonek, Alaska",
-      "time": "2026-08-25T02:42:36.720Z"
-    },
-    {
-      "id": "ci41535752",
-      "magnitude": 1.2,
-      "depth": 7,
-      "lat": 34.662,
-      "lon": -119.545,
-      "place": "26 km NNE of Montecito, CA",
-      "time": "2026-08-25T02:37:07.660Z"
-    },
-    {
-      "id": "uu80150261",
-      "magnitude": 0.4,
-      "depth": 2,
-      "lat": 38.515,
-      "lon": -112.891,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-25T02:28:24.140Z"
-    },
-    {
-      "id": "nc75424677",
-      "magnitude": 1,
-      "depth": 1,
-      "lat": 38.815,
-      "lon": -122.817,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-08-25T02:28:14.850Z"
-    },
-    {
-      "id": "uu80150251",
-      "magnitude": 0.9,
-      "depth": 2,
-      "lat": 38.514,
-      "lon": -112.893,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-25T02:17:34.910Z"
     }
   ]
 }
