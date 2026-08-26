@@ -1,7 +1,79 @@
 {
-  "generated": "2026-08-26T06:29:46.408Z",
-  "count": 235,
+  "generated": "2026-08-26T07:25:19.103Z",
+  "count": 234,
   "events": [
+    {
+      "id": "nc75425282",
+      "magnitude": 0.8,
+      "depth": 0,
+      "lat": 38.785,
+      "lon": -122.744,
+      "place": "1 km NE of The Geysers, CA",
+      "time": "2026-08-26T07:17:26.690Z"
+    },
+    {
+      "id": "ci41536672",
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 33.116,
+      "lon": -115.597,
+      "place": "8 km W of Calipatria, CA",
+      "time": "2026-08-26T07:12:57.630Z"
+    },
+    {
+      "id": "tx2026qtpfyy",
+      "magnitude": 1.9,
+      "depth": 4,
+      "lat": 32.107,
+      "lon": -101.957,
+      "place": "16 km W of Stanton, Texas",
+      "time": "2026-08-26T07:06:19.831Z"
+    },
+    {
+      "id": "nc75425277",
+      "magnitude": 0.7,
+      "depth": 1,
+      "lat": 38.833,
+      "lon": -122.809,
+      "place": "8 km W of Cobb, CA",
+      "time": "2026-08-26T06:55:06.010Z"
+    },
+    {
+      "id": "us7000tbxf",
+      "magnitude": 4.8,
+      "depth": 10,
+      "lat": 39.728,
+      "lon": 143.66,
+      "place": "147 km E of Miyako, Japan",
+      "time": "2026-08-26T06:54:52.876Z"
+    },
+    {
+      "id": "nc75425272",
+      "magnitude": 0.8,
+      "depth": 1,
+      "lat": 38.759,
+      "lon": -122.93,
+      "place": "9 km SE of Cloverdale, CA",
+      "time": "2026-08-26T06:52:21.470Z"
+    },
+    {
+      "id": "tx2026qtokno",
+      "magnitude": 1.5,
+      "depth": 9,
+      "lat": 31.793,
+      "lon": -103.74,
+      "place": "16 km NW of Mentone, Texas",
+      "time": "2026-08-26T06:41:27.933Z"
+    },
+    {
+      "id": "hv75024077",
+      "magnitude": 1.7,
+      "depth": 31,
+      "lat": 19.048,
+      "lon": -155.364,
+      "place": "20 km SE of Pāhala, Hawaii",
+      "time": "2026-08-26T06:26:39.390Z"
+    },
     {
       "id": "ci41536664",
       "magnitude": 0.6,
@@ -66,6 +138,15 @@
       "time": "2026-08-26T05:52:14.887Z"
     },
     {
+      "id": "us7000tbx8",
+      "magnitude": 4.8,
+      "depth": 10,
+      "lat": -52.772,
+      "lon": 11.676,
+      "place": "southwest of Africa",
+      "time": "2026-08-26T05:45:05.013Z"
+    },
+    {
       "id": "aka2026qweqfl",
       "magnitude": 1.3,
       "depth": 6,
@@ -109,6 +190,15 @@
       "lon": -122.818,
       "place": "6 km WNW of The Geysers, CA",
       "time": "2026-08-26T05:15:38.690Z"
+    },
+    {
+      "id": "tx2026qtllun",
+      "magnitude": 1.6,
+      "depth": 7,
+      "lat": 31.807,
+      "lon": -103.738,
+      "place": "17 km NW of Mentone, Texas",
+      "time": "2026-08-26T05:12:22.127Z"
     },
     {
       "id": "hv75024012",
@@ -2017,105 +2107,6 @@
       "lon": -116.202,
       "place": "17 km ENE of Borrego Springs, CA",
       "time": "2026-08-25T07:38:10.510Z"
-    },
-    {
-      "id": "aka2026qulxwz",
-      "magnitude": 2.6,
-      "depth": 2,
-      "lat": 65.599,
-      "lon": -149.187,
-      "place": "30 km WNW of Livengood, Alaska",
-      "time": "2026-08-25T07:22:36.103Z"
-    },
-    {
-      "id": "aka2026qulvrq",
-      "magnitude": 1.8,
-      "depth": 2,
-      "lat": 63.556,
-      "lon": -150.724,
-      "place": "49 km E of Denali National Park, Alaska",
-      "time": "2026-08-25T07:20:03.497Z"
-    },
-    {
-      "id": "av94402283",
-      "magnitude": 0.1,
-      "depth": 4,
-      "lat": 58.29,
-      "lon": -154.991,
-      "place": "86 km NNW of Karluk, Alaska",
-      "time": "2026-08-25T07:07:03.170Z"
-    },
-    {
-      "id": "tx2026qrtkba",
-      "magnitude": 1.5,
-      "depth": 4,
-      "lat": 31.626,
-      "lon": -104.477,
-      "place": "61 km S of Whites City, New Mexico",
-      "time": "2026-08-25T07:02:51.535Z"
-    },
-    {
-      "id": "us6000tnbm",
-      "magnitude": 5.5,
-      "depth": 15,
-      "lat": 22.605,
-      "lon": 121.571,
-      "place": "108 km NE of Hengchun, Taiwan",
-      "time": "2026-08-25T07:00:10.853Z"
-    },
-    {
-      "id": "ci41535904",
-      "magnitude": 1.3,
-      "depth": 11,
-      "lat": 33.415,
-      "lon": -116.608,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-08-25T06:51:02.530Z"
-    },
-    {
-      "id": "us6000tnbk",
-      "magnitude": 4.6,
-      "depth": 323,
-      "lat": 3.418,
-      "lon": 124.453,
-      "place": "218 km NNW of Manado, Indonesia",
-      "time": "2026-08-25T06:48:20.910Z"
-    },
-    {
-      "id": "ci41535896",
-      "magnitude": 0.4,
-      "depth": 15,
-      "lat": 33.649,
-      "lon": -116.73,
-      "place": "10 km S of Idyllwild, CA",
-      "time": "2026-08-25T06:43:27.900Z"
-    },
-    {
-      "id": "tx2026qrsrxl",
-      "magnitude": 1.3,
-      "depth": 3,
-      "lat": 31.636,
-      "lon": -104.499,
-      "place": "60 km S of Whites City, New Mexico",
-      "time": "2026-08-25T06:41:44.684Z"
-    },
-    {
-      "id": "ci41535880",
-      "magnitude": 0.6,
-      "depth": 18,
-      "lat": 33.999,
-      "lon": -116.821,
-      "place": "10 km NNW of Cabazon, CA",
-      "time": "2026-08-25T06:37:15.420Z"
-    },
-    {
-      "id": "nc75424777",
-      "magnitude": 0.5,
-      "depth": 1,
-      "lat": 38.847,
-      "lon": -122.848,
-      "place": "11 km NW of The Geysers, CA",
-      "time": "2026-08-25T06:31:43.560Z"
     }
   ]
 }
