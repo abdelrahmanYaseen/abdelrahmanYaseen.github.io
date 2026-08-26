@@ -1,7 +1,61 @@
 {
-  "generated": "2026-08-26T10:16:41.224Z",
-  "count": 230,
+  "generated": "2026-08-26T10:57:33.945Z",
+  "count": 234,
   "events": [
+    {
+      "id": "nc75425357",
+      "magnitude": 1,
+      "depth": 2,
+      "lat": 38.837,
+      "lon": -122.803,
+      "place": "7 km WNW of Cobb, CA",
+      "time": "2026-08-26T10:51:28.020Z"
+    },
+    {
+      "id": "nc75425352",
+      "magnitude": 1.9,
+      "depth": 8,
+      "lat": 36.399,
+      "lon": -120.984,
+      "place": "21 km SE of Pinnacles, CA",
+      "time": "2026-08-26T10:45:00.890Z"
+    },
+    {
+      "id": "ci41536736",
+      "magnitude": 0.9,
+      "depth": 12,
+      "lat": 33.38,
+      "lon": -116.282,
+      "place": "16 km NNE of Borrego Springs, CA",
+      "time": "2026-08-26T10:43:59.450Z"
+    },
+    {
+      "id": "pr71529873",
+      "magnitude": 2,
+      "depth": 12,
+      "lat": 18.006,
+      "lon": -66.841,
+      "place": "2 km WNW of Indios, Puerto Rico",
+      "time": "2026-08-26T10:34:18.750Z"
+    },
+    {
+      "id": "ok2026qrvd",
+      "magnitude": 2.6,
+      "depth": 5,
+      "lat": 36.337,
+      "lon": -98.175,
+      "place": "5 km S of Meno, Oklahoma",
+      "time": "2026-08-26T10:33:23.242Z"
+    },
+    {
+      "id": "ci41536728",
+      "magnitude": 0.9,
+      "depth": 1,
+      "lat": 36.024,
+      "lon": -117.831,
+      "place": "11 km ESE of Coso Junction, CA",
+      "time": "2026-08-26T10:32:03.600Z"
+    },
     {
       "id": "hv75024167",
       "magnitude": 2.1,
@@ -28,6 +82,15 @@
       "lon": -119.167,
       "place": "7 km E of Ojai, CA",
       "time": "2026-08-26T09:47:51.350Z"
+    },
+    {
+      "id": "pr2026238000",
+      "magnitude": 4,
+      "depth": 128,
+      "lat": 18.421,
+      "lon": -68.787,
+      "place": "11 km W of San Rafael del Yuma, Dominican Republic",
+      "time": "2026-08-26T09:42:34.310Z"
     },
     {
       "id": "nc75425347",
@@ -289,6 +352,15 @@
       "lon": -117.777,
       "place": "15 km NE of Little Lake, CA",
       "time": "2026-08-26T06:22:35.110Z"
+    },
+    {
+      "id": "pr71529808",
+      "magnitude": 2.3,
+      "depth": 14,
+      "lat": 18.009,
+      "lon": -67.08,
+      "place": "3 km S of Palmarejo, Puerto Rico",
+      "time": "2026-08-26T06:15:03.040Z"
     },
     {
       "id": "nc75425267",
@@ -661,12 +733,12 @@
     },
     {
       "id": "tx2026qtcodv",
-      "magnitude": 1,
-      "depth": 7,
-      "lat": 32.011,
-      "lon": -102.355,
-      "place": "2 km ESE of Gardendale, Texas",
-      "time": "2026-08-26T00:46:13.991Z"
+      "magnitude": 0.7,
+      "depth": 5,
+      "lat": 32.01,
+      "lon": -102.379,
+      "place": "1 km S of Gardendale, Texas",
+      "time": "2026-08-26T00:46:14.970Z"
     },
     {
       "id": "hv75023952",
@@ -697,12 +769,12 @@
     },
     {
       "id": "tx2026qtbyru",
-      "magnitude": 1.1,
-      "depth": 4,
-      "lat": 32.341,
-      "lon": -101.524,
-      "place": "10 km NNW of Big Spring, Texas",
-      "time": "2026-08-26T00:25:39.611Z"
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 32.337,
+      "lon": -101.536,
+      "place": "11 km NNW of Big Spring, Texas",
+      "time": "2026-08-26T00:25:40.537Z"
     },
     {
       "id": "us7000tbvm",
@@ -2035,42 +2107,6 @@
       "lon": -150.93,
       "place": "39 km NNW of Petersville, Alaska",
       "time": "2026-08-25T11:04:47.806Z"
-    },
-    {
-      "id": "tx2026qsazgg",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 31.669,
-      "lon": -104.487,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": "2026-08-25T10:52:52.693Z"
-    },
-    {
-      "id": "ci41535992",
-      "magnitude": 0.5,
-      "depth": 9,
-      "lat": 32.938,
-      "lon": -116.336,
-      "place": "22 km NE of Pine Valley, CA",
-      "time": "2026-08-25T10:44:22.720Z"
-    },
-    {
-      "id": "nc75424832",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.837,
-      "lon": -122.799,
-      "place": "7 km WNW of Cobb, CA",
-      "time": "2026-08-25T10:34:21.020Z"
-    },
-    {
-      "id": "uw714085692",
-      "magnitude": 1.4,
-      "depth": 18,
-      "lat": 47.503,
-      "lon": -121.79,
-      "place": "0 km NNW of North Bend, Washington",
-      "time": "2026-08-25T10:19:15.080Z"
     }
   ]
 }
