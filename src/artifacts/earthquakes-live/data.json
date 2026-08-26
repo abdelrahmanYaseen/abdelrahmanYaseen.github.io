@@ -1,7 +1,34 @@
 {
-  "generated": "2026-08-26T13:30:59.832Z",
-  "count": 227,
+  "generated": "2026-08-26T14:23:24.141Z",
+  "count": 224,
   "events": [
+    {
+      "id": "tx2026qucnlh",
+      "magnitude": 1.5,
+      "depth": 2,
+      "lat": 32.116,
+      "lon": -101.487,
+      "place": "11 km W of Forsan, Texas",
+      "time": "2026-08-26T13:47:15.095Z"
+    },
+    {
+      "id": "ci41536816",
+      "magnitude": 2.2,
+      "depth": 5,
+      "lat": 34.542,
+      "lon": -120.482,
+      "place": "11 km SSW of Lompoc, CA",
+      "time": "2026-08-26T13:34:11.830Z"
+    },
+    {
+      "id": "ci41536800",
+      "magnitude": 1.9,
+      "depth": 12,
+      "lat": 34.441,
+      "lon": -119.2,
+      "place": "4 km E of Ojai, CA",
+      "time": "2026-08-26T13:29:31.770Z"
+    },
     {
       "id": "ci41536792",
       "magnitude": 0.8,
@@ -55,15 +82,6 @@
       "lon": -116.062,
       "place": "11 km WSW of Salton City, CA",
       "time": "2026-08-26T12:04:32.360Z"
-    },
-    {
-      "id": "tx2026qtyyns",
-      "magnitude": 1.5,
-      "depth": 0,
-      "lat": 31.479,
-      "lon": -103.083,
-      "place": "7 km SSE of Pyote, Texas",
-      "time": "2026-08-26T11:59:25.043Z"
     },
     {
       "id": "aka2026qwqjtk",
@@ -302,11 +320,11 @@
     {
       "id": "tx2026qtslkt",
       "magnitude": 2.4,
-      "depth": 3,
-      "lat": 32.002,
+      "depth": 6,
+      "lat": 32.011,
       "lon": -103.241,
-      "place": "13 km SSW of Jal, New Mexico",
-      "time": "2026-08-26T08:45:12.686Z"
+      "place": "12 km SSW of Jal, New Mexico",
+      "time": "2026-08-26T08:45:12.354Z"
     },
     {
       "id": "ci41536688",
@@ -505,6 +523,15 @@
       "lon": -122.93,
       "place": "9 km SE of Cloverdale, CA",
       "time": "2026-08-26T06:52:21.470Z"
+    },
+    {
+      "id": "uu80150421",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 38.508,
+      "lon": -112.894,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-26T06:49:38.740Z"
     },
     {
       "id": "tx2026qtokno",
@@ -894,6 +921,15 @@
       "time": "2026-08-26T01:21:30.740Z"
     },
     {
+      "id": "uu80150406",
+      "magnitude": 1.8,
+      "depth": 3,
+      "lat": 38.51,
+      "lon": -112.89,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-26T01:20:41.790Z"
+    },
+    {
       "id": "ci41536576",
       "magnitude": 1.6,
       "depth": 12,
@@ -910,6 +946,15 @@
       "lon": -103.238,
       "place": "11 km SSW of Jal, New Mexico",
       "time": "2026-08-26T01:09:47.098Z"
+    },
+    {
+      "id": "uu80007918",
+      "magnitude": 1.4,
+      "depth": 3,
+      "lat": 38.48,
+      "lon": -112.903,
+      "place": "13 km NE of Milford, Utah",
+      "time": "2026-08-26T01:07:53.360Z"
     },
     {
       "id": "uu80150396",
@@ -943,9 +988,9 @@
       "magnitude": 1.4,
       "depth": 3,
       "lat": 38.487,
-      "lon": -112.905,
+      "lon": -112.907,
       "place": "13 km NE of Milford, Utah",
-      "time": "2026-08-26T00:55:02.050Z"
+      "time": "2026-08-26T00:55:02.090Z"
     },
     {
       "id": "aka2026qvuvhr",
@@ -1887,10 +1932,10 @@
       "id": "us6000tnd7",
       "magnitude": 5.2,
       "depth": 10,
-      "lat": -17.291,
-      "lon": -171.982,
-      "place": "243 km SE of Hihifo, Tonga",
-      "time": "2026-08-25T15:15:54.612Z"
+      "lat": -17.409,
+      "lon": -171.899,
+      "place": "258 km SE of Hihifo, Tonga",
+      "time": "2026-08-25T15:15:54.340Z"
     },
     {
       "id": "ci41536112",
@@ -1932,10 +1977,10 @@
       "id": "us6000tnd4",
       "magnitude": 5,
       "depth": 10,
-      "lat": -8.136,
-      "lon": 120.582,
-      "place": "54 km NNE of Ruteng, Indonesia",
-      "time": "2026-08-25T14:58:54.206Z"
+      "lat": -8.076,
+      "lon": 120.633,
+      "place": "62 km NNE of Ruteng, Indonesia",
+      "time": "2026-08-25T14:58:54.052Z"
     },
     {
       "id": "aka2026qvawly",
@@ -1972,78 +2017,6 @@
       "lon": -117.75,
       "place": "10 km WSW of Pinon Hills, CA",
       "time": "2026-08-25T14:31:58.980Z"
-    },
-    {
-      "id": "tx2026qshxcb",
-      "magnitude": 1.5,
-      "depth": 6,
-      "lat": 31.614,
-      "lon": -104.115,
-      "place": "45 km NW of Toyah, Texas",
-      "time": "2026-08-25T14:20:20.248Z"
-    },
-    {
-      "id": "av94402823",
-      "magnitude": -0.6,
-      "depth": 3,
-      "lat": 60.019,
-      "lon": -153.049,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-08-25T14:08:59.000Z"
-    },
-    {
-      "id": "nc75424857",
-      "magnitude": 1.1,
-      "depth": 2,
-      "lat": 38.824,
-      "lon": -122.842,
-      "place": "9 km NW of The Geysers, CA",
-      "time": "2026-08-25T14:07:25.610Z"
-    },
-    {
-      "id": "av94402818",
-      "magnitude": -0.2,
-      "depth": 8,
-      "lat": 53.347,
-      "lon": -168.183,
-      "place": "64 km NE of Nikolski, Alaska",
-      "time": "2026-08-25T14:06:56.670Z"
-    },
-    {
-      "id": "uu80150296",
-      "magnitude": 1.4,
-      "depth": 3,
-      "lat": 38.505,
-      "lon": -112.89,
-      "place": "16 km NE of Milford, Utah",
-      "time": "2026-08-25T14:05:43.080Z"
-    },
-    {
-      "id": "aka2026quzixb",
-      "magnitude": 1.3,
-      "depth": 62,
-      "lat": 57.636,
-      "lon": -154.746,
-      "place": "18 km WNW of Karluk, Alaska",
-      "time": "2026-08-25T14:05:07.035Z"
-    },
-    {
-      "id": "us6000tnd0",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 40.95,
-      "lon": 19.52,
-      "place": "15 km W of Lushnjë, Albania",
-      "time": "2026-08-25T13:56:35.422Z"
-    },
-    {
-      "id": "ci41536080",
-      "magnitude": 0.9,
-      "depth": 7,
-      "lat": 35.296,
-      "lon": -117.805,
-      "place": "18 km WSW of Johannesburg, CA",
-      "time": "2026-08-25T13:33:00.730Z"
     }
   ]
 }
