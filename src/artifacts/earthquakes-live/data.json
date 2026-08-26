@@ -1,7 +1,43 @@
 {
-  "generated": "2026-08-26T12:25:18.534Z",
-  "count": 230,
+  "generated": "2026-08-26T13:30:59.832Z",
+  "count": 227,
   "events": [
+    {
+      "id": "ci41536792",
+      "magnitude": 0.8,
+      "depth": 8,
+      "lat": 34.463,
+      "lon": -119.218,
+      "place": "3 km NE of Ojai, CA",
+      "time": "2026-08-26T13:23:45.710Z"
+    },
+    {
+      "id": "ci41536784",
+      "magnitude": 1.7,
+      "depth": 2,
+      "lat": 36.062,
+      "lon": -117.846,
+      "place": "9 km ENE of Coso Junction, CA",
+      "time": "2026-08-26T13:14:14.030Z"
+    },
+    {
+      "id": "ci41536776",
+      "magnitude": 0.6,
+      "depth": 17,
+      "lat": 33.329,
+      "lon": -116.785,
+      "place": "8 km ESE of Palomar Observatory, CA",
+      "time": "2026-08-26T13:14:05.380Z"
+    },
+    {
+      "id": "pr71529898",
+      "magnitude": 3.1,
+      "depth": 6,
+      "lat": 17.969,
+      "lon": -65.429,
+      "place": "14 km SSE of Esperanza, Puerto Rico",
+      "time": "2026-08-26T12:28:31.480Z"
+    },
     {
       "id": "nc75425377",
       "magnitude": 1.3,
@@ -22,12 +58,12 @@
     },
     {
       "id": "tx2026qtyyns",
-      "magnitude": 1.8,
+      "magnitude": 1.5,
       "depth": 0,
-      "lat": 31.473,
-      "lon": -103.08,
-      "place": "8 km SSE of Pyote, Texas",
-      "time": "2026-08-26T11:59:24.919Z"
+      "lat": 31.479,
+      "lon": -103.083,
+      "place": "7 km SSE of Pyote, Texas",
+      "time": "2026-08-26T11:59:25.043Z"
     },
     {
       "id": "aka2026qwqjtk",
@@ -42,10 +78,10 @@
       "id": "ci41536760",
       "magnitude": 1,
       "depth": 15,
-      "lat": 34.03,
+      "lat": 34.031,
       "lon": -117.236,
       "place": "3 km SE of Loma Linda, CA",
-      "time": "2026-08-26T11:28:49.830Z"
+      "time": "2026-08-26T11:28:49.800Z"
     },
     {
       "id": "nc75425362",
@@ -75,15 +111,6 @@
       "time": "2026-08-26T11:09:14.780Z"
     },
     {
-      "id": "tx2026qtxbuw",
-      "magnitude": 1.7,
-      "depth": 0,
-      "lat": 30.962,
-      "lon": -103.459,
-      "place": "27 km E of Balmorhea, Texas",
-      "time": "2026-08-26T11:02:51.745Z"
-    },
-    {
       "id": "us7000tbyb",
       "magnitude": 4.3,
       "depth": 101,
@@ -91,6 +118,15 @@
       "lon": -69.339,
       "place": "75 km ENE of Diego de Almagro, Chile",
       "time": "2026-08-26T10:59:03.269Z"
+    },
+    {
+      "id": "us7000tby9",
+      "magnitude": 4.1,
+      "depth": 36,
+      "lat": 54.546,
+      "lon": -159.999,
+      "place": "93 km SSE of Sand Point, Alaska",
+      "time": "2026-08-26T10:58:09.848Z"
     },
     {
       "id": "ci41536744",
@@ -156,6 +192,15 @@
       "time": "2026-08-26T10:32:03.600Z"
     },
     {
+      "id": "uu80150446",
+      "magnitude": 0.9,
+      "depth": 2,
+      "lat": 38.518,
+      "lon": -112.892,
+      "place": "16 km NE of Milford, Utah",
+      "time": "2026-08-26T10:26:35.970Z"
+    },
+    {
       "id": "hv75024167",
       "magnitude": 2.1,
       "depth": 4,
@@ -167,11 +212,11 @@
     {
       "id": "ci41536720",
       "magnitude": 1.6,
-      "depth": 20,
+      "depth": 21,
       "lat": 32.587,
-      "lon": -115.283,
+      "lon": -115.281,
       "place": "7 km ENE of Puebla, B.C., MX",
-      "time": "2026-08-26T09:53:25.480Z"
+      "time": "2026-08-26T09:53:25.460Z"
     },
     {
       "id": "us7000tby1",
@@ -187,9 +232,9 @@
       "magnitude": 1.3,
       "depth": 4,
       "lat": 34.441,
-      "lon": -119.167,
+      "lon": -119.166,
       "place": "7 km E of Ojai, CA",
-      "time": "2026-08-26T09:47:51.350Z"
+      "time": "2026-08-26T09:47:51.320Z"
     },
     {
       "id": "pr2026238000",
@@ -212,11 +257,11 @@
     {
       "id": "tx2026qtubum",
       "magnitude": 1.5,
-      "depth": 4,
-      "lat": 31.514,
-      "lon": -104.007,
+      "depth": 7,
+      "lat": 31.521,
+      "lon": -104.002,
       "place": "30 km NW of Toyah, Texas",
-      "time": "2026-08-26T09:32:26.943Z"
+      "time": "2026-08-26T09:32:26.789Z"
     },
     {
       "id": "ci41536704",
@@ -498,6 +543,15 @@
       "time": "2026-08-26T06:15:03.040Z"
     },
     {
+      "id": "nm60627296",
+      "magnitude": 1.8,
+      "depth": 10,
+      "lat": 36.312,
+      "lon": -89.535,
+      "place": "6 km NW of Ridgely, Tennessee",
+      "time": "2026-08-26T06:08:57.350Z"
+    },
+    {
       "id": "nc75425267",
       "magnitude": 1,
       "depth": 4,
@@ -678,6 +732,15 @@
       "time": "2026-08-26T04:26:49.550Z"
     },
     {
+      "id": "tx2026qtjyfj",
+      "magnitude": 0.1,
+      "depth": 4,
+      "lat": 31.998,
+      "lon": -102.363,
+      "place": "2 km SSE of Gardendale, Texas",
+      "time": "2026-08-26T04:26:42.858Z"
+    },
+    {
       "id": "pr71529868",
       "magnitude": 2.4,
       "depth": 94,
@@ -847,6 +910,15 @@
       "lon": -103.238,
       "place": "11 km SSW of Jal, New Mexico",
       "time": "2026-08-26T01:09:47.098Z"
+    },
+    {
+      "id": "uu80150396",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 38.484,
+      "lon": -112.904,
+      "place": "13 km NE of Milford, Utah",
+      "time": "2026-08-26T01:07:11.700Z"
     },
     {
       "id": "ci41536568",
@@ -1972,105 +2044,6 @@
       "lon": -117.805,
       "place": "18 km WSW of Johannesburg, CA",
       "time": "2026-08-25T13:33:00.730Z"
-    },
-    {
-      "id": "av94402753",
-      "magnitude": -0.2,
-      "depth": 2,
-      "lat": 58.188,
-      "lon": -155.35,
-      "place": "87 km NW of Karluk, Alaska",
-      "time": "2026-08-25T13:20:18.860Z"
-    },
-    {
-      "id": "hv75023722",
-      "magnitude": 1.8,
-      "depth": 31,
-      "lat": 19.254,
-      "lon": -155.35,
-      "place": "14 km ENE of Pāhala, Hawaii",
-      "time": "2026-08-25T13:17:19.350Z"
-    },
-    {
-      "id": "aka2026quxofe",
-      "magnitude": 1.8,
-      "depth": 35,
-      "lat": 60.968,
-      "lon": -150.973,
-      "place": "14 km SE of Tyonek, Alaska",
-      "time": "2026-08-25T13:11:24.091Z"
-    },
-    {
-      "id": "ci41536072",
-      "magnitude": 0,
-      "depth": 5,
-      "lat": 33.078,
-      "lon": -116.468,
-      "place": "13 km E of Julian, CA",
-      "time": "2026-08-25T13:00:00.780Z"
-    },
-    {
-      "id": "ci41536064",
-      "magnitude": 0.7,
-      "depth": 3,
-      "lat": 36.068,
-      "lon": -117.834,
-      "place": "11 km ENE of Coso Junction, CA",
-      "time": "2026-08-25T12:58:26.810Z"
-    },
-    {
-      "id": "ci41536056",
-      "magnitude": 1.5,
-      "depth": 5,
-      "lat": 34.386,
-      "lon": -118.625,
-      "place": "9 km SSW of Valencia, CA",
-      "time": "2026-08-25T12:42:57.060Z"
-    },
-    {
-      "id": "tx2026qselyu",
-      "magnitude": 0.3,
-      "depth": 8,
-      "lat": 32.008,
-      "lon": -102.074,
-      "place": "1 km NNE of Midland, Texas",
-      "time": "2026-08-25T12:37:05.367Z"
-    },
-    {
-      "id": "us6000tncq",
-      "magnitude": 4.3,
-      "depth": 129,
-      "lat": 14.789,
-      "lon": -91.525,
-      "place": "4 km SW of Almolonga, Guatemala",
-      "time": "2026-08-25T12:27:39.155Z"
-    },
-    {
-      "id": "av94402683",
-      "magnitude": 0.1,
-      "depth": 8,
-      "lat": 53.891,
-      "lon": -166.665,
-      "place": "8 km W of Dutch Harbor, Alaska",
-      "time": "2026-08-25T12:27:35.530Z"
-    },
-    {
-      "id": "ci41536048",
-      "magnitude": 0.8,
-      "depth": 10,
-      "lat": 34.078,
-      "lon": -118.087,
-      "place": "1 km WSW of Rosemead, CA",
-      "time": "2026-08-25T12:26:57.110Z"
-    },
-    {
-      "id": "us6000tncl",
-      "magnitude": 4.3,
-      "depth": 10,
-      "lat": -44.372,
-      "lon": 167.884,
-      "place": "92 km NW of Arthurs Point, New Zealand",
-      "time": "2026-08-25T12:26:29.775Z"
     }
   ]
 }
