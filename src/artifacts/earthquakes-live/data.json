@@ -1,7 +1,124 @@
 {
-  "generated": "2026-09-13T19:38:26.694Z",
-  "count": 215,
+  "generated": "2026-09-13T21:40:28.982Z",
+  "count": 205,
   "events": [
+    {
+      "id": "tx2026sbtdxv",
+      "magnitude": 2.5,
+      "depth": 7,
+      "lat": 32.004,
+      "lon": -103.838,
+      "place": "32 km SE of Malaga, New Mexico",
+      "time": "2026-09-13T21:36:48.560Z"
+    },
+    {
+      "id": "ci41546800",
+      "magnitude": 1,
+      "depth": 5,
+      "lat": 33.888,
+      "lon": -116.17,
+      "place": "19 km NNE of Indio, CA",
+      "time": "2026-09-13T21:34:31.840Z"
+    },
+    {
+      "id": "tx2026sbsloh",
+      "magnitude": 1.9,
+      "depth": 10,
+      "lat": 31.557,
+      "lon": -104.102,
+      "place": "39 km NW of Toyah, Texas",
+      "time": "2026-09-13T21:15:32.302Z"
+    },
+    {
+      "id": "tx2026sbsjyg",
+      "magnitude": 1.7,
+      "depth": 4,
+      "lat": 31.529,
+      "lon": -104.154,
+      "place": "41 km NW of Toyah, Texas",
+      "time": "2026-09-13T21:15:32.261Z"
+    },
+    {
+      "id": "hv75035087",
+      "magnitude": 1.8,
+      "depth": 32,
+      "lat": 18.972,
+      "lon": -155.427,
+      "place": "19 km ESE of Naalehu, Hawaii",
+      "time": "2026-09-13T20:39:50.390Z"
+    },
+    {
+      "id": "pr71531738",
+      "magnitude": 2.5,
+      "depth": 8,
+      "lat": 17.959,
+      "lon": -67.058,
+      "place": "2 km SSW of La Parguera, Puerto Rico",
+      "time": "2026-09-13T20:36:39.200Z"
+    },
+    {
+      "id": "pr71531728",
+      "magnitude": 2.4,
+      "depth": 18,
+      "lat": 17.973,
+      "lon": -66.836,
+      "place": "2 km SW of Indios, Puerto Rico",
+      "time": "2026-09-13T20:07:50.780Z"
+    },
+    {
+      "id": "hv75035077",
+      "magnitude": 2.2,
+      "depth": 11,
+      "lat": 19.158,
+      "lon": -155.484,
+      "place": "4 km S of Pāhala, Hawaii",
+      "time": "2026-09-13T20:07:21.850Z"
+    },
+    {
+      "id": "aka2026senvsd",
+      "magnitude": 1.4,
+      "depth": 79,
+      "lat": 56.608,
+      "lon": -157.768,
+      "place": "52 km NE of Chignik, Alaska",
+      "time": "2026-09-13T20:07:11.213Z"
+    },
+    {
+      "id": "aka2026senfab",
+      "magnitude": 0.5,
+      "depth": 5,
+      "lat": 58.188,
+      "lon": -155.335,
+      "place": "86 km NW of Karluk, Alaska",
+      "time": "2026-09-13T19:48:01.579Z"
+    },
+    {
+      "id": "nc75435122",
+      "magnitude": 1.4,
+      "depth": 7,
+      "lat": 37.298,
+      "lon": -121.665,
+      "place": "15 km E of Seven Trees, CA",
+      "time": "2026-09-13T19:45:14.520Z"
+    },
+    {
+      "id": "us7000th81",
+      "magnitude": 4.9,
+      "depth": 10,
+      "lat": -20.201,
+      "lon": 168.834,
+      "place": "86 km SSW of Isangel, Vanuatu",
+      "time": "2026-09-13T19:41:43.663Z"
+    },
+    {
+      "id": "us7000th7y",
+      "magnitude": 4.7,
+      "depth": 10,
+      "lat": -26.156,
+      "lon": -66.575,
+      "place": "60 km W of Cafayate, Argentina",
+      "time": "2026-09-13T19:40:25.248Z"
+    },
     {
       "id": "nc75435112",
       "magnitude": 1.6,
@@ -13,12 +130,12 @@
     },
     {
       "id": "tx2026sbovxh",
-      "magnitude": 1.3,
-      "depth": 4,
-      "lat": 32.432,
-      "lon": -102.037,
+      "magnitude": 1.2,
+      "depth": 7,
+      "lat": 32.426,
+      "lon": -102.025,
       "place": "31 km WSW of Ackerly, Texas",
-      "time": "2026-09-13T19:26:49.135Z"
+      "time": "2026-09-13T19:26:48.769Z"
     },
     {
       "id": "aka2026semkca",
@@ -28,6 +145,15 @@
       "lon": -154.873,
       "place": "85 km NNW of Karluk, Alaska",
       "time": "2026-09-13T19:23:53.119Z"
+    },
+    {
+      "id": "us7000th7w",
+      "magnitude": 4.2,
+      "depth": 12,
+      "lat": 23.599,
+      "lon": 121.402,
+      "place": "46 km SSW of Hualien City, Taiwan",
+      "time": "2026-09-13T19:21:35.331Z"
     },
     {
       "id": "ci41546784",
@@ -1720,222 +1846,6 @@
       "lon": -122.846,
       "place": "12 km S of Kelseyville, CA",
       "time": "2026-09-12T21:46:23.130Z"
-    },
-    {
-      "id": "tx2026rzxilb",
-      "magnitude": 2,
-      "depth": 3,
-      "lat": 31.635,
-      "lon": -104.156,
-      "place": "49 km NW of Toyah, Texas",
-      "time": "2026-09-12T21:33:48.264Z"
-    },
-    {
-      "id": "nc75434482",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.828,
-      "lon": -122.763,
-      "place": "4 km W of Cobb, CA",
-      "time": "2026-09-12T21:33:19.620Z"
-    },
-    {
-      "id": "ci41546392",
-      "magnitude": 1.8,
-      "depth": 20,
-      "lat": 33.932,
-      "lon": -118.314,
-      "place": "4 km ESE of Lennox, CA",
-      "time": "2026-09-12T21:29:52.310Z"
-    },
-    {
-      "id": "nc75434462",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 38.82,
-      "lon": -122.767,
-      "place": "4 km W of Cobb, CA",
-      "time": "2026-09-12T21:27:33.660Z"
-    },
-    {
-      "id": "ci41546376",
-      "magnitude": 1.7,
-      "depth": 19,
-      "lat": 33.941,
-      "lon": -118.322,
-      "place": "3 km E of Lennox, CA",
-      "time": "2026-09-12T21:25:01.850Z"
-    },
-    {
-      "id": "nc75434452",
-      "magnitude": 1.9,
-      "depth": 8,
-      "lat": 36.909,
-      "lon": -121.265,
-      "place": "14 km ENE of Hollister, CA",
-      "time": "2026-09-12T21:17:00.390Z"
-    },
-    {
-      "id": "nn00924388",
-      "magnitude": 1.9,
-      "depth": 16,
-      "lat": 38.687,
-      "lon": -117.206,
-      "place": "59 km SSW of Kingston, Nevada",
-      "time": "2026-09-12T21:15:29.368Z"
-    },
-    {
-      "id": "nc75434437",
-      "magnitude": 0.7,
-      "depth": 2,
-      "lat": 38.784,
-      "lon": -122.733,
-      "place": "2 km ENE of The Geysers, CA",
-      "time": "2026-09-12T21:01:14.500Z"
-    },
-    {
-      "id": "ci41546368",
-      "magnitude": 0.6,
-      "depth": 14,
-      "lat": 33.675,
-      "lon": -116.728,
-      "place": "7 km S of Idyllwild, CA",
-      "time": "2026-09-12T20:59:23.130Z"
-    },
-    {
-      "id": "pr71531543",
-      "magnitude": 3.4,
-      "depth": 72,
-      "lat": 19.583,
-      "lon": -65.273,
-      "place": "141 km NNE of Vieques, Puerto Rico",
-      "time": "2026-09-12T20:54:55.100Z"
-    },
-    {
-      "id": "uw714100681",
-      "magnitude": 1.6,
-      "depth": 7,
-      "lat": 46.814,
-      "lon": -121.985,
-      "place": "7 km NNE of Ashford, Washington",
-      "time": "2026-09-12T20:52:06.410Z"
-    },
-    {
-      "id": "ci41546360",
-      "magnitude": 0.4,
-      "depth": 7,
-      "lat": 33.535,
-      "lon": -116.708,
-      "place": "4 km SW of Anza, CA",
-      "time": "2026-09-12T20:51:10.810Z"
-    },
-    {
-      "id": "ci41546352",
-      "magnitude": 1.3,
-      "depth": 19,
-      "lat": 33.956,
-      "lon": -118.304,
-      "place": "4 km E of Inglewood, CA",
-      "time": "2026-09-12T20:38:04.020Z"
-    },
-    {
-      "id": "us7000th1q",
-      "magnitude": 5.1,
-      "depth": 46,
-      "lat": 29.324,
-      "lon": 130.379,
-      "place": "101 km S of Yudomari, Japan",
-      "time": "2026-09-12T20:32:58.910Z"
-    },
-    {
-      "id": "ci41546344",
-      "magnitude": 0.8,
-      "depth": 14,
-      "lat": 33.588,
-      "lon": -116.595,
-      "place": "8 km ENE of Anza, CA",
-      "time": "2026-09-12T20:30:35.350Z"
-    },
-    {
-      "id": "nc75434417",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 38.804,
-      "lon": -122.823,
-      "place": "7 km WNW of The Geysers, CA",
-      "time": "2026-09-12T20:23:38.630Z"
-    },
-    {
-      "id": "aka2026scsfpk",
-      "magnitude": 2,
-      "depth": 5,
-      "lat": 55.757,
-      "lon": -157.787,
-      "place": "71 km SSE of Chignik, Alaska",
-      "time": "2026-09-12T20:19:18.070Z"
-    },
-    {
-      "id": "ci41546336",
-      "magnitude": 0.1,
-      "depth": 5,
-      "lat": 33.562,
-      "lon": -116.761,
-      "place": "8 km W of Anza, CA",
-      "time": "2026-09-12T20:15:08.150Z"
-    },
-    {
-      "id": "ci41546328",
-      "magnitude": 0.5,
-      "depth": 5,
-      "lat": 33.564,
-      "lon": -116.762,
-      "place": "8 km W of Anza, CA",
-      "time": "2026-09-12T20:13:41.210Z"
-    },
-    {
-      "id": "nc75434397",
-      "magnitude": 0.6,
-      "depth": 2,
-      "lat": 38.843,
-      "lon": -122.873,
-      "place": "13 km NW of The Geysers, CA",
-      "time": "2026-09-12T19:58:26.070Z"
-    },
-    {
-      "id": "nc75434392",
-      "magnitude": 1.3,
-      "depth": 9,
-      "lat": 37.33,
-      "lon": -122.218,
-      "place": "6 km SSE of Portola Valley, CA",
-      "time": "2026-09-12T19:57:29.450Z"
-    },
-    {
-      "id": "aka2026scrlrf",
-      "magnitude": 1.6,
-      "depth": 96,
-      "lat": 59.72,
-      "lon": -152.895,
-      "place": "60 km W of Anchor Point, Alaska",
-      "time": "2026-09-12T19:56:21.560Z"
-    },
-    {
-      "id": "nc75434387",
-      "magnitude": 1.8,
-      "depth": 3,
-      "lat": 38.804,
-      "lon": -122.823,
-      "place": "6 km WNW of The Geysers, CA",
-      "time": "2026-09-12T19:50:49.350Z"
-    },
-    {
-      "id": "aka2026scrgtq",
-      "magnitude": 2.4,
-      "depth": 13,
-      "lat": 53.928,
-      "lon": -163.268,
-      "place": "103 km S of False Pass, Alaska",
-      "time": "2026-09-12T19:50:43.366Z"
     }
   ]
 }
