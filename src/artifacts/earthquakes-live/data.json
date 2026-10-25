@@ -1,7 +1,106 @@
 {
-  "generated": "2026-10-24T23:27:08.984Z",
-  "count": 184,
+  "generated": "2026-10-25T01:22:30.005Z",
+  "count": 187,
   "events": [
+    {
+      "id": "ci41351991",
+      "magnitude": 1.1,
+      "depth": 3,
+      "lat": 34.923,
+      "lon": -118.975,
+      "place": "5 km WSW of Grapevine, CA",
+      "time": "2026-10-25T00:30:53.580Z"
+    },
+    {
+      "id": "nc75454461",
+      "magnitude": 2.1,
+      "depth": 5,
+      "lat": 37.442,
+      "lon": -118.836,
+      "place": "19 km SW of Toms Place, CA",
+      "time": "2026-10-25T00:25:35.430Z"
+    },
+    {
+      "id": "nc75454456",
+      "magnitude": 2,
+      "depth": 5,
+      "lat": 40.682,
+      "lon": -124.213,
+      "place": "5 km SSW of Humboldt Hill, CA",
+      "time": "2026-10-25T00:23:28.230Z"
+    },
+    {
+      "id": "aka2026vcpfrg",
+      "magnitude": 1.1,
+      "depth": 12,
+      "lat": 61.367,
+      "lon": -141.877,
+      "place": "56 km E of McCarthy, Alaska",
+      "time": "2026-10-25T00:21:55.883Z"
+    },
+    {
+      "id": "nc75454451",
+      "magnitude": 2.3,
+      "depth": 7,
+      "lat": 39.322,
+      "lon": -122.798,
+      "place": "17 km SE of Lake Pillsbury, CA",
+      "time": "2026-10-25T00:13:56.860Z"
+    },
+    {
+      "id": "hv75063361",
+      "magnitude": 2,
+      "depth": 39,
+      "lat": 19.116,
+      "lon": -155.421,
+      "place": "11 km SSE of Pāhala, Hawaii",
+      "time": "2026-10-25T00:12:35.260Z"
+    },
+    {
+      "id": "hv75063351",
+      "magnitude": 1.9,
+      "depth": 36,
+      "lat": 19.074,
+      "lon": -155.415,
+      "place": "15 km SSE of Pāhala, Hawaii",
+      "time": "2026-10-25T00:05:33.200Z"
+    },
+    {
+      "id": "us6000u4qq",
+      "magnitude": 5.3,
+      "depth": 10,
+      "lat": 31.823,
+      "lon": 131.873,
+      "place": "44 km ESE of Miyazaki, Japan",
+      "time": "2026-10-24T23:59:36.599Z"
+    },
+    {
+      "id": "us6000u4qp",
+      "magnitude": 5,
+      "depth": 10,
+      "lat": -13.9,
+      "lon": 165.731,
+      "place": "192 km NW of Port-Olry, Vanuatu",
+      "time": "2026-10-24T23:44:57.729Z"
+    },
+    {
+      "id": "nc75454441",
+      "magnitude": 2,
+      "depth": 1,
+      "lat": 39.508,
+      "lon": -123.337,
+      "place": "8 km NNE of Brooktrails, CA",
+      "time": "2026-10-24T23:39:24.020Z"
+    },
+    {
+      "id": "us6000u4qm",
+      "magnitude": 4.8,
+      "depth": 10,
+      "lat": -13.889,
+      "lon": 165.604,
+      "place": "203 km NW of Port-Olry, Vanuatu",
+      "time": "2026-10-24T23:39:07.167Z"
+    },
     {
       "id": "nc75454431",
       "magnitude": 2.3,
@@ -75,13 +174,13 @@
       "time": "2026-10-24T22:35:24.563Z"
     },
     {
-      "id": "uw714127472",
-      "magnitude": 2.4,
-      "depth": 48,
-      "lat": 45.748,
-      "lon": -122.327,
-      "place": "8 km ESE of Venersborg, Washington",
-      "time": "2026-10-24T22:27:17.470Z"
+      "id": "us6000u4q4",
+      "magnitude": 3.9,
+      "depth": 10,
+      "lat": 41.892,
+      "lon": -126.868,
+      "place": "209 km WSW of Pistol River, Oregon",
+      "time": "2026-10-24T22:26:04.077Z"
     },
     {
       "id": "aka2026vclbqs",
@@ -1585,78 +1684,6 @@
       "lon": -170.171,
       "place": "135 km SW of Nikolski, Alaska",
       "time": "2026-10-24T01:42:33.445Z"
-    },
-    {
-      "id": "ci41351495",
-      "magnitude": 0.8,
-      "depth": 6,
-      "lat": 33.294,
-      "lon": -116.269,
-      "place": "11 km ENE of Borrego Springs, CA",
-      "time": "2026-10-24T01:15:08.140Z"
-    },
-    {
-      "id": "aka2026vaummo",
-      "magnitude": 3.4,
-      "depth": 10,
-      "lat": 59.029,
-      "lon": -142.654,
-      "place": "176 km WSW of Yakutat, Alaska",
-      "time": "2026-10-24T01:00:16.545Z"
-    },
-    {
-      "id": "us6000u4ib",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -13.987,
-      "lon": 165.618,
-      "place": "195 km NW of Port-Olry, Vanuatu",
-      "time": "2026-10-24T00:27:44.940Z"
-    },
-    {
-      "id": "us6000u4i8",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": 32.527,
-      "lon": 93.9,
-      "place": "209 km ENE of Nagqu, China",
-      "time": "2026-10-24T00:07:56.787Z"
-    },
-    {
-      "id": "uw714127002",
-      "magnitude": 1.8,
-      "depth": 5,
-      "lat": 48.402,
-      "lon": -123.484,
-      "place": "3 km S of Colwood, Canada",
-      "time": "2026-10-24T00:07:24.230Z"
-    },
-    {
-      "id": "aka2026vasqcw",
-      "magnitude": 1.7,
-      "depth": 29,
-      "lat": 60.172,
-      "lon": -144.88,
-      "place": "63 km SE of Cordova, Alaska",
-      "time": "2026-10-24T00:04:29.247Z"
-    },
-    {
-      "id": "aka2026vasoiy",
-      "magnitude": 2.2,
-      "depth": 35,
-      "lat": 60.748,
-      "lon": -149.971,
-      "place": "26 km SW of Hope, Alaska",
-      "time": "2026-10-24T00:02:28.331Z"
-    },
-    {
-      "id": "aka2026varwvn",
-      "magnitude": 3.1,
-      "depth": 1,
-      "lat": 59.15,
-      "lon": -138.807,
-      "place": "68 km SE of Yakutat, Alaska",
-      "time": "2026-10-23T23:41:50.858Z"
     }
   ]
 }
