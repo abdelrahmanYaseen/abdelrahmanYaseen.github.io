@@ -1,7 +1,619 @@
 {
-  "generated": "2026-11-14T09:09:09.124Z",
-  "count": 192,
+  "generated": "2026-11-14T15:45:44.579Z",
+  "count": 188,
   "events": [
+    {
+      "id": "aka2026wosjlx",
+      "magnitude": 1.5,
+      "depth": 28,
+      "lat": 60.595,
+      "lon": -143.919,
+      "place": "101 km E of Cordova, Alaska",
+      "time": "2026-11-14T15:42:36.440Z"
+    },
+    {
+      "id": "aka2026wosgwq",
+      "magnitude": 1.3,
+      "depth": 5,
+      "lat": 61.227,
+      "lon": -147.167,
+      "place": "45 km WNW of Valdez, Alaska",
+      "time": "2026-11-14T15:39:37.574Z"
+    },
+    {
+      "id": "nc75466397",
+      "magnitude": 1.3,
+      "depth": 1,
+      "lat": 38.789,
+      "lon": -122.769,
+      "place": "2 km NW of The Geysers, CA",
+      "time": "2026-11-14T15:37:02.420Z"
+    },
+    {
+      "id": "ci41362095",
+      "magnitude": 2.4,
+      "depth": 11,
+      "lat": 32.816,
+      "lon": -115.463,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T15:36:53.660Z"
+    },
+    {
+      "id": "ci41362087",
+      "magnitude": 1.9,
+      "depth": 12,
+      "lat": 32.824,
+      "lon": -115.464,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T15:36:07.790Z"
+    },
+    {
+      "id": "ci41362079",
+      "magnitude": 2.7,
+      "depth": 12,
+      "lat": 32.82,
+      "lon": -115.465,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T15:34:45.400Z"
+    },
+    {
+      "id": "ci41362071",
+      "magnitude": 3.2,
+      "depth": 12,
+      "lat": 32.824,
+      "lon": -115.465,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T15:33:34.210Z"
+    },
+    {
+      "id": "ci41362063",
+      "magnitude": 2.3,
+      "depth": 12,
+      "lat": 32.816,
+      "lon": -115.471,
+      "place": "9 km W of Holtville, CA",
+      "time": "2026-11-14T15:17:40.610Z"
+    },
+    {
+      "id": "ci41362055",
+      "magnitude": 1.7,
+      "depth": 9,
+      "lat": 32.819,
+      "lon": -115.462,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T15:16:25.360Z"
+    },
+    {
+      "id": "aka2026woqxfd",
+      "magnitude": 2.2,
+      "depth": 1,
+      "lat": 63.119,
+      "lon": -151.479,
+      "place": "48 km SSE of Denali National Park, Alaska",
+      "time": "2026-11-14T14:58:18.200Z"
+    },
+    {
+      "id": "ci41362047",
+      "magnitude": 1.4,
+      "depth": 11,
+      "lat": 32.816,
+      "lon": -115.469,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T14:55:56.570Z"
+    },
+    {
+      "id": "aka2026woqlkt",
+      "magnitude": 2.1,
+      "depth": 13,
+      "lat": 64.964,
+      "lon": -150.836,
+      "place": "10 km WSW of Manley Hot Springs, Alaska",
+      "time": "2026-11-14T14:44:53.569Z"
+    },
+    {
+      "id": "nc75466392",
+      "magnitude": 0.2,
+      "depth": 1,
+      "lat": 38.846,
+      "lon": -122.815,
+      "place": "8 km WNW of Cobb, CA",
+      "time": "2026-11-14T14:24:38.780Z"
+    },
+    {
+      "id": "ci41362039",
+      "magnitude": 1.4,
+      "depth": 5,
+      "lat": 33.241,
+      "lon": -116.079,
+      "place": "12 km NNE of Ocotillo Wells, CA",
+      "time": "2026-11-14T14:22:44.640Z"
+    },
+    {
+      "id": "aka2026wopoud",
+      "magnitude": 1.1,
+      "depth": 5,
+      "lat": 60.811,
+      "lon": -152.553,
+      "place": "70 km W of Nikiski, Alaska",
+      "time": "2026-11-14T14:18:47.318Z"
+    },
+    {
+      "id": "aka2026wopmcq",
+      "magnitude": 0.5,
+      "depth": 4,
+      "lat": 61.212,
+      "lon": -152.188,
+      "place": "58 km WNW of Tyonek, Alaska",
+      "time": "2026-11-14T14:15:42.357Z"
+    },
+    {
+      "id": "ci41362031",
+      "magnitude": 0.9,
+      "depth": 6,
+      "lat": 34.161,
+      "lon": -117.432,
+      "place": "7 km SSW of Devore, CA",
+      "time": "2026-11-14T14:10:06.460Z"
+    },
+    {
+      "id": "aka2026woowik",
+      "magnitude": 1.7,
+      "depth": 78,
+      "lat": 60.32,
+      "lon": -151.808,
+      "place": "24 km WNW of Clam Gulch, Alaska",
+      "time": "2026-11-14T13:57:29.384Z"
+    },
+    {
+      "id": "nc75466382",
+      "magnitude": 0.6,
+      "depth": 3,
+      "lat": 38.808,
+      "lon": -122.773,
+      "place": "4 km NNW of The Geysers, CA",
+      "time": "2026-11-14T13:51:32.210Z"
+    },
+    {
+      "id": "aka2026wooowa",
+      "magnitude": 0.6,
+      "depth": 9,
+      "lat": 60.054,
+      "lon": -153.082,
+      "place": "64 km ENE of Pedro Bay, Alaska",
+      "time": "2026-11-14T13:48:52.945Z"
+    },
+    {
+      "id": "aka2026woogfc",
+      "magnitude": 2.4,
+      "depth": 80,
+      "lat": 62.19,
+      "lon": -151.13,
+      "place": "26 km NNE of Skwentna, Alaska",
+      "time": "2026-11-14T13:38:52.883Z"
+    },
+    {
+      "id": "aka2026wonyis",
+      "magnitude": 1.2,
+      "depth": 23,
+      "lat": 60.968,
+      "lon": -146.692,
+      "place": "11 km N of Tatitlek, Alaska",
+      "time": "2026-11-14T13:30:08.776Z"
+    },
+    {
+      "id": "aka2026wonrfz",
+      "magnitude": 0.4,
+      "depth": 5,
+      "lat": 60.045,
+      "lon": -153.132,
+      "place": "61 km ENE of Pedro Bay, Alaska",
+      "time": "2026-11-14T13:21:38.841Z"
+    },
+    {
+      "id": "us7000ty90",
+      "magnitude": 4.9,
+      "depth": 12,
+      "lat": -33.002,
+      "lon": -178.34,
+      "place": "south of the Kermadec Islands",
+      "time": "2026-11-14T13:17:20.799Z"
+    },
+    {
+      "id": "ci41362023",
+      "magnitude": 1.9,
+      "depth": 12,
+      "lat": 32.799,
+      "lon": -115.453,
+      "place": "7 km WSW of Holtville, CA",
+      "time": "2026-11-14T13:09:49.910Z"
+    },
+    {
+      "id": "ci41362015",
+      "magnitude": 1.1,
+      "depth": 4,
+      "lat": 35.934,
+      "lon": -117.713,
+      "place": "17 km E of Little Lake, CA",
+      "time": "2026-11-14T13:09:30.030Z"
+    },
+    {
+      "id": "nc75466377",
+      "magnitude": 0.4,
+      "depth": 2,
+      "lat": 38.837,
+      "lon": -122.816,
+      "place": "8 km WNW of Cobb, CA",
+      "time": "2026-11-14T13:07:14.480Z"
+    },
+    {
+      "id": "nc75466372",
+      "magnitude": 0.3,
+      "depth": 4,
+      "lat": 38.8,
+      "lon": -122.803,
+      "place": "5 km WNW of The Geysers, CA",
+      "time": "2026-11-14T12:56:23.400Z"
+    },
+    {
+      "id": "nc75466367",
+      "magnitude": 1.7,
+      "depth": 5,
+      "lat": 38.778,
+      "lon": -122.929,
+      "place": "8 km ESE of Cloverdale, CA",
+      "time": "2026-11-14T12:44:16.970Z"
+    },
+    {
+      "id": "aka2026womkkz",
+      "magnitude": 1.3,
+      "depth": 109,
+      "lat": 60.248,
+      "lon": -152.643,
+      "place": "58 km WNW of Ninilchik, Alaska",
+      "time": "2026-11-14T12:43:54.912Z"
+    },
+    {
+      "id": "aka2026womfhg",
+      "magnitude": 1.5,
+      "depth": 19,
+      "lat": 61.368,
+      "lon": -146.953,
+      "place": "41 km NW of Valdez, Alaska",
+      "time": "2026-11-14T12:37:53.281Z"
+    },
+    {
+      "id": "aka2026womcpg",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 60.151,
+      "lon": -152.734,
+      "place": "60 km WNW of Happy Valley, Alaska",
+      "time": "2026-11-14T12:34:46.356Z"
+    },
+    {
+      "id": "nc75466362",
+      "magnitude": 0.7,
+      "depth": 4,
+      "lat": 38.799,
+      "lon": -122.767,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": "2026-11-14T12:33:49.230Z"
+    },
+    {
+      "id": "ci41362007",
+      "magnitude": 2,
+      "depth": 15,
+      "lat": 31.777,
+      "lon": -115.943,
+      "place": "59 km E of Maneadero, B.C., MX",
+      "time": "2026-11-14T12:32:15.290Z"
+    },
+    {
+      "id": "ci41361999",
+      "magnitude": 1.5,
+      "depth": 11,
+      "lat": 32.809,
+      "lon": -115.456,
+      "place": "7 km W of Holtville, CA",
+      "time": "2026-11-14T12:30:42.280Z"
+    },
+    {
+      "id": "us7000ty8u",
+      "magnitude": 4.5,
+      "depth": 17,
+      "lat": 52.36,
+      "lon": 160.298,
+      "place": "137 km SE of Petropavlovsk-Kamchatsky, Russia",
+      "time": "2026-11-14T12:28:00.653Z"
+    },
+    {
+      "id": "nc75466357",
+      "magnitude": 0.7,
+      "depth": 3,
+      "lat": 38.793,
+      "lon": -122.779,
+      "place": "3 km NW of The Geysers, CA",
+      "time": "2026-11-14T12:21:41.610Z"
+    },
+    {
+      "id": "nc75466352",
+      "magnitude": 1.5,
+      "depth": 3,
+      "lat": 38.8,
+      "lon": -122.768,
+      "place": "3 km NNW of The Geysers, CA",
+      "time": "2026-11-14T12:21:37.970Z"
+    },
+    {
+      "id": "hv75070337",
+      "magnitude": 1.8,
+      "depth": 29,
+      "lat": 19.199,
+      "lon": -155.353,
+      "place": "13 km E of Pāhala, Hawaii",
+      "time": "2026-11-14T12:16:06.880Z"
+    },
+    {
+      "id": "hv75070332",
+      "magnitude": 1.7,
+      "depth": 30,
+      "lat": 19.267,
+      "lon": -155.457,
+      "place": "7 km NNE of Pāhala, Hawaii",
+      "time": "2026-11-14T12:11:12.310Z"
+    },
+    {
+      "id": "hv75070327",
+      "magnitude": 2.7,
+      "depth": 29,
+      "lat": 18.987,
+      "lon": -155.385,
+      "place": "22 km ESE of Naalehu, Hawaii",
+      "time": "2026-11-14T12:08:46.140Z"
+    },
+    {
+      "id": "nc75466347",
+      "magnitude": 2,
+      "depth": 7,
+      "lat": 37.46,
+      "lon": -118.845,
+      "place": "18 km SW of Toms Place, CA",
+      "time": "2026-11-14T11:42:53.840Z"
+    },
+    {
+      "id": "aka2026wokdjn",
+      "magnitude": 1.9,
+      "depth": 91,
+      "lat": 61.958,
+      "lon": -151.81,
+      "place": "21 km W of Skwentna, Alaska",
+      "time": "2026-11-14T11:35:52.843Z"
+    },
+    {
+      "id": "ci41361991",
+      "magnitude": 1.5,
+      "depth": 13,
+      "lat": 32.807,
+      "lon": -115.454,
+      "place": "7 km W of Holtville, CA",
+      "time": "2026-11-14T11:29:12.490Z"
+    },
+    {
+      "id": "ci41361983",
+      "magnitude": 0.7,
+      "depth": 12,
+      "lat": 33.581,
+      "lon": -116.759,
+      "place": "8 km WNW of Anza, CA",
+      "time": "2026-11-14T11:23:40.320Z"
+    },
+    {
+      "id": "ci41361975",
+      "magnitude": 2.1,
+      "depth": 13,
+      "lat": 32.802,
+      "lon": -115.457,
+      "place": "7 km W of Holtville, CA",
+      "time": "2026-11-14T11:17:11.800Z"
+    },
+    {
+      "id": "ci41361967",
+      "magnitude": 2.4,
+      "depth": 12,
+      "lat": 32.814,
+      "lon": -115.465,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T11:16:00.430Z"
+    },
+    {
+      "id": "aka2026wojlnv",
+      "magnitude": 1.6,
+      "depth": 6,
+      "lat": 63.804,
+      "lon": -147.624,
+      "place": "64 km E of Denali Park, Alaska",
+      "time": "2026-11-14T11:15:07.749Z"
+    },
+    {
+      "id": "ci41361959",
+      "magnitude": 2.7,
+      "depth": 7,
+      "lat": 32.82,
+      "lon": -115.463,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T11:14:17.440Z"
+    },
+    {
+      "id": "ci41361951",
+      "magnitude": 3,
+      "depth": 11,
+      "lat": 32.801,
+      "lon": -115.451,
+      "place": "7 km W of Holtville, CA",
+      "time": "2026-11-14T11:13:58.480Z"
+    },
+    {
+      "id": "ci41361943",
+      "magnitude": 2.7,
+      "depth": 10,
+      "lat": 32.816,
+      "lon": -115.464,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T11:13:35.960Z"
+    },
+    {
+      "id": "ci41361935",
+      "magnitude": 3.3,
+      "depth": 16,
+      "lat": 32.812,
+      "lon": -115.466,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T11:12:55.140Z"
+    },
+    {
+      "id": "ci41361927",
+      "magnitude": 3.1,
+      "depth": 12,
+      "lat": 32.815,
+      "lon": -115.463,
+      "place": "8 km W of Holtville, CA",
+      "time": "2026-11-14T11:09:27.970Z"
+    },
+    {
+      "id": "aka2026wojehi",
+      "magnitude": 0.6,
+      "depth": 21,
+      "lat": 61.353,
+      "lon": -148.087,
+      "place": "45 km ESE of Knik River, Alaska",
+      "time": "2026-11-14T11:06:46.050Z"
+    },
+    {
+      "id": "ci41361919",
+      "magnitude": 3,
+      "depth": 14,
+      "lat": 32.813,
+      "lon": -115.459,
+      "place": "7 km W of Holtville, CA",
+      "time": "2026-11-14T11:05:21.660Z"
+    },
+    {
+      "id": "aka2026woimrg",
+      "magnitude": 1.6,
+      "depth": 21,
+      "lat": 60.795,
+      "lon": -146.688,
+      "place": "7 km S of Tatitlek, Alaska",
+      "time": "2026-11-14T10:46:27.762Z"
+    },
+    {
+      "id": "nc75466342",
+      "magnitude": 0.6,
+      "depth": 2,
+      "lat": 38.849,
+      "lon": -122.845,
+      "place": "11 km WNW of Cobb, CA",
+      "time": "2026-11-14T10:39:38.020Z"
+    },
+    {
+      "id": "aka2026woigaw",
+      "magnitude": 2.1,
+      "depth": 121,
+      "lat": 60.91,
+      "lon": -152.422,
+      "place": "66 km WNW of Nikiski, Alaska",
+      "time": "2026-11-14T10:38:46.559Z"
+    },
+    {
+      "id": "ok2026whyu",
+      "magnitude": 2,
+      "depth": 9,
+      "lat": 35.062,
+      "lon": -97.948,
+      "place": "1 km NW of Chickasha, Oklahoma",
+      "time": "2026-11-14T10:15:55.066Z"
+    },
+    {
+      "id": "nc75466337",
+      "magnitude": 0.8,
+      "depth": 3,
+      "lat": 38.809,
+      "lon": -122.794,
+      "place": "5 km NW of The Geysers, CA",
+      "time": "2026-11-14T09:59:42.290Z"
+    },
+    {
+      "id": "aka2026wogvps",
+      "magnitude": 0.6,
+      "depth": 5,
+      "lat": 61.306,
+      "lon": -152.224,
+      "place": "64 km WNW of Beluga, Alaska",
+      "time": "2026-11-14T09:56:47.182Z"
+    },
+    {
+      "id": "us7000ty84",
+      "magnitude": 5.5,
+      "depth": 10,
+      "lat": 30.122,
+      "lon": -42.635,
+      "place": "northern Mid-Atlantic Ridge",
+      "time": "2026-11-14T09:26:13.073Z"
+    },
+    {
+      "id": "ok2026whwx",
+      "magnitude": 1.8,
+      "depth": 2,
+      "lat": 36.351,
+      "lon": -98.159,
+      "place": "4 km SSE of Meno, Oklahoma",
+      "time": "2026-11-14T09:18:17.682Z"
+    },
+    {
+      "id": "aka2026woflwd",
+      "magnitude": 1.6,
+      "depth": 81,
+      "lat": 62.009,
+      "lon": -151.441,
+      "place": "3 km NW of Skwentna, Alaska",
+      "time": "2026-11-14T09:15:32.682Z"
+    },
+    {
+      "id": "nc75466332",
+      "magnitude": 0.7,
+      "depth": 2,
+      "lat": 38.826,
+      "lon": -122.854,
+      "place": "10 km WNW of The Geysers, CA",
+      "time": "2026-11-14T09:14:11.240Z"
+    },
+    {
+      "id": "aka2026wofjio",
+      "magnitude": 0.8,
+      "depth": 5,
+      "lat": 58.279,
+      "lon": -155.005,
+      "place": "85 km NNW of Karluk, Alaska",
+      "time": "2026-11-14T09:12:38.639Z"
+    },
+    {
+      "id": "ci41361903",
+      "magnitude": 0.7,
+      "depth": 15,
+      "lat": 33.239,
+      "lon": -116.784,
+      "place": "2 km W of Lake Henshaw, CA",
+      "time": "2026-11-14T09:11:38.460Z"
+    },
+    {
+      "id": "pr71539253",
+      "magnitude": 2.7,
+      "depth": 50,
+      "lat": 18.748,
+      "lon": -66.779,
+      "place": "29 km N of Hatillo, Puerto Rico",
+      "time": "2026-11-14T09:08:16.380Z"
+    },
     {
       "id": "aka2026wofcqf",
       "magnitude": 1.8,
@@ -82,6 +694,15 @@
       "lon": -122.814,
       "place": "7 km NW of The Geysers, CA",
       "time": "2026-11-14T07:57:08.910Z"
+    },
+    {
+      "id": "pr2026318000",
+      "magnitude": 3.6,
+      "depth": 28,
+      "lat": 19.508,
+      "lon": -67.265,
+      "place": "113 km N of San Antonio, Puerto Rico",
+      "time": "2026-11-14T07:39:11.520Z"
     },
     {
       "id": "ci41361879",
@@ -1072,663 +1693,6 @@
       "lon": -122.746,
       "place": "1 km NE of The Geysers, CA",
       "time": "2026-11-13T15:50:21.530Z"
-    },
-    {
-      "id": "aka2026wmwfky",
-      "magnitude": 0.5,
-      "depth": 1,
-      "lat": 60.5,
-      "lon": -152.662,
-      "place": "74 km NW of Ninilchik, Alaska",
-      "time": "2026-11-13T15:38:55.663Z"
-    },
-    {
-      "id": "nn00926962",
-      "magnitude": 3.4,
-      "depth": 6,
-      "lat": 38.979,
-      "lon": -115.304,
-      "place": "22 km WNW of Preston, Nevada",
-      "time": "2026-11-13T15:34:33.470Z"
-    },
-    {
-      "id": "ci41361711",
-      "magnitude": 1.4,
-      "depth": 4,
-      "lat": 35.934,
-      "lon": -117.713,
-      "place": "17 km E of Little Lake, CA",
-      "time": "2026-11-13T15:33:38.720Z"
-    },
-    {
-      "id": "nc75466117",
-      "magnitude": 1.7,
-      "depth": 0,
-      "lat": 39.414,
-      "lon": -120.145,
-      "place": "10 km NNE of Truckee, CA",
-      "time": "2026-11-13T15:32:13.610Z"
-    },
-    {
-      "id": "aka2026wmvprs",
-      "magnitude": 0.8,
-      "depth": 10,
-      "lat": 60.144,
-      "lon": -153.096,
-      "place": "68 km E of Port Alsworth, Alaska",
-      "time": "2026-11-13T15:20:29.693Z"
-    },
-    {
-      "id": "aka2026wmvnhg",
-      "magnitude": 1.7,
-      "depth": 9,
-      "lat": 62.275,
-      "lon": -149.89,
-      "place": "12 km ESE of Talkeetna, Alaska",
-      "time": "2026-11-13T15:17:41.377Z"
-    },
-    {
-      "id": "nn00926957",
-      "magnitude": 3.6,
-      "depth": 1,
-      "lat": 38.901,
-      "lon": -115.253,
-      "place": "16 km W of Preston, Nevada",
-      "time": "2026-11-13T15:10:28.133Z"
-    },
-    {
-      "id": "nc75466102",
-      "magnitude": 2.3,
-      "depth": 9,
-      "lat": 39.759,
-      "lon": -123.43,
-      "place": "9 km NNE of Laytonville, CA",
-      "time": "2026-11-13T15:08:27.690Z"
-    },
-    {
-      "id": "aka2026wmvdee",
-      "magnitude": 2,
-      "depth": 51,
-      "lat": 57.477,
-      "lon": -154.769,
-      "place": "21 km WSW of Karluk, Alaska",
-      "time": "2026-11-13T15:06:41.636Z"
-    },
-    {
-      "id": "aka2026wmvbcz",
-      "magnitude": 2.3,
-      "depth": 22,
-      "lat": 61.279,
-      "lon": -146.869,
-      "place": "32 km WNW of Valdez, Alaska",
-      "time": "2026-11-13T15:03:40.544Z"
-    },
-    {
-      "id": "aka2026wmupsi",
-      "magnitude": 0.4,
-      "depth": 5,
-      "lat": 60.043,
-      "lon": -153.063,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T14:50:30.668Z"
-    },
-    {
-      "id": "ci41361695",
-      "magnitude": 1.1,
-      "depth": 5,
-      "lat": 34.326,
-      "lon": -116.912,
-      "place": "9 km N of Big Bear Lake, CA",
-      "time": "2026-11-13T14:45:58.020Z"
-    },
-    {
-      "id": "ci41361687",
-      "magnitude": 0.5,
-      "depth": 6,
-      "lat": 34.104,
-      "lon": -117.427,
-      "place": "3 km ENE of Fontana, CA",
-      "time": "2026-11-13T14:25:18.440Z"
-    },
-    {
-      "id": "ci41361679",
-      "magnitude": 1.2,
-      "depth": 16,
-      "lat": 34.053,
-      "lon": -117.264,
-      "place": "1 km NNW of Loma Linda, CA",
-      "time": "2026-11-13T14:20:30.450Z"
-    },
-    {
-      "id": "us7000ty0s",
-      "magnitude": 5.2,
-      "depth": 10,
-      "lat": -36.443,
-      "lon": -97.978,
-      "place": "West Chile Rise",
-      "time": "2026-11-13T14:12:47.843Z"
-    },
-    {
-      "id": "aka2026wmsvmf",
-      "magnitude": 2.2,
-      "depth": 65,
-      "lat": 59.608,
-      "lon": -152.088,
-      "place": "23 km SW of Anchor Point, Alaska",
-      "time": "2026-11-13T13:57:10.826Z"
-    },
-    {
-      "id": "uu80164501",
-      "magnitude": 1.1,
-      "depth": 1,
-      "lat": 39.502,
-      "lon": -112.048,
-      "place": "17 km WSW of Levan, Utah",
-      "time": "2026-11-13T13:37:58.060Z"
-    },
-    {
-      "id": "aka2026wmrzhd",
-      "magnitude": 0.8,
-      "depth": 5,
-      "lat": 58.223,
-      "lon": -154.667,
-      "place": "73 km N of Karluk, Alaska",
-      "time": "2026-11-13T13:31:34.830Z"
-    },
-    {
-      "id": "uu80164496",
-      "magnitude": 0.2,
-      "depth": 3,
-      "lat": 38.51,
-      "lon": -112.922,
-      "place": "14 km NNE of Milford, Utah",
-      "time": "2026-11-13T13:26:35.510Z"
-    },
-    {
-      "id": "uw714138561",
-      "magnitude": 2,
-      "depth": 5,
-      "lat": 46.737,
-      "lon": -122.051,
-      "place": "2 km SSW of Ashford, Washington",
-      "time": "2026-11-13T13:22:46.830Z"
-    },
-    {
-      "id": "aka2026wmrewt",
-      "magnitude": 1.7,
-      "depth": 138,
-      "lat": 63.483,
-      "lon": -150.121,
-      "place": "59 km W of Cantwell, Alaska",
-      "time": "2026-11-13T13:08:02.668Z"
-    },
-    {
-      "id": "nc75466077",
-      "magnitude": 1.3,
-      "depth": 0,
-      "lat": 38.763,
-      "lon": -122.704,
-      "place": "2 km SW of Anderson Springs, CA",
-      "time": "2026-11-13T13:04:58.750Z"
-    },
-    {
-      "id": "aka2026wmqugb",
-      "magnitude": 2.4,
-      "depth": 15,
-      "lat": 55.887,
-      "lon": -157.667,
-      "place": "64 km SE of Chignik, Alaska",
-      "time": "2026-11-13T12:55:44.644Z"
-    },
-    {
-      "id": "aka2026wmqsxg",
-      "magnitude": 2,
-      "depth": 22,
-      "lat": 60.807,
-      "lon": -147.715,
-      "place": "52 km E of Whittier, Alaska",
-      "time": "2026-11-13T12:54:18.349Z"
-    },
-    {
-      "id": "tx2026wjawor",
-      "magnitude": 1.8,
-      "depth": 9,
-      "lat": 28.524,
-      "lon": -98.387,
-      "place": "17 km ENE of Tilden, Texas",
-      "time": "2026-11-13T12:46:25.817Z"
-    },
-    {
-      "id": "us7000ty0j",
-      "magnitude": 4.4,
-      "depth": 126,
-      "lat": -10.526,
-      "lon": -74.613,
-      "place": "52 km NE of Santa Rosa, Peru",
-      "time": "2026-11-13T12:37:49.644Z"
-    },
-    {
-      "id": "av94498198",
-      "magnitude": 0.5,
-      "depth": 26,
-      "lat": 58.383,
-      "lon": -155.164,
-      "place": "93 km ESE of King Salmon, Alaska",
-      "time": "2026-11-13T12:33:51.020Z"
-    },
-    {
-      "id": "hv75070037",
-      "magnitude": 2,
-      "depth": 29,
-      "lat": 19.26,
-      "lon": -155.415,
-      "place": "9 km NE of Pāhala, Hawaii",
-      "time": "2026-11-13T12:32:45.500Z"
-    },
-    {
-      "id": "av94498193",
-      "magnitude": 1.1,
-      "depth": 0,
-      "lat": 52.779,
-      "lon": -169.935,
-      "place": "74 km WSW of Nikolski, Alaska",
-      "time": "2026-11-13T12:29:49.890Z"
-    },
-    {
-      "id": "av94498188",
-      "magnitude": 0.3,
-      "depth": -3,
-      "lat": 60.031,
-      "lon": -153.069,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T12:20:17.470Z"
-    },
-    {
-      "id": "us7000ty0g",
-      "magnitude": 4.4,
-      "depth": 79,
-      "lat": 7.395,
-      "lon": 126.686,
-      "place": "12 km ESE of Baculin, Philippines",
-      "time": "2026-11-13T12:12:57.241Z"
-    },
-    {
-      "id": "aka2026wmpilf",
-      "magnitude": 0.5,
-      "depth": 51,
-      "lat": 60.475,
-      "lon": -152.52,
-      "place": "66 km NW of Ninilchik, Alaska",
-      "time": "2026-11-13T12:12:10.935Z"
-    },
-    {
-      "id": "uu80164486",
-      "magnitude": 1.8,
-      "depth": 13,
-      "lat": 44.763,
-      "lon": -111.194,
-      "place": "0 km SSW of Hebgen Lake Estates, Montana",
-      "time": "2026-11-13T11:37:43.710Z"
-    },
-    {
-      "id": "uu80164481",
-      "magnitude": 1.2,
-      "depth": 12,
-      "lat": 44.757,
-      "lon": -111.194,
-      "place": "1 km SSW of Hebgen Lake Estates, Montana",
-      "time": "2026-11-13T11:36:39.310Z"
-    },
-    {
-      "id": "ci41361671",
-      "magnitude": 1.2,
-      "depth": 9,
-      "lat": 33.028,
-      "lon": -116.415,
-      "place": "18 km ESE of Julian, CA",
-      "time": "2026-11-13T11:35:56.710Z"
-    },
-    {
-      "id": "aka2026wmnxrq",
-      "magnitude": 1.8,
-      "depth": 16,
-      "lat": 61.069,
-      "lon": -150.752,
-      "place": "16 km NNW of Point Possession, Alaska",
-      "time": "2026-11-13T11:29:49.393Z"
-    },
-    {
-      "id": "av94498118",
-      "magnitude": 0.1,
-      "depth": 1,
-      "lat": 60.039,
-      "lon": -153.075,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T11:25:47.120Z"
-    },
-    {
-      "id": "av94498113",
-      "magnitude": -0.4,
-      "depth": 9,
-      "lat": 60.074,
-      "lon": -153.08,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T11:22:03.920Z"
-    },
-    {
-      "id": "av94498108",
-      "magnitude": -0.2,
-      "depth": 3,
-      "lat": 60.045,
-      "lon": -153.077,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T11:21:29.140Z"
-    },
-    {
-      "id": "ci41361663",
-      "magnitude": 0.5,
-      "depth": 15,
-      "lat": 33.76,
-      "lon": -116.933,
-      "place": "4 km SE of San Jacinto, CA",
-      "time": "2026-11-13T11:21:10.980Z"
-    },
-    {
-      "id": "ci10260566",
-      "magnitude": 0.2,
-      "depth": 11,
-      "lat": 33.061,
-      "lon": -116.555,
-      "place": "5 km ESE of Julian, CA",
-      "time": "2026-11-13T11:21:10.760Z"
-    },
-    {
-      "id": "aka2026wmnpns",
-      "magnitude": 1.9,
-      "depth": 131,
-      "lat": 60.377,
-      "lon": -152.895,
-      "place": "77 km WNW of Ninilchik, Alaska",
-      "time": "2026-11-13T11:20:14.809Z"
-    },
-    {
-      "id": "av94498093",
-      "magnitude": -0.6,
-      "depth": 0,
-      "lat": 60.034,
-      "lon": -153.083,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T11:20:10.170Z"
-    },
-    {
-      "id": "us7000txzd",
-      "magnitude": 4.8,
-      "depth": 163,
-      "lat": -21.304,
-      "lon": -175.854,
-      "place": "59 km WSW of Houma, Tonga",
-      "time": "2026-11-13T11:18:12.734Z"
-    },
-    {
-      "id": "uu80164476",
-      "magnitude": 1,
-      "depth": 2,
-      "lat": 38.482,
-      "lon": -112.877,
-      "place": "15 km NE of Milford, Utah",
-      "time": "2026-11-13T11:17:15.300Z"
-    },
-    {
-      "id": "av94498083",
-      "magnitude": -0.2,
-      "depth": 3,
-      "lat": 60.082,
-      "lon": -153.027,
-      "place": "68 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T11:15:18.430Z"
-    },
-    {
-      "id": "tx2026wixunq",
-      "magnitude": 1.8,
-      "depth": 7,
-      "lat": 31.616,
-      "lon": -103.979,
-      "place": "37 km WSW of Mentone, Texas",
-      "time": "2026-11-13T11:13:36.359Z"
-    },
-    {
-      "id": "ci41361655",
-      "magnitude": 0.7,
-      "depth": 7,
-      "lat": 33.414,
-      "lon": -116.643,
-      "place": "15 km N of Warner Springs, CA",
-      "time": "2026-11-13T11:07:51.930Z"
-    },
-    {
-      "id": "aka2026wmnegi",
-      "magnitude": 2.6,
-      "depth": 5,
-      "lat": 56.034,
-      "lon": -156.334,
-      "place": "131 km ESE of Chignik, Alaska",
-      "time": "2026-11-13T11:07:18.054Z"
-    },
-    {
-      "id": "av94498063",
-      "magnitude": -0.6,
-      "depth": 3,
-      "lat": 60.058,
-      "lon": -153.078,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T11:06:32.820Z"
-    },
-    {
-      "id": "us7000txza",
-      "magnitude": 4.5,
-      "depth": 10,
-      "lat": -4.523,
-      "lon": -75.327,
-      "place": "86 km NNE of Lagunas, Peru",
-      "time": "2026-11-13T10:55:12.777Z"
-    },
-    {
-      "id": "tx2026wiwqjw",
-      "magnitude": 2.3,
-      "depth": 6,
-      "lat": 31.661,
-      "lon": -104.463,
-      "place": "57 km S of Whites City, New Mexico",
-      "time": "2026-11-13T10:38:33.951Z"
-    },
-    {
-      "id": "us7000txz8",
-      "magnitude": 4.4,
-      "depth": 132,
-      "lat": -9.132,
-      "lon": -74.284,
-      "place": "51 km ESE of Tournavista, Peru",
-      "time": "2026-11-13T10:32:05.619Z"
-    },
-    {
-      "id": "av93069439",
-      "magnitude": -0.8,
-      "depth": 2,
-      "lat": 60.06,
-      "lon": -153.063,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T10:31:39.660Z"
-    },
-    {
-      "id": "aka2026wmlydn",
-      "magnitude": 0.9,
-      "depth": 5,
-      "lat": 61.225,
-      "lon": -147.632,
-      "place": "64 km S of Glacier View, Alaska",
-      "time": "2026-11-13T10:30:20.747Z"
-    },
-    {
-      "id": "av94498018",
-      "magnitude": -0.6,
-      "depth": 2,
-      "lat": 60.048,
-      "lon": -153.076,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T10:28:17.810Z"
-    },
-    {
-      "id": "av94497998",
-      "magnitude": -0.5,
-      "depth": 2,
-      "lat": 60.047,
-      "lon": -153.046,
-      "place": "65 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T10:18:50.180Z"
-    },
-    {
-      "id": "ci41361647",
-      "magnitude": 1,
-      "depth": 7,
-      "lat": 35.594,
-      "lon": -117.403,
-      "place": "19 km S of Trona, CA",
-      "time": "2026-11-13T10:18:46.000Z"
-    },
-    {
-      "id": "nc75466072",
-      "magnitude": 1.2,
-      "depth": 1,
-      "lat": 38.811,
-      "lon": -122.737,
-      "place": "2 km SW of Cobb, CA",
-      "time": "2026-11-13T10:17:50.170Z"
-    },
-    {
-      "id": "us7000txz7",
-      "magnitude": 4.4,
-      "depth": 10,
-      "lat": 36.205,
-      "lon": 68.388,
-      "place": "29 km WNW of Baghlān, Afghanistan",
-      "time": "2026-11-13T10:17:19.293Z"
-    },
-    {
-      "id": "av94497993",
-      "magnitude": -0.6,
-      "depth": -3,
-      "lat": 60.035,
-      "lon": -153.093,
-      "place": "63 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T10:15:57.430Z"
-    },
-    {
-      "id": "aka2026wmljju",
-      "magnitude": 1.9,
-      "depth": 70,
-      "lat": 59.151,
-      "lon": -152.832,
-      "place": "56 km WSW of Nanwalek, Alaska",
-      "time": "2026-11-13T10:13:20.528Z"
-    },
-    {
-      "id": "av94497973",
-      "magnitude": -0.8,
-      "depth": 2,
-      "lat": 60.043,
-      "lon": -153.072,
-      "place": "64 km ENE of Pedro Bay, Alaska",
-      "time": "2026-11-13T10:09:53.210Z"
-    },
-    {
-      "id": "us7000txz5",
-      "magnitude": 4.1,
-      "depth": 10,
-      "lat": 36.058,
-      "lon": 70.241,
-      "place": "66 km SSE of Farkhār, Afghanistan",
-      "time": "2026-11-13T10:07:36.127Z"
-    },
-    {
-      "id": "us7000txz3",
-      "magnitude": 4.9,
-      "depth": 10,
-      "lat": -22.373,
-      "lon": 173.449,
-      "place": "southeast of the Loyalty Islands",
-      "time": "2026-11-13T09:55:45.053Z"
-    },
-    {
-      "id": "tx2026wivecv",
-      "magnitude": 2.5,
-      "depth": 6,
-      "lat": 31.653,
-      "lon": -104.469,
-      "place": "58 km S of Whites City, New Mexico",
-      "time": "2026-11-13T09:54:08.807Z"
-    },
-    {
-      "id": "ci41361639",
-      "magnitude": 0.6,
-      "depth": 9,
-      "lat": 33.026,
-      "lon": -116.416,
-      "place": "18 km ESE of Julian, CA",
-      "time": "2026-11-13T09:50:08.660Z"
-    },
-    {
-      "id": "aka2026wmkmus",
-      "magnitude": 3.3,
-      "depth": 61,
-      "lat": 60.651,
-      "lon": -151.123,
-      "place": "10 km ESE of Nikiski, Alaska",
-      "time": "2026-11-13T09:47:19.137Z"
-    },
-    {
-      "id": "us7000txz0",
-      "magnitude": 4.6,
-      "depth": 10,
-      "lat": 8.214,
-      "lon": 127.204,
-      "place": "84 km E of Barcelona, Philippines",
-      "time": "2026-11-13T09:40:47.087Z"
-    },
-    {
-      "id": "aka2026wmkcxq",
-      "magnitude": 0.3,
-      "depth": 1,
-      "lat": 60.487,
-      "lon": -152.779,
-      "place": "78 km NW of Ninilchik, Alaska",
-      "time": "2026-11-13T09:35:52.866Z"
-    },
-    {
-      "id": "aka2026wmjztg",
-      "magnitude": 1.7,
-      "depth": 67,
-      "lat": 60.944,
-      "lon": -151.311,
-      "place": "16 km SW of Tyonek, Alaska",
-      "time": "2026-11-13T09:32:14.072Z"
-    },
-    {
-      "id": "aka2026wmjvpg",
-      "magnitude": 2.4,
-      "depth": 0,
-      "lat": 60.034,
-      "lon": -140.977,
-      "place": "88 km NW of Yakutat, Alaska",
-      "time": "2026-11-13T09:27:24.793Z"
-    },
-    {
-      "id": "nc75466062",
-      "magnitude": 1.3,
-      "depth": 1,
-      "lat": 38.828,
-      "lon": -122.81,
-      "place": "7 km NW of The Geysers, CA",
-      "time": "2026-11-13T09:18:01.810Z"
     }
   ]
 }
